@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/Inter.ttf');
+}
+
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('./assets/fonts/BebasNeue.ttf');
+}
+
+html {
+  font-family: 'Inter';
+  font-weight: 400;
+  color: var(--color-primary);
+}
+
+body {
+  background: var(--color-background);
+}
+
+:root {
+  --color-primary: #efe3d8;
+  --color-primaryBg: #7e544b;
+
+  --color-background: #000000;
+}
