@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'Inter';
-  src: url('./assets/fonts/Inter.ttf');
+  src: url('./assets/fonts/Inter-Regular.ttf');
 }
 
 @font-face {
@@ -25,6 +25,5 @@ body {
 :root {
   --color-primary: #efe3d8;
   --color-primaryBg: #7e544b;
-
   --color-background: #000000;
 }
