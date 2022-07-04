@@ -3,15 +3,31 @@ import { useMemo } from 'react';
 import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
 
-import bg_sky from 'assets/images/landing/header/bg-sky.jpg';
-import bg_planets from 'assets/images/landing/header/bg-planets.png';
-import bg_clouds from 'assets/images/landing/header/bg-clouds.png';
-import bg_rocks from 'assets/images/landing/header/bg-rocks.png';
-import bg_town from 'assets/images/landing/header/bg-town.png';
-import bg_house from 'assets/images/landing/header/bg-house.png';
-import bg_bushes from 'assets/images/landing/header/bg-bushes.png';
-import bg_constellation from 'assets/images/landing/header/bg-constellation.png';
-import bg_mobile from 'assets/images/landing/header/bg-mobile.jpg';
+import bg_full from 'assets/images/landing/header/bg-full.jpg';
+
+import bg_house_high from 'assets/images/landing/header/bg-house@2x.webp';
+import bg_house_mid from 'assets/images/landing/header/bg-house@1.5x.webp';
+import bg_house_low from 'assets/images/landing/header/bg-house.webp';
+
+import bg_town_high from 'assets/images/landing/header/bg-town@2x.webp';
+import bg_town_mid from 'assets/images/landing/header/bg-town@1.5x.webp';
+import bg_town_low from 'assets/images/landing/header/bg-town.webp';
+
+import bg_rocks_high from 'assets/images/landing/header/bg-rocks@2x.webp';
+import bg_rocks_mid from 'assets/images/landing/header/bg-rocks@1.5x.webp';
+import bg_rocks_low from 'assets/images/landing/header/bg-rocks.webp';
+
+import bg_clouds_high from 'assets/images/landing/header/bg-clouds@2x.webp';
+import bg_clouds_mid from 'assets/images/landing/header/bg-clouds@1.5x.webp';
+import bg_clouds_low from 'assets/images/landing/header/bg-clouds.webp';
+
+import bg_planets_high from 'assets/images/landing/header/bg-planets@2x.webp';
+import bg_planets_mid from 'assets/images/landing/header/bg-planets@1.5x.webp';
+import bg_planets_low from 'assets/images/landing/header/bg-planets.webp';
+
+import bg_sky_high from 'assets/images/landing/header/bg-sky@2x.webp';
+import bg_sky_mid from 'assets/images/landing/header/bg-sky@1.5x.webp';
+import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
 
 const BecomePart = () => {
   return (
@@ -50,44 +66,89 @@ const BecomePartDescription = () => {
   );
 };
 
-const TopDesktop = () => {
+const minWidthHigh = '(min-width: 2561px)';
+const minWidthMid = '(min-width: 1921px)';
+const minWidthLow = '(min-width: 768px)';
+const baseWidth = 1920;
+
+type PictureProps = {
+  highQ: string;
+  midQ: string;
+  lowQ: string;
+  default?: string | undefined;
+};
+
+const Picture = (props: PictureProps) => {
+  return (
+    <picture>
+      <source srcSet={props.highQ} media={minWidthHigh} width={baseWidth * 2} />
+      <source srcSet={props.midQ} media={minWidthMid} width={baseWidth * 1.5} />
+      <source srcSet={props.lowQ} media={minWidthLow} width={baseWidth} />
+      <source srcSet={props.default} />
+      <img src={props.default} alt='' />
+    </picture>
+  );
+};
+
+const LandingHeader = () => {
   const layers = useMemo<BannerLayer[]>(
     () => [
       {
-        image: bg_sky,
+        children: (
+          <Picture lowQ={bg_sky_low} midQ={bg_sky_mid} highQ={bg_sky_high} />
+        ),
         translateY: [-16, 26],
         expanded: false,
       },
       {
-        image: bg_planets,
+        children: (
+          <Picture
+            lowQ={bg_planets_low}
+            midQ={bg_planets_mid}
+            highQ={bg_planets_high}
+          />
+        ),
         translateY: [-12, 25],
         expanded: false,
       },
       {
-        image: bg_clouds,
+        children: (
+          <Picture
+            lowQ={bg_clouds_low}
+            midQ={bg_clouds_mid}
+            highQ={bg_clouds_high}
+          />
+        ),
         translateY: [-8, 18],
         expanded: false,
       },
       {
-        image: bg_rocks,
+        children: (
+          <Picture
+            lowQ={bg_rocks_low}
+            midQ={bg_rocks_mid}
+            highQ={bg_rocks_high}
+          />
+        ),
         translateY: [-12, 15],
         expanded: false,
       },
       {
-        image: bg_town,
+        children: (
+          <Picture lowQ={bg_town_low} midQ={bg_town_mid} highQ={bg_town_high} />
+        ),
         translateY: [-10, 4],
         expanded: false,
       },
       {
-        image: bg_house,
-        expanded: false,
-      },
-      {
-        image: bg_bushes,
-        expanded: false,
-      },
-      {
-        image: bg_constellation,
+        children: (
+          <Picture
+            lowQ={bg_house_low}
+            midQ={bg_house_mid}
+            highQ={bg_house_high}
+            default={bg_full}
+          />
+        ),
         expanded: false,
       },
     ],
@@ -95,47 +156,25 @@ const TopDesktop = () => {
   );
 
   return (
-    <div className='hidden md:block'>
+    <div>
       <div className='relative'>
         <ParallaxBanner style={{ aspectRatio: '0.779' }} layers={layers} />
 
-        <div className='hidden 3xl:block absolute top-0 bottom-0 -left-1 bg-gradient-to-r from-black w-8'></div>
-        <div className='hidden 3xl:block absolute top-0 bottom-0 -right-1 bg-gradient-to-l from-black w-8'></div>
         <div className='absolute -bottom-1 bg-gradient-to-t from-black w-full h-24'></div>
 
-        <div className='absolute inset-0 top-1/3'>
+        <div className='hidden md:block absolute inset-0 top-1/3'>
           <BecomePart />
         </div>
       </div>
 
-      <div className='translate-y-0 -mt-20 lg:-mt-36 mb-20'>
+      <div className='hidden md:block translate-y-0 -mt-20 lg:-mt-36 mb-20'>
         <BecomePartDescription />
       </div>
-    </div>
-  );
-};
 
-const TopMobile = () => {
-  return (
-    <div className='md:hidden'>
-      <div className='relative'>
-        <img src={bg_mobile} alt='' />
-        <div className='absolute -bottom-1 bg-gradient-to-t from-black w-full h-24'></div>
-      </div>
-
-      <div className='mt-5 mb-20 flex flex-col gap-8'>
+      <div className='md:hidden mt-5 mb-20 flex flex-col gap-8'>
         <BecomePart />
         <BecomePartDescription />
       </div>
-    </div>
-  );
-};
-
-const LandingHeader = () => {
-  return (
-    <div className='relative'>
-      <TopMobile />
-      <TopDesktop />
     </div>
   );
 };

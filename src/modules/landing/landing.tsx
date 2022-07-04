@@ -4,7 +4,7 @@ import LandingHeader from './components/header';
 const LandingPage = () => {
   return (
     <ParallaxProvider>
-      <div className='max-w-screen-3xl mx-auto'>
+      <div className='max-w-screen-4k mx-auto'>
         <LandingHeader />
       </div>
     </ParallaxProvider>
