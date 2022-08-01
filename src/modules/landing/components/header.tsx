@@ -34,10 +34,10 @@ const aspectRatio = (3840 / 4925).toString();
 const BecomePart = () => {
   return (
     <div className='flex flex-col gap-2 text-center px-4'>
-      <h1 className='font-header text-5xl md:text-7xl'>
+      <h1 className='font-header text-5xl sm:text-6xl md:text-8xl lg:text-9xl'>
         Become part of Broxus
       </h1>
-      <span className='hidden md:inline text-xs md:text-base opacity-50'>
+      <span className='hidden sm:inline text-xs sm:text-xl opacity-50'>
         Scroll for membership
       </span>
     </div>
@@ -46,7 +46,7 @@ const BecomePart = () => {
 
 const BecomePartDescription = () => {
   return (
-    <div className='max-w-xs md:max-w-xl mx-auto text-center text-lg flex flex-col gap-5'>
+    <div className='max-w-xs sm:max-w-xl mx-auto text-center text-lg flex flex-col gap-5'>
       <span>
         Broxie is literally the existing world of hard workers from Broxus. They
         create, work and brainstorm every day, contributing to the development
@@ -154,16 +154,16 @@ const LandingHeader = () => {
 
         <div className='absolute -bottom-1 bg-gradient-to-t from-black w-full h-24' />
 
-        <div className='hidden md:block absolute inset-0 top-1/3'>
+        <div className='hidden sm:block absolute inset-0 top-1/3'>
           <BecomePart />
         </div>
       </div>
 
-      <div className='hidden md:block translate-y-0 -mt-20 lg:-mt-36 mb-20'>
+      <div className='hidden sm:block translate-y-0 -mt-20 lg:-mt-36 mb-20'>
         <BecomePartDescription />
       </div>
 
-      <div className='md:hidden mt-5 mb-20 flex flex-col gap-8'>
+      <div className='sm:hidden mt-5 mb-20 flex flex-col gap-8'>
         <BecomePart />
         <BecomePartDescription />
       </div>

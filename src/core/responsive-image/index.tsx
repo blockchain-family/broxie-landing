@@ -1,6 +1,6 @@
 const minWidthHigh = '(min-width: 2561px)';
 const minWidthMid = '(min-width: 1921px)';
-const minWidthLow = '(min-width: 768px)';
+const minWidthLow = '(min-width: 641px)';
 
 type ImageProps = {
   highQ: string;

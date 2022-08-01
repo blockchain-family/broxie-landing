@@ -20,7 +20,7 @@ const Button = ({
 
   return (
     <button
-      className={`px-3 py-2 md:px-8 md:py-4 text-base rounded-2xl ${bgClass}`}
+      className={`px-3 py-2 sm:px-8 sm:py-4 text-base rounded-2xl ${bgClass}`}
       onClick={onClick}
     >
       {children}
