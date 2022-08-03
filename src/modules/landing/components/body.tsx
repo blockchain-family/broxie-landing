@@ -11,7 +11,7 @@ const LandingBody = () => {
       <Container size='sm' className='flex flex-col gap-5'>
         <div className='flex flex-col gap-5 items-center text-center'>
           <span className='text-4xl sm:text-6xl font-header'>
-            Lives on Ethereum Blockchain and hosted on IPFS
+            Lives on Everscale Blockchain
           </span>
           <Link to='/proof' className='text-xl text-link underline uppercase'>
             Record and proof
@@ -56,6 +56,9 @@ const LandingBody = () => {
           </span>
         </div>
       </Container>
+
+      {/* TODO:temp */}
+      <div className='mb-6' />
 
       {/* <div className='mx-auto'>
         <UtilitySvg className='w-[18rem] sm:w-[53rem] h-auto' />
