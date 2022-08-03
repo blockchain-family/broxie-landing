@@ -25,5 +25,8 @@ body {
 :root {
   --color-primary: #efe3d8;
   --color-primaryBg: #7e544b;
+  --color-secondaryBg: #181816;
+  --color-link: rgba(126, 84, 75, 1);
+  --color-black: #000000;
   --color-background: #000000;
 }

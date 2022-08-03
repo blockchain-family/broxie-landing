@@ -28,6 +28,7 @@ import bg_planets_low from 'assets/images/landing/header/bg-planets.webp';
 import bg_sky_high from 'assets/images/landing/header/bg-sky@2x.webp';
 import bg_sky_mid from 'assets/images/landing/header/bg-sky@1.5x.webp';
 import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
+import Container from 'components/core/container';
 
 const aspectRatio = (3840 / 4925).toString();
 
@@ -46,7 +47,7 @@ const BecomePart = () => {
 
 const BecomePartDescription = () => {
   return (
-    <div className='max-w-xs sm:max-w-xl mx-auto text-center text-lg flex flex-col gap-5'>
+    <Container size='sm' className='text-center text-lg flex flex-col gap-5'>
       <span>
         Broxie is literally the existing world of hard workers from Broxus. They
         create, work and brainstorm every day, contributing to the development
@@ -64,7 +65,7 @@ const BecomePartDescription = () => {
         For our friends, we present a collection of 2000 unique digital
         portraits living in the friendliest atmosphere.
       </span>
-    </div>
+    </Container>
   );
 };
 
@@ -159,11 +160,11 @@ const LandingHeader = () => {
         </div>
       </div>
 
-      <div className='hidden sm:block translate-y-0 -mt-20 lg:-mt-36 mb-20'>
+      <div className='hidden sm:block translate-y-0 -mt-20 lg:-mt-36 mb-24'>
         <BecomePartDescription />
       </div>
 
-      <div className='sm:hidden mt-5 mb-20 flex flex-col gap-8'>
+      <div className='sm:hidden mt-5 mb-16 flex flex-col gap-8'>
         <BecomePart />
         <BecomePartDescription />
       </div>
