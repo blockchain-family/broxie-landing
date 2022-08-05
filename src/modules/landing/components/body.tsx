@@ -1,9 +1,9 @@
-// import { ReactComponent as UtilitySvg } from 'assets/images/landing/utility.svg';
+import { Link } from 'react-router-dom';
 import Container from 'components/core/container';
 import NftPriceProgress from './nft-price-progress';
-import { Link } from 'react-router-dom';
 import Button from 'components/core/button/button';
 import NftGalleryPreview from './nft-gallery-preview';
+import UtilityButton from './utility-button';
 
 const LandingBody = () => {
   return (
@@ -13,7 +13,7 @@ const LandingBody = () => {
           <span className='text-4xl sm:text-6xl font-header'>
             Lives on Everscale Blockchain
           </span>
-          <Link to='/proof' className='text-xl text-link underline uppercase'>
+          <Link to='/record' className='text-xl text-link underline uppercase'>
             Record and proof
           </Link>
         </div>
@@ -57,12 +57,7 @@ const LandingBody = () => {
         </div>
       </Container>
 
-      {/* TODO:temp */}
-      <div className='mb-6' />
-
-      {/* <div className='mx-auto'>
-        <UtilitySvg className='w-[18rem] sm:w-[53rem] h-auto' />
-      </div> */}
+      <UtilityButton />
     </div>
   );
 };
