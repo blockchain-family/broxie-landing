@@ -47,7 +47,7 @@ const BecomePart = () => {
 
 const BecomePartDescription = () => {
   return (
-    <Container size='sm' className='text-center text-lg flex flex-col gap-5'>
+    <Container size='sm' className='text-center text-lg flex flex-col gap-8'>
       <span>
         Broxie is literally the existing world of hard workers from Broxus. They
         create, work and brainstorm every day, contributing to the development

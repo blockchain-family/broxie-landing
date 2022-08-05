@@ -38,7 +38,7 @@ const LandingBody = () => {
       </div>
 
       <Container size='sm' className='flex flex-col gap-5'>
-        <div className='flex flex-col gap-5 items-center text-center text-lg'>
+        <div className='flex flex-col gap-8 items-center text-center text-lg'>
           <span className='text-4xl sm:text-6xl font-header'>
             Become part of Broxus
           </span>
