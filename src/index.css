@@ -20,6 +20,8 @@ html {
 
 body {
   background: var(--color-background);
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
 }
 
 :root {
