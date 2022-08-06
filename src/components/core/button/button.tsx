@@ -5,14 +5,18 @@ const Button = ({
   children,
   onClick,
 }: {
-  variant: 'primary';
+  variant: 'primary' | 'secondary' | 'tertiary';
   children?: string | JSX.Element | JSX.Element[];
   onClick?: () => void;
 }) => {
   const bgClass = useMemo(() => {
     switch (variant) {
       case 'primary':
-        return 'bg-primaryBg';
+        return 'bg-primaryBg hover:bg-hoverBg hover:text-hover';
+      case 'secondary':
+        return 'bg-secondaryBg hover:bg-hoverBg hover:text-hover';
+      case 'tertiary':
+        return 'bg-transparent border border-hoverBg hover:bg-hoverBg hover:text-hover';
       default:
         return undefined;
     }

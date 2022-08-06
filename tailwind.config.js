@@ -6,8 +6,11 @@ module.exports = {
       primary: 'var(--color-primary)',
       primaryBg: 'var(--color-primaryBg)',
       secondaryBg: 'var(--color-secondaryBg)',
+      hoverBg: 'var(--color-hoverBg)',
+      hover: 'var(--color-hover)',
       link: 'var(--color-link)',
       black: 'var(--color-black)',
+      transparent: 'transparent',
     },
     extend: {
       screens: {

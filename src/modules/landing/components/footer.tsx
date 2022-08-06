@@ -1,8 +1,6 @@
-import { useCallback, useMemo } from 'react';
+import { useMemo } from 'react';
 import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
-
-import { ReactComponent as BroxieSvg } from 'assets/images/broxie.svg';
 
 import Container from 'components/core/container';
 import ResponsiveImage from 'core/responsive-image';
@@ -30,15 +28,10 @@ import bg_sky_mid from 'assets/images/landing/footer/bg-sky@1.5x.webp';
 import bg_sky_low from 'assets/images/landing/footer/bg-sky.webp';
 
 import imageCut from 'assets/images/landing/footer/image-cut.svg';
-import SocialButtons from './social-buttons';
 
 const aspectRatio = (3840 / 4748).toString();
 
 const LandingFooter = () => {
-  const goUpClick = useCallback(() => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }, []);
-
   const layers = useMemo<BannerLayer[]>(
     () => [
       {
@@ -155,19 +148,6 @@ const LandingFooter = () => {
           </span>
         </div>
       </Container>
-
-      <SocialButtons />
-
-      <div className='mx-auto flex flex-col gap-5 text-center mb-10'>
-        <BroxieSvg className='w-48 md:w-96 h-auto' />
-
-        <span
-          className='uppercase underline cursor-pointer'
-          onClick={goUpClick}
-        >
-          Tap to go up
-        </span>
-      </div>
     </div>
   );
 };

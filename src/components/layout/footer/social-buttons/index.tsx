@@ -3,7 +3,7 @@ import { ReactComponent as MainBgSvg } from 'assets/images/landing/footer/social
 const links = [
   'https://twitter.com',
   'https://discord.com',
-  'https://telegram.com',
+  'https://telegram.org',
   'https://instagram.com',
 ];
 

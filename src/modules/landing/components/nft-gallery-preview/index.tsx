@@ -1,4 +1,4 @@
-import placeholderSrc from 'assets/images/landing/nft-placeholder.png';
+import placeholderSrc from 'assets/images/nft-placeholder.png';
 
 const testData = [
   {
@@ -31,17 +31,13 @@ const testData = [
 const NftGalleryPreview = () => {
   return (
     <div className='h-[20rem] sm:h-[24rem] w-full relative overflow-hidden'>
-      <div className='absolute left-0 right-0 flex gap-10 items-start justify-center'>
-        {testData.map((x, i) => (
+      <div className='absolute left-0 right-0 flex gap-6 items-start justify-center'>
+        {testData.map((x) => (
           <div
-            key={i}
-            className='flex flex-col even:mt-16 gap-2 bg-secondaryBg rounded-xl p-2 shrink-0'
+            key={x.name}
+            className='flex flex-col gap-2 bg-secondaryBg rounded-xl p-2 sm:p-3 shrink-0 max-w-[10rem] sm:max-w-[14rem] even:mt-16'
           >
-            <img
-              className='w-40 sm:w-56 h-auto rounded-xl'
-              src={x.src}
-              alt=''
-            />
+            <img className='w-full h-auto rounded-xl' src={x.src} alt='' />
 
             <div className='flex flex-col gap-2 my-2 text-center'>
               <span>{x.name}</span>
