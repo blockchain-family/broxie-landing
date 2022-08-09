@@ -1,10 +1,10 @@
 import { ReactComponent as MainBgSvg } from 'assets/images/landing/footer/social-buttons-bg.svg';
 
 const links = [
-  'https://twitter.com',
-  'https://discord.com',
-  'https://telegram.org',
-  'https://instagram.com',
+  'https://twitter.com/BroxieNFT',
+  'https://discord.gg/6dryaZQNmC',
+  'https://t.me/broxie_news',
+  'https://instagram.com/broxie_nft',
 ];
 
 const SocialButtons = () => {
