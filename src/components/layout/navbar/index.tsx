@@ -13,12 +13,11 @@ const Navbar = () => {
         </div>
 
         <div className='flex items-center gap-4 sm:gap-8'>
-          <NavLink to='/' className='no-underline'>
-            Home
-          </NavLink>
-          <NavLink to='/gallery' className='no-underline'>
+          <NavLink to='/'>Home</NavLink>
+          <span className='cursor-pointer'>FAQ</span>
+          {/* <NavLink to='/gallery'>
             Gallery
-          </NavLink>
+          </NavLink> */}
 
           <Button variant='primary'>My Wallet</Button>
         </div>
