@@ -1,32 +1,32 @@
-import nft1 from 'assets/images/landing/body/nft1.png';
-import nft2 from 'assets/images/landing/body/nft2.png';
-import nft3 from 'assets/images/landing/body/nft3.png';
-import nft4 from 'assets/images/landing/body/nft4.png';
-import nft5 from 'assets/images/landing/body/nft5.png';
+import nft1 from 'assets/images/landing/body/nft1.jpg';
+import nft2 from 'assets/images/landing/body/nft2.jpg';
+import nft3 from 'assets/images/landing/body/nft3.jpg';
+import nft4 from 'assets/images/landing/body/nft4.jpg';
+import nft5 from 'assets/images/landing/body/nft5.jpg';
 
 const testData = [
   {
-    name: 'Broxie #1',
+    name: 'King Everscale',
     src: nft1,
     price: 77.7,
   },
   {
-    name: 'Broxie #2',
+    name: 'Mexican',
     src: nft2,
     price: 77.7,
   },
   {
-    name: 'Broxie #3',
+    name: 'Rap Star',
     src: nft3,
     price: 77.7,
   },
   {
-    name: 'Broxie #4',
+    name: 'Medieval',
     src: nft4,
     price: 77.7,
   },
   {
-    name: 'Broxie #5',
+    name: 'Space Vampire',
     src: nft5,
     price: 77.7,
   },
