@@ -1,9 +1,8 @@
 import { useCallback, useEffect, useState } from 'react';
-import { breakpointMidQ, breakpointLowQ } from 'utils/responsiveness';
+import { breakpointLowQ } from 'utils/responsiveness';
 
 type VideoProps = {
-  midQ: string;
-  lowQ: string;
+  videoUrl: string;
   mobileImg?: string | undefined;
 };
 
@@ -11,16 +10,12 @@ const ResponsiveVideo = (props: VideoProps) => {
   const getVideoSrc = useCallback(() => {
     const scrWidth = window.innerWidth;
 
-    if (scrWidth >= breakpointMidQ) {
-      return props.midQ;
-    }
-
     if (scrWidth >= breakpointLowQ) {
-      return props.lowQ;
+      return props.videoUrl;
     }
 
     return undefined;
-  }, [props.lowQ, props.midQ]);
+  }, [props.videoUrl]);
 
   const [videoSrc, setVideoSrc] = useState(getVideoSrc());
 

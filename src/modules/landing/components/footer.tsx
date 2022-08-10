@@ -1,9 +1,7 @@
 import Container from 'components/core/container';
 import ResponsiveVideo from 'components/core/responsive-video';
 
-import bg_full_low from 'assets/images/landing/footer/bg-full-1920-VP9.webm';
-import bg_full_mid from 'assets/images/landing/footer/bg-full-2880-VP9.webm';
-
+import bg_full from 'assets/images/landing/footer/bg-full-1920.mp4';
 import bg_full_fallback from 'assets/images/landing/footer/bg-full.jpg';
 
 import imageCut from 'assets/images/landing/footer/image-cut.svg';
@@ -12,11 +10,7 @@ const LandingFooter = () => {
   return (
     <div className='flex flex-col gap-10'>
       <div className='relative'>
-        <ResponsiveVideo
-          lowQ={bg_full_low}
-          midQ={bg_full_mid}
-          mobileImg={bg_full_fallback}
-        />
+        <ResponsiveVideo videoUrl={bg_full} mobileImg={bg_full_fallback} />
 
         <div className='absolute -top-1 bg-gradient-to-b from-black w-full h-12' />
 
