@@ -1,6 +1,10 @@
 import { useMemo } from 'react';
+import { useMediaQuery } from 'react-responsive';
+import { mobileBreakpoint } from 'utils/responsiveness';
 import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
+
+import Container from 'components/core/container';
 import ResponsiveImage from 'components/core/responsive-image';
 
 import bg_full from 'assets/images/landing/header/bg-full.jpg';
@@ -20,7 +24,6 @@ import bg_rocks_low from 'assets/images/landing/header/bg-rocks.webp';
 import bg_sky_high from 'assets/images/landing/header/bg-sky@2x.webp';
 import bg_sky_mid from 'assets/images/landing/header/bg-sky@1.5x.webp';
 import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
-import Container from 'components/core/container';
 
 const BecomePart = () => {
   return (
@@ -60,6 +63,8 @@ const BecomePartDescription = () => {
 };
 
 const LandingHeader = () => {
+  const isDesktopWidth = useMediaQuery({ minWidth: mobileBreakpoint });
+
   const layers = useMemo<BannerLayer[]>(
     () => [
       {
@@ -120,19 +125,25 @@ const LandingHeader = () => {
 
         <div className='absolute -bottom-1 bg-gradient-to-t from-black w-full h-24' />
 
-        <div className='hidden sm:block absolute inset-0 top-1/3'>
-          <BecomePart />
+        {isDesktopWidth && (
+          <div className='absolute inset-0 top-1/3'>
+            <BecomePart />
+          </div>
+        )}
+      </div>
+
+      {isDesktopWidth && (
+        <div className='translate-y-0 -mt-20 lg:-mt-36 mb-24'>
+          <BecomePartDescription />
         </div>
-      </div>
+      )}
 
-      <div className='hidden sm:block translate-y-0 -mt-20 lg:-mt-36 mb-24'>
-        <BecomePartDescription />
-      </div>
-
-      <div className='sm:hidden mt-5 mb-16 flex flex-col gap-8'>
-        <BecomePart />
-        <BecomePartDescription />
-      </div>
+      {!isDesktopWidth && (
+        <div className='mt-5 mb-16 flex flex-col gap-8'>
+          <BecomePart />
+          <BecomePartDescription />
+        </div>
+      )}
     </div>
   );
 };
