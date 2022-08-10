@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
-import ResponsiveImage from 'core/responsive-image';
+import ResponsiveImage from 'components/core/responsive-image';
 
 import bg_full from 'assets/images/landing/header/bg-full.jpg';
 
@@ -17,20 +17,10 @@ import bg_rocks_high from 'assets/images/landing/header/bg-rocks@2x.webp';
 import bg_rocks_mid from 'assets/images/landing/header/bg-rocks@1.5x.webp';
 import bg_rocks_low from 'assets/images/landing/header/bg-rocks.webp';
 
-import bg_clouds_high from 'assets/images/landing/header/bg-clouds@2x.webp';
-import bg_clouds_mid from 'assets/images/landing/header/bg-clouds@1.5x.webp';
-import bg_clouds_low from 'assets/images/landing/header/bg-clouds.webp';
-
-import bg_planets_high from 'assets/images/landing/header/bg-planets@2x.webp';
-import bg_planets_mid from 'assets/images/landing/header/bg-planets@1.5x.webp';
-import bg_planets_low from 'assets/images/landing/header/bg-planets.webp';
-
 import bg_sky_high from 'assets/images/landing/header/bg-sky@2x.webp';
 import bg_sky_mid from 'assets/images/landing/header/bg-sky@1.5x.webp';
 import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
 import Container from 'components/core/container';
-
-const aspectRatio = (3840 / 4925).toString();
 
 const BecomePart = () => {
   return (
@@ -78,7 +68,6 @@ const LandingHeader = () => {
             lowQ={bg_sky_low}
             midQ={bg_sky_mid}
             highQ={bg_sky_high}
-            baseWidth={1920}
           />
         ),
         translateY: [-16, 26],
@@ -87,34 +76,9 @@ const LandingHeader = () => {
       {
         children: (
           <ResponsiveImage
-            lowQ={bg_planets_low}
-            midQ={bg_planets_mid}
-            highQ={bg_planets_high}
-            baseWidth={1920}
-          />
-        ),
-        translateY: [-12, 25],
-        expanded: false,
-      },
-      {
-        children: (
-          <ResponsiveImage
-            lowQ={bg_clouds_low}
-            midQ={bg_clouds_mid}
-            highQ={bg_clouds_high}
-            baseWidth={1920}
-          />
-        ),
-        translateY: [-8, 18],
-        expanded: false,
-      },
-      {
-        children: (
-          <ResponsiveImage
             lowQ={bg_rocks_low}
             midQ={bg_rocks_mid}
             highQ={bg_rocks_high}
-            baseWidth={1920}
           />
         ),
         translateY: [-12, 15],
@@ -126,7 +90,6 @@ const LandingHeader = () => {
             lowQ={bg_town_low}
             midQ={bg_town_mid}
             highQ={bg_town_high}
-            baseWidth={1920}
           />
         ),
         translateY: [-10, 4],
@@ -138,8 +101,7 @@ const LandingHeader = () => {
             lowQ={bg_house_low}
             midQ={bg_house_mid}
             highQ={bg_house_high}
-            baseWidth={1920}
-            default={bg_full}
+            mobileImg={bg_full}
           />
         ),
         expanded: false,
@@ -151,7 +113,10 @@ const LandingHeader = () => {
   return (
     <div>
       <div className='relative'>
-        <ParallaxBanner style={{ aspectRatio: aspectRatio }} layers={layers} />
+        <ParallaxBanner
+          style={{ aspectRatio: (3840 / 4925).toString() }}
+          layers={layers}
+        />
 
         <div className='absolute -bottom-1 bg-gradient-to-t from-black w-full h-24' />
 
