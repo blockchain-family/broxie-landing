@@ -1,4 +1,5 @@
-import { useEffect, useState } from 'react';
+import { isMobileSafari } from 'react-device-detect';
+import { useMediaQuery } from 'react-responsive';
 import { breakpointLowQ } from 'utils/responsiveness';
 
 type VideoProps = {
@@ -6,28 +7,10 @@ type VideoProps = {
   mobileImg?: string | undefined;
 };
 
-const getShowImage = () => {
-  const scrWidth = window.innerWidth;
-
-  return scrWidth < breakpointLowQ;
-};
-
 const ResponsiveVideo = (props: VideoProps) => {
-  const [showImage, setShowImage] = useState(getShowImage());
+  const isMobileWidth = useMediaQuery({ maxWidth: breakpointLowQ });
 
-  useEffect(() => {
-    const handleResize = () => {
-      setShowImage(getShowImage());
-    };
-
-    window.addEventListener('resize', handleResize);
-
-    return () => {
-      window.removeEventListener('resize', handleResize);
-    };
-  }, []);
-
-  if (showImage) {
+  if (isMobileWidth || isMobileSafari) {
     return <img className='w-full h-auto' src={props.mobileImg} alt='' />;
   }
 
