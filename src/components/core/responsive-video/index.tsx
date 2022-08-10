@@ -42,7 +42,7 @@ const ResponsiveVideo = (props: VideoProps) => {
 
   return (
     <video
-      className='w-full h-auto'
+      className='w-full h-auto pointer-events-none'
       autoPlay
       loop
       muted

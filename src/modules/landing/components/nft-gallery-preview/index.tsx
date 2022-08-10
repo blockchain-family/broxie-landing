@@ -1,29 +1,33 @@
-import placeholderSrc from 'assets/images/nft-placeholder.png';
+import nft1 from 'assets/images/landing/body/nft1.png';
+import nft2 from 'assets/images/landing/body/nft2.png';
+import nft3 from 'assets/images/landing/body/nft3.png';
+import nft4 from 'assets/images/landing/body/nft4.png';
+import nft5 from 'assets/images/landing/body/nft5.png';
 
 const testData = [
   {
     name: 'Broxie #1',
-    src: placeholderSrc,
+    src: nft1,
     price: 77.7,
   },
   {
     name: 'Broxie #2',
-    src: placeholderSrc,
+    src: nft2,
     price: 77.7,
   },
   {
     name: 'Broxie #3',
-    src: placeholderSrc,
+    src: nft3,
     price: 77.7,
   },
   {
     name: 'Broxie #4',
-    src: placeholderSrc,
+    src: nft4,
     price: 77.7,
   },
   {
     name: 'Broxie #5',
-    src: placeholderSrc,
+    src: nft5,
     price: 77.7,
   },
 ];
@@ -39,9 +43,9 @@ const NftGalleryPreview = () => {
           >
             <img className='w-full h-auto rounded-xl' src={x.src} alt='' />
 
-            <div className='flex flex-col gap-2 my-2 text-center'>
+            <div className='flex flex-col gap-2 my-4 text-center'>
               <span>{x.name}</span>
-              <span className='opacity-40 text-sm'>{x.price} EVER</span>
+              {/* <span className='opacity-40 text-sm'>{x.price} EVER</span> */}
             </div>
           </div>
         ))}
