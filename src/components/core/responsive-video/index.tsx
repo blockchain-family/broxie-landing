@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { breakpointLowQ } from 'utils/responsiveness';
 
 type VideoProps = {
@@ -6,22 +6,18 @@ type VideoProps = {
   mobileImg?: string | undefined;
 };
 
+const getShowImage = () => {
+  const scrWidth = window.innerWidth;
+
+  return scrWidth < breakpointLowQ;
+};
+
 const ResponsiveVideo = (props: VideoProps) => {
-  const getVideoSrc = useCallback(() => {
-    const scrWidth = window.innerWidth;
-
-    if (scrWidth >= breakpointLowQ) {
-      return props.videoUrl;
-    }
-
-    return undefined;
-  }, [props.videoUrl]);
-
-  const [videoSrc, setVideoSrc] = useState(getVideoSrc());
+  const [showImage, setShowImage] = useState(getShowImage());
 
   useEffect(() => {
     const handleResize = () => {
-      setVideoSrc(getVideoSrc());
+      setShowImage(getShowImage());
     };
 
     window.addEventListener('resize', handleResize);
@@ -29,9 +25,9 @@ const ResponsiveVideo = (props: VideoProps) => {
     return () => {
       window.removeEventListener('resize', handleResize);
     };
-  }, [getVideoSrc]);
+  }, []);
 
-  if (!videoSrc) {
+  if (showImage) {
     return <img className='w-full h-auto' src={props.mobileImg} alt='' />;
   }
 
@@ -40,10 +36,11 @@ const ResponsiveVideo = (props: VideoProps) => {
       className='w-full h-auto pointer-events-none'
       autoPlay
       loop
-      muted
       playsInline
-      src={videoSrc}
-    />
+      muted
+    >
+      <source src={props.videoUrl} type='video/mp4' />
+    </video>
   );
 };
 
