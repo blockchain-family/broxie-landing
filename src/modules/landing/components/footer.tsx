@@ -1,5 +1,5 @@
 import Container from 'components/core/container';
-import ResponsiveVideo from 'components/core/responsive-video';
+import ResponsiveVideo from 'components/core/responsiveness/video';
 
 import bg_full from 'assets/images/landing/footer/bg-full-1920.mp4';
 import bg_full_fallback from 'assets/images/landing/footer/bg-full.jpg';

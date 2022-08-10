@@ -1,11 +1,10 @@
 import { useMemo } from 'react';
-import { useMediaQuery } from 'react-responsive';
-import { mobileBreakpoint } from 'utils/responsiveness';
+import { useDesktopMediaQuery } from 'utils/responsiveness';
 import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
 
 import Container from 'components/core/container';
-import ResponsiveImage from 'components/core/responsive-image';
+import ResponsiveImage from 'components/core/responsiveness/image';
 
 import bg_full from 'assets/images/landing/header/bg-full.jpg';
 
@@ -63,7 +62,7 @@ const BecomePartDescription = () => {
 };
 
 const LandingHeader = () => {
-  const isDesktopWidth = useMediaQuery({ minWidth: mobileBreakpoint });
+  const isDesktop = useDesktopMediaQuery();
 
   const layers = useMemo<BannerLayer[]>(
     () => [
@@ -106,7 +105,7 @@ const LandingHeader = () => {
             lowQ={bg_house_low}
             midQ={bg_house_mid}
             highQ={bg_house_high}
-            mobileImg={bg_full}
+            fallbackImg={bg_full}
           />
         ),
         expanded: false,
@@ -118,27 +117,29 @@ const LandingHeader = () => {
   return (
     <div>
       <div className='relative'>
-        <ParallaxBanner
-          style={{ aspectRatio: (3840 / 4925).toString() }}
-          layers={layers}
-        />
+        {isDesktop ? (
+          <ParallaxBanner
+            style={{ aspectRatio: (3840 / 4925).toString() }}
+            layers={layers}
+          />
+        ) : (
+          <img className='w-full h-auto' src={bg_full} alt='' />
+        )}
 
         <div className='absolute -bottom-1 bg-gradient-to-t from-black w-full h-24' />
 
-        {isDesktopWidth && (
+        {isDesktop && (
           <div className='absolute inset-0 top-1/3'>
             <BecomePart />
           </div>
         )}
       </div>
 
-      {isDesktopWidth && (
+      {isDesktop ? (
         <div className='translate-y-0 -mt-20 lg:-mt-36 mb-24'>
           <BecomePartDescription />
         </div>
-      )}
-
-      {!isDesktopWidth && (
+      ) : (
         <div className='mt-5 mb-16 flex flex-col gap-8'>
           <BecomePart />
           <BecomePartDescription />

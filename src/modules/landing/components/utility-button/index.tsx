@@ -1,14 +1,13 @@
-import { useMediaQuery } from 'react-responsive';
-import { mobileBreakpoint } from 'utils/responsiveness';
+import { useDesktopMediaQuery } from 'utils/responsiveness';
 import { ReactComponent as UtilitySvg } from 'assets/images/landing/utility.svg';
 import { ReactComponent as UtilitySmSvg } from 'assets/images/landing/utility-sm.svg';
 
 const UtilityButton = () => {
-  const isDesktopWidth = useMediaQuery({ minWidth: mobileBreakpoint });
+  const isDesktop = useDesktopMediaQuery();
 
   return (
     <div className='relative mx-auto max-w-2xl px-4 text-center'>
-      {isDesktopWidth ? (
+      {isDesktop ? (
         <UtilitySvg className='w-full h-auto' />
       ) : (
         <UtilitySmSvg className='w-full h-auto max-w-xs' />

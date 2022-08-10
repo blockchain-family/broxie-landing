@@ -1,6 +1,5 @@
 import { isMobileSafari } from 'react-device-detect';
-import { useMediaQuery } from 'react-responsive';
-import { mobileBreakpoint } from 'utils/responsiveness';
+import { useDesktopMediaQuery } from 'utils/responsiveness';
 
 type VideoProps = {
   videoUrl: string;
@@ -8,9 +7,9 @@ type VideoProps = {
 };
 
 const ResponsiveVideo = (props: VideoProps) => {
-  const isDesktopWidth = useMediaQuery({ minWidth: mobileBreakpoint });
+  const isDesktop = useDesktopMediaQuery();
 
-  if (isDesktopWidth === false || isMobileSafari) {
+  if (!isDesktop || isMobileSafari) {
     return <img className='w-full h-auto' src={props.mobileImg} alt='' />;
   }
 

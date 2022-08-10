@@ -12,7 +12,7 @@ type ImageProps = {
   highQ: string;
   midQ: string;
   lowQ: string;
-  mobileImg?: string | undefined;
+  fallbackImg?: string | undefined;
 };
 
 const ResponsiveImage = (props: ImageProps) => {
@@ -21,8 +21,8 @@ const ResponsiveImage = (props: ImageProps) => {
       <source srcSet={props.highQ} media={minWidthHigh} />
       <source srcSet={props.midQ} media={minWidthMid} />
       <source srcSet={props.lowQ} media={minWidthLow} />
-      <source srcSet={props.mobileImg} />
-      <img src={props.mobileImg} alt='' />
+      <source srcSet={props.fallbackImg} />
+      <img src={props.fallbackImg} alt='' />
     </picture>
   );
 };
