@@ -1,5 +1,5 @@
-import { isMobile } from 'react-device-detect';
-import { useDesktopMediaQuery } from 'utils/responsiveness';
+import { isIOS } from 'react-device-detect';
+import { useLgMediaQuery } from 'utils/responsiveness';
 
 type Video = {
   src: string;
@@ -12,9 +12,9 @@ type VideoProps = {
 };
 
 const ResponsiveVideo = (props: VideoProps) => {
-  const isDesktopWidth = useDesktopMediaQuery();
+  const isDesktopWidth = useLgMediaQuery();
 
-  if (!isDesktopWidth || isMobile) {
+  if (!isDesktopWidth || isIOS) {
     return <img className='w-full h-auto' src={props.mobileImg} alt='' />;
   }
 

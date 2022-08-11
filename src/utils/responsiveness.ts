@@ -8,5 +8,11 @@ export const breakpoints = {
   quadHd: 2561,
 };
 
-export const useDesktopMediaQuery = () =>
+export const useSmMediaQuery = () =>
   useMediaQuery({ minWidth: breakpoints.sm });
+
+export const useMdMediaQuery = () =>
+  useMediaQuery({ minWidth: breakpoints.md });
+
+export const useLgMediaQuery = () =>
+  useMediaQuery({ minWidth: breakpoints.lg });

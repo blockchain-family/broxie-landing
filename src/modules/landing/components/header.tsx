@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { useDesktopMediaQuery } from 'utils/responsiveness';
+import { useSmMediaQuery } from 'utils/responsiveness';
 import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
 
@@ -65,7 +65,7 @@ const BecomePartDescription = () => {
 };
 
 const LandingHeader = () => {
-  const isDesktop = useDesktopMediaQuery();
+  const isDesktop = useSmMediaQuery();
 
   const layers = useMemo<BannerLayer[]>(
     () => [

@@ -1,9 +1,9 @@
-import { useDesktopMediaQuery } from 'utils/responsiveness';
 import { ReactComponent as UtilitySvg } from 'assets/images/landing/utility.svg';
 import { ReactComponent as UtilitySmSvg } from 'assets/images/landing/utility-sm.svg';
+import { useSmMediaQuery } from 'utils/responsiveness';
 
 const UtilityButton = () => {
-  const isDesktop = useDesktopMediaQuery();
+  const isDesktop = useSmMediaQuery();
 
   return (
     <div className='relative mx-auto px-4 text-center'>
