@@ -13,11 +13,18 @@ const UtilityButton = () => {
         <UtilitySmSvg className='w-full max-w-xs h-auto' />
       )}
 
-      <div className='absolute bottom-[14%] sm:bottom-[18%] px-16 sm:px-32'>
-        Each Broxie comes with utilities that will give you preferences and
-        additional benefits from using Broxus products. Cool utility mechanics
-        will be implemented in the foreseeable future, don't miss your chance to
-        profit!
+      <div
+        className={
+          'absolute top-[28%] sm:top-[48%] bottom-[2%] left-[15%] right-[15%] ' +
+          'flex justify-center items-center overflow-hidden px-6 sm:px-10'
+        }
+      >
+        <span>
+          Each Broxie comes with utilities that will give you preferences and
+          additional benefits from using Broxus products. Cool utility mechanics
+          will be implemented in the foreseeable future, don't miss your chance
+          to profit!
+        </span>
       </div>
     </div>
   );
