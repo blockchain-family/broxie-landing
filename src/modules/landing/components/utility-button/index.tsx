@@ -19,7 +19,7 @@ const UtilityButton = () => {
           'flex justify-center items-center overflow-hidden px-6 sm:px-10'
         }
       >
-        <span>
+        <span className='sm:text-lg'>
           Each Broxie comes with utilities that will give you preferences and
           additional benefits from using Broxus products. Cool utility mechanics
           will be implemented in the foreseeable future, don't miss your chance
