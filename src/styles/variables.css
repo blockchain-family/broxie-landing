@@ -1,0 +1,10 @@
+body {
+  --color-primary: #efe3d8;
+  --color-primaryBg: #7e544b;
+  --color-secondaryBg: #181816;
+  --color-link: rgba(126, 84, 75, 1);
+  --color-background: #000000;
+  --color-hoverBg: #efe3d8;
+  --color-hover: #0f0e0d;
+  --color-black: #000000;
+}

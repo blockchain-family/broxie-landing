@@ -1,0 +1,26 @@
+@import './variables.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../assets/fonts/Inter-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('../assets/fonts/BebasNeue.ttf');
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-primary);
+
+  font-family: 'Inter';
+  font-weight: 400;
+
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}

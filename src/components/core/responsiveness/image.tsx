@@ -18,10 +18,9 @@ type ImageProps = {
 const ResponsiveImage = (props: ImageProps) => {
   return (
     <picture className='w-full h-auto'>
-      <source srcSet={props.highQ} media={minWidthHigh} />
-      <source srcSet={props.midQ} media={minWidthMid} />
-      <source srcSet={props.lowQ} media={minWidthLow} />
-      <source srcSet={props.fallbackImg} />
+      <source srcSet={props.highQ} media={minWidthHigh} type='image/webp' />
+      <source srcSet={props.midQ} media={minWidthMid} type='image/webp' />
+      <source srcSet={props.lowQ} media={minWidthLow} type='image/webp' />
       <img src={props.fallbackImg} alt='' />
     </picture>
   );

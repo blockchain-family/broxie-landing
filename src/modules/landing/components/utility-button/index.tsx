@@ -6,14 +6,14 @@ const UtilityButton = () => {
   const isDesktop = useDesktopMediaQuery();
 
   return (
-    <div className='relative mx-auto max-w-2xl px-4 text-center'>
+    <div className='relative mx-auto px-4 text-center'>
       {isDesktop ? (
-        <UtilitySvg className='w-full h-auto' />
+        <UtilitySvg className='w-full max-w-2xl h-auto' />
       ) : (
-        <UtilitySmSvg className='w-full h-auto max-w-xs' />
+        <UtilitySmSvg className='w-full max-w-xs h-auto' />
       )}
 
-      <div className='absolute bottom-[14%] px-16 sm:px-32'>
+      <div className='absolute bottom-[14%] sm:bottom-[18%] px-16 sm:px-32'>
         Each Broxie comes with utilities that will give you preferences and
         additional benefits from using Broxus products. Cool utility mechanics
         will be implemented in the foreseeable future, don't miss your chance to

@@ -114,19 +114,23 @@ const LandingHeader = () => {
     []
   );
 
+  const paddingAspectRatio = useMemo(() => (1 / (3840 / 4925)) * 100, []);
+
   return (
     <div>
       <div className='relative'>
         {isDesktop ? (
           <ParallaxBanner
-            style={{ aspectRatio: (3840 / 4925).toString() }}
             layers={layers}
+            style={{
+              paddingBottom: `${paddingAspectRatio}%`,
+            }}
           />
         ) : (
           <img className='w-full h-auto' src={bg_full} alt='' />
         )}
 
-        <div className='absolute -bottom-1 bg-gradient-to-t from-black w-full h-24' />
+        <div className='absolute -bottom-1 bg-gradient-to-t from-black to-transparent w-full h-24' />
 
         {isDesktop && (
           <div className='absolute inset-0 top-1/3'>

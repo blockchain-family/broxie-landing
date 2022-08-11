@@ -12,7 +12,7 @@ const LandingFooter = () => {
       <div className='relative'>
         <ResponsiveVideo videoUrl={bg_full} mobileImg={bg_full_fallback} />
 
-        <div className='absolute -top-1 bg-gradient-to-b from-black w-full h-12' />
+        <div className='absolute -top-1 bg-gradient-to-b from-black to-transparent w-full h-12' />
 
         <div
           className='w-full -mt-3 h-5 sm:-mt-6 sm:h-7 md:-mt-10 md:h-14 2xl:-mt-20 2xl:h-24 translate-y-0'
