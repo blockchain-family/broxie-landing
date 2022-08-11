@@ -7,9 +7,9 @@ import UtilityButton from './utility-button';
 
 const LandingBody = () => {
   return (
-    <div className='flex flex-col gap-20'>
-      <Container size='sm' className='flex flex-col gap-5'>
-        <div className='flex flex-col gap-5 items-center text-center'>
+    <div className='flex flex-col space-y-20'>
+      <Container size='sm' className='flex flex-col space-y-5'>
+        <div className='flex flex-col space-y-5 items-center text-center'>
           <span className='text-4xl sm:text-6xl font-header'>
             Lives on Everscale Blockchain
           </span>
@@ -19,7 +19,7 @@ const LandingBody = () => {
         </div>
       </Container>
 
-      <div className='flex flex-col gap-16 items-center mx-auto px-4 max-w-7xl'>
+      <div className='flex flex-col space-y-16 items-center mx-auto px-4 max-w-7xl'>
         <NftPriceProgress />
 
         <Button variant='primary'>
@@ -27,7 +27,7 @@ const LandingBody = () => {
         </Button>
       </div>
 
-      <div className='flex flex-col gap-12 items-center'>
+      <div className='flex flex-col space-y-12 items-center'>
         <NftGalleryPreview />
 
         <Link to='/gallery'>
@@ -37,8 +37,8 @@ const LandingBody = () => {
         </Link>
       </div>
 
-      <Container size='sm' className='flex flex-col gap-5'>
-        <div className='flex flex-col gap-8 items-center text-center text-lg'>
+      <Container size='sm' className='flex flex-col space-y-5'>
+        <div className='flex flex-col space-y-8 items-center text-center text-lg'>
           <span className='text-4xl sm:text-6xl font-header'>
             Become part of Broxus
           </span>

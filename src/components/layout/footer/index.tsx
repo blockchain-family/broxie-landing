@@ -12,7 +12,7 @@ const Footer = () => {
     <div className='flex flex-col'>
       <SocialButtons />
 
-      <div className='mx-auto flex flex-col gap-5 text-center mb-10'>
+      <div className='mx-auto flex flex-col space-y-5 text-center mb-10'>
         <BroxieSvg className='w-48 md:w-96 h-auto' />
 
         <span

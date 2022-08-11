@@ -13,16 +13,16 @@ for (let i = 0; i < 12; i++) {
 
 const GalleryCollection = () => {
   return (
-    <div className='flex flex-col gap-8 sm:gap-24'>
+    <div className='flex flex-col space-y-8 sm:space-y-24'>
       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 px-8'>
         {testItems.map((x, i) => (
           <div
             key={i}
-            className='mx-auto max-w-[20rem] flex flex-col gap-4 bg-secondaryBg rounded-xl p-3 shrink-0'
+            className='mx-auto max-w-[20rem] flex flex-col space-y-4 bg-secondaryBg rounded-xl p-3 shrink-0'
           >
             <img className='w-full h-auto rounded-xl' src={x.imgSrc} alt='' />
 
-            <div className='flex flex-col gap-2 my-2 text-center'>
+            <div className='flex flex-col space-y-2 my-2 text-center'>
               <span className='text-lg'>{x.name}</span>
               <span className='opacity-40'>{x.price} EVER</span>
             </div>

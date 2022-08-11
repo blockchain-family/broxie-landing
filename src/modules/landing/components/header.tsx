@@ -26,7 +26,7 @@ import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
 
 const BecomePart = () => {
   return (
-    <div className='flex flex-col gap-2 text-center px-4'>
+    <div className='flex flex-col space-y-2 text-center px-4'>
       <h1 className='font-header text-5xl sm:text-6xl md:text-8xl lg:text-9xl'>
         Become part of Broxus
       </h1>
@@ -39,7 +39,10 @@ const BecomePart = () => {
 
 const BecomePartDescription = () => {
   return (
-    <Container size='sm' className='text-center text-lg flex flex-col gap-8'>
+    <Container
+      size='sm'
+      className='text-center text-lg flex flex-col space-y-8'
+    >
       <span>
         Broxie is literally the existing world of hard workers from Broxus. They
         create, work and brainstorm every day, contributing to the development
@@ -144,7 +147,7 @@ const LandingHeader = () => {
           <BecomePartDescription />
         </div>
       ) : (
-        <div className='mt-5 mb-16 flex flex-col gap-8'>
+        <div className='mt-5 mb-16 flex flex-col space-y-8'>
           <BecomePart />
           <BecomePartDescription />
         </div>

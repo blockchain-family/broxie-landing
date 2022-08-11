@@ -8,7 +8,7 @@ import imageCut from 'assets/images/landing/footer/image-cut.svg';
 
 const LandingFooter = () => {
   return (
-    <div className='flex flex-col gap-10'>
+    <div className='flex flex-col space-y-10'>
       <div className='relative'>
         <ResponsiveVideo videoUrl={bg_full} mobileImg={bg_full_fallback} />
 
@@ -26,7 +26,7 @@ const LandingFooter = () => {
       </div>
 
       <Container size='sm' className='flex flex-col'>
-        <div className='flex flex-col gap-8 items-center text-center text-lg'>
+        <div className='flex flex-col space-y-8 items-center text-center text-lg'>
           <span className='text-4xl sm:text-6xl font-header'>How it works</span>
 
           <span>

@@ -35,15 +35,15 @@ const testData = [
 const NftGalleryPreview = () => {
   return (
     <div className='h-[20rem] sm:h-[24rem] w-full relative overflow-hidden'>
-      <div className='absolute left-0 right-0 flex gap-6 items-start justify-center'>
+      <div className='absolute left-0 right-0 flex space-x-6 items-start justify-center'>
         {testData.map((x) => (
           <div
             key={x.name}
-            className='flex flex-col gap-2 bg-secondaryBg rounded-xl p-2 sm:p-3 shrink-0 max-w-[10rem] sm:max-w-[14rem] even:mt-16'
+            className='flex flex-col space-y-4 bg-secondaryBg rounded-xl p-2 sm:p-3 shrink-0 max-w-[10rem] sm:max-w-[14rem] even:mt-16'
           >
             <img className='w-full h-auto rounded-xl' src={x.src} alt='' />
 
-            <div className='flex flex-col gap-2 my-4 text-center'>
+            <div className='flex flex-col space-y-2 pb-2 text-center'>
               <span>{x.name}</span>
               {/* <span className='opacity-40 text-sm'>{x.price} EVER</span> */}
             </div>

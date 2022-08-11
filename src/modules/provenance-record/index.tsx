@@ -1,6 +1,6 @@
 const ProvenanceRecordPage = () => {
   return (
-    <div className='max-w-screen-lg mx-auto flex flex-col gap-10 pt-28 pb-10 sm:pt-52 text-center px-4'>
+    <div className='max-w-screen-lg mx-auto flex flex-col space-y-10 pt-28 pb-10 sm:pt-52 text-center px-4'>
       <div className='mb-6'>
         <span className='text-4xl sm:text-6xl font-header'>
           Hashmasks Provenance Record

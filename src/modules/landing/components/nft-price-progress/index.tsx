@@ -38,9 +38,9 @@ const testData = [
 
 const NftPriceProgress = () => {
   return (
-    <div className='flex flex-wrap justify-center gap-2'>
+    <div className='flex flex-wrap justify-center space-x-2'>
       {testData.map((x, i) => (
-        <div key={i} className='flex flex-col gap-2 text-center'>
+        <div key={i} className='flex flex-col space-y-2 text-center'>
           <span>{x.nftCount} NFTs</span>
           <span
             className={`h-4 w-full rounded-md min-w-[8rem] sm:min-w-[10rem] ${
