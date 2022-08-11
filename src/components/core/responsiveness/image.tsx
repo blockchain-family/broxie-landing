@@ -1,12 +1,8 @@
-import {
-  quadHdBreakpoint,
-  fullHdBreakpoint,
-  mobileBreakpoint,
-} from 'utils/responsiveness';
+import { breakpoints } from 'utils/responsiveness';
 
-const minWidthHigh = `(min-width: ${quadHdBreakpoint}px)`;
-const minWidthMid = `(min-width: ${fullHdBreakpoint}px)`;
-const minWidthLow = `(min-width: ${mobileBreakpoint}px)`;
+const minWidthHigh = `(min-width: ${breakpoints.quadHd}px)`;
+const minWidthMid = `(min-width: ${breakpoints.fullHd}px)`;
+const minWidthLow = `(min-width: ${breakpoints.sm}px)`;
 
 type ImageProps = {
   highQ: string;

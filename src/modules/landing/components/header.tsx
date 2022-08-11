@@ -136,7 +136,7 @@ const LandingHeader = () => {
         <div className='absolute -bottom-1 bg-gradient-to-t from-black to-transparent w-full h-24' />
 
         {isDesktop && (
-          <div className='absolute inset-0 top-1/3'>
+          <div className='absolute top-1/3 bottom-0 left-0 right-0'>
             <BecomePart />
           </div>
         )}

@@ -1,55 +1,63 @@
+import 'swiper/css';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import { breakpoints } from 'utils/responsiveness';
+
 import nft1 from 'assets/images/landing/body/nft1.jpg';
 import nft2 from 'assets/images/landing/body/nft2.jpg';
 import nft3 from 'assets/images/landing/body/nft3.jpg';
 import nft4 from 'assets/images/landing/body/nft4.jpg';
 import nft5 from 'assets/images/landing/body/nft5.jpg';
 
-const testData = [
+const nftsData = [
   {
     name: 'King Everscale',
     src: nft1,
-    price: 77.7,
   },
   {
     name: 'Mexican',
     src: nft2,
-    price: 77.7,
   },
   {
     name: 'Rap Star',
     src: nft3,
-    price: 77.7,
   },
   {
     name: 'Medieval',
     src: nft4,
-    price: 77.7,
   },
   {
     name: 'Space Vampire',
     src: nft5,
-    price: 77.7,
   },
 ];
 
 const NftGalleryPreview = () => {
   return (
-    <div className='h-[20rem] sm:h-[24rem] w-full relative overflow-hidden'>
-      <div className='absolute left-0 right-0 flex space-x-6 items-start justify-center'>
-        {testData.map((x) => (
-          <div
+    <div className='w-full max-w-7xl'>
+      <Swiper
+        className='w-full'
+        slidesPerView={1.4}
+        spaceBetween={20}
+        breakpoints={{
+          [breakpoints.sm]: { slidesPerView: 2.4 },
+          [breakpoints.lg]: { slidesPerView: 5 },
+        }}
+        centeredSlides
+        initialSlide={2}
+      >
+        {nftsData.map((x) => (
+          <SwiperSlide
             key={x.name}
-            className='flex flex-col space-y-4 bg-secondaryBg rounded-xl p-2 sm:p-3 shrink-0 max-w-[10rem] sm:max-w-[14rem] even:mt-16'
+            className='bg-secondaryBg rounded-xl p-2 sm:p-3 even:mt-10'
           >
-            <img className='w-full h-auto rounded-xl' src={x.src} alt='' />
+            <img className='w-full h-auto rounded-xl mb-8' src={x.src} alt='' />
 
-            <div className='flex flex-col space-y-2 pb-2 text-center'>
+            <div className='text-center mb-6'>
               <span>{x.name}</span>
-              {/* <span className='opacity-40 text-sm'>{x.price} EVER</span> */}
             </div>
-          </div>
+          </SwiperSlide>
         ))}
-      </div>
+      </Swiper>
     </div>
   );
 };
