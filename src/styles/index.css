@@ -1,5 +1,3 @@
-@import './variables.css';
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -14,13 +12,20 @@
   src: url('../assets/fonts/BebasNeue.ttf');
 }
 
+@layer base {
+  :root {
+    --color-primary: 239 227 216;
+    --color-primaryBg: 126 84 75;
+    --color-secondaryBg: 24 24 22;
+    --color-link: 126 84 75;
+    --color-background: 0 0 0;
+    --color-hoverBg: 239 227 216;
+    --color-hover: 15 14 13;
+    --color-black: 0 0 0;
+  }
+}
+
 body {
-  background: var(--color-background);
-  color: var(--color-primary);
-
-  font-family: 'Inter';
-  font-weight: 400;
-
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
 }
