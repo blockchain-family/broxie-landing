@@ -1,16 +1,27 @@
 import Container from 'components/core/container';
 import ResponsiveVideo from 'components/core/responsiveness/video';
 
-import bg_full from 'assets/images/landing/footer/bg-full-1920.mp4';
+import bg_full_3840_VP9 from 'assets/images/landing/footer/bg-full-3840.webm';
+import bg_full_3840 from 'assets/images/landing/footer/bg-full-3840.mp4';
+import bg_full_1920 from 'assets/images/landing/footer/bg-full-1920.mp4';
 import bg_full_fallback from 'assets/images/landing/footer/bg-full.jpg';
 
 import imageCut from 'assets/images/landing/footer/image-cut.svg';
+import { useMemo } from 'react';
 
 const LandingFooter = () => {
+  const videos = useMemo(
+    () => [
+      { src: bg_full_3840_VP9, type: 'video/webm' },
+      { src: bg_full_3840, type: 'video/mp4' },
+      { src: bg_full_1920, type: 'video/mp4' },
+    ],
+    []
+  );
   return (
     <div className='flex flex-col space-y-10'>
       <div className='relative'>
-        <ResponsiveVideo videoUrl={bg_full} mobileImg={bg_full_fallback} />
+        <ResponsiveVideo files={videos} mobileImg={bg_full_fallback} />
 
         <div className='absolute -top-1 bg-gradient-to-b from-black to-transparent w-full h-12' />
 

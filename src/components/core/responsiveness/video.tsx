@@ -1,8 +1,13 @@
 import { isIOS } from 'react-device-detect';
 import { useDesktopMediaQuery } from 'utils/responsiveness';
 
+type Video = {
+  src: string;
+  type: string;
+};
+
 type VideoProps = {
-  videoUrl: string;
+  files: Video[];
   mobileImg?: string | undefined;
 };
 
@@ -20,8 +25,11 @@ const ResponsiveVideo = (props: VideoProps) => {
       loop
       playsInline
       muted
+      poster={props.mobileImg}
     >
-      <source src={props.videoUrl} type='video/mp4' />
+      {props.files.map((x) => (
+        <source key={x.src} src={x.src} type={x.type} />
+      ))}
     </video>
   );
 };
