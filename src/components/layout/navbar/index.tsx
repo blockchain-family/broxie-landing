@@ -5,9 +5,12 @@ import { ReactComponent as Broxie } from 'assets/images/broxie.svg';
 import { ReactComponent as BroxieLogo } from 'assets/images/broxie-logo.svg';
 import { useMusicStore } from 'providers/BackgroundMusicProvider';
 import { Observer } from 'mobx-react-lite';
+import { useLayoutStore } from 'providers/LayoutStoreProvider';
+import MyWallet from '../MyWallet';
 
 const Navbar = () => {
   const musicStore = useMusicStore();
+  const layoutStore = useLayoutStore();
 
   return (
     <div className='fixed z-10 top-0 left-0 right-0 max-w-screen-xl mx-auto px-2 pt-4'>
@@ -24,7 +27,12 @@ const Navbar = () => {
 
           <span className='cursor-pointer px-4 sm:px-6'>FAQ</span>
 
-          <Button variant='primary'>My Wallet</Button>
+          <Button
+            variant='primary'
+            onClick={() => layoutStore.showContentModal(<MyWallet />, 'md')}
+          >
+            My Wallet
+          </Button>
 
           <Observer>
             {() => (

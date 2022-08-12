@@ -1,0 +1,16 @@
+:root {
+  --color-modal-mainBg: #efe3d8;
+  --color-modal-overlayBg: rgba(0, 0, 0, 0.6);
+}
+
+body.no-scroll {
+  overflow: hidden;
+}
+
+.modal_background {
+  background: var(--color-modal-mainBg);
+}
+
+.modal_overlay_background {
+  background: var(--color-modal-overlayBg);
+}

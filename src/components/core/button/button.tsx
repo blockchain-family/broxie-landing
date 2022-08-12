@@ -3,20 +3,24 @@ import { useMemo } from 'react';
 const Button = ({
   variant,
   children,
+  disabled,
+  className,
   onClick,
 }: {
   variant: 'primary' | 'secondary' | 'tertiary';
-  children?: string | JSX.Element | JSX.Element[];
+  children?: any;
+  disabled?: boolean;
+  className?: string;
   onClick?: () => void;
 }) => {
   const bgClass = useMemo(() => {
     switch (variant) {
       case 'primary':
-        return 'bg-primaryBg hover:bg-hoverBg hover:text-hover';
+        return 'bg-primaryBg';
       case 'secondary':
-        return 'bg-secondaryBg hover:bg-hoverBg hover:text-hover';
+        return 'bg-secondaryBg';
       case 'tertiary':
-        return 'bg-transparent border border-hoverBg hover:bg-hoverBg hover:text-hover';
+        return 'bg-transparent border border-hoverBg';
       default:
         return undefined;
     }
@@ -24,8 +28,9 @@ const Button = ({
 
   return (
     <button
-      className={`px-3 py-2 sm:px-8 sm:py-4 text-base rounded-2xl ${bgClass}`}
+      className={`px-3 py-2 sm:px-8 sm:py-4 text-base rounded-2xl ${bgClass} disabled:opacity-50 ${className}`}
       onClick={onClick}
+      disabled={disabled}
     >
       {children}
     </button>
