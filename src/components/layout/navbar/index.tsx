@@ -29,7 +29,7 @@ const Navbar = () => {
           <Observer>
             {() => (
               <div
-                className='hidden sm:block bg-primary/20 rounded-full p-3'
+                className='hidden sm:block bg-primary/20 rounded-full p-3 cursor-pointer'
                 onClick={() => {
                   musicStore.playing === true
                     ? musicStore.pause()
