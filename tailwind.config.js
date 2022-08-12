@@ -13,13 +13,13 @@ module.exports = {
       background: 'rgb(var(--color-background) / <alpha-value>)',
       transparent: 'transparent',
     },
+    fontFamily: {
+      primary: ['Inter', 'sans-serif'],
+      header: ['BebasNeue', 'serif'],
+    },
     extend: {
       screens: {
         '4k': '3840px',
-      },
-      fontFamily: {
-        primary: ['Inter'],
-        header: ['BebasNeue'],
       },
     },
   },

@@ -14,14 +14,15 @@ const Navbar = () => {
 
         <div className='flex items-center space-x-4 sm:space-x-8'>
           <NavLink to='/'>Home</NavLink>
+
           <span className='cursor-pointer'>FAQ</span>
-          {/* <NavLink to='/gallery'>
-            Gallery
-          </NavLink> */}
 
           <Button variant='primary'>My Wallet</Button>
         </div>
       </div>
+
+      <span className='font-primary hidden' />
+      <span className='font-header hidden' />
     </div>
   );
 };

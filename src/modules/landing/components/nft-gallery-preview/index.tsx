@@ -50,9 +50,9 @@ const NftGalleryPreview = () => {
             key={x.name}
             className='bg-secondaryBg rounded-xl p-2 sm:p-3 even:mt-10'
           >
-            <img className='w-full h-auto rounded-xl mb-8' src={x.src} alt='' />
+            <img className='w-full h-auto rounded-xl' src={x.src} alt='' />
 
-            <div className='text-center mb-6'>
+            <div className='text-center my-6'>
               <span>{x.name}</span>
             </div>
           </SwiperSlide>
