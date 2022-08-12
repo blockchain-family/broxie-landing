@@ -10,6 +10,7 @@
     "react": "^18.2.0",
     "react-device-detect": "^2.2.2",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
     "react-responsive": "^9.0.0-beta.10",
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.0.1",
@@ -42,6 +43,7 @@
   "devDependencies": {
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.5",
+    "@types/react-icons": "^3.0.0",
     "@types/react-router-dom": "^5.3.3",
     "autoprefixer": "^10.4.7",
     "env-cmd": "^10.1.0",

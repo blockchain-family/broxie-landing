@@ -3,21 +3,24 @@ import Navbar from './layout/navbar';
 import Footer from './layout/footer';
 import ScrollToTop from './layout/scroll-to-top';
 import LandingPage from 'modules/landing';
+import { BackgroundMusicProvider } from 'providers/BackgroundMusicProvider';
 
 const App = () => {
   return (
-    <BrowserRouter>
-      <ScrollToTop />
+    <BackgroundMusicProvider>
+      <BrowserRouter>
+        <ScrollToTop />
 
-      <Navbar />
+        <Navbar />
 
-      <Routes>
-        <Route index element={<LandingPage />} />
-        <Route path='*' element={<Navigate to='/' />} />
-      </Routes>
+        <Routes>
+          <Route index element={<LandingPage />} />
+          <Route path='*' element={<Navigate to='/' />} />
+        </Routes>
 
-      <Footer />
-    </BrowserRouter>
+        <Footer />
+      </BrowserRouter>
+    </BackgroundMusicProvider>
   );
 };
 
