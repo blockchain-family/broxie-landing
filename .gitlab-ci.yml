@@ -14,4 +14,4 @@ update_master_job:
     - ssh-add <(echo "$SSH_PRIVATE_KEY")
     - yarn install --frozen-lockfile
     - CI=false yarn run build
-    - scp -r build/* ${SERVER_USER}@${SERVER_URL}:${SERVER_PATH}
+    - scp -r dist/* ${SERVER_USER}@${SERVER_URL}:${SERVER_PATH}
