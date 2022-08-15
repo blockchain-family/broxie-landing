@@ -93,7 +93,7 @@ const questions: FaqQuestion[] = [
   },
   {
     question: 'When will the Broxie mint happen?',
-    answer: <span className='font-bold'>TBA</span>,
+    answer: <span>TBA</span>,
   },
   {
     question: 'Do you guys have any socials? I want to stay updated.',
@@ -118,7 +118,7 @@ const Faq = () => {
       >
         {questions.map((x) => (
           <AccordionItem key={x.question} className='space-y-1'>
-            <AccordionItemHeading className='text-2xl'>
+            <AccordionItemHeading className='text-2xl font-bold'>
               <AccordionItemButton>{x.question}</AccordionItemButton>
             </AccordionItemHeading>
             <AccordionItemPanel className='text-lg'>
