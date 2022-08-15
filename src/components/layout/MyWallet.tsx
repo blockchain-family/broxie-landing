@@ -13,7 +13,7 @@ const EverWallet = observer(({ className }: { className?: string }) => {
     <div className={`flex items-center justify-between p-3 ${className}`}>
       <div className='flex flex-col'>
         <div className='flex items-center space-x-3'>
-          <EverscaleSvg className='w-12 h-auto' />
+          <EverscaleSvg className='w-8 sm:w-12 h-auto' />
 
           <div className='flex flex-col'>
             <a
@@ -73,7 +73,7 @@ const MetamaskWallet = observer(({ className }: { className?: string }) => {
     <div className={`flex items-center justify-between p-3 ${className}`}>
       <div className='flex flex-col'>
         <div className='flex items-center space-x-3'>
-          <MetamaskSvg className='w-12 h-auto' />
+          <MetamaskSvg className='w-8 sm:w-12 h-auto' />
 
           <div className='flex flex-col'>
             <a
