@@ -6,7 +6,10 @@ const UtilityButton = () => {
   const isDesktop = useSmMediaQuery();
 
   return (
-    <div className='relative mx-auto px-4 text-center'>
+    <div
+      id='utility_section'
+      className='relative mx-auto px-4 text-center pt-4 sm:pt-10'
+    >
       {isDesktop ? (
         <UtilitySvg className='w-full max-w-2xl h-auto' />
       ) : (

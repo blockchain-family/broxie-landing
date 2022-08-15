@@ -1,15 +1,20 @@
+import MyWallet from '../MyWallet';
 import Button from 'components/core/button/button';
+import { useCallback } from 'react';
 import { BsVolumeMute, BsVolumeUp } from 'react-icons/bs';
 import { ReactComponent as Broxie } from 'assets/images/broxie.svg';
 import { ReactComponent as BroxieLogo } from 'assets/images/broxie-logo.svg';
 import { useMusicStore } from 'providers/BackgroundMusicProvider';
 import { Observer } from 'mobx-react-lite';
 import { useLayoutStore } from 'providers/LayoutStoreProvider';
-import MyWallet from '../MyWallet';
 
 const Navbar = () => {
   const musicStore = useMusicStore();
   const layoutStore = useLayoutStore();
+
+  const goToElement = useCallback((elementId: string) => {
+    document.getElementById(elementId)?.scrollIntoView({ behavior: 'smooth' });
+  }, []);
 
   return (
     <div className='fixed z-10 top-0 left-0 right-0 max-w-screen-xl mx-auto px-2 pt-4'>
@@ -20,11 +25,17 @@ const Navbar = () => {
         </div>
 
         <div className='flex items-center space-x-1 sm:space-x-3'>
-          <button className='px-2'>
+          <button
+            className='px-2'
+            onClick={() => goToElement('utility_section')}
+          >
             <span>Utility</span>
           </button>
 
-          <button className='px-4 sm:px-6'>
+          <button
+            className='px-4 sm:px-6'
+            onClick={() => goToElement('faq_section')}
+          >
             <span>FAQ</span>
           </button>
 

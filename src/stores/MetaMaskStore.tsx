@@ -14,7 +14,7 @@ export class MetaMaskStore {
   account?: string;
 
   get extensionDownloadUrl() {
-    return 'https://metamask.io/';
+    return 'https://metamask.io/download';
   }
 
   async init() {

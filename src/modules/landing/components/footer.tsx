@@ -1,6 +1,7 @@
 import { useMemo } from 'react';
 import { ReactComponent as ImageCutSvg } from 'assets/images/landing/footer/image-cut.svg';
 
+import Faq from './faq';
 import Container from 'components/core/container';
 import ResponsiveVideo from 'components/core/responsiveness/video';
 
@@ -59,6 +60,10 @@ const LandingFooter = () => {
             period will end and the order of distribution will be determined.
           </span>
         </div>
+      </Container>
+
+      <Container size='sm'>
+        <Faq />
       </Container>
     </div>
   );
