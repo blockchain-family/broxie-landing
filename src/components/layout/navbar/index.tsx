@@ -30,7 +30,12 @@ const Navbar = () => {
 
           <Button
             variant='primary'
-            onClick={() => layoutStore.showContentModal(<MyWallet />, 'md')}
+            onClick={() =>
+              layoutStore.showContentModal(
+                <MyWallet onClose={() => layoutStore.hideContentModal()} />,
+                'md'
+              )
+            }
           >
             My Wallet
           </Button>

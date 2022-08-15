@@ -1,7 +1,7 @@
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import { BackgroundMusicProvider } from 'providers/BackgroundMusicProvider';
 import { ProvideLayout } from 'providers/LayoutStoreProvider';
-import { ProvideWallet } from 'providers/WalletStoreProvider';
+import { ProvideWallet } from 'providers/WalletProvider';
 import Navbar from './layout/navbar';
 import Footer from './layout/footer';
 import ScrollToTop from './layout/scroll-to-top';

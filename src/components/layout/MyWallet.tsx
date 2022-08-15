@@ -1,73 +1,147 @@
+import Button from 'components/core/button/button';
 import { ReactComponent as UserSvg } from 'assets/images/user.svg';
 import { ReactComponent as EverscaleSvg } from 'assets/images/everscale.svg';
-import Button from 'components/core/button/button';
+import { ReactComponent as MetamaskSvg } from 'assets/images/metamask.svg';
 import { observer } from 'mobx-react-lite';
-import { useWalletStore } from 'providers/WalletStoreProvider';
-import React from 'react';
 import { cutString } from 'utils/strings';
+import { useEverWallet, useMetamaskWallet } from 'providers/WalletProvider';
 
-const MyWallet = observer(() => {
-  const walletStore = useWalletStore();
+const EverWallet = observer(({ className }: { className?: string }) => {
+  const everWallet = useEverWallet();
 
   return (
-    <div className='flex flex-col text-black'>
-      <div className='flex items-center justify-center pt-2 pb-4 space-x-4 border-b border-b-black/20'>
-        <UserSvg className='w-10 h-auto' />
-        <span className='text-lg'>My Wallet</span>
-      </div>
+    <div className={`flex items-center justify-between p-3 ${className}`}>
+      <div className='flex flex-col'>
+        <div className='flex items-center space-x-3'>
+          <EverscaleSvg className='w-12 h-auto' />
 
-      {walletStore.loggedIn && walletStore.account?.address ? (
-        <div className='flex flex-col items-center space-y-1 pt-4'>
-          <span>Your address</span>
-          <span className='text-link'>
-            {cutString(walletStore.account?.address, 10, 4)}
-          </span>
-        </div>
-      ) : (
-        <React.Fragment>
-          <div className='flex items-center justify-center space-x-1 pt-4'>
-            <span>Connect with</span>
+          <div className='flex flex-col'>
             <a
-              className='text-link'
-              href={walletStore.extensionDownloadUrl}
+              className='text-link sm:text-lg'
+              href={everWallet.extensionDownloadUrl}
               target='_blank'
               rel='noreferrer'
             >
               <span>EVER Wallet</span>
             </a>
-          </div>
-        </React.Fragment>
-      )}
 
-      <div className='flex justify-center py-6'>
-        <EverscaleSvg className='w-full h-auto max-w-[160px] sm:max-w-[200px]' />
+            {everWallet.extensionInstalled ? (
+              <span className='text-sm text-secondaryBg/80'>
+                {everWallet.account
+                  ? cutString(everWallet.account.address, 8, 4)
+                  : 'Not connected'}
+              </span>
+            ) : (
+              <span className='text-sm text-secondaryBg/80'>Not installed</span>
+            )}
+          </div>
+        </div>
       </div>
 
-      {walletStore.loggedIn && (
-        <Button variant='primary' onClick={() => walletStore.logout()}>
-          <span className='text-primary'>Disconnect</span>
-        </Button>
-      )}
-
-      {walletStore.extensionInstalled && !walletStore.loggedIn && (
-        <Button variant='primary' onClick={() => walletStore.login()}>
-          <span className='text-primary'>Connect</span>
-        </Button>
-      )}
-
-      {!walletStore.extensionInstalled && (
-        <a
-          href={walletStore.extensionDownloadUrl}
-          target='_blank'
-          rel='noreferrer'
+      {everWallet.extensionInstalled ? (
+        <Button
+          variant='primary'
+          className='!px-4 !py-2'
+          onClick={() => {
+            everWallet.account ? everWallet.logout() : everWallet.login();
+          }}
         >
-          <Button variant='primary' className='w-full'>
-            <span className='text-primary'>Get EVER Wallet</span>
-          </Button>
-        </a>
+          <span className='text-primary'>
+            {everWallet.account ? 'Disconnect' : 'Connect'}
+          </span>
+        </Button>
+      ) : (
+        <Button variant='primary' className='!px-4 !py-2'>
+          <a
+            className='text-primary'
+            href={everWallet.extensionDownloadUrl}
+            target='_blank'
+            rel='noreferrer'
+          >
+            <span>Install</span>
+          </a>
+        </Button>
       )}
     </div>
   );
 });
+
+const MetamaskWallet = observer(({ className }: { className?: string }) => {
+  const metamaskWallet = useMetamaskWallet();
+
+  return (
+    <div className={`flex items-center justify-between p-3 ${className}`}>
+      <div className='flex flex-col'>
+        <div className='flex items-center space-x-3'>
+          <MetamaskSvg className='w-12 h-auto' />
+
+          <div className='flex flex-col'>
+            <a
+              className='text-link sm:text-lg'
+              href={metamaskWallet.extensionDownloadUrl}
+              target='_blank'
+              rel='noreferrer'
+            >
+              <span>MetaMask</span>
+            </a>
+
+            {metamaskWallet.extensionInstalled ? (
+              <span className='text-sm text-secondaryBg/80'>
+                {metamaskWallet.account
+                  ? cutString(metamaskWallet.account, 8, 4)
+                  : 'Not connected'}
+              </span>
+            ) : (
+              <span className='text-sm text-secondaryBg/80'>Not installed</span>
+            )}
+          </div>
+        </div>
+      </div>
+
+      {metamaskWallet.extensionInstalled && !metamaskWallet.account && (
+        <Button
+          variant='primary'
+          className='!px-4 !py-2'
+          onClick={() => metamaskWallet.login()}
+        >
+          <span className='text-primary'>Connect</span>
+        </Button>
+      )}
+
+      {!metamaskWallet.extensionInstalled && (
+        <Button variant='primary' className='!px-4 !py-2'>
+          <a
+            className='text-primary'
+            href={metamaskWallet.extensionDownloadUrl}
+            target='_blank'
+            rel='noreferrer'
+          >
+            <span>Install</span>
+          </a>
+        </Button>
+      )}
+    </div>
+  );
+});
+
+const MyWallet = ({ onClose }: { onClose: () => void }) => {
+  return (
+    <div className='flex flex-col text-black'>
+      <div className='flex items-center justify-center pt-2 pb-4 space-x-4 border-b-black/10'>
+        <UserSvg className='w-10 h-auto' />
+        <span className='text-lg'>My Wallet</span>
+      </div>
+
+      <div className='flex flex-col border border-black/10 mt-2 mb-8 rounded-xl'>
+        <EverWallet className='border-b border-b-black/10' />
+        <MetamaskWallet />
+      </div>
+
+      <Button variant='primary' onClick={onClose}>
+        <span className='text-primary'>Close</span>
+      </Button>
+    </div>
+  );
+};
 
 export default MyWallet;

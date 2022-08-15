@@ -7,7 +7,7 @@ type EverAccount = {
   walletType: string;
 };
 
-export class WalletStore {
+export class EverWalletStore {
   constructor() {
     makeAutoObservable(this);
 
@@ -22,10 +22,6 @@ export class WalletStore {
 
   get extensionDownloadUrl() {
     return 'https://l1.broxus.com/everscale/wallet';
-  }
-
-  get loggedIn() {
-    return !!this.account;
   }
 
   async init() {
