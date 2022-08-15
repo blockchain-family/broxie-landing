@@ -12,6 +12,6 @@ update_master_job:
     - master
   script:
     - ssh-add <(echo "$SSH_PRIVATE_KEY")
-    - yarn install --frozen-lockfile
-    - CI=false yarn run build
+    - npm install
+    - CI=false npm run build
     - scp -r dist/* ${SERVER_USER}@${SERVER_URL}:${SERVER_PATH}
