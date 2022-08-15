@@ -19,8 +19,7 @@
   },
   "scripts": {
     "start": "env-cmd -f .env react-scripts start",
-    "build": "env-cmd -f .env react-scripts build",
-    "deploy": "surge --domain broxie.surge.sh dist/"
+    "build": "env-cmd -f .env react-scripts build"
   },
   "eslintConfig": {
     "extends": [
