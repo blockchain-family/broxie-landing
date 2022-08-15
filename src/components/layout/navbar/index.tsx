@@ -36,7 +36,7 @@ const Navbar = () => {
 
           <Observer>
             {() => (
-              <div
+              <button
                 className='hidden sm:block bg-primary/20 rounded-full p-3 cursor-pointer'
                 onClick={() => {
                   musicStore.playing === true
@@ -47,7 +47,7 @@ const Navbar = () => {
                 <span className='text-3xl'>
                   {musicStore.playing ? <BsVolumeUp /> : <BsVolumeMute />}
                 </span>
-              </div>
+              </button>
             )}
           </Observer>
         </div>
