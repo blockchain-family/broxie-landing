@@ -21,7 +21,10 @@ const LandingFooter = () => {
   return (
     <div className='flex flex-col space-y-10'>
       <div className='relative overflow-hidden'>
-        <ResponsiveVideo files={videos} mobileImg={bg_full_fallback} />
+        <ResponsiveVideo
+          files={videos}
+          mobileImg={{ src: bg_full_fallback, width: 1920, height: 2374 }}
+        />
 
         <div className='absolute -top-1 bg-gradient-to-b from-black to-transparent w-full h-12' />
 

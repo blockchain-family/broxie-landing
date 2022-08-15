@@ -64,6 +64,21 @@ const BecomePartDescription = () => {
   );
 };
 
+const imgResolution = {
+  low: {
+    w: 1920,
+    h: 2463,
+  },
+  mid: {
+    w: 2880,
+    h: 3694,
+  },
+  high: {
+    w: 3840,
+    h: 4925,
+  },
+};
+
 const LandingHeader = () => {
   const isDesktop = useSmMediaQuery();
 
@@ -72,9 +87,24 @@ const LandingHeader = () => {
       {
         children: (
           <ResponsiveImage
-            lowQ={bg_sky_low}
-            midQ={bg_sky_mid}
-            highQ={bg_sky_high}
+            lowQ={{
+              src: bg_sky_low,
+              type: 'image/webp',
+              width: imgResolution.low.w,
+              height: imgResolution.low.h,
+            }}
+            midQ={{
+              src: bg_sky_mid,
+              type: 'image/webp',
+              width: imgResolution.mid.w,
+              height: imgResolution.mid.h,
+            }}
+            highQ={{
+              src: bg_sky_high,
+              type: 'image/webp',
+              width: imgResolution.high.w,
+              height: imgResolution.high.h,
+            }}
           />
         ),
         translateY: [-16, 26],
@@ -83,9 +113,24 @@ const LandingHeader = () => {
       {
         children: (
           <ResponsiveImage
-            lowQ={bg_rocks_low}
-            midQ={bg_rocks_mid}
-            highQ={bg_rocks_high}
+            lowQ={{
+              src: bg_rocks_low,
+              type: 'image/webp',
+              width: imgResolution.low.w,
+              height: imgResolution.low.h,
+            }}
+            midQ={{
+              src: bg_rocks_mid,
+              type: 'image/webp',
+              width: imgResolution.mid.w,
+              height: imgResolution.mid.h,
+            }}
+            highQ={{
+              src: bg_rocks_high,
+              type: 'image/webp',
+              width: imgResolution.high.w,
+              height: imgResolution.high.h,
+            }}
           />
         ),
         translateY: [-12, 15],
@@ -94,9 +139,24 @@ const LandingHeader = () => {
       {
         children: (
           <ResponsiveImage
-            lowQ={bg_town_low}
-            midQ={bg_town_mid}
-            highQ={bg_town_high}
+            lowQ={{
+              src: bg_town_low,
+              type: 'image/webp',
+              width: imgResolution.low.w,
+              height: imgResolution.low.h,
+            }}
+            midQ={{
+              src: bg_town_mid,
+              type: 'image/webp',
+              width: imgResolution.mid.w,
+              height: imgResolution.mid.h,
+            }}
+            highQ={{
+              src: bg_town_high,
+              type: 'image/webp',
+              width: imgResolution.high.w,
+              height: imgResolution.high.h,
+            }}
           />
         ),
         translateY: [-10, 4],
@@ -105,10 +165,30 @@ const LandingHeader = () => {
       {
         children: (
           <ResponsiveImage
-            lowQ={bg_house_low}
-            midQ={bg_house_mid}
-            highQ={bg_house_high}
-            fallbackImg={bg_full}
+            lowQ={{
+              src: bg_house_low,
+              type: 'image/webp',
+              width: imgResolution.low.w,
+              height: imgResolution.low.h,
+            }}
+            midQ={{
+              src: bg_house_mid,
+              type: 'image/webp',
+              width: imgResolution.mid.w,
+              height: imgResolution.mid.h,
+            }}
+            highQ={{
+              src: bg_house_high,
+              type: 'image/webp',
+              width: imgResolution.high.w,
+              height: imgResolution.high.h,
+            }}
+            fallbackImg={{
+              src: bg_full,
+              type: 'image/jpeg',
+              width: imgResolution.low.w,
+              height: imgResolution.low.h,
+            }}
           />
         ),
         expanded: false,
@@ -117,7 +197,10 @@ const LandingHeader = () => {
     []
   );
 
-  const paddingAspectRatio = useMemo(() => (1 / (3840 / 4925)) * 100, []);
+  const paddingAspectRatio = useMemo(
+    () => (1 / (imgResolution.high.w / imgResolution.high.h)) * 100,
+    []
+  );
 
   return (
     <div>
@@ -130,7 +213,13 @@ const LandingHeader = () => {
             }}
           />
         ) : (
-          <img className='w-full h-auto' src={bg_full} alt='' />
+          <img
+            className='w-full h-auto'
+            src={bg_full}
+            width={imgResolution.low.w}
+            height={imgResolution.low.h}
+            alt=''
+          />
         )}
 
         <div className='absolute -bottom-1 bg-gradient-to-t from-black to-transparent w-full h-24' />

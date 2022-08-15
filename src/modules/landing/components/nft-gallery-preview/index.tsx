@@ -50,7 +50,13 @@ const NftGalleryPreview = () => {
             key={x.name}
             className='bg-secondaryBg rounded-xl p-2 sm:p-3 even:mt-10'
           >
-            <img className='w-full h-auto rounded-xl' src={x.src} alt='' />
+            <img
+              className='w-full h-auto rounded-xl'
+              src={x.src}
+              width={600}
+              height={600}
+              alt=''
+            />
 
             <div className='text-center my-6'>
               <span>{x.name}</span>

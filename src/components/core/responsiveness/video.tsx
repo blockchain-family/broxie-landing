@@ -8,14 +8,22 @@ type Video = {
 
 type VideoProps = {
   files: Video[];
-  mobileImg?: string | undefined;
+  mobileImg?: { src: string; width: number; height: number };
 };
 
 const ResponsiveVideo = (props: VideoProps) => {
   const isDesktopWidth = useLgMediaQuery();
 
   if (!isDesktopWidth || isIOS) {
-    return <img className='w-full h-auto' src={props.mobileImg} alt='' />;
+    return (
+      <img
+        className='w-full h-auto'
+        src={props.mobileImg?.src}
+        width={props.mobileImg?.width}
+        height={props.mobileImg?.height}
+        alt=''
+      />
+    );
   }
 
   return (
@@ -25,7 +33,7 @@ const ResponsiveVideo = (props: VideoProps) => {
       loop
       playsInline
       muted
-      poster={props.mobileImg}
+      poster={props.mobileImg?.src}
     >
       {props.files.map((x) => (
         <source key={x.src} src={x.src} type={x.type} />
