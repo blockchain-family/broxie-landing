@@ -20,10 +20,10 @@ const UtilityButton = () => {
         }
       >
         <span className='sm:text-lg'>
-          Each Broxie comes with utilities that will give you preferences and
-          additional benefits from using Broxus products. Cool utility mechanics
-          will be implemented in the foreseeable future, don't miss your chance
-          to profit!
+          Each Broxie comes with utilities that will give you advantages and
+          additional benefits when using Broxus products. There will be some
+          killer utility mechanics implemented in the near future, don't miss
+          your chance to profit!
         </span>
       </div>
     </div>

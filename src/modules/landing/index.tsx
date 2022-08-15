@@ -1,5 +1,5 @@
 import { ParallaxProvider } from 'react-scroll-parallax';
-import LandingBodySimplified from './components/body-simplified';
+import LandingBody from './components/body';
 import LandingFooter from './components/footer';
 import LandingHeader from './components/header';
 
@@ -8,7 +8,7 @@ const LandingPage = () => {
     <ParallaxProvider>
       <div className='max-w-screen-4k mx-auto'>
         <LandingHeader />
-        <LandingBodySimplified />
+        <LandingBody />
         <LandingFooter />
       </div>
     </ParallaxProvider>

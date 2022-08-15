@@ -1,5 +1,4 @@
 import Button from 'components/core/button/button';
-import { NavLink } from 'react-router-dom';
 import { BsVolumeMute, BsVolumeUp } from 'react-icons/bs';
 import { ReactComponent as Broxie } from 'assets/images/broxie.svg';
 import { ReactComponent as BroxieLogo } from 'assets/images/broxie-logo.svg';
@@ -21,11 +20,13 @@ const Navbar = () => {
         </div>
 
         <div className='flex items-center space-x-1 sm:space-x-3'>
-          <NavLink to='/' className='sm:px-2'>
-            Home
-          </NavLink>
+          <button className='px-2'>
+            <span>Utility</span>
+          </button>
 
-          <span className='cursor-pointer px-4 sm:px-6'>FAQ</span>
+          <button className='px-4 sm:px-6'>
+            <span>FAQ</span>
+          </button>
 
           <Button
             variant='primary'

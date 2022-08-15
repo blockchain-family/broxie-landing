@@ -44,21 +44,21 @@ const BecomePartDescription = () => {
       className='text-center text-lg flex flex-col space-y-8'
     >
       <span>
-        Broxie is literally the existing world of hard workers from Broxus. They
-        create, work and brainstorm every day, contributing to the development
-        of the Everscale ecosystem.
+        Broxie represents a world of hard workers from Broxus. They create, work
+        and brainstorm every day, contributing to the development of the
+        Everscale ecosystem.
       </span>
 
       <span>
-        Broxie is not a position in a company, it is a collective image of
-        ordinary guys who live in the web3.0 universe, are driven by pure
-        self-realization and believe that the main value in this world is
-        working with kindred spirits.
+        Broxie is not a position in a company, it is a collective of ordinary
+        people who live in the web3 universe, are driven by a shared pursuit of
+        self-realization and believe that there is nothing better in this world
+        than working with kindred spirits.
       </span>
 
       <span>
         For our friends, we present a collection of 2000 unique digital
-        portraits living in the friendliest atmosphere.
+        portraits living in the friendliest atmosphere imaginable.
       </span>
     </Container>
   );

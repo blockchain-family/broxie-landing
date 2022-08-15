@@ -36,30 +36,27 @@ const LandingFooter = () => {
           <span className='text-4xl sm:text-6xl font-header'>How it works</span>
 
           <span>
-            There are 2000 unique Broxie in total. Each of them is randomly
-            generated from a collection of traits created by us, created by our
-            employees based on personal views on the image of the inhabitants of
-            the future web3.0 world.
+            There will be a lot of unique Broxies. Each of them is randomly
+            generated from a collection of traits created by us based on what we
+            envision to be the inhabitants of the future web3 world.
           </span>
 
           <span>
-            To ensure a fair distribution, the user will not know which Broxie
-            he is buying for the first 14 days after the sale. All NFTs have
+            To ensure a fair distribution, a user will not know which Broxie
+            they are buying for the first 14 days after the sale. All NFTs have
             already been generated, but not yet indexed. There is a
             predetermined sequence of portraits, but which one comes first will
-            only be determined at the end of the sale using blockchain
-            randomness. This method guarantees a fair distribution. Due to
+            only be determined at the end of the sale using a random selection
+            algorithm. This method guarantees a fair distribution. Due to the
             expected high demand during the initial distribution period, we have
             decided to limit the number of purchased Broxies to no more than 20
             per address.
           </span>
 
           <span>
-            The distribution period starts at 04 July 2022, 04:00 PM (CEST).
-            After 10 days or when all the Broxies have been sold (whichever
-            comes first), the contribution period ends and it will be determined
-            which portrait will get number one and which Broxies will go to you
-            accordingly.
+            The acquisition period starts (TBA). After 10 days, or when all the
+            Broxies have been sold (whichever comes first), the acquisition
+            period will end and the order of distribution will be determined.
           </span>
         </div>
       </Container>

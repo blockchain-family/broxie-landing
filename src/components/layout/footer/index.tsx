@@ -19,7 +19,7 @@ const Footer = () => {
           className='uppercase underline cursor-pointer'
           onClick={goUpClick}
         >
-          Tap to go up
+          Return to top
         </span>
       </div>
     </div>

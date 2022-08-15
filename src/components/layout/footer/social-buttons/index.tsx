@@ -11,7 +11,7 @@ const SocialButtons = () => {
   return (
     <div className='flex flex-col w-full max-w-6xl mx-auto text-center'>
       <span className='text-4xl sm:text-6xl font-header mt-10 sm:mt-24'>
-        We are in social networks
+        Check us out on social media
       </span>
 
       <div className='relative'>
