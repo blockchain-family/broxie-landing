@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 import { useIntl } from 'react-intl';
+import { useInView } from 'react-intersection-observer';
 import { useSmMediaQuery } from 'utils/responsiveness';
 import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
@@ -28,15 +29,25 @@ import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
 const BecomePart = () => {
   const intl = useIntl();
 
+  const { ref, inView } = useInView({
+    rootMargin: '-70% 0% 0% 0%',
+  });
+
   return (
-    <div className='flex flex-col space-y-2 text-center px-4'>
+    <div className='flex flex-col space-y-2 text-center px-4 pointer-events-none'>
       <h1 className='font-header text-5xl sm:text-6xl md:text-8xl lg:text-9xl'>
         {intl.formatMessage({
           id: 'landing.header.become_part',
           defaultMessage: 'Become part of Broxus',
         })}
       </h1>
-      <span className='hidden sm:inline text-xs sm:text-xl opacity-50'>
+
+      <span
+        ref={ref}
+        className={`hidden sm:inline text-xs sm:text-xl opacity-0 transition-opacity ${
+          inView ? '!opacity-50' : ''
+        }`}
+      >
         {intl.formatMessage({
           id: 'landing.header.scroll_for_membership',
           defaultMessage: 'Scroll for membership',
