@@ -43,6 +43,7 @@ const ResponsiveImage = (props: ImageProps) => {
         media={minWidthLow}
       />
       <img
+        className='w-full h-auto'
         src={props.fallbackImg?.src}
         width={props.fallbackImg?.width}
         height={props.fallbackImg?.height}
