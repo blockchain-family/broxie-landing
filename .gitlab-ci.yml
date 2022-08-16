@@ -1,6 +1,6 @@
 stages:
   - update
-image: node:14.17.6
+image: node:16.16.0
 update_master_job:
   stage: update
   before_script:
