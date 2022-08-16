@@ -1,4 +1,4 @@
-import MyWallet from '../MyWallet';
+import MyWallet from '../my-wallet';
 import Button from 'components/core/button/button';
 import { useCallback } from 'react';
 import { BsVolumeMute, BsVolumeUp } from 'react-icons/bs';

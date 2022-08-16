@@ -1,4 +1,4 @@
-import ModalArea from 'components/layout/ModalArea';
+import ModalArea from 'components/layout/modal-area';
 import { useLocalObservable } from 'mobx-react-lite';
 import { createContext, useContext } from 'react';
 import { LayoutStore } from 'stores/LayoutStore';
