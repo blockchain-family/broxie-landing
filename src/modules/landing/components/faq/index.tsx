@@ -1,10 +1,13 @@
+import React from 'react';
 import {
   Accordion,
   AccordionItem,
   AccordionItemHeading,
   AccordionItemButton,
   AccordionItemPanel,
+  AccordionItemState,
 } from 'react-accessible-accordion';
+import { BsDashCircleFill, BsPlusCircleFill } from 'react-icons/bs';
 
 type FaqQuestion = {
   question: string;
@@ -107,9 +110,9 @@ const Faq = () => {
   return (
     <div
       id='faq_section'
-      className='space-y-8 sm:space-y-12 w-full mx-auto text-center py-8'
+      className='space-y-8 sm:space-y-12 w-full mx-auto py-8'
     >
-      <div className='font-header text-4xl sm:text-6xl'>FAQ</div>
+      <div className='text-center font-header text-4xl sm:text-6xl'>FAQ</div>
 
       <Accordion
         className='w-full space-y-6'
@@ -117,11 +120,20 @@ const Faq = () => {
         allowZeroExpanded
       >
         {questions.map((x) => (
-          <AccordionItem key={x.question} className='space-y-1'>
+          <AccordionItem key={x.question} className='space-y-4 pb-1'>
             <AccordionItemHeading className='text-2xl font-bold'>
-              <AccordionItemButton>{x.question}</AccordionItemButton>
+              <AccordionItemButton className='flex items-center space-x-2 sm:space-x-4'>
+                <AccordionItemState>
+                  {({ expanded }) => (
+                    <span className='text-primary/40 mr-3 shrink-0'>
+                      {expanded ? <BsDashCircleFill /> : <BsPlusCircleFill />}
+                    </span>
+                  )}
+                </AccordionItemState>
+                <span>{x.question}</span>
+              </AccordionItemButton>
             </AccordionItemHeading>
-            <AccordionItemPanel className='text-lg'>
+            <AccordionItemPanel className='text-lg text-center'>
               {x.answer}
             </AccordionItemPanel>
           </AccordionItem>
