@@ -4,8 +4,8 @@ import { useIntl } from 'react-intl';
 const links = [
   'https://twitter.com/BroxieNFT',
   'https://discord.gg/6dryaZQNmC',
-  'https://t.me/broxie_news',
-  'https://instagram.com/broxie_nft',
+  'https://t.me/broxieNFT_chat',
+  'https://instagram.com/broxieNFT',
 ];
 
 const SocialButtons = () => {

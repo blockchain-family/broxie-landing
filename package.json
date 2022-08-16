@@ -22,7 +22,8 @@
   "scripts": {
     "start": "env-cmd -f .env react-scripts start",
     "build": "env-cmd -f .env react-scripts build",
-    "generate-intl": "formatjs extract \"src/**/*.tsx\" --format simple --out-file src/assets/lang/landing/en.json --id-interpolation-pattern '[sha512:contenthash:base64:6]'"
+    "generate-intl": "formatjs extract \"src/**/*.tsx\" --format simple --out-file src/assets/lang/en.json --id-interpolation-pattern '[sha512:contenthash:base64:6]'",
+    "crowdin-sync": "crowdin upload && crowdin download"
   },
   "eslintConfig": {
     "extends": [
@@ -43,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "@crowdin/cli": "^3.7.10",
     "@formatjs/cli": "^5.0.7",
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.5",

@@ -1,0 +1,11 @@
+project_id: '532594'
+api_token: '8e23b5b67549558f814a39f525656cb12a648d4b86468436706b822345278cd58540ee317cc05653'
+preserve_hierarchy: true
+files: [
+    # JSON translation files
+    {
+      source: '/src/assets/lang/en.json',
+      dest: '/en.json',
+      translation: '/src/assets/lang/%two_letters_code%.json',
+    },
+  ]

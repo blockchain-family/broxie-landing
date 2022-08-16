@@ -1,7 +1,7 @@
 import { observer } from 'mobx-react-lite';
 import { IntlProvider } from 'react-intl';
 
-import messages_en from 'assets/lang/landing/en.json';
+import messages_en from 'assets/lang/en.json';
 
 export const ProvideIntl = observer(({ children }: any) => {
   return (
