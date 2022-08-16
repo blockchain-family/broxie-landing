@@ -1,7 +1,7 @@
-import Container from 'components/core/container';
 import { useIntl } from 'react-intl';
+import Utility from './utility';
 import NftGalleryPreview from './nft-gallery-preview';
-import UtilityButton from './utility-button';
+import Container from 'components/core/container';
 
 const LandingBody = () => {
   const intl = useIntl();
@@ -39,7 +39,7 @@ const LandingBody = () => {
         </div>
       </Container>
 
-      <UtilityButton />
+      <Utility />
     </div>
   );
 };

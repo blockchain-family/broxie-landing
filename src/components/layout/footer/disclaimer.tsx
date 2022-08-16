@@ -7,7 +7,7 @@ const Disclaimer = () => {
   return (
     <Container
       size='sm'
-      className='flex flex-col space-y-4 sm:space-y-8 text-center px-6 pb-16'
+      className='flex flex-col space-y-4 sm:space-y-8 text-center px-6 pt-4 pb-8 sm:py-16'
     >
       <span className='font-header text-4xl sm:text-6xl'>
         {intl.formatMessage({

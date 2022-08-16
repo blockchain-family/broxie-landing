@@ -3,7 +3,7 @@ import { useIntl } from 'react-intl';
 import { ReactComponent as UtilitySvg } from 'assets/images/landing/utility.svg';
 import Container from 'components/core/container';
 
-const UtilityButton = () => {
+const Utility = () => {
   const intl = useIntl();
 
   const utilities = useMemo(
@@ -47,11 +47,11 @@ const UtilityButton = () => {
 
   return (
     <div id='utility_section' className='mx-auto max-w-3xl px-4 text-center'>
-      <UtilitySvg className='w-full h-auto' />
+      <UtilitySvg className='w-full h-auto mb-4' />
 
       <Container
         size='sm'
-        className='flex flex-col justify-center items-center text-lg space-y-8 sm:space-y-12 px-4'
+        className='flex flex-col justify-center items-center text-lg px-4 space-y-8'
       >
         <span>
           {intl.formatMessage({
@@ -72,4 +72,4 @@ const UtilityButton = () => {
   );
 };
 
-export default UtilityButton;
+export default Utility;
