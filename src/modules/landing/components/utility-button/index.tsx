@@ -62,10 +62,8 @@ const UtilityButton = () => {
         </span>
 
         {utilities.map((x) => (
-          <div className='flex flex-col space-y-1'>
-            <span key={x.title} className='font-bold'>
-              {x.title}
-            </span>
+          <div key={x.title} className='flex flex-col space-y-1'>
+            <span className='font-bold'>{x.title}</span>
             <span>{x.description}</span>
           </div>
         ))}
