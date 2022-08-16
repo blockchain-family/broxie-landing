@@ -1,4 +1,5 @@
 import { ReactComponent as MainBgSvg } from 'assets/images/landing/footer/social-buttons-bg.svg';
+import { useIntl } from 'react-intl';
 
 const links = [
   'https://twitter.com/BroxieNFT',
@@ -8,10 +9,15 @@ const links = [
 ];
 
 const SocialButtons = () => {
+  const intl = useIntl();
+
   return (
     <div className='flex flex-col w-full max-w-6xl mx-auto text-center'>
       <span className='text-4xl sm:text-6xl font-header'>
-        Check us out on social media
+        {intl.formatMessage({
+          id: 'landing.page_footer.social_buttons.title',
+          defaultMessage: 'Check us out on social media',
+        })}
       </span>
 
       <div className='relative'>

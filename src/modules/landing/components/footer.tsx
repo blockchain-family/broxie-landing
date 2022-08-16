@@ -1,4 +1,5 @@
 import { useMemo } from 'react';
+import { useIntl } from 'react-intl';
 import { ReactComponent as ImageCutSvg } from 'assets/images/landing/footer/image-cut.svg';
 
 import Faq from './faq';
@@ -19,6 +20,9 @@ const LandingFooter = () => {
     ],
     []
   );
+
+  const intl = useIntl();
+
   return (
     <div className='flex flex-col space-y-10'>
       <div className='relative overflow-hidden'>
@@ -34,30 +38,35 @@ const LandingFooter = () => {
 
       <Container size='sm' className='flex flex-col'>
         <div className='flex flex-col space-y-8 items-center text-center text-lg'>
-          <span className='text-4xl sm:text-6xl font-header'>How it works</span>
-
-          <span>
-            There will be a lot of unique Broxies. Each of them is randomly
-            generated from a collection of traits created by us based on what we
-            envision to be the inhabitants of the future web3 world.
+          <span className='text-4xl sm:text-6xl font-header'>
+            {intl.formatMessage({
+              id: 'landing.footer.how_it_works',
+              defaultMessage: 'How it works',
+            })}
           </span>
 
           <span>
-            To ensure a fair distribution, a user will not know which Broxie
-            they are buying for the first 14 days after the sale. All NFTs have
-            already been generated, but not yet indexed. There is a
-            predetermined sequence of portraits, but which one comes first will
-            only be determined at the end of the sale using a random selection
-            algorithm. This method guarantees a fair distribution. Due to the
-            expected high demand during the initial distribution period, we have
-            decided to limit the number of purchased Broxies to no more than 20
-            per address.
+            {intl.formatMessage({
+              id: 'landing.footer.how_it_works.description.part1',
+              defaultMessage:
+                'There are going to be a number of different Broxies and each will be completely unique. Each Broxie will be created via random selection from a pool of characteristics that we have put together that is representative of the Broxus and web3 community.',
+            })}
           </span>
 
           <span>
-            The acquisition period starts (TBA). After 10 days, or when all the
-            Broxies have been sold (whichever comes first), the acquisition
-            period will end and the order of distribution will be determined.
+            {intl.formatMessage({
+              id: 'landing.footer.how_it_works.description.part2',
+              defaultMessage:
+                'During the drop period, you won’t know what Broxie you end up with until 14 days after the drop has ended. The Broxus NFTs have been already been created but they won’t be officially allocated until the drop ends. Once the drop ends, we will use a random distribution mechanism to ensure that the process is fair for everyone. Because we anticipate a high demand, each user (wallet) will be allowed to buy at most 254 Broxies.',
+            })}
+          </span>
+
+          <span>
+            {intl.formatMessage({
+              id: 'landing.footer.how_it_works.description.part3',
+              defaultMessage:
+                'The drop will start (TBA). After 14 days, or all the Broxies have been accounted for (whichever comes first), the drop period will end and the order of distribution will be determined.',
+            })}
           </span>
         </div>
       </Container>

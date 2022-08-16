@@ -1,5 +1,6 @@
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import { BackgroundMusicProvider } from 'providers/BackgroundMusicProvider';
+import { ProvideIntl } from 'providers/IntlProvider';
 import { ProvideLayout } from 'providers/LayoutStoreProvider';
 import { ProvideWallet } from 'providers/WalletProvider';
 import Navbar from './layout/navbar';
@@ -9,24 +10,26 @@ import LandingPage from 'modules/landing';
 
 const App = () => {
   return (
-    <ProvideWallet>
-      <BackgroundMusicProvider>
-        <BrowserRouter>
-          <ProvideLayout>
-            <ScrollToTop />
+    <ProvideIntl>
+      <ProvideWallet>
+        <BackgroundMusicProvider>
+          <BrowserRouter>
+            <ProvideLayout>
+              <ScrollToTop />
 
-            <Navbar />
+              <Navbar />
 
-            <Routes>
-              <Route index element={<LandingPage />} />
-              <Route path='*' element={<Navigate to='/' />} />
-            </Routes>
+              <Routes>
+                <Route index element={<LandingPage />} />
+                <Route path='*' element={<Navigate to='/' />} />
+              </Routes>
 
-            <Footer />
-          </ProvideLayout>
-        </BrowserRouter>
-      </BackgroundMusicProvider>
-    </ProvideWallet>
+              <Footer />
+            </ProvideLayout>
+          </BrowserRouter>
+        </BackgroundMusicProvider>
+      </ProvideWallet>
+    </ProvideIntl>
   );
 };
 

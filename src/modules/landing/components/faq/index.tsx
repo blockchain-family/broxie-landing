@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import {
   Accordion,
   AccordionItem,
@@ -8,111 +8,166 @@ import {
   AccordionItemState,
 } from 'react-accessible-accordion';
 import { BsDashCircleFill, BsPlusCircleFill } from 'react-icons/bs';
+import { FormattedMessage, useIntl } from 'react-intl';
 
 type FaqQuestion = {
   question: string;
   answer: JSX.Element;
 };
 
-const questions: FaqQuestion[] = [
-  {
-    question: 'What are Broxie NFTs?',
-    answer: (
-      <span>
-        This is the first ever NFT collection created by Broxus, core developers
-        of the Everscale blockchain. Never heard of NFT collections before? Man,
-        it’s 2022, just google it.
-      </span>
-    ),
-  },
-  {
-    question: 'What is Everscale? What is Broxus?',
-    answer: (
-      <span>
-        The{' '}
-        <a
-          href='https://everscale.network'
-          className='text-link'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          Everscale
-        </a>{' '}
-        blockchain is fast, scalable, and decentralized by design. The{' '}
-        <a
-          href='https://broxus.com'
-          className='text-link'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          Broxus
-        </a>{' '}
-        team is one of the core contributors of the Everscale network and the
-        creators of Octus Bridge, FlatQube, EVER Wallet and more.
-      </span>
-    ),
-  },
-  {
-    question: 'What’s so special about Broxies?',
-    answer: (
-      <span>
-        So, first things first, it’s their utility that makes them desirable.
-        You can read about that above. Secondly, since it’s the first collection
-        ever, it’s an opportunity to become a part of Broxus and Everscale
-        history. Thirdly, they just look good. Last but not least, we’ve got
-        more surprises in store related to the collection.
-      </span>
-    ),
-  },
-  {
-    question: 'How to purchase a Broxie NFT?',
-    answer: (
-      <span>
-        Download the{' '}
-        <a
-          href='https://l1.broxus.com/everscale/wallet'
-          className='text-link'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          EVER Wallet
-        </a>{' '}
-        for the Everscale blockchain in order to buy and store NFTs. You can
-        also use{' '}
-        <a
-          href='https://metamask.io/download'
-          className='text-link'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          MetaMask
-        </a>{' '}
-        to purchase NFTs with funds from other blockchains. Then, wait until the
-        “Purchase” button becomes available. Click on it and purchase an NFT.
-        That’s it! After the mint, your NFT will be available in your EVER
-        Wallet. After that wait for the mint, and, voilà.
-      </span>
-    ),
-  },
-  {
-    question: 'When will the Broxie mint happen?',
-    answer: <span>TBA</span>,
-  },
-  {
-    question: 'Do you guys have any socials? I want to stay updated.',
-    answer: (
-      <span>Yes, you can find the links at the bottom of our website.</span>
-    ),
-  },
-];
-
 const Faq = () => {
+  const intl = useIntl();
+
+  const questions: FaqQuestion[] = useMemo(
+    () => [
+      {
+        question: intl.formatMessage({
+          id: 'landing.faq.question1',
+          defaultMessage: 'What are Broxie NFTs?',
+        }),
+        answer: (
+          <span>
+            {intl.formatMessage({
+              id: 'landing.faq.question1.answer',
+              defaultMessage:
+                'This is the first ever NFT collection created by Broxus, core developers of the Everscale blockchain. Never heard of NFT collections before? Man, it’s 2022, just google it.',
+            })}
+          </span>
+        ),
+      },
+      {
+        question: intl.formatMessage({
+          id: 'landing.faq.question2',
+          defaultMessage: 'What is Everscale? What is Broxus?',
+        }),
+        answer: (
+          <span>
+            <FormattedMessage
+              id='landing.faq.question2.answer'
+              defaultMessage={
+                'The {everscale} blockchain is fast, scalable, and decentralized by design. The {broxus} team is one of the core contributors of the Everscale network and the creators of Octus Bridge, FlatQube, EVER Wallet and more.'
+              }
+              values={{
+                everscale: (
+                  <a
+                    href='https://everscale.network'
+                    className='text-link'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
+                    Everscale
+                  </a>
+                ),
+                broxus: (
+                  <a
+                    href='https://broxus.com'
+                    className='text-link'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
+                    Broxus
+                  </a>
+                ),
+              }}
+            />
+          </span>
+        ),
+      },
+      {
+        question: intl.formatMessage({
+          id: 'landing.faq.question3',
+          defaultMessage: 'What’s so special about Broxies?',
+        }),
+        answer: (
+          <span>
+            {intl.formatMessage({
+              id: 'landing.faq.question3.answer',
+              defaultMessage:
+                'So, first things first, it’s their utility that makes them desirable. You can read about that above. Secondly, since it’s the first collection ever, it’s an opportunity to become a part of Broxus and Everscale history. Thirdly, they just look good. Last but not least, we’ve got more surprises in store related to the collection.',
+            })}
+          </span>
+        ),
+      },
+      {
+        question: intl.formatMessage({
+          id: 'landing.faq.question4',
+          defaultMessage: 'How to purchase a Broxie NFT?',
+        }),
+        answer: (
+          <span>
+            <FormattedMessage
+              id='landing.faq.question4.answer'
+              defaultMessage={
+                'Download the {everWallet} for the Everscale blockchain in order to buy and store NFTs. You can also use {metaMask} to purchase NFTs with funds from other blockchains. Then, wait until the “Purchase” button becomes avaialble. Click on it and purchase an NFT. That’s it! After the mint, your NFT will be avaialble in your EVER Wallet.'
+              }
+              values={{
+                everWallet: (
+                  <a
+                    href='https://l1.broxus.com/everscale/wallet'
+                    className='text-link'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
+                    EVER Wallet
+                  </a>
+                ),
+                metaMask: (
+                  <a
+                    href='https://metamask.io/download'
+                    className='text-link'
+                    target='_blank'
+                    rel='noopener noreferrer'
+                  >
+                    MetaMask
+                  </a>
+                ),
+              }}
+            />
+          </span>
+        ),
+      },
+      {
+        question: intl.formatMessage({
+          id: 'landing.faq.question5',
+          defaultMessage: 'When will the Broxie mint happen?',
+        }),
+        answer: (
+          <span>
+            {intl.formatMessage({
+              id: 'landing.faq.question5.answer',
+              defaultMessage: 'TBA',
+            })}
+          </span>
+        ),
+      },
+      {
+        question: intl.formatMessage({
+          id: 'landing.faq.question6',
+          defaultMessage:
+            'Do you guys have any socials? I want to stay updated.',
+        }),
+        answer: (
+          <span>
+            {intl.formatMessage({
+              id: 'landing.faq.question6.answer',
+              defaultMessage:
+                'Yes, you can find the links at the bottom of our website.',
+            })}
+          </span>
+        ),
+      },
+    ],
+    [intl]
+  );
+
   return (
     <div
       id='faq_section'
       className='space-y-8 sm:space-y-12 w-full mx-auto py-8'
     >
-      <div className='text-center font-header text-4xl sm:text-6xl'>FAQ</div>
+      <div className='text-center font-header text-4xl sm:text-6xl'>
+        {intl.formatMessage({ id: 'landing.faq', defaultMessage: 'FAQ' })}
+      </div>
 
       <Accordion
         className='w-full space-y-6'

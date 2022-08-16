@@ -1,8 +1,11 @@
 import SocialButtons from './social-buttons';
 import { useCallback } from 'react';
 import { ReactComponent as BroxieSvg } from 'assets/images/broxie.svg';
+import { useIntl } from 'react-intl';
 
 const Footer = () => {
+  const intl = useIntl();
+
   const goUpClick = useCallback(() => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, []);
@@ -18,7 +21,10 @@ const Footer = () => {
           className='uppercase underline cursor-pointer'
           onClick={goUpClick}
         >
-          Return to top
+          {intl.formatMessage({
+            id: 'landing.page_footer.return_to_top',
+            defaultMessage: 'Return to top',
+          })}
         </span>
       </div>
     </div>

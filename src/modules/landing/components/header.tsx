@@ -1,4 +1,5 @@
 import { useMemo } from 'react';
+import { useIntl } from 'react-intl';
 import { useSmMediaQuery } from 'utils/responsiveness';
 import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
@@ -25,40 +26,56 @@ import bg_sky_mid from 'assets/images/landing/header/bg-sky@1.5x.webp';
 import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
 
 const BecomePart = () => {
+  const intl = useIntl();
+
   return (
     <div className='flex flex-col space-y-2 text-center px-4'>
       <h1 className='font-header text-5xl sm:text-6xl md:text-8xl lg:text-9xl'>
-        Become part of Broxus
+        {intl.formatMessage({
+          id: 'landing.header.become_part',
+          defaultMessage: 'Become part of Broxus',
+        })}
       </h1>
       <span className='hidden sm:inline text-xs sm:text-xl opacity-50'>
-        Scroll for membership
+        {intl.formatMessage({
+          id: 'landing.header.scroll_for_membership',
+          defaultMessage: 'Scroll for membership',
+        })}
       </span>
     </div>
   );
 };
 
 const BecomePartDescription = () => {
+  const intl = useIntl();
+
   return (
     <Container
       size='sm'
       className='text-center text-lg flex flex-col space-y-8'
     >
       <span>
-        Broxie represents a world of hard workers from Broxus. They create, work
-        and brainstorm every day, contributing to the development of the
-        Everscale ecosystem.
+        {intl.formatMessage({
+          id: 'landing.header.broxie.description.part1',
+          defaultMessage:
+            'Broxie represents a world of hard workers from Broxus. They create, work and brainstorm every day, contributing to the development of the Everscale ecosystem.',
+        })}
       </span>
 
       <span>
-        Broxie is not a position in a company, it is a collective of ordinary
-        people who live in the web3 universe, are driven by a shared pursuit of
-        self-realization and believe that there is nothing better in this world
-        than working with kindred spirits.
+        {intl.formatMessage({
+          id: 'landing.header.broxie.description.part2',
+          defaultMessage:
+            'Broxie is not a position in a company, it is a collective of ordinary people who live in the web3 universe, are driven by a shared pursuit of self-realization and believe that there is nothing better in this world than working with kindred spirits.',
+        })}
       </span>
 
       <span>
-        For our friends, we present a collection of 2000 unique digital
-        portraits living in the friendliest atmosphere imaginable.
+        {intl.formatMessage({
+          id: 'landing.header.broxie.description.part3',
+          defaultMessage:
+            'For our friends, we present a collection of numerous unique digital portraits living in the friendliest atmosphere imaginable.',
+        })}
       </span>
     </Container>
   );
