@@ -8,21 +8,17 @@ import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanne
 import Container from 'components/core/container';
 import ResponsiveImage from 'components/core/responsiveness/image';
 
-import bg_house_high from 'assets/images/landing/header/bg-house@2x.webp';
-import bg_house_mid from 'assets/images/landing/header/bg-house@1.5x.webp';
-import bg_house_low from 'assets/images/landing/header/bg-house.webp';
+import bg_house_3840 from 'assets/images/landing/header/bg-house-3840.webp';
+import bg_house_1920 from 'assets/images/landing/header/bg-house-1920.webp';
 
-import bg_town_high from 'assets/images/landing/header/bg-town@2x.webp';
-import bg_town_mid from 'assets/images/landing/header/bg-town@1.5x.webp';
-import bg_town_low from 'assets/images/landing/header/bg-town.webp';
+import bg_town_3840 from 'assets/images/landing/header/bg-town-3840.webp';
+import bg_town_1920 from 'assets/images/landing/header/bg-town-1920.webp';
 
-import bg_rocks_high from 'assets/images/landing/header/bg-rocks@2x.webp';
-import bg_rocks_mid from 'assets/images/landing/header/bg-rocks@1.5x.webp';
-import bg_rocks_low from 'assets/images/landing/header/bg-rocks.webp';
+import bg_rocks_3840 from 'assets/images/landing/header/bg-rocks-3840.webp';
+import bg_rocks_1920 from 'assets/images/landing/header/bg-rocks-1920.webp';
 
-import bg_sky_high from 'assets/images/landing/header/bg-sky@2x.webp';
-import bg_sky_mid from 'assets/images/landing/header/bg-sky@1.5x.webp';
-import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
+import bg_sky_3840 from 'assets/images/landing/header/bg-sky-3840.webp';
+import bg_sky_1920 from 'assets/images/landing/header/bg-sky-1920.webp';
 
 import bg_full_fallback from 'assets/images/landing/header/bg-full-1920.jpg';
 import bg_full_mobile from 'assets/images/landing/header/bg-full-960.jpg';
@@ -102,10 +98,6 @@ const imgResolution = {
     w: 1920,
     h: 2463,
   },
-  mid: {
-    w: 2880,
-    h: 3694,
-  },
   high: {
     w: 3840,
     h: 4925,
@@ -121,19 +113,13 @@ const LandingHeader = () => {
         children: (
           <ResponsiveImage
             lowQ={{
-              src: bg_sky_low,
+              src: bg_sky_1920,
               type: 'image/webp',
               width: imgResolution.low.w,
               height: imgResolution.low.h,
             }}
-            midQ={{
-              src: bg_sky_mid,
-              type: 'image/webp',
-              width: imgResolution.mid.w,
-              height: imgResolution.mid.h,
-            }}
             highQ={{
-              src: bg_sky_high,
+              src: bg_sky_3840,
               type: 'image/webp',
               width: imgResolution.high.w,
               height: imgResolution.high.h,
@@ -147,19 +133,13 @@ const LandingHeader = () => {
         children: (
           <ResponsiveImage
             lowQ={{
-              src: bg_rocks_low,
+              src: bg_rocks_1920,
               type: 'image/webp',
               width: imgResolution.low.w,
               height: imgResolution.low.h,
             }}
-            midQ={{
-              src: bg_rocks_mid,
-              type: 'image/webp',
-              width: imgResolution.mid.w,
-              height: imgResolution.mid.h,
-            }}
             highQ={{
-              src: bg_rocks_high,
+              src: bg_rocks_3840,
               type: 'image/webp',
               width: imgResolution.high.w,
               height: imgResolution.high.h,
@@ -173,19 +153,13 @@ const LandingHeader = () => {
         children: (
           <ResponsiveImage
             lowQ={{
-              src: bg_town_low,
+              src: bg_town_1920,
               type: 'image/webp',
               width: imgResolution.low.w,
               height: imgResolution.low.h,
             }}
-            midQ={{
-              src: bg_town_mid,
-              type: 'image/webp',
-              width: imgResolution.mid.w,
-              height: imgResolution.mid.h,
-            }}
             highQ={{
-              src: bg_town_high,
+              src: bg_town_3840,
               type: 'image/webp',
               width: imgResolution.high.w,
               height: imgResolution.high.h,
@@ -199,19 +173,13 @@ const LandingHeader = () => {
         children: (
           <ResponsiveImage
             lowQ={{
-              src: bg_house_low,
+              src: bg_house_1920,
               type: 'image/webp',
               width: imgResolution.low.w,
               height: imgResolution.low.h,
             }}
-            midQ={{
-              src: bg_house_mid,
-              type: 'image/webp',
-              width: imgResolution.mid.w,
-              height: imgResolution.mid.h,
-            }}
             highQ={{
-              src: bg_house_high,
+              src: bg_house_3840,
               type: 'image/webp',
               width: imgResolution.high.w,
               height: imgResolution.high.h,

@@ -1,7 +1,6 @@
 import { breakpoints } from 'utils/responsiveness';
 
-const minWidthHigh = `(min-width: ${breakpoints.quadHd}px)`;
-const minWidthMid = `(min-width: ${breakpoints.fullHd}px)`;
+const minWidthHigh = `(min-width: ${breakpoints.fullHd}px)`;
 const minWidthLow = `(min-width: ${breakpoints.sm}px)`;
 
 export type Image = {
@@ -13,7 +12,6 @@ export type Image = {
 
 type ImageProps = {
   highQ: Image;
-  midQ: Image;
   lowQ: Image;
   fallbackImg?: Image;
 };
@@ -27,13 +25,6 @@ const ResponsiveImage = (props: ImageProps) => {
         width={props.highQ.width}
         height={props.highQ.height}
         media={minWidthHigh}
-      />
-      <source
-        srcSet={props.midQ.src}
-        type={props.midQ.type}
-        width={props.midQ.width}
-        height={props.midQ.height}
-        media={minWidthMid}
       />
       <source
         srcSet={props.lowQ.src}
