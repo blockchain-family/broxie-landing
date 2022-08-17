@@ -25,7 +25,7 @@ const LandingBody = () => {
             {intl.formatMessage({
               id: 'landing.body.become_part.description.part1',
               defaultMessage:
-                'Psst… Hey… Come in here real quick, and don’t say a peep. Word on the street is, these Broxies come with some interesting add-ons. I’ll let you know what I heard, but try to keep it a secret… okay?',
+                'Hey man, I’ve heard some interesting rumors about these Broxies. People are saying that Broxie owners may get special privileges in the Everscale ecosystem and on Broxus platforms. I can’t say for sure, so just keep this between us, alright?',
             })}
           </span>
 

@@ -30,7 +30,7 @@ const BecomePart = () => {
   const intl = useIntl();
 
   const { ref, inView } = useInView({
-    rootMargin: '-70% 0% 0% 0%',
+    rootMargin: '-50% 0% 0% 0%',
   });
 
   return (
@@ -77,7 +77,7 @@ const BecomePartDescription = () => {
         {intl.formatMessage({
           id: 'landing.header.broxie.description.part2',
           defaultMessage:
-            'Broxie is not a position in a company, it is a collective of ordinary people who live in the web3 universe, are driven by a shared pursuit of self-realization and believe that there is nothing better in this world than working with kindred spirits.',
+            'Broxie is not a position in a company, it is a collective of ordinary people who live in the web3 universe, are driven by a shared pursuit of self-realization, and believe that there is nothing better in this world than working with kindred spirits.',
         })}
       </span>
 

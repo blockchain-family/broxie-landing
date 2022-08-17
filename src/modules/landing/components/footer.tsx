@@ -54,19 +54,25 @@ const LandingFooter = () => {
           </span>
 
           <span>
-            {intl.formatMessage({
-              id: 'landing.footer.how_it_works.description.part2',
-              defaultMessage:
-                'During the drop period, you won’t know what Broxie you end up with until 14 days after the drop has ended. The Broxus NFTs have been already been created but they won’t be officially allocated until the drop ends. Once the drop ends, we will use a random distribution mechanism to ensure that the process is fair for everyone. Because we anticipate a high demand, each user (wallet) will be allowed to buy at most 254 Broxies.',
-            })}
+            {intl.formatMessage(
+              {
+                id: 'landing.footer.how_it_works.description.part2',
+                defaultMessage:
+                  'During the drop period, you won’t know what Broxie you end up with until {daysAfterDrop} days after the drop has ended. The Broxus NFTs have been already been created but they won’t be officially allocated until the drop ends. Once the drop ends, we will use a random distribution mechanism to ensure that the process is fair for everyone. Because we anticipate a high demand, each user (wallet) will be allowed to buy at most {broxieLimit} Broxies.',
+              },
+              { daysAfterDrop: 14, broxieLimit: 25 }
+            )}
           </span>
 
           <span>
-            {intl.formatMessage({
-              id: 'landing.footer.how_it_works.description.part3',
-              defaultMessage:
-                'The drop will start (TBA). After 14 days, or all the Broxies have been accounted for (whichever comes first), the drop period will end and the order of distribution will be determined.',
-            })}
+            {intl.formatMessage(
+              {
+                id: 'landing.footer.how_it_works.description.part3',
+                defaultMessage:
+                  'The drop will start (TBA). After {daysAfterDrop} days, or all the Broxies have been accounted for (whichever comes first), the drop period will end and the order of distribution will be determined.',
+              },
+              { daysAfterDrop: 14 }
+            )}
           </span>
         </div>
       </Container>
