@@ -7,7 +7,10 @@ import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanne
 
 import Container from 'components/core/container';
 import ResponsiveImage from 'components/core/responsiveness/image';
-import ResponsiveVideo from 'components/core/responsiveness/video';
+
+import bg_house_high from 'assets/images/landing/header/bg-house@2x.webp';
+import bg_house_mid from 'assets/images/landing/header/bg-house@1.5x.webp';
+import bg_house_low from 'assets/images/landing/header/bg-house.webp';
 
 import bg_town_high from 'assets/images/landing/header/bg-town@2x.webp';
 import bg_town_mid from 'assets/images/landing/header/bg-town@1.5x.webp';
@@ -21,8 +24,6 @@ import bg_sky_high from 'assets/images/landing/header/bg-sky@2x.webp';
 import bg_sky_mid from 'assets/images/landing/header/bg-sky@1.5x.webp';
 import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
 
-import bg_full_3840_VP9 from 'assets/images/landing/header/bg-full-3840.webm';
-import bg_full_1920_VP9 from 'assets/images/landing/header/bg-full-1920.webm';
 import bg_full_fallback from 'assets/images/landing/header/bg-full-1920.jpg';
 import bg_full_mobile from 'assets/images/landing/header/bg-full-960.jpg';
 
@@ -196,18 +197,30 @@ const LandingHeader = () => {
       },
       {
         children: (
-          <ResponsiveVideo
-            width={imgResolution.high.w}
-            height={imgResolution.high.h}
-            files={[
-              { src: bg_full_3840_VP9, type: 'video/webm' },
-              { src: bg_full_1920_VP9, type: 'video/webm' },
-            ]}
-            fallbackImg={{
-              src: bg_full_fallback,
+          <ResponsiveImage
+            lowQ={{
+              src: bg_house_low,
+              type: 'image/webp',
               width: imgResolution.low.w,
               height: imgResolution.low.h,
+            }}
+            midQ={{
+              src: bg_house_mid,
+              type: 'image/webp',
+              width: imgResolution.mid.w,
+              height: imgResolution.mid.h,
+            }}
+            highQ={{
+              src: bg_house_high,
+              type: 'image/webp',
+              width: imgResolution.high.w,
+              height: imgResolution.high.h,
+            }}
+            fallbackImg={{
+              src: bg_full_fallback,
               type: 'image/jpeg',
+              width: imgResolution.low.w,
+              height: imgResolution.low.h,
             }}
           />
         ),
