@@ -7,12 +7,7 @@ import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanne
 
 import Container from 'components/core/container';
 import ResponsiveImage from 'components/core/responsiveness/image';
-
-import bg_full from 'assets/images/landing/header/bg-full.jpg';
-
-import bg_house_high from 'assets/images/landing/header/bg-house@2x.webp';
-import bg_house_mid from 'assets/images/landing/header/bg-house@1.5x.webp';
-import bg_house_low from 'assets/images/landing/header/bg-house.webp';
+import ResponsiveVideo from 'components/core/responsiveness/video';
 
 import bg_town_high from 'assets/images/landing/header/bg-town@2x.webp';
 import bg_town_mid from 'assets/images/landing/header/bg-town@1.5x.webp';
@@ -25,6 +20,11 @@ import bg_rocks_low from 'assets/images/landing/header/bg-rocks.webp';
 import bg_sky_high from 'assets/images/landing/header/bg-sky@2x.webp';
 import bg_sky_mid from 'assets/images/landing/header/bg-sky@1.5x.webp';
 import bg_sky_low from 'assets/images/landing/header/bg-sky.webp';
+
+import bg_full_3840_VP9 from 'assets/images/landing/header/bg-full-3840.webm';
+import bg_full_1920_VP9 from 'assets/images/landing/header/bg-full-1920.webm';
+import bg_full_fallback from 'assets/images/landing/header/bg-full-1920.jpg';
+import bg_full_mobile from 'assets/images/landing/header/bg-full-960.jpg';
 
 const BecomePart = () => {
   const intl = useIntl();
@@ -93,6 +93,10 @@ const BecomePartDescription = () => {
 };
 
 const imgResolution = {
+  mobile: {
+    w: 960,
+    h: 1231,
+  },
   low: {
     w: 1920,
     h: 2463,
@@ -192,30 +196,18 @@ const LandingHeader = () => {
       },
       {
         children: (
-          <ResponsiveImage
-            lowQ={{
-              src: bg_house_low,
-              type: 'image/webp',
-              width: imgResolution.low.w,
-              height: imgResolution.low.h,
-            }}
-            midQ={{
-              src: bg_house_mid,
-              type: 'image/webp',
-              width: imgResolution.mid.w,
-              height: imgResolution.mid.h,
-            }}
-            highQ={{
-              src: bg_house_high,
-              type: 'image/webp',
-              width: imgResolution.high.w,
-              height: imgResolution.high.h,
-            }}
+          <ResponsiveVideo
+            width={imgResolution.high.w}
+            height={imgResolution.high.h}
+            files={[
+              { src: bg_full_3840_VP9, type: 'video/webm' },
+              { src: bg_full_1920_VP9, type: 'video/webm' },
+            ]}
             fallbackImg={{
-              src: bg_full,
-              type: 'image/jpeg',
+              src: bg_full_fallback,
               width: imgResolution.low.w,
               height: imgResolution.low.h,
+              type: 'image/jpeg',
             }}
           />
         ),
@@ -243,9 +235,9 @@ const LandingHeader = () => {
         ) : (
           <img
             className='w-full h-auto'
-            src={bg_full}
-            width={imgResolution.low.w}
-            height={imgResolution.low.h}
+            src={bg_full_mobile}
+            width={imgResolution.mobile.w}
+            height={imgResolution.mobile.h}
             alt=''
           />
         )}

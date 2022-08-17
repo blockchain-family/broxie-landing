@@ -4,7 +4,7 @@ const minWidthHigh = `(min-width: ${breakpoints.quadHd}px)`;
 const minWidthMid = `(min-width: ${breakpoints.fullHd}px)`;
 const minWidthLow = `(min-width: ${breakpoints.sm}px)`;
 
-type Image = {
+export type Image = {
   src: string;
   type: string;
   width: number;

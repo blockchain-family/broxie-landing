@@ -1,4 +1,3 @@
-import { useMemo } from 'react';
 import { useIntl } from 'react-intl';
 import { ReactComponent as ImageCutSvg } from 'assets/images/landing/footer/image-cut.svg';
 
@@ -7,28 +6,41 @@ import Container from 'components/core/container';
 import ResponsiveVideo from 'components/core/responsiveness/video';
 
 import bg_full_3840_VP9 from 'assets/images/landing/footer/bg-full-3840.webm';
-import bg_full_3840 from 'assets/images/landing/footer/bg-full-3840.mp4';
 import bg_full_1920 from 'assets/images/landing/footer/bg-full-1920.mp4';
-import bg_full_fallback from 'assets/images/landing/footer/bg-full.jpg';
+import bg_full_fallback from 'assets/images/landing/footer/bg-full-1920.jpg';
+import bg_full_mobile from 'assets/images/landing/footer/bg-full-960.jpg';
+
+const videos = [
+  { src: bg_full_3840_VP9, type: 'video/webm' },
+  { src: bg_full_1920, type: 'video/mp4' },
+];
+
+const mobileImg = {
+  src: bg_full_mobile,
+  width: 960,
+  height: 1187,
+  type: 'image/jpeg',
+};
+
+const fallbackImg = {
+  src: bg_full_fallback,
+  width: 1920,
+  height: 2374,
+  type: 'image/jpeg',
+};
 
 const LandingFooter = () => {
-  const videos = useMemo(
-    () => [
-      { src: bg_full_3840_VP9, type: 'video/webm' },
-      { src: bg_full_3840, type: 'video/mp4' },
-      { src: bg_full_1920, type: 'video/mp4' },
-    ],
-    []
-  );
-
   const intl = useIntl();
 
   return (
     <div className='flex flex-col space-y-10'>
       <div className='relative overflow-hidden'>
         <ResponsiveVideo
+          width={3840}
+          height={4748}
           files={videos}
-          mobileImg={{ src: bg_full_fallback, width: 1920, height: 2374 }}
+          mobileImg={mobileImg}
+          fallbackImg={fallbackImg}
         />
 
         <div className='absolute -top-1 bg-gradient-to-b from-black to-transparent w-full h-12' />
