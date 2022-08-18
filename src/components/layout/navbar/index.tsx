@@ -1,5 +1,6 @@
 import MyWallet from '../my-wallet';
-import Button from 'components/core/button/button';
+import Button from 'components/core/button';
+import LanguageButton from '../language-button';
 import { useCallback } from 'react';
 import { BsVolumeMute, BsVolumeUp } from 'react-icons/bs';
 import { ReactComponent as Broxie } from 'assets/images/broxie.svg';
@@ -67,22 +68,27 @@ const Navbar = () => {
             })}
           </Button>
 
-          <Observer>
-            {() => (
-              <button
-                className='hidden sm:block bg-primary/20 rounded-full p-3 cursor-pointer'
-                onClick={() => {
-                  musicStore.playing === true
-                    ? musicStore.pause()
-                    : musicStore.play();
-                }}
-              >
-                <span className='text-3xl'>
-                  {musicStore.playing ? <BsVolumeUp /> : <BsVolumeMute />}
-                </span>
-              </button>
-            )}
-          </Observer>
+          <div className='hidden sm:flex space-x-3'>
+            <LanguageButton />
+
+            <Observer>
+              {() => (
+                <Button
+                  variant='secondary'
+                  onClick={() => {
+                    musicStore.playing === true
+                      ? musicStore.pause()
+                      : musicStore.play();
+                  }}
+                  roundedFull
+                >
+                  <span className='text-3xl'>
+                    {musicStore.playing ? <BsVolumeUp /> : <BsVolumeMute />}
+                  </span>
+                </Button>
+              )}
+            </Observer>
+          </div>
         </div>
       </div>
 

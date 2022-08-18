@@ -1,5 +1,5 @@
 import placeholderSrc from 'assets/images/nft-placeholder.png';
-import Button from 'components/core/button/button';
+import Button from 'components/core/button';
 
 const testItems = [] as { imgSrc: string; name: string; price: number }[];
 

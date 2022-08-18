@@ -1,4 +1,4 @@
-import Button from 'components/core/button/button';
+import Button from 'components/core/button';
 import { ReactComponent as UserSvg } from 'assets/images/user.svg';
 import { ReactComponent as EverscaleSvg } from 'assets/images/everscale.svg';
 import { ReactComponent as MetamaskSvg } from 'assets/images/metamask.svg';
@@ -48,7 +48,7 @@ const EverWallet = observer(({ className }: { className?: string }) => {
       {everWallet.extensionInstalled ? (
         <Button
           variant='primary'
-          className='!px-4 !py-2'
+          size='sm'
           onClick={() => {
             everWallet.account ? everWallet.logout() : everWallet.login();
           }}
@@ -66,7 +66,7 @@ const EverWallet = observer(({ className }: { className?: string }) => {
           </span>
         </Button>
       ) : (
-        <Button variant='primary' className='!px-4 !py-2'>
+        <Button variant='primary' size='sm'>
           <a
             className='text-primary'
             href={everWallet.extensionDownloadUrl}
@@ -127,7 +127,7 @@ const MetamaskWallet = observer(({ className }: { className?: string }) => {
       {metamaskWallet.extensionInstalled && !metamaskWallet.account && (
         <Button
           variant='primary'
-          className='!px-4 !py-2'
+          size='sm'
           onClick={() => metamaskWallet.login()}
         >
           <span className='text-primary'>
@@ -140,7 +140,7 @@ const MetamaskWallet = observer(({ className }: { className?: string }) => {
       )}
 
       {!metamaskWallet.extensionInstalled && (
-        <Button variant='primary' className='!px-4 !py-2'>
+        <Button variant='primary' size='sm'>
           <a
             className='text-primary'
             href={metamaskWallet.extensionDownloadUrl}
