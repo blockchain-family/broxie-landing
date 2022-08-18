@@ -29,9 +29,10 @@ const Navbar = () => {
         </div>
 
         <div className='flex items-center space-x-1 sm:space-x-3'>
-          <button
-            className='px-2'
+          <Button
+            variant='transparent'
             onClick={() => goToElement('utility_section')}
+            className='!px-2'
           >
             <span>
               {intl.formatMessage({
@@ -39,11 +40,12 @@ const Navbar = () => {
                 defaultMessage: 'Utility',
               })}
             </span>
-          </button>
+          </Button>
 
-          <button
-            className='px-4 sm:px-6'
+          <Button
+            variant='transparent'
             onClick={() => goToElement('faq_section')}
+            className='!px-4 sm:!px-6'
           >
             <span>
               {intl.formatMessage({
@@ -51,7 +53,7 @@ const Navbar = () => {
                 defaultMessage: 'FAQ',
               })}
             </span>
-          </button>
+          </Button>
 
           <Button
             variant='primary'
