@@ -1,9 +1,12 @@
 import { useIntl } from 'react-intl';
 import { ReactComponent as BroxieSvg } from 'assets/images/broxie.svg';
 import { useCallback, useMemo } from 'react';
+import { useStaticData } from 'providers/StaticDataProvider';
+import ExternalLink from 'components/core/external-link';
 
 const Watermark = () => {
   const intl = useIntl();
+  const staticData = useStaticData();
 
   const goUpClick = useCallback(() => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -24,14 +27,9 @@ const Watermark = () => {
 
       <span>
         © {currentYear}
-        <a
-          className='text-link mx-1'
-          href='https://broxus.com'
-          target='_blank'
-          rel='noreferrer'
-        >
+        <ExternalLink href={staticData.urls.broxus} className='mx-1'>
           Broxus
-        </a>
+        </ExternalLink>
       </span>
     </div>
   );

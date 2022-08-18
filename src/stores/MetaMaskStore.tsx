@@ -13,10 +13,6 @@ export class MetaMaskStore {
   extensionInstalled: boolean = false;
   account?: string;
 
-  get extensionDownloadUrl() {
-    return 'https://metamask.io/download';
-  }
-
   async init() {
     try {
       if (typeof this.ethereum === 'undefined') {

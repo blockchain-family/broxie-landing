@@ -1,10 +1,13 @@
 import { useMemo } from 'react';
-import { useIntl } from 'react-intl';
+import { FormattedMessage, useIntl } from 'react-intl';
 import { ReactComponent as UtilitySvg } from 'assets/images/landing/utility.svg';
+import { useStaticData } from 'providers/StaticDataProvider';
 import Container from 'components/core/container';
+import ExternalLink from 'components/core/external-link';
 
 const Utility = () => {
   const intl = useIntl();
+  const staticData = useStaticData();
 
   const utilities = useMemo(
     () => [
@@ -13,11 +16,26 @@ const Utility = () => {
           id: 'landing.utility.item1',
           defaultMessage: 'FlatQube & Octus Bridge higher %s',
         }),
-        description: intl.formatMessage({
-          id: 'landing.utility.item1.description',
-          defaultMessage:
-            'Broxus is famous for its dApps: Octus Bridge and FlatQube. Unleash their full power with Broxie NFT ownership in the future. Who knows, maybe Broxie holders will get higher %s.',
-        }),
+        description: (
+          <FormattedMessage
+            id='landing.utility.item1.description'
+            defaultMessage={
+              'Broxus is famous for its dApps: {octusBridge} and {flatQube}. Unleash their full power with Broxie NFT ownership in the future. Who knows, maybe Broxie holders will get higher %s.'
+            }
+            values={{
+              octusBridge: (
+                <ExternalLink href={staticData.urls.octusBridge}>
+                  Octus Bridge
+                </ExternalLink>
+              ),
+              flatQube: (
+                <ExternalLink href={staticData.urls.flatQube}>
+                  FlatQube
+                </ExternalLink>
+              ),
+            }}
+          />
+        ),
       },
       {
         title: intl.formatMessage({
@@ -42,7 +60,7 @@ const Utility = () => {
         }),
       },
     ],
-    [intl]
+    [intl, staticData.urls]
   );
 
   return (
@@ -63,7 +81,7 @@ const Utility = () => {
 
         {utilities.map((x) => (
           <div key={x.title} className='flex flex-col space-y-1'>
-            <span className='font-bold'>{x.title}</span>
+            <span className='font-bold text-xl sm:text-2xl'>{x.title}</span>
             <span>{x.description}</span>
           </div>
         ))}

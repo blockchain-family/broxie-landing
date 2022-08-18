@@ -7,29 +7,38 @@ import Navbar from './layout/navbar';
 import Footer from './layout/footer';
 import ScrollToTop from './layout/scroll-to-top';
 import LandingPage from 'modules/landing';
+import { ProvideStaticData } from 'providers/StaticDataProvider';
+
+const Providers = ({ children }: { children: any }) => {
+  return (
+    <ProvideStaticData>
+      <ProvideIntl>
+        <ProvideWallet>
+          <BackgroundMusicProvider>
+            <BrowserRouter>
+              <ProvideLayout>{children}</ProvideLayout>
+            </BrowserRouter>
+          </BackgroundMusicProvider>
+        </ProvideWallet>
+      </ProvideIntl>
+    </ProvideStaticData>
+  );
+};
 
 const App = () => {
   return (
-    <ProvideIntl>
-      <ProvideWallet>
-        <BackgroundMusicProvider>
-          <BrowserRouter>
-            <ProvideLayout>
-              <ScrollToTop />
+    <Providers>
+      <ScrollToTop />
 
-              <Navbar />
+      <Navbar />
 
-              <Routes>
-                <Route index element={<LandingPage />} />
-                <Route path='*' element={<Navigate to='/' />} />
-              </Routes>
+      <Routes>
+        <Route index element={<LandingPage />} />
+        <Route path='*' element={<Navigate to='/' />} />
+      </Routes>
 
-              <Footer />
-            </ProvideLayout>
-          </BrowserRouter>
-        </BackgroundMusicProvider>
-      </ProvideWallet>
-    </ProvideIntl>
+      <Footer />
+    </Providers>
   );
 };
 

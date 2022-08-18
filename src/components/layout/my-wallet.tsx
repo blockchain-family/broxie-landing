@@ -1,4 +1,5 @@
 import Button from 'components/core/button';
+import ExternalLink from 'components/core/external-link';
 import { ReactComponent as UserSvg } from 'assets/images/user.svg';
 import { ReactComponent as EverscaleSvg } from 'assets/images/everscale.svg';
 import { ReactComponent as MetamaskSvg } from 'assets/images/metamask.svg';
@@ -6,8 +7,10 @@ import { observer } from 'mobx-react-lite';
 import { cutString } from 'utils/strings';
 import { useEverWallet, useMetamaskWallet } from 'providers/WalletProvider';
 import { useIntl } from 'react-intl';
+import { useStaticData } from 'providers/StaticDataProvider';
 
 const EverWallet = observer(({ className }: { className?: string }) => {
+  const staticData = useStaticData();
   const everWallet = useEverWallet();
   const intl = useIntl();
 
@@ -18,14 +21,9 @@ const EverWallet = observer(({ className }: { className?: string }) => {
           <EverscaleSvg className='w-8 sm:w-12 h-auto' />
 
           <div className='flex flex-col'>
-            <a
-              className='text-link sm:text-lg'
-              href={everWallet.extensionDownloadUrl}
-              target='_blank'
-              rel='noreferrer'
-            >
-              <span>EVER Wallet</span>
-            </a>
+            <ExternalLink href={staticData.urls.everWallet}>
+              <span className='sm:text-lg'>EVER Wallet</span>
+            </ExternalLink>
 
             {everWallet.extensionInstalled ? (
               <span className='text-sm text-secondaryBg/80'>
@@ -67,11 +65,9 @@ const EverWallet = observer(({ className }: { className?: string }) => {
         </Button>
       ) : (
         <Button variant='primary' size='sm'>
-          <a
+          <ExternalLink
+            href={staticData.urls.everWallet}
             className='text-primary'
-            href={everWallet.extensionDownloadUrl}
-            target='_blank'
-            rel='noreferrer'
           >
             <span>
               {intl.formatMessage({
@@ -79,7 +75,7 @@ const EverWallet = observer(({ className }: { className?: string }) => {
                 defaultMessage: 'Install',
               })}
             </span>
-          </a>
+          </ExternalLink>
         </Button>
       )}
     </div>
@@ -87,6 +83,7 @@ const EverWallet = observer(({ className }: { className?: string }) => {
 });
 
 const MetamaskWallet = observer(({ className }: { className?: string }) => {
+  const staticData = useStaticData();
   const metamaskWallet = useMetamaskWallet();
   const intl = useIntl();
 
@@ -97,14 +94,9 @@ const MetamaskWallet = observer(({ className }: { className?: string }) => {
           <MetamaskSvg className='w-8 sm:w-12 h-auto' />
 
           <div className='flex flex-col'>
-            <a
-              className='text-link sm:text-lg'
-              href={metamaskWallet.extensionDownloadUrl}
-              target='_blank'
-              rel='noreferrer'
-            >
-              <span>MetaMask</span>
-            </a>
+            <ExternalLink href={staticData.urls.metaMask}>
+              <span className='sm:text-lg'>MetaMask</span>
+            </ExternalLink>
 
             {metamaskWallet.extensionInstalled ? (
               <span className='text-sm text-secondaryBg/80'>
@@ -141,11 +133,9 @@ const MetamaskWallet = observer(({ className }: { className?: string }) => {
 
       {!metamaskWallet.extensionInstalled && (
         <Button variant='primary' size='sm'>
-          <a
+          <ExternalLink
+            href={staticData.urls.metaMask}
             className='text-primary'
-            href={metamaskWallet.extensionDownloadUrl}
-            target='_blank'
-            rel='noreferrer'
           >
             <span>
               {intl.formatMessage({
@@ -153,7 +143,7 @@ const MetamaskWallet = observer(({ className }: { className?: string }) => {
                 defaultMessage: 'Install',
               })}
             </span>
-          </a>
+          </ExternalLink>
         </Button>
       )}
     </div>

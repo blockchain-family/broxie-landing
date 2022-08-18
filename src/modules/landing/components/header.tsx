@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { useIntl } from 'react-intl';
+import { FormattedMessage, useIntl } from 'react-intl';
 import { useInView } from 'react-intersection-observer';
 import { useSmMediaQuery } from 'utils/responsiveness';
 import { ParallaxBanner } from 'react-scroll-parallax';
@@ -7,6 +7,7 @@ import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanne
 
 import Container from 'components/core/container';
 import ResponsiveImage from 'components/core/responsiveness/image';
+import ExternalLink from 'components/core/external-link';
 
 import bg_house_3840 from 'assets/images/landing/header/bg-house-3840.webp';
 import bg_house_1920 from 'assets/images/landing/header/bg-house-1920.webp';
@@ -22,6 +23,7 @@ import bg_sky_1920 from 'assets/images/landing/header/bg-sky-1920.webp';
 
 import bg_full_fallback from 'assets/images/landing/header/bg-full-1920.jpg';
 import bg_full_mobile from 'assets/images/landing/header/bg-full-960.jpg';
+import { useStaticData } from 'providers/StaticDataProvider';
 
 const BecomePart = () => {
   const intl = useIntl();
@@ -56,6 +58,7 @@ const BecomePart = () => {
 
 const BecomePartDescription = () => {
   const intl = useIntl();
+  const staticData = useStaticData();
 
   return (
     <Container
@@ -63,11 +66,22 @@ const BecomePartDescription = () => {
       className='text-center text-lg flex flex-col space-y-8'
     >
       <span>
-        {intl.formatMessage({
-          id: 'landing.header.broxie.description.part1',
-          defaultMessage:
-            'Broxie represents a world of hard workers from Broxus. They create, work and brainstorm every day, contributing to the development of the Everscale ecosystem.',
-        })}
+        <FormattedMessage
+          id='landing.header.broxie.description.part1'
+          defaultMessage={
+            'Broxie represents a world of hard workers from {broxus}. They create, work and brainstorm every day, contributing to the development of the {everscale} ecosystem.'
+          }
+          values={{
+            everscale: (
+              <ExternalLink href={staticData.urls.everscale}>
+                Everscale
+              </ExternalLink>
+            ),
+            broxus: (
+              <ExternalLink href={staticData.urls.broxus}>Broxus</ExternalLink>
+            ),
+          }}
+        />
       </span>
 
       <span>

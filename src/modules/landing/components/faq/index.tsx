@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import { useMemo } from 'react';
 import {
   Accordion,
   AccordionItem,
@@ -9,6 +9,8 @@ import {
 } from 'react-accessible-accordion';
 import { BsDashCircleFill, BsPlusCircleFill } from 'react-icons/bs';
 import { FormattedMessage, useIntl } from 'react-intl';
+import ExternalLink from 'components/core/external-link';
+import { useStaticData } from 'providers/StaticDataProvider';
 
 type FaqQuestion = {
   question: string;
@@ -17,6 +19,7 @@ type FaqQuestion = {
 
 const Faq = () => {
   const intl = useIntl();
+  const staticData = useStaticData();
 
   const questions: FaqQuestion[] = useMemo(
     () => [
@@ -45,28 +48,33 @@ const Faq = () => {
             <FormattedMessage
               id='landing.faq.question2.answer'
               defaultMessage={
-                'The {everscale} blockchain is fast, scalable, and decentralized by design. The {broxus} team is one of the core contributors of the Everscale network and the creators of Octus Bridge, FlatQube, EVER Wallet and more.'
+                'The {everscale} blockchain is fast, scalable, and decentralized by design. The {broxus} team is one of the core contributors of the Everscale network and the creators of {octusBridge}, {flatQube}, {everWallet} and more.'
               }
               values={{
                 everscale: (
-                  <a
-                    href='https://everscale.network'
-                    className='text-link'
-                    target='_blank'
-                    rel='noopener noreferrer'
-                  >
+                  <ExternalLink href={staticData.urls.everscale}>
                     Everscale
-                  </a>
+                  </ExternalLink>
                 ),
                 broxus: (
-                  <a
-                    href='https://broxus.com'
-                    className='text-link'
-                    target='_blank'
-                    rel='noopener noreferrer'
-                  >
+                  <ExternalLink href={staticData.urls.broxus}>
                     Broxus
-                  </a>
+                  </ExternalLink>
+                ),
+                octusBridge: (
+                  <ExternalLink href={staticData.urls.octusBridge}>
+                    Octus Bridge
+                  </ExternalLink>
+                ),
+                flatQube: (
+                  <ExternalLink href={staticData.urls.flatQube}>
+                    FlatQube
+                  </ExternalLink>
+                ),
+                everWallet: (
+                  <ExternalLink href={staticData.urls.everWallet}>
+                    EVER Wallet
+                  </ExternalLink>
                 ),
               }}
             />
@@ -102,24 +110,14 @@ const Faq = () => {
               }
               values={{
                 everWallet: (
-                  <a
-                    href='https://l1.broxus.com/everscale/wallet'
-                    className='text-link'
-                    target='_blank'
-                    rel='noopener noreferrer'
-                  >
+                  <ExternalLink href={staticData.urls.everWallet}>
                     EVER Wallet
-                  </a>
+                  </ExternalLink>
                 ),
                 metaMask: (
-                  <a
-                    href='https://metamask.io/download'
-                    className='text-link'
-                    target='_blank'
-                    rel='noopener noreferrer'
-                  >
+                  <ExternalLink href={staticData.urls.metaMask}>
                     MetaMask
-                  </a>
+                  </ExternalLink>
                 ),
               }}
             />
@@ -157,7 +155,7 @@ const Faq = () => {
         ),
       },
     ],
-    [intl]
+    [intl, staticData.urls]
   );
 
   return (

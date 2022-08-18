@@ -20,10 +20,6 @@ export class EverWalletStore {
 
   private everProvider: ProviderRpcClient;
 
-  get extensionDownloadUrl() {
-    return 'https://l1.broxus.com/everscale/wallet';
-  }
-
   async init() {
     try {
       await this.everProvider.ensureInitialized();

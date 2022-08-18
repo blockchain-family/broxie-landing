@@ -1,15 +1,22 @@
 import { ReactComponent as MainBgSvg } from 'assets/images/landing/footer/social-buttons-bg.svg';
+import { useStaticData } from 'providers/StaticDataProvider';
+import { useMemo } from 'react';
 import { useIntl } from 'react-intl';
-
-const links = [
-  'https://twitter.com/BroxieNFT',
-  'https://discord.gg/6dryaZQNmC',
-  'https://t.me/broxieNFT_chat',
-  'https://instagram.com/broxieNFT',
-];
+import ExternalLink from 'components/core/external-link';
 
 const SocialButtons = () => {
+  const staticData = useStaticData();
   const intl = useIntl();
+
+  const links = useMemo(
+    () => [
+      staticData.urls.broxie.twitter,
+      staticData.urls.broxie.discord,
+      staticData.urls.broxie.telegram,
+      staticData.urls.broxie.instagram,
+    ],
+    [staticData.urls]
+  );
 
   return (
     <div className='flex flex-col w-full max-w-6xl mx-auto text-center'>
@@ -25,15 +32,9 @@ const SocialButtons = () => {
 
         <div className='absolute top-[28%] bottom-[24%] left-[10%] right-[10%] flex justify-around items-center'>
           {links.map((x) => (
-            <a
-              key={x}
-              href={x}
-              className='w-full h-full'
-              target='_blank'
-              rel='noopener noreferrer'
-            >
+            <ExternalLink key={x} className='w-full h-full' href={x}>
               <div className='w-full h-full' />
-            </a>
+            </ExternalLink>
           ))}
         </div>
       </div>
