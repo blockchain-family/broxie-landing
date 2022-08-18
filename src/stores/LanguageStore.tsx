@@ -1,6 +1,6 @@
 import { makeAutoObservable, runInAction } from 'mobx';
 
-import { GB, ID, KR } from 'country-flag-icons/react/3x2';
+import { GB, ID } from 'country-flag-icons/react/3x2';
 
 import messagesEnglish from 'assets/lang/en.json';
 import messagesIndonesian from 'assets/lang/id.json';
@@ -23,11 +23,11 @@ const availableLanguages: Language[] = [
     text: 'Bahasa Indonesia',
     getIcon: (className) => <ID className={className} />,
   },
-  {
-    id: 'ko',
-    text: '한국어',
-    getIcon: (className) => <KR className={className} />,
-  },
+  // {
+  //   id: 'ko',
+  //   text: '한국어',
+  //   getIcon: (className) => <KR className={className} />,
+  // },
 ];
 
 const detectBrowserLanguage = () => {
