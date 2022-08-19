@@ -65,11 +65,8 @@ const EverWallet = observer(({ className }: { className?: string }) => {
         </Button>
       ) : (
         <Button variant='primary' size='sm'>
-          <ExternalLink
-            href={staticData.urls.everWallet}
-            className='text-primary'
-          >
-            <span>
+          <ExternalLink href={staticData.urls.everWallet}>
+            <span className='text-primary'>
               {intl.formatMessage({
                 id: 'landing.navbar.my_wallet.install',
                 defaultMessage: 'Install',
@@ -133,11 +130,8 @@ const MetamaskWallet = observer(({ className }: { className?: string }) => {
 
       {!metamaskWallet.extensionInstalled && (
         <Button variant='primary' size='sm'>
-          <ExternalLink
-            href={staticData.urls.metaMask}
-            className='text-primary'
-          >
-            <span>
+          <ExternalLink href={staticData.urls.metaMask}>
+            <span className='text-primary'>
               {intl.formatMessage({
                 id: 'landing.navbar.my_wallet.install',
                 defaultMessage: 'Install',
