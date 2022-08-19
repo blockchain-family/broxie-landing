@@ -186,7 +186,7 @@ const Faq = () => {
                 <span>{x.question}</span>
               </AccordionItemButton>
             </AccordionItemHeading>
-            <AccordionItemPanel className='text-lg text-center'>
+            <AccordionItemPanel className='text-lg'>
               {x.answer}
             </AccordionItemPanel>
           </AccordionItem>
