@@ -15,10 +15,6 @@ export const ProvideWallet = observer(({ children }: any) => {
     metamaskStore.init();
   }, [everStore, metamaskStore]);
 
-  if (!everStore.initialized || !metamaskStore.initialized) {
-    return null;
-  }
-
   return (
     <everWalletContext.Provider value={everStore}>
       <metaMaskContext.Provider value={metamaskStore}>

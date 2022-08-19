@@ -14,7 +14,6 @@ export class EverWalletStore {
     this.everProvider = new ProviderRpcClient();
   }
 
-  initialized: boolean = false;
   extensionInstalled: boolean = false;
   account?: EverAccount;
 
@@ -27,12 +26,10 @@ export class EverWalletStore {
 
       runInAction(() => {
         this.extensionInstalled = true;
-        this.initialized = true;
       });
     } catch {
       runInAction(() => {
         this.extensionInstalled = false;
-        this.initialized = true;
       });
     }
   }

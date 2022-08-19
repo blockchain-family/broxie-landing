@@ -9,7 +9,6 @@ export class MetaMaskStore {
 
   private ethereum: any;
 
-  initialized: boolean = false;
   extensionInstalled: boolean = false;
   account?: string;
 
@@ -31,12 +30,10 @@ export class MetaMaskStore {
 
       runInAction(() => {
         this.extensionInstalled = true;
-        this.initialized = true;
       });
     } catch {
       runInAction(() => {
         this.extensionInstalled = false;
-        this.initialized = true;
       });
     }
   }
