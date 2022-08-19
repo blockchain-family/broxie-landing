@@ -16,7 +16,7 @@ const LanguageButton = observer(({ className }: { className?: string }) => {
             {languageStore.language.getIcon(flagClassName)}
           </Button>
         }
-        menuClassName='bg-background/60 py-1 px-4 rounded-md min-w-[14rem]'
+        menuClassName='bg-background/80 py-1 px-4 rounded-md min-w-[14rem]'
         align='start'
         offsetY={20}
       >
@@ -24,7 +24,7 @@ const LanguageButton = observer(({ className }: { className?: string }) => {
           <MenuItem
             key={x.id}
             onClick={() => languageStore.setLanguage(x)}
-            className='cursor-pointer text-primary-1 hover:text-success-1 text-lg flex items-center space-x-3 my-3'
+            className='cursor-pointer text-lg flex items-center space-x-3 my-3'
           >
             {x.getIcon(flagClassName)}
             <span>{x.text}</span>

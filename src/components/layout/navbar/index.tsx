@@ -1,6 +1,7 @@
 import MyWallet from '../my-wallet';
 import Button from 'components/core/button';
-import LanguageButton from '../language-button';
+import LanguageButton from './language-button';
+
 import { useCallback } from 'react';
 import { BsVolumeMute, BsVolumeUp } from 'react-icons/bs';
 import { ReactComponent as Broxie } from 'assets/images/broxie.svg';
@@ -29,48 +30,50 @@ const Navbar = () => {
         </div>
 
         <div className='flex items-center space-x-1 sm:space-x-3'>
-          <Button
-            variant='transparent'
-            onClick={() => goToElement('utility_section')}
-            className='!px-2'
-          >
-            <span>
-              {intl.formatMessage({
-                id: 'landing.navbar.utility',
-                defaultMessage: 'Utility',
-              })}
-            </span>
-          </Button>
-
-          <Button
-            variant='transparent'
-            onClick={() => goToElement('faq_section')}
-            className='!px-4 sm:!px-6'
-          >
-            <span>
-              {intl.formatMessage({
-                id: 'landing.navbar.faq',
-                defaultMessage: 'FAQ',
-              })}
-            </span>
-          </Button>
-
-          <Button
-            variant='primary'
-            onClick={() =>
-              layoutStore.showContentModal(
-                <MyWallet onClose={() => layoutStore.hideContentModal()} />,
-                'md'
-              )
-            }
-          >
-            {intl.formatMessage({
-              id: 'landing.navbar.my_wallet',
-              defaultMessage: 'My Wallet',
-            })}
-          </Button>
-
           <div className='hidden sm:flex space-x-3'>
+            <Button
+              variant='transparent'
+              onClick={() => goToElement('utility_section')}
+              className='!px-2'
+            >
+              <span>
+                {intl.formatMessage({
+                  id: 'landing.navbar.utility',
+                  defaultMessage: 'Utility',
+                })}
+              </span>
+            </Button>
+
+            <Button
+              variant='transparent'
+              onClick={() => goToElement('faq_section')}
+              className='!px-4 sm:!px-6'
+            >
+              <span>
+                {intl.formatMessage({
+                  id: 'landing.navbar.faq',
+                  defaultMessage: 'FAQ',
+                })}
+              </span>
+            </Button>
+          </div>
+
+          <div className='flex space-x-1 sm:space-x-3'>
+            <Button
+              variant='primary'
+              onClick={() =>
+                layoutStore.showContentModal(
+                  <MyWallet onClose={() => layoutStore.hideContentModal()} />,
+                  'md'
+                )
+              }
+            >
+              {intl.formatMessage({
+                id: 'landing.navbar.my_wallet',
+                defaultMessage: 'My Wallet',
+              })}
+            </Button>
+
             <LanguageButton />
 
             <Observer>
