@@ -29,7 +29,10 @@ const EverWallet = observer(({ className }: { className?: string }) => {
               <span className='text-sm text-secondaryBg/80'>
                 {everWallet.account
                   ? cutString(everWallet.account.address, 8, 4)
-                  : 'Not connected'}
+                  : intl.formatMessage({
+                      id: 'landing.navbar.my_wallet.not_connected',
+                      defaultMessage: 'Not connected',
+                    })}
               </span>
             ) : (
               <span className='text-sm text-secondaryBg/80'>

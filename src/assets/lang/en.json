@@ -35,6 +35,7 @@
   "landing.navbar.my_wallet.connect": "Connect",
   "landing.navbar.my_wallet.disconnect": "Disconnect",
   "landing.navbar.my_wallet.install": "Install",
+  "landing.navbar.my_wallet.not_connected": "Not connected",
   "landing.navbar.my_wallet.not_installed": "Not installed",
   "landing.navbar.utility": "Utility",
   "landing.page_footer.return_to_top": "Return to top",
