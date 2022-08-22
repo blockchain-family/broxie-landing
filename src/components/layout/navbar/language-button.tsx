@@ -17,7 +17,7 @@ const LanguageButton = observer(({ className }: { className?: string }) => {
           </Button>
         }
         menuClassName='bg-primary/20 py-1 px-4 rounded-md min-w-[14rem]'
-        align='start'
+        align='center'
         offsetY={20}
       >
         {languageStore.availableLanguages.map((x) => (
