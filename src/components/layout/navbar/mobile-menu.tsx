@@ -54,7 +54,7 @@ const MobileMenu = observer(() => {
           </div>
         </div>
 
-        <div className='flex flex-col items-center'>
+        <div className='flex flex-col items-center space-y-2'>
           <Button
             variant='transparent'
             onClick={() => goToElement('utility_section')}
