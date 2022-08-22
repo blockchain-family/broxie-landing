@@ -3,11 +3,11 @@ import { BackgroundMusicProvider } from 'providers/BackgroundMusicProvider';
 import { ProvideIntl } from 'providers/IntlProvider';
 import { ProvideLayout } from 'providers/LayoutStoreProvider';
 import { ProvideWallet } from 'providers/WalletProvider';
+import { ProvideStaticData } from 'providers/StaticDataProvider';
 import Navbar from './layout/navbar';
 import Footer from './layout/footer';
 import ScrollToTop from './layout/scroll-to-top';
 import LandingPage from 'modules/landing';
-import { ProvideStaticData } from 'providers/StaticDataProvider';
 
 const Providers = ({ children }: { children: any }) => {
   return (

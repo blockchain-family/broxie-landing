@@ -17,6 +17,8 @@ export class LayoutStore {
     size: 'sm',
   };
 
+  isMobileMenuVisible: boolean = false;
+
   showContentModal(content: JSX.Element, size: 'sm' | 'md') {
     runInAction(() => {
       this.contentModal = {
@@ -39,5 +41,17 @@ export class LayoutStore {
     });
 
     document.body.classList.remove('no-scroll');
+  }
+
+  showMobileMenu() {
+    runInAction(() => {
+      this.isMobileMenuVisible = true;
+    });
+  }
+
+  hideMobileMenu() {
+    runInAction(() => {
+      this.isMobileMenuVisible = false;
+    });
   }
 }

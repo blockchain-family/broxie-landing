@@ -20,7 +20,7 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
         case 'secondary':
           return 'bg-primary/20';
         case 'tertiary':
-          return 'bg-transparent border border-primaryBg';
+          return 'bg-primary text-black';
         default:
           return undefined;
       }

@@ -8,7 +8,7 @@ const Utility = () => {
       </div>
 
       <div className='mx-auto max-w-5xl grid grid-cols-1 md:grid-cols-2 gap-10'>
-        <UtilityInfo type='flatqube' className='sm:mt-28' />
+        <UtilityInfo type='flatqube' className='md:mt-28' />
         <UtilityInfo type='vip' />
       </div>
 

@@ -12,11 +12,11 @@ const LanguageButton = observer(({ className }: { className?: string }) => {
     <div className={className}>
       <Menu
         menuButton={
-          <Button variant='secondary' onClick={() => {}} roundedFull>
+          <Button variant='secondary' roundedFull>
             {languageStore.language.getIcon(flagClassName)}
           </Button>
         }
-        menuClassName='bg-background/80 py-1 px-4 rounded-md min-w-[14rem]'
+        menuClassName='bg-primary/20 py-1 px-4 rounded-md min-w-[14rem]'
         align='start'
         offsetY={20}
       >

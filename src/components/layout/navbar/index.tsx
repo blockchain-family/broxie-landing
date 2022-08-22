@@ -1,18 +1,15 @@
-import MyWallet from '../my-wallet';
 import Button from 'components/core/button';
 import LanguageButton from './language-button';
+import MusicButton from './music-button';
+import WalletButton from './wallet-button';
 
 import { useCallback } from 'react';
-import { BsVolumeMute, BsVolumeUp } from 'react-icons/bs';
 import { ReactComponent as Broxie } from 'assets/images/broxie.svg';
 import { ReactComponent as BroxieLogo } from 'assets/images/broxie-logo.svg';
-import { useMusicStore } from 'providers/BackgroundMusicProvider';
-import { Observer } from 'mobx-react-lite';
 import { useLayoutStore } from 'providers/LayoutStoreProvider';
 import { useIntl } from 'react-intl';
 
 const Navbar = () => {
-  const musicStore = useMusicStore();
   const layoutStore = useLayoutStore();
 
   const intl = useIntl();
@@ -21,15 +18,19 @@ const Navbar = () => {
     document.getElementById(elementId)?.scrollIntoView({ behavior: 'smooth' });
   }, []);
 
+  const openMobileMenu = useCallback(() => {
+    layoutStore.showMobileMenu();
+  }, [layoutStore]);
+
   return (
     <div className='fixed z-10 top-0 left-0 right-0 max-w-screen-xl mx-auto px-2 pt-4'>
-      <div className='flex justify-between items-center bg-background/25 rounded-2xl p-2 sm:p-3 lg:px-6'>
+      <div className='flex justify-between items-center sm:bg-background/25 rounded-2xl p-2 sm:p-3 lg:px-6'>
         <div className='flex space-x-5'>
           <BroxieLogo className='w-20 sm:w-28 lg:w-48 h-auto' />
           <Broxie className='hidden lg:block' />
         </div>
 
-        <div className='flex items-center space-x-1 sm:space-x-3'>
+        <div className='flex items-center space-x-3'>
           <div className='hidden sm:flex space-x-3'>
             <Button
               variant='transparent'
@@ -58,41 +59,24 @@ const Navbar = () => {
             </Button>
           </div>
 
-          <div className='flex space-x-1 sm:space-x-3'>
+          <WalletButton />
+
+          <div className='hidden sm:flex space-x-3'>
+            <LanguageButton />
+            <MusicButton />
+          </div>
+
+          <div className='sm:hidden'>
             <Button
-              variant='primary'
-              onClick={() =>
-                layoutStore.showContentModal(
-                  <MyWallet onClose={() => layoutStore.hideContentModal()} />,
-                  'md'
-                )
-              }
+              variant='tertiary'
+              onClick={openMobileMenu}
+              className='!px-4'
             >
               {intl.formatMessage({
-                id: 'landing.navbar.my_wallet',
-                defaultMessage: 'My Wallet',
+                id: 'landing.navbar.menu',
+                defaultMessage: 'Menu',
               })}
             </Button>
-
-            <LanguageButton />
-
-            <Observer>
-              {() => (
-                <Button
-                  variant='secondary'
-                  onClick={() => {
-                    musicStore.playing === true
-                      ? musicStore.pause()
-                      : musicStore.play();
-                  }}
-                  roundedFull
-                >
-                  <span className='text-3xl'>
-                    {musicStore.playing ? <BsVolumeUp /> : <BsVolumeMute />}
-                  </span>
-                </Button>
-              )}
-            </Observer>
           </div>
         </div>
       </div>
