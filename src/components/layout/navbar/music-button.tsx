@@ -12,6 +12,7 @@ const MusicButton = observer(() => {
       onClick={() => {
         musicStore.playing === true ? musicStore.pause() : musicStore.play();
       }}
+      size='lg'
       roundedFull
     >
       <span className='text-3xl'>

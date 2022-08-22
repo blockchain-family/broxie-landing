@@ -2,7 +2,7 @@ import React, { useMemo } from 'react';
 
 type ButtonProps = {
   variant: 'primary' | 'secondary' | 'tertiary' | 'transparent';
-  size?: 'sm' | 'base';
+  size?: 'sm' | 'lg' | 'base';
   roundedFull?: boolean | undefined;
 } & React.DetailedHTMLProps<
   React.ButtonHTMLAttributes<HTMLButtonElement>,
@@ -30,6 +30,8 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
       switch (size) {
         case 'sm':
           return 'h-10 px-2 sm:px-5' + (roundedFull === true ? ' w-10' : '');
+        case 'lg':
+          return 'h-14 px-6' + (roundedFull === true ? ' w-14' : '');
         default:
           return (
             'h-10 sm:h-14 px-2 sm:px-6' +

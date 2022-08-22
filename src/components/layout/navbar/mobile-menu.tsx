@@ -59,7 +59,7 @@ const MobileMenu = observer(() => {
             variant='transparent'
             onClick={() => goToElement('utility_section')}
           >
-            <span className='text-lg'>
+            <span className='text-xl'>
               {intl.formatMessage({
                 id: 'landing.navbar.utility',
                 defaultMessage: 'Utility',
@@ -71,7 +71,7 @@ const MobileMenu = observer(() => {
             variant='transparent'
             onClick={() => goToElement('faq_section')}
           >
-            <span className='text-lg'>
+            <span className='text-xl'>
               {intl.formatMessage({
                 id: 'landing.navbar.faq',
                 defaultMessage: 'FAQ',
@@ -80,7 +80,7 @@ const MobileMenu = observer(() => {
           </Button>
         </div>
 
-        <div className='flex items-center justify-center space-x-2 py-2'>
+        <div className='flex items-center justify-center space-x-2 pb-6'>
           <LanguageButton />
           <MusicButton />
         </div>

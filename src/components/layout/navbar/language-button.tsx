@@ -12,7 +12,7 @@ const LanguageButton = observer(({ className }: { className?: string }) => {
     <div className={className}>
       <Menu
         menuButton={
-          <Button variant='secondary' roundedFull>
+          <Button variant='secondary' size='lg' roundedFull>
             {languageStore.language.getIcon(flagClassName)}
           </Button>
         }
