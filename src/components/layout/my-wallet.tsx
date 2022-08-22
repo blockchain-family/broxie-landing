@@ -102,7 +102,10 @@ const MetamaskWallet = observer(({ className }: { className?: string }) => {
               <span className='text-sm text-secondaryBg/80'>
                 {metamaskWallet.account
                   ? cutString(metamaskWallet.account, 8, 4)
-                  : 'Not connected'}
+                  : intl.formatMessage({
+                      id: 'landing.navbar.my_wallet.not_connected',
+                      defaultMessage: 'Not connected',
+                    })}
               </span>
             ) : (
               <span className='text-sm text-secondaryBg/80'>
