@@ -33,7 +33,7 @@ const MobileMenu = observer(() => {
   }
 
   return (
-    <div className='fixed h-screen w-full top-0 bg-background/90 z-20'>
+    <div className='fixed top-0 bottom-0 left-0 right-0 bg-background/90 z-20'>
       <div className='flex flex-col justify-between h-full'>
         <div className='flex items-center justify-between px-4 pt-6'>
           <BroxieLogo className='w-20 h-auto' />
@@ -59,7 +59,7 @@ const MobileMenu = observer(() => {
             variant='transparent'
             onClick={() => goToElement('utility_section')}
           >
-            <span>
+            <span className='text-lg'>
               {intl.formatMessage({
                 id: 'landing.navbar.utility',
                 defaultMessage: 'Utility',
@@ -71,7 +71,7 @@ const MobileMenu = observer(() => {
             variant='transparent'
             onClick={() => goToElement('faq_section')}
           >
-            <span>
+            <span className='text-lg'>
               {intl.formatMessage({
                 id: 'landing.navbar.faq',
                 defaultMessage: 'FAQ',
