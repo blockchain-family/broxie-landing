@@ -55,12 +55,18 @@ const UtilityInfo = ({
             values={{
               octusBridge: (
                 <ExternalLink href={staticData.urls.octusBridge}>
-                  Octus Bridge
+                  {intl.formatMessage({
+                    id: 'landing.main.octus_bridge',
+                    defaultMessage: 'Octus Bridge',
+                  })}
                 </ExternalLink>
               ),
               flatQube: (
                 <ExternalLink href={staticData.urls.flatQube}>
-                  FlatQube
+                  {intl.formatMessage({
+                    id: 'landing.main.flatqube',
+                    defaultMessage: 'FlatQube',
+                  })}
                 </ExternalLink>
               ),
             }}

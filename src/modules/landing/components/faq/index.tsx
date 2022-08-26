@@ -53,27 +53,42 @@ const Faq = () => {
               values={{
                 everscale: (
                   <ExternalLink href={staticData.urls.everscale}>
-                    Everscale
+                    {intl.formatMessage({
+                      id: 'landing.main.everscale',
+                      defaultMessage: 'Everscale',
+                    })}
                   </ExternalLink>
                 ),
                 broxus: (
                   <ExternalLink href={staticData.urls.broxus}>
-                    Broxus
+                    {intl.formatMessage({
+                      id: 'landing.main.broxus',
+                      defaultMessage: 'Broxus',
+                    })}
                   </ExternalLink>
                 ),
                 octusBridge: (
                   <ExternalLink href={staticData.urls.octusBridge}>
-                    Octus Bridge
+                    {intl.formatMessage({
+                      id: 'landing.main.octus_bridge',
+                      defaultMessage: 'Octus Bridge',
+                    })}
                   </ExternalLink>
                 ),
                 flatQube: (
                   <ExternalLink href={staticData.urls.flatQube}>
-                    FlatQube
+                    {intl.formatMessage({
+                      id: 'landing.main.flatqube',
+                      defaultMessage: 'FlatQube',
+                    })}
                   </ExternalLink>
                 ),
                 everWallet: (
                   <ExternalLink href={staticData.urls.everWallet}>
-                    EVER Wallet
+                    {intl.formatMessage({
+                      id: 'landing.main.ever_wallet',
+                      defaultMessage: 'EVER Wallet',
+                    })}
                   </ExternalLink>
                 ),
               }}
@@ -111,12 +126,18 @@ const Faq = () => {
               values={{
                 everWallet: (
                   <ExternalLink href={staticData.urls.everWallet}>
-                    EVER Wallet
+                    {intl.formatMessage({
+                      id: 'landing.main.ever_wallet',
+                      defaultMessage: 'EVER Wallet',
+                    })}
                   </ExternalLink>
                 ),
                 metaMask: (
                   <ExternalLink href={staticData.urls.metaMask}>
-                    MetaMask
+                    {intl.formatMessage({
+                      id: 'landing.main.metamask',
+                      defaultMessage: 'MetaMask',
+                    })}
                   </ExternalLink>
                 ),
               }}

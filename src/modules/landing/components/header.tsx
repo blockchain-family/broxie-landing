@@ -74,11 +74,19 @@ const BecomePartDescription = () => {
           values={{
             everscale: (
               <ExternalLink href={staticData.urls.everscale}>
-                Everscale
+                {intl.formatMessage({
+                  id: 'landing.main.everscale',
+                  defaultMessage: 'Everscale',
+                })}
               </ExternalLink>
             ),
             broxus: (
-              <ExternalLink href={staticData.urls.broxus}>Broxus</ExternalLink>
+              <ExternalLink href={staticData.urls.broxus}>
+                {intl.formatMessage({
+                  id: 'landing.main.broxus',
+                  defaultMessage: 'Broxus',
+                })}
+              </ExternalLink>
             ),
           }}
         />

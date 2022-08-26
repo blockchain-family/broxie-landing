@@ -28,7 +28,10 @@ const Watermark = () => {
       <span>
         © {currentYear}
         <ExternalLink href={staticData.urls.broxus} className='mx-1'>
-          Broxus
+          {intl.formatMessage({
+            id: 'landing.main.broxus',
+            defaultMessage: 'Broxus',
+          })}
         </ExternalLink>
       </span>
     </div>
