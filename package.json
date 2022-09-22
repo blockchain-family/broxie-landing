@@ -26,7 +26,8 @@
     "start": "env-cmd -f .env react-scripts start",
     "build": "env-cmd -f .env react-scripts build",
     "generate-intl": "formatjs extract \"src/**/*.tsx\" --format simple --out-file src/assets/lang/en.json --id-interpolation-pattern '[sha512:contenthash:base64:6]'",
-    "crowdin-sync": "crowdin upload && crowdin download"
+    "crowdin-sync": "crowdin upload && crowdin download",
+    "deploy-stage": "surge --domain broxie-beta.surge.sh dist/"
   },
   "eslintConfig": {
     "extends": [
