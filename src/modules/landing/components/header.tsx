@@ -1,9 +1,11 @@
 import { useMemo } from 'react';
+import { useStaticData } from 'providers/StaticDataProvider';
 import { FormattedMessage, useIntl } from 'react-intl';
 import { useInView } from 'react-intersection-observer';
 import { useSmMediaQuery } from 'utils/responsiveness';
 import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
+import { FaDiscord, FaInstagram, FaTelegram, FaTwitter } from 'react-icons/fa';
 
 import Container from 'components/core/container';
 import ResponsiveImage from 'components/core/responsiveness/image';
@@ -23,7 +25,60 @@ import bg_sky_1920 from 'assets/images/landing/header/bg-sky-1920.webp';
 
 import bg_full_fallback from 'assets/images/landing/header/bg-full-1920.jpg';
 import bg_full_mobile from 'assets/images/landing/header/bg-full-960.jpg';
-import { useStaticData } from 'providers/StaticDataProvider';
+
+const MintStartsSoon = () => {
+  const intl = useIntl();
+  const staticData = useStaticData();
+
+  const links = useMemo(
+    () => [
+      { url: staticData.urls.broxie.twitter, icon: <FaTwitter /> },
+      { url: staticData.urls.broxie.discord, icon: <FaDiscord /> },
+      { url: staticData.urls.broxie.telegram, icon: <FaTelegram /> },
+      { url: staticData.urls.broxie.instagram, icon: <FaInstagram /> },
+    ],
+    [
+      staticData.urls.broxie.discord,
+      staticData.urls.broxie.instagram,
+      staticData.urls.broxie.telegram,
+      staticData.urls.broxie.twitter,
+    ]
+  );
+
+  return (
+    <div className='absolute top-[30%] sm:top-[14%] xl:top-[16%] left-0 right-0'>
+      <div className='flex justify-center sm:justify-end mx-auto w-full max-w-[120rem] px-2 sm:px-4 xl:px-32'>
+        <div className='flex flex-col text-center'>
+          <span className='font-header text-3xl lg:text-4xl mb-1'>
+            {intl.formatMessage({
+              id: 'landing.header.mint.starts_soon',
+              defaultMessage: 'Nft collection mint starts soon',
+            })}
+          </span>
+
+          <span className='font-header text-2xl lg:text-2xl mb-4'>
+            {intl.formatMessage({
+              id: 'landing.header.mint.be_the_first',
+              defaultMessage: 'Be the first to know',
+            })}
+          </span>
+
+          <div className='flex justify-around text-5xl lg:text-6xl'>
+            {links.map((x) => (
+              <ExternalLink
+                key={x.url}
+                href={x.url}
+                className='!text-primary hover:!text-primary/80'
+              >
+                {x.icon}
+              </ExternalLink>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
 
 const BecomePart = () => {
   const intl = useIntl();
@@ -252,6 +307,8 @@ const LandingHeader = () => {
             <BecomePart />
           </div>
         )}
+
+        <MintStartsSoon />
       </div>
 
       {isDesktop ? (
