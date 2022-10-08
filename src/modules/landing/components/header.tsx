@@ -50,20 +50,14 @@ const MintStartsSoon = () => {
       <div className='flex justify-center sm:justify-end mx-auto w-full max-w-[120rem] px-2 sm:px-4 xl:px-32'>
         <div className='flex flex-col text-center'>
           <span className='font-header text-3xl lg:text-4xl mb-1'>
-            {intl.formatMessage({
-              id: 'landing.header.mint.starts_soon',
-              defaultMessage: 'Nft collection mint starts soon',
-            })}
+            Broxie NFT mint date
           </span>
 
           <span className='font-header text-2xl lg:text-2xl mb-4'>
-            {intl.formatMessage({
-              id: 'landing.header.mint.be_the_first',
-              defaultMessage: 'Be the first to know',
-            })}
+            October 14 15:00 UTC
           </span>
 
-          <div className='flex justify-around text-5xl lg:text-6xl'>
+          <div className='flex justify-around text-5xl lg:text-6xl space-x-10'>
             {links.map((x) => (
               <ExternalLink
                 key={x.url}
