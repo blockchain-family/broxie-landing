@@ -27,7 +27,6 @@ import bg_full_fallback from 'assets/images/landing/header/bg-full-1920.jpg';
 import bg_full_mobile from 'assets/images/landing/header/bg-full-960.jpg';
 
 const MintStartsSoon = () => {
-  const intl = useIntl();
   const staticData = useStaticData();
 
   const links = useMemo(

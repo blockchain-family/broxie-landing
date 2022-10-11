@@ -173,7 +173,7 @@ const MyWallet = ({ onClose }: { onClose: () => void }) => {
       <Button variant='primary' onClick={onClose}>
         <span className='text-primary'>
           {intl.formatMessage({
-            id: 'landing.navbar.my_wallet.close',
+            id: 'landing.navbar.menu.close',
             defaultMessage: 'Close',
           })}
         </span>
