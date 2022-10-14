@@ -33,6 +33,8 @@ const NftPriceProgress = observer(() => {
         0
       );
 
+      const weight = (stepNftCount / totalNft) * 90;
+
       if (isWhitelist) {
         progress += Math.max(
           Math.min(
@@ -49,6 +51,7 @@ const NftPriceProgress = observer(() => {
         progress: progress,
         isWhitelist: isWhitelist,
         isAirdrop: isAirdrop,
+        weight: weight,
       };
     });
   }, [
@@ -75,10 +78,10 @@ const NftPriceProgress = observer(() => {
   );
 
   return (
-    <div className='flex flex-col'>
+    <div className='flex flex-col w-full max-w-5xl'>
       <div className='flex flex-wrap justify-center space-x-2'>
         {whitelistStage && (
-          <div className='flex flex-col space-y-2 text-center my-3'>
+          <div className='flex flex-col space-y-2 text-center my-3 text-sm'>
             <span>
               {intl.formatMessage(
                 {
@@ -102,7 +105,7 @@ const NftPriceProgress = observer(() => {
           </div>
         )}
         {airdropStage && (
-          <div className='flex flex-col space-y-2 text-center my-3'>
+          <div className='flex flex-col space-y-2 text-center my-3 text-sm'>
             <span>
               {intl.formatMessage(
                 {
@@ -117,10 +120,14 @@ const NftPriceProgress = observer(() => {
           </div>
         )}
       </div>
-      <div className='flex flex-wrap justify-center space-x-2'>
+      <div className='flex flex-wrap justify-center items-center space-x-2 text-sm'>
         {regularPriceStages.map((x, i) => (
-          <div key={i} className='flex flex-col space-y-2 text-center my-3'>
-            <span>
+          <div
+            key={i}
+            className='flex flex-col space-y-2 text-center my-3 flex-grow-0'
+            style={{ flexBasis: `${x.weight}%` }}
+          >
+            <span className='min-w-[90px]'>
               {intl.formatMessage(
                 {
                   id: 'landing.body.price_progress.nft_count',
@@ -129,7 +136,7 @@ const NftPriceProgress = observer(() => {
                 { count: x.stepNftCount }
               )}
             </span>
-            <span className='h-4 w-full rounded-md min-w-[8rem] sm:min-w-[10rem] bg-secondaryBg relative overflow-hidden'>
+            <span className='h-4 w-full rounded-md bg-secondaryBg relative overflow-hidden'>
               <span
                 className='absolute left-0 top-0 bottom-0 bg-primaryBg'
                 style={{ width: `${x.progress}%` }}
