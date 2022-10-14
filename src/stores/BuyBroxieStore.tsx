@@ -317,13 +317,18 @@ export class BuyBroxieStore {
         this.broxieStore.marketAddress
       );
 
+      const { state: contractState } =
+        await this.everWallet.provider.getFullContractState({
+          address: this.broxieStore.marketAddress,
+        });
+
       const { value0: ownedNfts } = await marketRootContract.methods
         .nftsOf({ _user: this.everWallet.account.address })
-        .call();
+        .call({ cachedState: contractState });
 
       const { value0: discount } = await marketRootContract.methods
         .discountOf({ user: this.everWallet.account.address })
-        .call();
+        .call({ cachedState: contractState });
 
       const walletEverBalance = await this.everWallet.provider.getBalance(
         this.everWallet.account.address

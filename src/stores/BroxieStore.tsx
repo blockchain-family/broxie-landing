@@ -252,13 +252,18 @@ export class BroxieStore {
       tokenRootAddress
     );
 
+    const { state: tokenRootState } =
+      await this.staticProvider.getFullContractState({
+        address: tokenRootAddress,
+      });
+
     const { value0: symbol } = await tokenRootContract.methods
       .symbol({ answerId: 0 })
-      .call();
+      .call({ cachedState: tokenRootState });
 
     const { value0: decimals } = await tokenRootContract.methods
       .decimals({ answerId: 0 })
-      .call();
+      .call({ cachedState: tokenRootState });
 
     return {
       symbol: symbol,
@@ -272,23 +277,43 @@ export class BroxieStore {
       return marketInfoDefaultValue;
     }
 
+    const { state: contractState } =
+      await this.staticProvider.getFullContractState({
+        address: this.marketAddress,
+      });
+
     const marketRootContract = new this.staticProvider.Contract(
       marketAbi,
       this.marketAddress
     );
 
-    const { totalCount } = await marketRootContract.methods.totalCount().call();
-    const { nftPerHand } = await marketRootContract.methods.nftPerHand().call();
+    const { totalCount } = await marketRootContract.methods
+      .totalCount()
+      .call({ cachedState: contractState });
+
+    const { nftPerHand } = await marketRootContract.methods
+      .nftPerHand()
+      .call({ cachedState: contractState });
+
     const { discountPrice } = await marketRootContract.methods
       .discountPrice()
-      .call();
+      .call({ cachedState: contractState });
 
-    const { priceRule } = await marketRootContract.methods.priceRule().call();
+    const { priceRule } = await marketRootContract.methods
+      .priceRule()
+      .call({ cachedState: contractState });
 
-    const { startDate } = await marketRootContract.methods.startDate().call();
-    const { revealDate } = await marketRootContract.methods.revealDate().call();
+    const { startDate } = await marketRootContract.methods
+      .startDate()
+      .call({ cachedState: contractState });
 
-    const { collection } = await marketRootContract.methods.collection().call();
+    const { revealDate } = await marketRootContract.methods
+      .revealDate()
+      .call({ cachedState: contractState });
+
+    const { collection } = await marketRootContract.methods
+      .collection()
+      .call({ cachedState: contractState });
 
     return {
       nftTotal: Number(totalCount),
@@ -314,6 +339,11 @@ export class BroxieStore {
     }
 
     try {
+      const { state: contractState } =
+        await this.staticProvider.getFullContractState({
+          address: this.marketAddress,
+        });
+
       const marketRootContract = new this.staticProvider.Contract(
         marketAbi,
         this.marketAddress
@@ -321,14 +351,16 @@ export class BroxieStore {
 
       const { value0: marketState } = await marketRootContract.methods
         .state()
-        .call();
+        .call({ cachedState: contractState });
 
       const { value0: totalSoldCount } = await marketRootContract.methods
         .commonSoldCount()
-        .call();
+        .call({ cachedState: contractState });
 
       const { soldCount: totalSoldRegularPriceCount } =
-        await marketRootContract.methods.soldCount().call();
+        await marketRootContract.methods
+          .soldCount()
+          .call({ cachedState: contractState });
 
       return {
         state: Number(marketState) as MarketState,
