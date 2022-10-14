@@ -3,12 +3,12 @@ module.exports = {
   content: ['./public/index.html', './src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     colors: {
-      primary: 'rgb(var(--color-primary) / <alpha-value>)',
-      primaryBg: 'rgb(var(--color-primaryBg) / <alpha-value>)',
-      secondaryBg: 'rgb(var(--color-secondaryBg) / <alpha-value>)',
-      link: 'rgb(var(--color-link) / <alpha-value>)',
-      black: 'rgb(var(--color-black) / <alpha-value>)',
-      background: 'rgb(var(--color-background) / <alpha-value>)',
+      primary: generateColorClass('color-primary'),
+      primaryBg: generateColorClass('color-primaryBg'),
+      secondaryBg: generateColorClass('color-secondaryBg'),
+      link: generateColorClass('color-link'),
+      black: generateColorClass('color-black'),
+      background: generateColorClass('color-background'),
       transparent: 'transparent',
     },
     fontFamily: {
@@ -23,3 +23,10 @@ module.exports = {
   },
   plugins: [],
 };
+
+function generateColorClass(variable) {
+  return ({ opacityValue }) =>
+    opacityValue
+      ? `rgb(var(--${variable}) / ${opacityValue})`
+      : `rgb(var(--${variable}))`;
+}

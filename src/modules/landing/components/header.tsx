@@ -7,6 +7,7 @@ import { ParallaxBanner } from 'react-scroll-parallax';
 import { BannerLayer } from 'react-scroll-parallax/dist/components/ParallaxBanner/types';
 import { FaDiscord, FaInstagram, FaTelegram, FaTwitter } from 'react-icons/fa';
 
+import Button from 'components/core/button';
 import Container from 'components/core/container';
 import ResponsiveImage from 'components/core/responsiveness/image';
 import ExternalLink from 'components/core/external-link';
@@ -25,9 +26,12 @@ import bg_sky_1920 from 'assets/images/landing/header/bg-sky-1920.webp';
 
 import bg_full_fallback from 'assets/images/landing/header/bg-full-1920.jpg';
 import bg_full_mobile from 'assets/images/landing/header/bg-full-960.jpg';
+import { useLayoutStore } from 'providers/LayoutStoreProvider';
 
 const MintStartsSoon = () => {
+  const intl = useIntl();
   const staticData = useStaticData();
+  const layoutStore = useLayoutStore();
 
   const links = useMemo(
     () => [
@@ -45,9 +49,9 @@ const MintStartsSoon = () => {
   );
 
   return (
-    <div className='absolute top-[30%] sm:top-[14%] xl:top-[16%] left-0 right-0'>
+    <div className='absolute top-[20%] sm:top-[14%] xl:top-[16%] left-0 right-0'>
       <div className='flex justify-center sm:justify-end mx-auto w-full max-w-[120rem] px-2 sm:px-4 xl:px-32'>
-        <div className='flex flex-col text-center'>
+        <div className='flex flex-col items-center text-center'>
           <span className='font-header text-3xl lg:text-4xl mb-1'>
             Broxie NFT mint date
           </span>
@@ -55,6 +59,21 @@ const MintStartsSoon = () => {
           <span className='font-header text-2xl lg:text-2xl mb-4'>
             October 14 15:00 UTC
           </span>
+
+          <div className='sm:hidden'>
+            <Button
+              variant='primary'
+              className='!px-6 !mb-6'
+              onClick={() => layoutStore.showMyWallet()}
+            >
+              <span className='text-2xl font-header'>
+                {intl.formatMessage({
+                  id: 'landing.navbar.my_wallet.buy_broxie',
+                  defaultMessage: 'Buy Broxie',
+                })}
+              </span>
+            </Button>
+          </div>
 
           <div className='flex justify-around text-5xl lg:text-6xl space-x-10'>
             {links.map((x) => (
@@ -175,6 +194,8 @@ const imgResolution = {
 };
 
 const LandingHeader = () => {
+  const intl = useIntl();
+  const layoutStore = useLayoutStore();
   const isDesktop = useSmMediaQuery();
 
   const layers = useMemo<BannerLayer[]>(
@@ -296,7 +317,22 @@ const LandingHeader = () => {
         <div className='absolute -bottom-1 bg-gradient-to-t from-black to-transparent w-full h-24' />
 
         {isDesktop && (
-          <div className='absolute top-1/3 bottom-0 left-0 right-0'>
+          <div className='absolute top-[25%] bottom-0 left-0 right-0'>
+            <div className='flex items-center justify-center mb-12'>
+              <Button
+                variant='primary'
+                className='!px-12'
+                onClick={() => layoutStore.showMyWallet()}
+              >
+                <span className='text-4xl font-header'>
+                  {intl.formatMessage({
+                    id: 'landing.navbar.my_wallet.buy_broxie',
+                    defaultMessage: 'Buy Broxie',
+                  })}
+                </span>
+              </Button>
+            </div>
+
             <BecomePart />
           </div>
         )}

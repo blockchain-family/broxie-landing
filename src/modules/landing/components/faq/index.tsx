@@ -1,3 +1,4 @@
+import BroxieRoutes from 'routes';
 import { useMemo } from 'react';
 import {
   Accordion,
@@ -181,7 +182,7 @@ const Faq = () => {
 
   return (
     <div
-      id='faq_section'
+      id={BroxieRoutes.index.elements.faq}
       className='space-y-8 sm:space-y-12 w-full mx-auto py-8'
     >
       <div className='text-center font-header text-4xl sm:text-6xl'>

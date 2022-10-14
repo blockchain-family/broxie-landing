@@ -1,22 +1,22 @@
+import BroxieRoutes from 'routes';
+
 import Button from 'components/core/button';
 import LanguageButton from './language-button';
 import MusicButton from './music-button';
 import WalletButton from './wallet-button';
 
 import { useCallback } from 'react';
+import { useIntl } from 'react-intl';
+import { goToElement } from 'utils/layout';
+import { useLayoutStore } from 'providers/LayoutStoreProvider';
 import { ReactComponent as Broxie } from 'assets/images/broxie.svg';
 import { ReactComponent as BroxieLogo } from 'assets/images/broxie-logo.svg';
-import { useLayoutStore } from 'providers/LayoutStoreProvider';
-import { useIntl } from 'react-intl';
+import { Route, Routes, Link } from 'react-router-dom';
 
 const Navbar = () => {
   const layoutStore = useLayoutStore();
 
   const intl = useIntl();
-
-  const goToElement = useCallback((elementId: string) => {
-    document.getElementById(elementId)?.scrollIntoView({ behavior: 'smooth' });
-  }, []);
 
   const openMobileMenu = useCallback(() => {
     layoutStore.showMobileMenu();
@@ -32,31 +32,62 @@ const Navbar = () => {
 
         <div className='flex items-center space-x-3'>
           <div className='hidden sm:flex space-x-3'>
-            <Button
-              variant='transparent'
-              onClick={() => goToElement('utility_section')}
-              className='!px-2'
-            >
-              <span>
-                {intl.formatMessage({
-                  id: 'landing.navbar.utility',
-                  defaultMessage: 'Utility',
-                })}
-              </span>
-            </Button>
+            <Routes>
+              <Route
+                index
+                element={
+                  <>
+                    <Button
+                      variant='transparent'
+                      onClick={() =>
+                        goToElement(BroxieRoutes.index.elements.utility)
+                      }
+                      className='!px-2'
+                    >
+                      <span>
+                        {intl.formatMessage({
+                          id: 'landing.navbar.utility',
+                          defaultMessage: 'Utility',
+                        })}
+                      </span>
+                    </Button>
 
-            <Button
-              variant='transparent'
-              onClick={() => goToElement('faq_section')}
-              className='!px-4 sm:!px-6'
-            >
-              <span>
-                {intl.formatMessage({
-                  id: 'landing.navbar.faq',
-                  defaultMessage: 'FAQ',
-                })}
-              </span>
-            </Button>
+                    <Button
+                      variant='transparent'
+                      onClick={() =>
+                        goToElement(BroxieRoutes.index.elements.faq)
+                      }
+                      className='!px-4 sm:!px-6'
+                    >
+                      <span>
+                        {intl.formatMessage({
+                          id: 'landing.navbar.faq',
+                          defaultMessage: 'FAQ',
+                        })}
+                      </span>
+                    </Button>
+                  </>
+                }
+              />
+
+              <Route
+                path={BroxieRoutes.provenance_record.path}
+                element={
+                  <Link to={BroxieRoutes.index.path}>
+                    <Button variant='transparent' className='!px-4 sm:!px-6'>
+                      <span>
+                        {intl.formatMessage({
+                          id: 'landing.navbar.home',
+                          defaultMessage: 'Home',
+                        })}
+                      </span>
+                    </Button>
+                  </Link>
+                }
+              />
+
+              <Route path='*' element={<></>} />
+            </Routes>
           </div>
 
           <WalletButton />

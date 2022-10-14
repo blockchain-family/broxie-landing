@@ -1,5 +1,6 @@
 import ModalArea from 'components/layout/modal-area';
 import MobileMenu from 'components/layout/navbar/mobile-menu';
+import TermsOfService from 'components/layout/terms-of-service';
 import { useLocalObservable } from 'mobx-react-lite';
 import { createContext, useContext } from 'react';
 import { LayoutStore } from 'stores/LayoutStore';
@@ -15,6 +16,7 @@ export const ProvideLayout = ({ children }: any) => {
 
       <ModalArea />
       <MobileMenu />
+      <TermsOfService />
     </storeContext.Provider>
   );
 };

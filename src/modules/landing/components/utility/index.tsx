@@ -1,8 +1,9 @@
+import BroxieRoutes from 'routes';
 import UtilityInfo from './utility-info';
 
 const Utility = () => {
   return (
-    <div id='utility_section' className='px-4 space-y-10'>
+    <div id={BroxieRoutes.index.elements.utility} className='px-4 space-y-10'>
       <div className='mx-auto max-w-3xl'>
         <UtilityInfo type='main' />
       </div>
