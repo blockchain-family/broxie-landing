@@ -1,4 +1,5 @@
 import { useIntl } from 'react-intl';
+import { useLayoutStore } from 'providers/LayoutStoreProvider';
 import { ReactComponent as BroxieSvg } from 'assets/images/broxie.svg';
 import { useCallback, useMemo } from 'react';
 import { useStaticData } from 'providers/StaticDataProvider';
@@ -6,6 +7,7 @@ import ExternalLink from 'components/core/external-link';
 
 const Watermark = () => {
   const intl = useIntl();
+  const layoutStore = useLayoutStore();
   const staticData = useStaticData();
 
   const goUpClick = useCallback(() => {
@@ -25,14 +27,25 @@ const Watermark = () => {
         })}
       </span>
 
-      <span>
-        © {currentYear}
-        <ExternalLink href={staticData.urls.broxus} className='mx-1'>
+      <span className='flex flex-col space-y-1'>
+        <span
+          className='text-link underline text-sm cursor-pointer'
+          onClick={() => layoutStore.showTermsOfService()}
+        >
           {intl.formatMessage({
-            id: 'landing.main.broxus',
-            defaultMessage: 'Broxus',
+            id: 'landing.terms_of_service',
+            defaultMessage: 'Terms of Service',
           })}
-        </ExternalLink>
+        </span>
+        <span>
+          © {currentYear}
+          <ExternalLink href={staticData.urls.broxus} className='mx-1'>
+            {intl.formatMessage({
+              id: 'landing.main.broxus',
+              defaultMessage: 'Broxus',
+            })}
+          </ExternalLink>
+        </span>
       </span>
     </div>
   );

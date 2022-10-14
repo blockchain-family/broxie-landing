@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">
+	<path d="M0 16C0 7.16344 7.16344 0 16 0C24.8366 0 32 7.16344 32 16C32 24.8366 24.8366 32 16 32C7.16344 32 0 24.8366 0 16Z" className="uk-preserve" fill="white" />
+	<g clipPath="url(#clip0_1235_13413)">
+		<path d="M15.997 4L15.8359 4.54693V20.4161L15.997 20.5767L23.3631 16.2225L15.997 4Z" className="uk-preserve" fill="#343434" />
+		<path d="M15.9952 4L8.62891 16.2225L15.9952 20.5767V12.8743V4Z" className="uk-preserve" fill="#8C8C8C" />
+		<path d="M15.997 21.9713L15.9062 22.082V27.7348L15.997 27.9997L23.3677 17.6194L15.997 21.9713Z" className="uk-preserve" fill="#3C3C3B" />
+		<path d="M15.9952 27.9997V21.9713L8.62891 17.6194L15.9952 27.9997Z" className="uk-preserve" fill="#8C8C8C" />
+		<path d="M15.9941 20.5767L23.3603 16.2225L15.9941 12.8742V20.5767Z" className="uk-preserve" fill="#141414" />
+		<path d="M8.62891 16.2225L15.9952 20.5767V12.8742L8.62891 16.2225Z" className="uk-preserve" fill="#393939" />
+	</g>
+	<defs>
+		<clipPath id="clip0_1235_13413">
+			<rect width="24" height="24" className="uk-preserve" fill="white" transform="translate(4 4)" />
+		</clipPath>
+	</defs>
+</svg>

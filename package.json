@@ -5,8 +5,13 @@
   "dependencies": {
     "@hookform/resolvers": "^2.8.8",
     "@szhsin/react-menu": "^3.1.2",
+    "bignumber.js": "^9.1.0",
+    "buffer": "^6.0.3",
     "country-flag-icons": "^1.5.5",
-    "everscale-inpage-provider": "^0.3.34",
+    "date-fns": "^2.29.3",
+    "ethers": "^5.7.0",
+    "everscale-inpage-provider": "^0.3.37",
+    "everscale-standalone-client": "^2.0.28",
     "mobx": "^6.6.1",
     "mobx-react-lite": "^3.4.0",
     "react": "^18.2.0",
@@ -20,13 +25,16 @@
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.0.1",
     "react-scroll-parallax": "^3.2.0",
+    "react-select": "^5.4.0",
     "swiper": "^8.3.2"
   },
   "scripts": {
     "start": "env-cmd -f .env react-scripts start",
     "build": "env-cmd -f .env react-scripts build",
     "generate-intl": "formatjs extract \"src/**/*.tsx\" --format simple --out-file src/assets/lang/en.json --id-interpolation-pattern '[sha512:contenthash:base64:6]'",
+    "generate-abi-types": "typechain --target ethers-v5 --out-dir src/abi/evm/generated 'src/abi/evm/*.json'",
     "crowdin-sync": "crowdin upload && crowdin download",
+    "deploy-dev": "surge --domain broxie.surge.sh dist/",
     "deploy-stage": "surge --domain broxie-beta.surge.sh dist/"
   },
   "eslintConfig": {
@@ -50,6 +58,7 @@
   "devDependencies": {
     "@crowdin/cli": "^3.7.10",
     "@formatjs/cli": "^5.0.7",
+    "@typechain/ethers-v5": "^10.1.0",
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.5",
     "@types/react-icons": "^3.0.0",
@@ -59,6 +68,7 @@
     "postcss": "^8.4.14",
     "prettier": "^2.7.1",
     "tailwindcss": "^3.1.8",
+    "typechain": "^8.1.0",
     "typescript": "^4.7.4"
   }
 }

@@ -20,6 +20,16 @@
     --color-link: 126 84 75;
     --color-background: 0 0 0;
     --color-black: 0 0 0;
+
+    --color-select-field-mainBg: rgb(var(--color-primary));
+    --color-select-field-border: rgb(var(--color-black) / 10%);
+    --color-select-field-inputText: rgb(var(--color-secondaryBg) / 80%);
+    --color-select-field-placeholderText: rgb(var(--color-black) / 50%);
+    --color-select-field-menu-border: rgb(var(--color-black) / 10%);
+    --color-select-field-menu-shadow: 0px 3px 8px rgba(0, 0, 0, 0.1);
+
+    --width-scrollThumb: 6px;
+    --color-scrollThumb: rgb(var(--color-black) / 85%);
   }
 
   html {
@@ -31,5 +41,20 @@
 
     -webkit-tap-highlight-color: transparent;
     -webkit-touch-callout: none;
+  }
+
+  @keyframes icon-spin {
+    0% {
+      -webkit-transform: rotate(0deg);
+      transform: rotate(0deg);
+    }
+    100% {
+      -webkit-transform: rotate(359deg);
+      transform: rotate(359deg);
+    }
+  }
+
+  .icon-spin {
+    animation: icon-spin 2s infinite linear;
   }
 }

@@ -42,7 +42,7 @@ const UtilityInfo = ({
         return intl.formatMessage({
           id: 'landing.utility.main',
           defaultMessage:
-            "Each Broxie comes with utilities that will give you advantages and additional benefits when using Broxus products. There will be some killer utility mechanics implemented in the near future, don't miss your chance to profit!",
+            "NFT collection comes with utilities that will give you advantages and additional benefits when using Broxus products. There will be some killer utility mechanics implemented in the near future, don't miss your chance to profit!",
         });
 
       case 'flatqube':

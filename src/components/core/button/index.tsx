@@ -16,9 +16,9 @@ const Button = React.forwardRef<HTMLButtonElement, ButtonProps>(
     const btnClass = useMemo(() => {
       switch (variant) {
         case 'primary':
-          return 'bg-primaryBg';
+          return 'bg-primaryBg text-primary';
         case 'secondary':
-          return 'bg-primary/20';
+          return 'bg-primary/20 text-primary';
         case 'tertiary':
           return 'bg-primary text-black';
         default:
