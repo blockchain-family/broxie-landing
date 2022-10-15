@@ -102,7 +102,7 @@ const MobileMenu = observer(() => {
             />
 
             <Route
-              path={BroxieRoutes.provenance_record.path}
+              path='*'
               element={
                 <Button
                   variant='transparent'
@@ -117,9 +117,19 @@ const MobileMenu = observer(() => {
                 </Button>
               }
             />
-
-            <Route path='*' element={<></>} />
           </Routes>
+
+          <Button
+            variant='transparent'
+            onClick={() => onNavigate(BroxieRoutes.gallery.path)}
+          >
+            <span className='text-2xl'>
+              {intl.formatMessage({
+                id: 'gallery.title',
+                defaultMessage: 'Gallery',
+              })}
+            </span>
+          </Button>
         </div>
 
         <div className='flex items-center justify-center space-x-2 pb-6'>

@@ -1,4 +1,5 @@
 import BroxieRoutes from 'routes';
+import { observer } from 'mobx-react-lite';
 import { Link } from 'react-router-dom';
 import { useIntl } from 'react-intl';
 import { useLayoutStore } from 'providers/LayoutStoreProvider';
@@ -7,9 +8,12 @@ import NftGalleryPreview from './nft-gallery-preview';
 import Container from 'components/core/container';
 import NftPriceProgress from './nft-price-progress';
 import Button from 'components/core/button';
+import { useBroxieStore } from 'providers/BroxieStoreProvider';
+import { MarketState } from 'stores/BroxieStore';
 
-const LandingBody = () => {
+const LandingBody = observer(() => {
   const intl = useIntl();
+  const broxieStore = useBroxieStore();
   const layoutStore = useLayoutStore();
 
   return (
@@ -40,18 +44,20 @@ const LandingBody = () => {
 
         <NftPriceProgress />
 
-        <Button
-          variant='primary'
-          className='!px-6'
-          onClick={() => layoutStore.showMyWallet()}
-        >
-          <span className='text-lg'>
-            {intl.formatMessage({
-              id: 'landing.body.buy_broxie',
-              defaultMessage: 'Buy Broxie',
-            })}
-          </span>
-        </Button>
+        {broxieStore.marketState < MarketState.SoldOut && (
+          <Button
+            variant='primary'
+            className='!px-6'
+            onClick={() => layoutStore.showMyWallet()}
+          >
+            <span className='text-lg'>
+              {intl.formatMessage({
+                id: 'landing.body.buy_broxie',
+                defaultMessage: 'Buy Broxie',
+              })}
+            </span>
+          </Button>
+        )}
       </div>
 
       <div className='flex flex-col items-center'>
@@ -88,6 +94,6 @@ const LandingBody = () => {
       <Utility />
     </div>
   );
-};
+});
 
 export default LandingBody;

@@ -39,6 +39,7 @@ type MarketInfo = {
     price: BigNumber;
   }[];
   collectionAddress: Address;
+  startIndex: number | null;
 };
 
 const marketInfoDefaultValue = {
@@ -49,6 +50,7 @@ const marketInfoDefaultValue = {
   startDate: new Date(),
   revealDate: new Date(),
   collectionAddress: new Address(''),
+  startIndex: null,
 };
 
 const tokenInfoDefaultValue = {
@@ -382,6 +384,10 @@ export class BroxieStore {
       .collection()
       .call({ cachedState: marketContractState });
 
+    const { startIndex } = await marketRootContract.methods
+      .startIndex()
+      .call({ cachedState: marketContractState });
+
     return {
       nftTotal: Number(totalCount),
       nftPerHand: Number(nftPerHand),
@@ -397,6 +403,7 @@ export class BroxieStore {
         }))
         .sort((x, y) => (x.count > y.count ? 1 : -1)),
       collectionAddress: collection,
+      startIndex: startIndex ? Number(startIndex) : null,
     };
   }
 

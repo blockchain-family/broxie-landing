@@ -1,4 +1,8 @@
 {
+  "gallery.collection.load": "Load more...",
+  "gallery.filter.reset": "Reset filter",
+  "gallery.filter.summary": "{nftCount} Broxies with these filters",
+  "gallery.title": "Gallery",
   "landing.body.become_part": "Become part of Broxus",
   "landing.body.become_part.description.part1": "Hey man, I’ve heard some interesting rumors about these Broxies. People are saying that Broxie owners may get special privileges in the Everscale ecosystem and on Broxus platforms. I can’t say for sure, so just keep this between us, alright?",
   "landing.body.become_part.description.part2": "The goal of Broxie is to gather a community of homies and give them benefits in this world. What benefits exactly? You'll find out soon, we have big plans.",
@@ -74,6 +78,7 @@
   "landing.navbar.my_wallet.buy_broxie": "Buy Broxie",
   "landing.navbar.my_wallet.connect": "Connect",
   "landing.navbar.my_wallet.disconnect": "Disconnect",
+  "landing.navbar.my_wallet.go_to_gallery": "Go to gallery",
   "landing.navbar.my_wallet.install": "Install",
   "landing.navbar.my_wallet.no_ever_wallet": "You need to connect {everWallet} to purchase Broxies",
   "landing.navbar.my_wallet.not_connected": "Not connected",

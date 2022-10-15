@@ -40,7 +40,7 @@ export type PurchaseResult = {
 };
 
 type BalanceInfo = {
-  ownedNfts: string[];
+  ownedNfts: number[];
   discounts: number;
   token: BigNumber;
 };
@@ -341,7 +341,7 @@ export class BuyBroxieStore {
       const tokenBalance = await tokenBalancePromise;
 
       return {
-        ownedNfts: ownedNfts,
+        ownedNfts: ownedNfts.map((x) => Number(x)),
         discounts: Number(discount),
         token: this.broxieStore.isMarketInEver ? everBalance : tokenBalance,
       };
