@@ -1,4 +1,3 @@
-import { marketAbi } from 'abi/everscale/market';
 import { provenanceConfig } from 'config/provenance';
 import { makeAutoObservable, runInAction } from 'mobx';
 import { BroxieStore } from 'stores/BroxieStore';
@@ -20,7 +19,7 @@ export class ProvenanceRecordStore {
   }[] = [];
 
   async init() {
-    const startIndex = await this.getStartIndex();
+    const startIndex = this.broxieStore.marketInfo.startIndex;
 
     const totalNft = provenanceConfig.imgHash.length;
 
@@ -71,31 +70,5 @@ export class ProvenanceRecordStore {
 
   get ipfsUrl() {
     return provenanceConfig.ipfsUrl;
-  }
-
-  private async getStartIndex() {
-    if (!this.broxieStore.staticProvider) {
-      return null;
-    }
-
-    try {
-      const marketRootContract = new this.broxieStore.staticProvider.Contract(
-        marketAbi,
-        this.broxieStore.marketAddress
-      );
-
-      const { startIndex } = await marketRootContract.methods
-        .startIndex()
-        .call();
-
-      if (!startIndex) {
-        return null;
-      }
-
-      return Number(startIndex);
-    } catch (err) {
-      console.error(err);
-      return null;
-    }
   }
 }

@@ -1,6 +1,7 @@
 export const broxieCollection = [
   {
-    url: 'QmZoceTedMxetx3vEDVJRNwEA5Gcdf1YhMsAGWP1gGQAdg',
+    previewUrl: 'QmdqY7hD8WeHyW6mBVSf3WMJptptVaqRG5XaCmo56brmPk',
+    ipfsUrl: 'QmZoceTedMxetx3vEDVJRNwEA5Gcdf1YhMsAGWP1gGQAdg',
     attributes: [
       {
         trait_type: 'back',
@@ -45,7 +46,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZHYf1TGvAS7aZxAqu9xLfPqRVjdpZDWRoiqKNtUvaRDq',
+    previewUrl: 'QmXp2DwiNqznGdpVgVPBc9ruJifEiLwBxk17hrEDA88fv5',
+    ipfsUrl: 'QmZHYf1TGvAS7aZxAqu9xLfPqRVjdpZDWRoiqKNtUvaRDq',
     attributes: [
       {
         trait_type: 'back',
@@ -90,7 +92,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ1KnLDLphh9ZPR3WQ92AW4MSQJYVGeB13LdoF94YKYWT',
+    previewUrl: 'QmVdJRaigvnYnEP35pEpTva4hW262MtDyvf6sdW8g853AJ',
+    ipfsUrl: 'QmZ1KnLDLphh9ZPR3WQ92AW4MSQJYVGeB13LdoF94YKYWT',
     attributes: [
       {
         trait_type: 'back',
@@ -135,7 +138,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfXAEXPgA2XiNkMkiSwSX2WtgkKXjkz3sGeqUdZ7sXouM',
+    previewUrl: 'QmQMcZ2ktPFTcXiqbchUibHQ3wMfbY3yv9hZQxrMvYoYsk',
+    ipfsUrl: 'QmfXAEXPgA2XiNkMkiSwSX2WtgkKXjkz3sGeqUdZ7sXouM',
     attributes: [
       {
         trait_type: 'back',
@@ -180,7 +184,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR38K8RW9mT1xTn5CG4hfemLnF8ya7wqbGuAyQtksYcMF',
+    previewUrl: 'QmQy8KGPg9WSW48omA4XqR3hiUN9TLo6bRgFS8SzcXYFya',
+    ipfsUrl: 'QmR38K8RW9mT1xTn5CG4hfemLnF8ya7wqbGuAyQtksYcMF',
     attributes: [
       {
         trait_type: 'back',
@@ -225,7 +230,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeVFUUXYyyXjwiexKoSHrLinar4ZYRbtWkPiCSteBADRQ',
+    previewUrl: 'QmSLhwdsonGXkixmES1fiU5sZbL6vTdkueXqbKhpTF9MuC',
+    ipfsUrl: 'QmeVFUUXYyyXjwiexKoSHrLinar4ZYRbtWkPiCSteBADRQ',
     attributes: [
       {
         trait_type: 'back',
@@ -270,7 +276,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeBpjEJ7wkr1XE6eRgdc5mzjy7SaadPJF8Liry5Qx6BjL',
+    previewUrl: 'QmQRrt6tox4ej9DQqk4BxVSF9r3eG5BH5N5aR7tfM8CsJ6',
+    ipfsUrl: 'QmeBpjEJ7wkr1XE6eRgdc5mzjy7SaadPJF8Liry5Qx6BjL',
     attributes: [
       {
         trait_type: 'back',
@@ -315,7 +322,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmdi54Cfb2sAePDiBUeWFB4eWjLW1L484Arsj7pbKxVrVz',
+    previewUrl: 'QmdRDx9JZwmKuewqjzt8N5RJ1bqa1SmNZbvuJfrH7nHGDP',
+    ipfsUrl: 'Qmdi54Cfb2sAePDiBUeWFB4eWjLW1L484Arsj7pbKxVrVz',
     attributes: [
       {
         trait_type: 'back',
@@ -360,7 +368,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUvxBN39VM6CnseTyut6WPFv6QEv13QRpVMpuWZL4CvdS',
+    previewUrl: 'QmeRXebnHjYC98zk6fNVCwmU1snByNSiPHuKZZosZm2otQ',
+    ipfsUrl: 'QmUvxBN39VM6CnseTyut6WPFv6QEv13QRpVMpuWZL4CvdS',
     attributes: [
       {
         trait_type: 'back',
@@ -405,7 +414,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPdMbiShSfwpiTx1QSwwpdz9rss1nC6KbK6aAeTveBKW5',
+    previewUrl: 'QmZQtwjgWpeev8dtBotNHrcgAvJQpRUJLP2CWVhn92U3hZ',
+    ipfsUrl: 'QmPdMbiShSfwpiTx1QSwwpdz9rss1nC6KbK6aAeTveBKW5',
     attributes: [
       {
         trait_type: 'back',
@@ -450,7 +460,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU3Xc3ZfkinSsGKCNTmnmNqM44zJVDFMveSiX9oUVygQQ',
+    previewUrl: 'QmbYsAQ9xnykUyF54nBBxftMWLYeMBadtFnXaHRemNY1Dg',
+    ipfsUrl: 'QmU3Xc3ZfkinSsGKCNTmnmNqM44zJVDFMveSiX9oUVygQQ',
     attributes: [
       {
         trait_type: 'back',
@@ -495,7 +506,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeZWMazzGBrQokKr1ky3xiRAxzV4tchwB7c8EePm36zrJ',
+    previewUrl: 'QmNzqtKdMvXngtyJiSWLZh8rqqbeuVFxJBns8YVfT8BBfX',
+    ipfsUrl: 'QmeZWMazzGBrQokKr1ky3xiRAxzV4tchwB7c8EePm36zrJ',
     attributes: [
       {
         trait_type: 'back',
@@ -540,7 +552,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfCxJYM36vD8feFpDQ9MPkpufqDPgHCNaAWrKD1oMXCXh',
+    previewUrl: 'QmcyLskXphun7sbqqZMpARfaGFyKneoMcNmPaFNcrprFQw',
+    ipfsUrl: 'QmfCxJYM36vD8feFpDQ9MPkpufqDPgHCNaAWrKD1oMXCXh',
     attributes: [
       {
         trait_type: 'back',
@@ -585,7 +598,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfEfdFk6J3X4XeGqR14wX2cQiNQwhiH1JhjBf7mJjSiTz',
+    previewUrl: 'QmQJ1qqDnhnLdbyirs9UtH9LcR8cjbLyqhKotjLVLeSq8d',
+    ipfsUrl: 'QmfEfdFk6J3X4XeGqR14wX2cQiNQwhiH1JhjBf7mJjSiTz',
     attributes: [
       {
         trait_type: 'back',
@@ -630,7 +644,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPJhtpkxL9bydawggUvMPBkFvj26urDcbN7NhDva5cY7p',
+    previewUrl: 'QmVk7WuzioHhJEPGaKzyUEM8gdtTHhzZScPEWbzqbyrret',
+    ipfsUrl: 'QmPJhtpkxL9bydawggUvMPBkFvj26urDcbN7NhDva5cY7p',
     attributes: [
       {
         trait_type: 'back',
@@ -675,7 +690,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVCNvE6xJXUj4ntgdsWtQexTzeL4RSSVo9cqN56QK9q9H',
+    previewUrl: 'QmRaJPS272DVFfBnMfZSUM2qdy23bYurcmqshSADq925QK',
+    ipfsUrl: 'QmVCNvE6xJXUj4ntgdsWtQexTzeL4RSSVo9cqN56QK9q9H',
     attributes: [
       {
         trait_type: 'back',
@@ -720,7 +736,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRVdGTxGozjBaLN2hgfKFfHd9dRGTHmYHq6V9VJRQdVrU',
+    previewUrl: 'QmUuYkMw7yt8eH5UU7EBoEf3zMV8FjXCuGLcvFAorsqoFF',
+    ipfsUrl: 'QmRVdGTxGozjBaLN2hgfKFfHd9dRGTHmYHq6V9VJRQdVrU',
     attributes: [
       {
         trait_type: 'back',
@@ -765,7 +782,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdL9qFkkGyrJUHPqLx7TB5EYFFtSEhwhCbS5zFoMXNDV9',
+    previewUrl: 'QmRpBNYXYsDgKgU4Q5DGVJBiAwcuCRBDqBC7r3yKuNKihF',
+    ipfsUrl: 'QmdL9qFkkGyrJUHPqLx7TB5EYFFtSEhwhCbS5zFoMXNDV9',
     attributes: [
       {
         trait_type: 'back',
@@ -810,7 +828,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUgV9QkU4L6a393EZ6zbrnJ4HtZPLKReCVBhqeA4B9g29',
+    previewUrl: 'QmYapbNqGAmTMtg4WFn69BveCe2f5jin2T8yqnSp2gB86G',
+    ipfsUrl: 'QmUgV9QkU4L6a393EZ6zbrnJ4HtZPLKReCVBhqeA4B9g29',
     attributes: [
       {
         trait_type: 'back',
@@ -855,7 +874,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmf3hyJRNZMFThYy1JUKQUmxaWpAo8L5VnbZKc9XcUM9MX',
+    previewUrl: 'QmSxFrLtur6zjciYHZ3yEJHRgPaR4CZHiNRGjk3Ayo7xbC',
+    ipfsUrl: 'Qmf3hyJRNZMFThYy1JUKQUmxaWpAo8L5VnbZKc9XcUM9MX',
     attributes: [
       {
         trait_type: 'back',
@@ -900,7 +920,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTw2ANQh3V2SkQL2EeBCv5ss1JSnDTjgPifJEaQKGBVVE',
+    previewUrl: 'QmQThbL3GQPo9HRn4qAaHT687pTcA1hXLmwayGNYgAUCFS',
+    ipfsUrl: 'QmTw2ANQh3V2SkQL2EeBCv5ss1JSnDTjgPifJEaQKGBVVE',
     attributes: [
       {
         trait_type: 'back',
@@ -945,7 +966,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ57PkdA4NM77RWRhDQXWBc6iTyrkwg2m8VkXTKJQZxyA',
+    previewUrl: 'QmXCafzhDgvFep6gCDdY97faygrWtjex9ZWmSjnYhSFBfk',
+    ipfsUrl: 'QmZ57PkdA4NM77RWRhDQXWBc6iTyrkwg2m8VkXTKJQZxyA',
     attributes: [
       {
         trait_type: 'back',
@@ -990,7 +1012,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWtZpFgw8ZLbZcxA3s6qywkRLcJnbsVnbQiWYbJuxZrU8',
+    previewUrl: 'QmSuSXxVJBg9EXH6bZi4q8jweCMPBBqnUFiQuHUi5eVdF3',
+    ipfsUrl: 'QmWtZpFgw8ZLbZcxA3s6qywkRLcJnbsVnbQiWYbJuxZrU8',
     attributes: [
       {
         trait_type: 'back',
@@ -1035,7 +1058,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWzDCZkWJSxCfBzGx9jcfhDzTHPQgz1EeKPWPCnwGXCSp',
+    previewUrl: 'QmV7px4Y1A5hD7Qe9hksjZoJ1STh6KywZHqRTfTZzQuM6P',
+    ipfsUrl: 'QmWzDCZkWJSxCfBzGx9jcfhDzTHPQgz1EeKPWPCnwGXCSp',
     attributes: [
       {
         trait_type: 'back',
@@ -1080,7 +1104,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWznyit95CQMaJidUyrjpPQkFLZbnVDasHkorVbdVq2gr',
+    previewUrl: 'Qmf1ZVuJFCqs1LW8VdJsNpTrYFiVo1QH44E9vXRTzrdrsT',
+    ipfsUrl: 'QmWznyit95CQMaJidUyrjpPQkFLZbnVDasHkorVbdVq2gr',
     attributes: [
       {
         trait_type: 'back',
@@ -1125,7 +1150,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR1HMYYd7jdxVnHaKDXbr5a8f6Y88MetUbD9hY8GoarTQ',
+    previewUrl: 'Qmer8Png7JyRyZrU2C7T2hwNng4MhRdHR6TevdxykJdFKH',
+    ipfsUrl: 'QmR1HMYYd7jdxVnHaKDXbr5a8f6Y88MetUbD9hY8GoarTQ',
     attributes: [
       {
         trait_type: 'back',
@@ -1170,7 +1196,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSEqkY69DPGuG5pyoC7i2pXFGeKfnKvuPjFF9S6RmZn9F',
+    previewUrl: 'Qma2jMSnhcSRWx4vYfLapajm3iu9sD1kc17ycJqPDaNLbZ',
+    ipfsUrl: 'QmSEqkY69DPGuG5pyoC7i2pXFGeKfnKvuPjFF9S6RmZn9F',
     attributes: [
       {
         trait_type: 'back',
@@ -1215,7 +1242,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPzxmct749wykEZ5ezZqRUWMXSnDNkrW8a2tpTLw6TjMk',
+    previewUrl: 'QmUzm1ryKqJ1fmWF7z37wdFcyGn5sFQCC7yTkhieaQ1G5p',
+    ipfsUrl: 'QmPzxmct749wykEZ5ezZqRUWMXSnDNkrW8a2tpTLw6TjMk',
     attributes: [
       {
         trait_type: 'back',
@@ -1260,7 +1288,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRyEgqUWCeQtjJLmZ3YNSNSiAGzeRLFaM19MbiJZ6d2hD',
+    previewUrl: 'QmRYrjp5gWd8SJRcFDPcEMrPPKebLd39JqyEjAeDCte59B',
+    ipfsUrl: 'QmRyEgqUWCeQtjJLmZ3YNSNSiAGzeRLFaM19MbiJZ6d2hD',
     attributes: [
       {
         trait_type: 'back',
@@ -1305,7 +1334,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdcGu7Q7An8gjPwh6iyykLuB6KqvqnvexkEpv6dKkiDpq',
+    previewUrl: 'QmcQ7buhSjQeRSrK9PG1i25zoHs6SWFW72TnhX2zEAXyhk',
+    ipfsUrl: 'QmdcGu7Q7An8gjPwh6iyykLuB6KqvqnvexkEpv6dKkiDpq',
     attributes: [
       {
         trait_type: 'back',
@@ -1350,7 +1380,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPjrei9zpdbrSrU5qULusYLGh2j9aftPgDJfpa1WB13yB',
+    previewUrl: 'QmRtMWHU1CxWMj8VVAQfUdXa2FzygXeB1JTULZYBZyQcEU',
+    ipfsUrl: 'QmPjrei9zpdbrSrU5qULusYLGh2j9aftPgDJfpa1WB13yB',
     attributes: [
       {
         trait_type: 'back',
@@ -1395,7 +1426,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmawJQbDhwwaMWvfk4mEtAwtd8Tt1JNpf9zpi6BVoWyNDP',
+    previewUrl: 'QmbUiAM4S4zRDg9DBtaCF3H4wFxjJif9Y5A8Xv6x1z9EB4',
+    ipfsUrl: 'QmawJQbDhwwaMWvfk4mEtAwtd8Tt1JNpf9zpi6BVoWyNDP',
     attributes: [
       {
         trait_type: 'back',
@@ -1440,7 +1472,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZQgskmCwPjDVaHHC5mpE5Kjk7xNjNA9MGj2oKyEwPhda',
+    previewUrl: 'QmXPxnqKT6L3jSaJn6rtGRxvyNYgXQ8CBqx8gH5Wof6Fi9',
+    ipfsUrl: 'QmZQgskmCwPjDVaHHC5mpE5Kjk7xNjNA9MGj2oKyEwPhda',
     attributes: [
       {
         trait_type: 'back',
@@ -1485,7 +1518,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZB6bF7wzSDD4ZSFJ5wfPrREAbYE1t81CeiZo51o6wxPs',
+    previewUrl: 'QmdsA7ceDDHjLRYnMLK2quF9jJFhs8axxkBWWmeC7sARtM',
+    ipfsUrl: 'QmZB6bF7wzSDD4ZSFJ5wfPrREAbYE1t81CeiZo51o6wxPs',
     attributes: [
       {
         trait_type: 'back',
@@ -1530,7 +1564,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRv7pQspCvFoSwuLeu4w22zMiFgYVy57GXD86iD4YWiSx',
+    previewUrl: 'QmSAKYBGw9ubhYLpYYY8p6dwfGnHh5Ntv1ASVhNfoyg4ir',
+    ipfsUrl: 'QmRv7pQspCvFoSwuLeu4w22zMiFgYVy57GXD86iD4YWiSx',
     attributes: [
       {
         trait_type: 'back',
@@ -1575,7 +1610,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTR4PCx6CWRc82GaKJ2ZKDaoQFXfTZzEpUDQbA6fbm2ib',
+    previewUrl: 'QmYyCrk8XjB8jpoyzjngvYv9bZaiNDYk8uns25E8aX1TgR',
+    ipfsUrl: 'QmTR4PCx6CWRc82GaKJ2ZKDaoQFXfTZzEpUDQbA6fbm2ib',
     attributes: [
       {
         trait_type: 'back',
@@ -1620,7 +1656,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWH8Y8NA4uAsuvZkViKsBbodnyW2bU8MBBN5bbLEMK4s6',
+    previewUrl: 'QmTxamXPiw2m2SidaWHBGA3CDurA7KP4z88nPaavzKXYPS',
+    ipfsUrl: 'QmWH8Y8NA4uAsuvZkViKsBbodnyW2bU8MBBN5bbLEMK4s6',
     attributes: [
       {
         trait_type: 'back',
@@ -1665,7 +1702,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPWtYWNYL6GGrLaWRjS5GEoeoW2qacVC7Pue9JC1DYHeZ',
+    previewUrl: 'QmSo4ndYynmwqC4queez7HB56g8NSRtUxLhW9jgwKkKLNX',
+    ipfsUrl: 'QmPWtYWNYL6GGrLaWRjS5GEoeoW2qacVC7Pue9JC1DYHeZ',
     attributes: [
       {
         trait_type: 'back',
@@ -1710,7 +1748,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQP2FCgscvjoVxJAixv5GJA86PaBbPJthtjs33uthRgea',
+    previewUrl: 'QmVjcALGxt6e158F7ZGejBpKG9Pkg7drJe6wTkBqC2d6Jy',
+    ipfsUrl: 'QmQP2FCgscvjoVxJAixv5GJA86PaBbPJthtjs33uthRgea',
     attributes: [
       {
         trait_type: 'back',
@@ -1755,7 +1794,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdW2eYGHtm33pL9ZMeFcuULeHx8N4j3Jh1zkCDawBh6hV',
+    previewUrl: 'QmczmP7r1ozVGhruMsdyDkYjSkNgS7HDwGozgmx3inzBAp',
+    ipfsUrl: 'QmdW2eYGHtm33pL9ZMeFcuULeHx8N4j3Jh1zkCDawBh6hV',
     attributes: [
       {
         trait_type: 'back',
@@ -1800,7 +1840,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQ9AnZEWrTz9LoZEzcSNnmUQ6kcR8R8sbRPwzNETnyAS9',
+    previewUrl: 'QmYxVmK1a36mQpvFxBUhTRafaAkTZurXMQpErRtXTDqihg',
+    ipfsUrl: 'QmQ9AnZEWrTz9LoZEzcSNnmUQ6kcR8R8sbRPwzNETnyAS9',
     attributes: [
       {
         trait_type: 'back',
@@ -1845,7 +1886,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcMZxv2sboyHzSHVt4Tbsxu2zZVaDHCmZpiGvc3Jjx2GS',
+    previewUrl: 'QmeXN6h6ENA9AKUDyvSZ9kDwq22Ejab5XTaUmVwUSEnsG9',
+    ipfsUrl: 'QmcMZxv2sboyHzSHVt4Tbsxu2zZVaDHCmZpiGvc3Jjx2GS',
     attributes: [
       {
         trait_type: 'back',
@@ -1890,7 +1932,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfTEPyBiEBUy3d7hVE1w7dHQz5o9NJoSzyHY83VuYAvFV',
+    previewUrl: 'QmR5Vbqvp3u3bRiFAVtvKUDGY3ngDBDmhkByKucJqi9fo7',
+    ipfsUrl: 'QmfTEPyBiEBUy3d7hVE1w7dHQz5o9NJoSzyHY83VuYAvFV',
     attributes: [
       {
         trait_type: 'back',
@@ -1935,7 +1978,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWGjP6xnoSS2pogzkBfnxDKWAYA3v4jL2Zo9qhTYjdu3W',
+    previewUrl: 'QmPJ7BX5GWf3dkxucPSLAmSWcfLtorUe8Hn7FLnLEyVepn',
+    ipfsUrl: 'QmWGjP6xnoSS2pogzkBfnxDKWAYA3v4jL2Zo9qhTYjdu3W',
     attributes: [
       {
         trait_type: 'back',
@@ -1980,7 +2024,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZNsQWDDxK3tSqbw2WsQA3nVfuu6LyVLMJ6moKkxD6vX5',
+    previewUrl: 'QmeeA6fAj9QohbsGb3o9QKEwQqAEXAJ17hNyMWQCkS67uC',
+    ipfsUrl: 'QmZNsQWDDxK3tSqbw2WsQA3nVfuu6LyVLMJ6moKkxD6vX5',
     attributes: [
       {
         trait_type: 'back',
@@ -2025,7 +2070,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUnpzhtmpjuaf4N9mCimJKH3y1EYh65JjwdkJTbVJDyNq',
+    previewUrl: 'QmNetm6JEQLDEhdtnWNxB7Squm5XTzXLVKJKEoNdURtnp1',
+    ipfsUrl: 'QmUnpzhtmpjuaf4N9mCimJKH3y1EYh65JjwdkJTbVJDyNq',
     attributes: [
       {
         trait_type: 'back',
@@ -2070,7 +2116,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVLnYvgtEYcryFnLama1aYf26Cojg6HWCoXpa3Y8rassX',
+    previewUrl: 'QmbPnYDT9agapCaSNjVPUHtM8H8wJyzZxX4VFbPNYMeNgX',
+    ipfsUrl: 'QmVLnYvgtEYcryFnLama1aYf26Cojg6HWCoXpa3Y8rassX',
     attributes: [
       {
         trait_type: 'back',
@@ -2115,7 +2162,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWKfJuUCzo5Lm5BudB6miB7pKu3sF2zhuxjGLE9TjN6Xt',
+    previewUrl: 'QmPhKGyAkpZEwHTkWGpevM8f29hWTv3yRupjFXuKAp8TKS',
+    ipfsUrl: 'QmWKfJuUCzo5Lm5BudB6miB7pKu3sF2zhuxjGLE9TjN6Xt',
     attributes: [
       {
         trait_type: 'back',
@@ -2160,7 +2208,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX9ZnxEsp9QT8baMiTnJmhec2qKDvGZRRoveqaZxCiM6f',
+    previewUrl: 'QmPXN3FVPAfLTfGCyLPE47otqM3QiLCch5fkorbN7kWhAW',
+    ipfsUrl: 'QmX9ZnxEsp9QT8baMiTnJmhec2qKDvGZRRoveqaZxCiM6f',
     attributes: [
       {
         trait_type: 'back',
@@ -2205,7 +2254,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNhWSX3daXpsbV45jCjn6saXq4Epq8gEVKqYUcQt6n1Q7',
+    previewUrl: 'QmT2Cig6jQYQW9Wy77SYBqFMFWJx99UUKtNQmzDs8kpvTZ',
+    ipfsUrl: 'QmNhWSX3daXpsbV45jCjn6saXq4Epq8gEVKqYUcQt6n1Q7',
     attributes: [
       {
         trait_type: 'back',
@@ -2250,7 +2300,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT2CbSAVaz2kys92pwNMhXpsmNhxGoetwAZFyt2X4f1tj',
+    previewUrl: 'QmbrzfJQrpw8t75mrC8vcbCVvPRh96BHWbfVQ9gYZSMSXk',
+    ipfsUrl: 'QmT2CbSAVaz2kys92pwNMhXpsmNhxGoetwAZFyt2X4f1tj',
     attributes: [
       {
         trait_type: 'back',
@@ -2295,7 +2346,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdDUQwea7QG6LeiAAFXkVnhTQQxeDjaHzCiNAnLU3SNRf',
+    previewUrl: 'QmSipGeXBh2tFkbWcjmBPrjgbUFvJsqgFUFXJHyoxbkad7',
+    ipfsUrl: 'QmdDUQwea7QG6LeiAAFXkVnhTQQxeDjaHzCiNAnLU3SNRf',
     attributes: [
       {
         trait_type: 'back',
@@ -2340,7 +2392,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR3o7p858exfotnhcgLCVTGV5S8Fk15ChRTVwaJYC5SWV',
+    previewUrl: 'QmPU84eBtAG6phJKexXNH6ndExcouRk1ARBNxhwCHZD45b',
+    ipfsUrl: 'QmR3o7p858exfotnhcgLCVTGV5S8Fk15ChRTVwaJYC5SWV',
     attributes: [
       {
         trait_type: 'back',
@@ -2385,7 +2438,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWrFgJ4X1WFbPso7p36q7VDXxPFbY3noWhC8Rp3CHPNvt',
+    previewUrl: 'QmZkQkPz5mWUGfBTiZsdusrCBuTohxMr4pFYT3iHyvznNV',
+    ipfsUrl: 'QmWrFgJ4X1WFbPso7p36q7VDXxPFbY3noWhC8Rp3CHPNvt',
     attributes: [
       {
         trait_type: 'back',
@@ -2430,7 +2484,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYZbDo4xxL46FWyYne2StsL4f2UcCx7KN7h71bWABjqfa',
+    previewUrl: 'QmbBoZDcAKo8pXogPHn3HaCKfm5YZAiykghZ5gp9z6rKho',
+    ipfsUrl: 'QmYZbDo4xxL46FWyYne2StsL4f2UcCx7KN7h71bWABjqfa',
     attributes: [
       {
         trait_type: 'back',
@@ -2475,7 +2530,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaB2Km3uaGWRndv3V2fYXkbUjExm5jm7f9Lt6womRJ6Z8',
+    previewUrl: 'QmSDrb7w7YZstbzzDED12Yzw3eJsqHNS8C7CWtom5BAm64',
+    ipfsUrl: 'QmaB2Km3uaGWRndv3V2fYXkbUjExm5jm7f9Lt6womRJ6Z8',
     attributes: [
       {
         trait_type: 'back',
@@ -2520,7 +2576,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdkTbSh3HrCiW1Sb2vw6y4m5EzZ2oTCJ8vf5wii2H4nem',
+    previewUrl: 'QmczpoDrmUtrkXfUKJjsf5zudkbTWdfzGT6dTnxgFCLHX2',
+    ipfsUrl: 'QmdkTbSh3HrCiW1Sb2vw6y4m5EzZ2oTCJ8vf5wii2H4nem',
     attributes: [
       {
         trait_type: 'back',
@@ -2565,7 +2622,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmciPzmGXZ3XTGLZyzzfZtXYH5ZMZFgrnZCQADjQHj7reL',
+    previewUrl: 'QmXXxMWsQtsZiJqQrZFHUC8eua1m2Nu8Kh781YJDjcWk7A',
+    ipfsUrl: 'QmciPzmGXZ3XTGLZyzzfZtXYH5ZMZFgrnZCQADjQHj7reL',
     attributes: [
       {
         trait_type: 'back',
@@ -2610,7 +2668,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXpcfjzhWoCQCSfFRFwzammBcPhxuMyDxPy8ScpSa3sHB',
+    previewUrl: 'QmUqr7ZRWUM2fTdPUEw7C1DYK3yscWD6874EBFSMo7F596',
+    ipfsUrl: 'QmXpcfjzhWoCQCSfFRFwzammBcPhxuMyDxPy8ScpSa3sHB',
     attributes: [
       {
         trait_type: 'back',
@@ -2655,7 +2714,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVraDdZ1yRfnxeiP4641HpWsHbBpKAphSXS67MVsciUdY',
+    previewUrl: 'QmZ2xPBupt4V8mwy3SHrHrb3xfnG3tnR2fKipfdmyipGfm',
+    ipfsUrl: 'QmVraDdZ1yRfnxeiP4641HpWsHbBpKAphSXS67MVsciUdY',
     attributes: [
       {
         trait_type: 'back',
@@ -2700,7 +2760,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVrUrk7DMFUESCR1aHtCPq4CXq2W9JP46Ze5UNMpT1ZTS',
+    previewUrl: 'QmYJZukKmCGLpgofNhKa8CXDZsjGJLewDexohgjDZA9DWS',
+    ipfsUrl: 'QmVrUrk7DMFUESCR1aHtCPq4CXq2W9JP46Ze5UNMpT1ZTS',
     attributes: [
       {
         trait_type: 'back',
@@ -2745,7 +2806,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZNcomVUo17qxhVZ4jVBvYLrb5SJa4e6Fojb271e9kP7F',
+    previewUrl: 'QmYSqwQmCuqqjLTPu7HBym3ybUECYnrEPk4i8EafyKPQpS',
+    ipfsUrl: 'QmZNcomVUo17qxhVZ4jVBvYLrb5SJa4e6Fojb271e9kP7F',
     attributes: [
       {
         trait_type: 'back',
@@ -2790,7 +2852,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNTVMMUrnY1vNmT6mkm6B3EyozXAXZqrrSF6iZ8MCwZem',
+    previewUrl: 'QmdfmvsFGkFwJ1yyha3afz9sPuQGdjQ3mPiepywziw9geN',
+    ipfsUrl: 'QmNTVMMUrnY1vNmT6mkm6B3EyozXAXZqrrSF6iZ8MCwZem',
     attributes: [
       {
         trait_type: 'back',
@@ -2835,7 +2898,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXJJ82t3XqYxeEBr6HsdqjPSZdSi1CdkqSjVcCL7rWiEQ',
+    previewUrl: 'QmZcB4TVcHAdyJjyNiTSQiMvcQ9r1cu9xWW2R2yhDADVo8',
+    ipfsUrl: 'QmXJJ82t3XqYxeEBr6HsdqjPSZdSi1CdkqSjVcCL7rWiEQ',
     attributes: [
       {
         trait_type: 'back',
@@ -2880,7 +2944,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQibtu4dnXFB2NsrrP9BRHETFHis52jWUK1rSpuNtMwHu',
+    previewUrl: 'QmcwdHA5M6mPL5sf1mxisnwJkAQig26UFuuwwMmx7XBbPV',
+    ipfsUrl: 'QmQibtu4dnXFB2NsrrP9BRHETFHis52jWUK1rSpuNtMwHu',
     attributes: [
       {
         trait_type: 'back',
@@ -2925,7 +2990,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qma328AmwZEfsZuKJtoRrfq4hLA2E1FtffoDE2mrGwBL3A',
+    previewUrl: 'QmWpR9bc4GkZNVNAKFaWY4p6ProEuKzt526PWRKAYPbW3q',
+    ipfsUrl: 'Qma328AmwZEfsZuKJtoRrfq4hLA2E1FtffoDE2mrGwBL3A',
     attributes: [
       {
         trait_type: 'back',
@@ -2970,7 +3036,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZnXKLZozkh4n9x1Tgw5cWX4oZirqFzGs5xzf5jmsXFEn',
+    previewUrl: 'QmQFicSGckG6xutNLTj88RTSNoM1bSUk8CUr6p27fCUey1',
+    ipfsUrl: 'QmZnXKLZozkh4n9x1Tgw5cWX4oZirqFzGs5xzf5jmsXFEn',
     attributes: [
       {
         trait_type: 'back',
@@ -3015,7 +3082,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT8hXTHzJSX7P3RPJDfWxDuPkzF2usZwSLuPkhCGPrXFz',
+    previewUrl: 'QmV3iY9tDGVafJ1rdrLB8KMp4feByDtCFuEydVSbKvqGXe',
+    ipfsUrl: 'QmT8hXTHzJSX7P3RPJDfWxDuPkzF2usZwSLuPkhCGPrXFz',
     attributes: [
       {
         trait_type: 'back',
@@ -3060,7 +3128,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVrybaqyY2Tqo1H6mYM3kP2k6xgJpvd3rPWf8KGpEPjem',
+    previewUrl: 'QmQLoqAkCbGNARbPx2WaHVeotofRjeekS55g3UhrF1Ncyw',
+    ipfsUrl: 'QmVrybaqyY2Tqo1H6mYM3kP2k6xgJpvd3rPWf8KGpEPjem',
     attributes: [
       {
         trait_type: 'back',
@@ -3105,7 +3174,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZx6CfY84gKyQcYDDm8NquSzwKixDrbjV7Wp8bzaAE2fH',
+    previewUrl: 'QmThh6W84hnqxGX9KSqCdbnsUXKsxTsg7j3QVxhKV5fdcp',
+    ipfsUrl: 'QmZx6CfY84gKyQcYDDm8NquSzwKixDrbjV7Wp8bzaAE2fH',
     attributes: [
       {
         trait_type: 'back',
@@ -3150,7 +3220,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeeZENbQj2djzGp54cBn7hKGTqbQbNc9jeSXnL74R1X2C',
+    previewUrl: 'QmUzeSGRrbPjyhHybGSRtAbo5qTHAvCMTsUj9FdVS9D2ZM',
+    ipfsUrl: 'QmeeZENbQj2djzGp54cBn7hKGTqbQbNc9jeSXnL74R1X2C',
     attributes: [
       {
         trait_type: 'back',
@@ -3195,7 +3266,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRvDV3WCC5aEy7JLv7X1BPFvCv2QC7sVmsLEFgf3rn5Rp',
+    previewUrl: 'QmWDpn7p9v4ncZUc74caxuixgQoB6vjgKTr8FA2zRpLBNn',
+    ipfsUrl: 'QmRvDV3WCC5aEy7JLv7X1BPFvCv2QC7sVmsLEFgf3rn5Rp',
     attributes: [
       {
         trait_type: 'back',
@@ -3240,7 +3312,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmarDWF1kmHSRZRYfp6F64NjG4rTqJ91oP14QDVsJpL1gx',
+    previewUrl: 'QmXR6TMUgCZewcaxex3fUDbJKc2A1EcbHiphkTzb7T6fRY',
+    ipfsUrl: 'QmarDWF1kmHSRZRYfp6F64NjG4rTqJ91oP14QDVsJpL1gx',
     attributes: [
       {
         trait_type: 'back',
@@ -3285,7 +3358,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeiA7Skfb74YZ8qN18hfdMtBCBkJw32PSPHRWyEauFDdZ',
+    previewUrl: 'QmazYCmfGVKk3PaZ2FE2Nvertqk8oSYvVWo27cfM8fq7rg',
+    ipfsUrl: 'QmeiA7Skfb74YZ8qN18hfdMtBCBkJw32PSPHRWyEauFDdZ',
     attributes: [
       {
         trait_type: 'back',
@@ -3330,7 +3404,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVSP623P5Xo8NKSYH1yMYDQoxr8ecHNmBm7FR6XZu4345',
+    previewUrl: 'QmYpySL441szXXe81VnAMv1N1XzPZqN9iEzY3B1czphmtm',
+    ipfsUrl: 'QmVSP623P5Xo8NKSYH1yMYDQoxr8ecHNmBm7FR6XZu4345',
     attributes: [
       {
         trait_type: 'back',
@@ -3375,7 +3450,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSP6GGvuZpp8EmeYyH2fqCbLwe4CRPsQQkdqDGzdUjoun',
+    previewUrl: 'QmUkyqZKkNwGuNfxURNRWfZfke5juE8uCwcAcQDMCUMerq',
+    ipfsUrl: 'QmSP6GGvuZpp8EmeYyH2fqCbLwe4CRPsQQkdqDGzdUjoun',
     attributes: [
       {
         trait_type: 'back',
@@ -3420,7 +3496,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSbkNsR3RzUXRewdZ27nWFNVf73sLG6WTbgRmn8dhyzjA',
+    previewUrl: 'QmUQnsDv9HVQB3qAfsivdDuFCJU4upuoWwQZWx34cHiKzd',
+    ipfsUrl: 'QmSbkNsR3RzUXRewdZ27nWFNVf73sLG6WTbgRmn8dhyzjA',
     attributes: [
       {
         trait_type: 'back',
@@ -3465,7 +3542,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW8BBtAH7CcVTmUgZVUVEWzj4F6nvhm4Msk3n8aGkZfPN',
+    previewUrl: 'QmRST4mMJiezGeTM7kFrVETndvkTqFoXGgPVjKr3t9UqWb',
+    ipfsUrl: 'QmW8BBtAH7CcVTmUgZVUVEWzj4F6nvhm4Msk3n8aGkZfPN',
     attributes: [
       {
         trait_type: 'back',
@@ -3510,7 +3588,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcpNwuptbij1hZG4AxYPfTwuwCg1xRi4kMEEHcvSkzHeM',
+    previewUrl: 'QmVg4nk5PXzws4AB74tn9DmxWHoU7Y3HKY8ky1aNFBfJao',
+    ipfsUrl: 'QmcpNwuptbij1hZG4AxYPfTwuwCg1xRi4kMEEHcvSkzHeM',
     attributes: [
       {
         trait_type: 'back',
@@ -3555,7 +3634,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR9WUM4DVf8U2GixsTvuzTvANSijb7RX51f1wrYogSiaS',
+    previewUrl: 'QmUBCQZcXgGa4Fj8KEtzkMdoPJRTcN6JbBNYKwhhRvPxHp',
+    ipfsUrl: 'QmR9WUM4DVf8U2GixsTvuzTvANSijb7RX51f1wrYogSiaS',
     attributes: [
       {
         trait_type: 'back',
@@ -3600,7 +3680,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qma5HkvGFBuRmLCthXrQ3geuf2wu9aA9oLNg6RHqdMuuhy',
+    previewUrl: 'QmPy7ZVSbhAHS2kMJqsgdWbgtWnnZjhKBnA1ykcGK7KqiJ',
+    ipfsUrl: 'Qma5HkvGFBuRmLCthXrQ3geuf2wu9aA9oLNg6RHqdMuuhy',
     attributes: [
       {
         trait_type: 'back',
@@ -3645,7 +3726,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYTLZW7RWsRc9oEYfy8WjzqujZHhFgcY88S5ojwbgbrkK',
+    previewUrl: 'Qmb6xKnTx8ZfeMNVg66yKyUu7w4KpBo53XCZgUC39Tn9No',
+    ipfsUrl: 'QmYTLZW7RWsRc9oEYfy8WjzqujZHhFgcY88S5ojwbgbrkK',
     attributes: [
       {
         trait_type: 'back',
@@ -3690,7 +3772,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZAj91Mn918o4ciySppVeDh8VT5fADJ7Cun3KqVWNNcap',
+    previewUrl: 'QmNdxMrV3DCVcsnGg87och1keQHmzdMx4rMxEnkS6X1jV9',
+    ipfsUrl: 'QmZAj91Mn918o4ciySppVeDh8VT5fADJ7Cun3KqVWNNcap',
     attributes: [
       {
         trait_type: 'back',
@@ -3698,7 +3781,7 @@ export const broxieCollection = [
       },
       {
         trait_type: 'body',
-        value: 'White',
+        value: 'Black',
       },
       {
         trait_type: 'ears',
@@ -3706,11 +3789,11 @@ export const broxieCollection = [
       },
       {
         trait_type: 'head',
-        value: 'Emo hair',
+        value: 'Poker cap',
       },
       {
         trait_type: 'clothes',
-        value: 'Evil hero t-shirt',
+        value: 'None',
       },
       {
         trait_type: 'nose',
@@ -3718,11 +3801,11 @@ export const broxieCollection = [
       },
       {
         trait_type: 'neck',
-        value: 'Scarf',
+        value: 'None',
       },
       {
         trait_type: 'accessory_top',
-        value: 'Boxer tattoo',
+        value: 'Round transparent glasses',
       },
       {
         trait_type: 'accessory_down',
@@ -3730,12 +3813,13 @@ export const broxieCollection = [
       },
       {
         trait_type: 'emotions',
-        value: 'That one girl',
+        value: 'Regular',
       },
     ],
   },
   {
-    url: 'QmWp3RjoezmQzLS9U5Hzhi6vT7DchCeHqrNp4juwVkMvns',
+    previewUrl: 'QmYaG16Ahf47YGteucx37vxPpR3Bps7xXwkHY51fJZMYpG',
+    ipfsUrl: 'QmWp3RjoezmQzLS9U5Hzhi6vT7DchCeHqrNp4juwVkMvns',
     attributes: [
       {
         trait_type: 'back',
@@ -3780,7 +3864,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUKqeiRJGuaivgds5J37bvCZoauPb2kiwcKTgWJtzKRDu',
+    previewUrl: 'Qme28JQ8BVmSFWXwzjEeFadTod67u2MhvPFMxvcdJkGCMb',
+    ipfsUrl: 'QmUKqeiRJGuaivgds5J37bvCZoauPb2kiwcKTgWJtzKRDu',
     attributes: [
       {
         trait_type: 'back',
@@ -3825,7 +3910,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT3s574844XuHuoqSsnKChPxD9zYCvYEjmRsoEDXvAqLd',
+    previewUrl: 'QmQFeRjmcxe8F3QuUBtti9uZKRs8XCs3S5UjyFNnJnEems',
+    ipfsUrl: 'QmT3s574844XuHuoqSsnKChPxD9zYCvYEjmRsoEDXvAqLd',
     attributes: [
       {
         trait_type: 'back',
@@ -3870,7 +3956,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeGbcsmBZW2GAS4A3aukKSLdUqhRxhCgcEbKZV1os6Cha',
+    previewUrl: 'QmTXgEkW3FgHqLnRap6tdPwH5Gb3EZuxh3fyEee9EAtXvc',
+    ipfsUrl: 'QmeGbcsmBZW2GAS4A3aukKSLdUqhRxhCgcEbKZV1os6Cha',
     attributes: [
       {
         trait_type: 'back',
@@ -3915,7 +4002,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSBXnXzaqNfEv2qYdpEbt9YRPeqnueuv8ecLuvKE6w5Bi',
+    previewUrl: 'QmXH1bdKgyeWZFAUdjCuu8DnS9QeAFNx9Vc5aKJRYEPM4A',
+    ipfsUrl: 'QmSBXnXzaqNfEv2qYdpEbt9YRPeqnueuv8ecLuvKE6w5Bi',
     attributes: [
       {
         trait_type: 'back',
@@ -3960,7 +4048,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfNKW67JB8PvBdr7tFZfrFzUWkNBCaAvZu35FxuLZUUZB',
+    previewUrl: 'QmQpnuBUHLUg1pk384E2WNgVCvk3XZfv1SYwHaDrtgymCy',
+    ipfsUrl: 'QmfNKW67JB8PvBdr7tFZfrFzUWkNBCaAvZu35FxuLZUUZB',
     attributes: [
       {
         trait_type: 'back',
@@ -4005,7 +4094,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdQesgMbyU4cWkao9pgFK7rY8PJYGuVkUCijRcAqA68Kz',
+    previewUrl: 'QmQFxawNYF4rQ8n6sPnmLSEzD9hjHhzRA2CBkjdhvDJMcn',
+    ipfsUrl: 'QmdQesgMbyU4cWkao9pgFK7rY8PJYGuVkUCijRcAqA68Kz',
     attributes: [
       {
         trait_type: 'back',
@@ -4050,7 +4140,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVhEXwPrjpKVmHZhZTGBgzhneuzmLYH8ERPrGVQ188qD2',
+    previewUrl: 'QmUcg1iyZRwa9umV9bWHUFd3pcKPse4yGAHvj1h69vQX6J',
+    ipfsUrl: 'QmVhEXwPrjpKVmHZhZTGBgzhneuzmLYH8ERPrGVQ188qD2',
     attributes: [
       {
         trait_type: 'back',
@@ -4095,7 +4186,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQPttEAntXbCGNnWNz89j5whMWZzeFAMvGdTAB1drC7gf',
+    previewUrl: 'QmbGxmr2QMdpjGqNjpeSEBd7Mf9C1cZDL8ubBcQuGWzvhg',
+    ipfsUrl: 'QmQPttEAntXbCGNnWNz89j5whMWZzeFAMvGdTAB1drC7gf',
     attributes: [
       {
         trait_type: 'back',
@@ -4140,7 +4232,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUWbSejDf7ka9ge2Nu1JgGtU97TxwcEbjfv1nMaQs32fo',
+    previewUrl: 'QmaxWewxRbcLvt8q7LYG4bWkmNhL7hFHFMsSML4jHrCGZX',
+    ipfsUrl: 'QmUWbSejDf7ka9ge2Nu1JgGtU97TxwcEbjfv1nMaQs32fo',
     attributes: [
       {
         trait_type: 'back',
@@ -4185,7 +4278,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcxejJMYUsuyETTx6WHRg6khFrkwKY4TkRRK5jkaDgCmN',
+    previewUrl: 'QmZFVQSzCFa23UnnMThN9FSQ7Q3Z3ZXiH1ShBxMMguw3Qr',
+    ipfsUrl: 'QmcxejJMYUsuyETTx6WHRg6khFrkwKY4TkRRK5jkaDgCmN',
     attributes: [
       {
         trait_type: 'back',
@@ -4230,7 +4324,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcVofviGxd7JQVSR3cX7uJfTXSyMDe7sBGuy8FX8eyXVW',
+    previewUrl: 'QmYEg4TdvzHJ79wsGMWsMfb1ENCgFEZZbVnMWCajUoUiFi',
+    ipfsUrl: 'QmcVofviGxd7JQVSR3cX7uJfTXSyMDe7sBGuy8FX8eyXVW',
     attributes: [
       {
         trait_type: 'back',
@@ -4275,7 +4370,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdJNH6UZrsF7oF7Xaqn8oeUwKh36HwAFTTbuMYogkp8Pb',
+    previewUrl: 'QmaxwnAiVeXf6Fzoayw1Jb5afoKY7mQrKUEr4UW8bK1nYU',
+    ipfsUrl: 'QmdJNH6UZrsF7oF7Xaqn8oeUwKh36HwAFTTbuMYogkp8Pb',
     attributes: [
       {
         trait_type: 'back',
@@ -4320,7 +4416,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPeEoVGRTm81kHHfZY5VXR5dKqEdrXPBGf1xfLFypQuyc',
+    previewUrl: 'QmTK3igf6L4wotSa7M9X1Hw5cSKoU6WhxZDemK5ZDpvcTz',
+    ipfsUrl: 'QmPeEoVGRTm81kHHfZY5VXR5dKqEdrXPBGf1xfLFypQuyc',
     attributes: [
       {
         trait_type: 'back',
@@ -4365,7 +4462,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWbGHB8MuzjfPUkjueAP8HGXYbEceEnF47hV3yKF8edM3',
+    previewUrl: 'Qme1wFEqNs7dh1G4iTGCpPbi48eCquwniPaXNFu9Ej3Rmp',
+    ipfsUrl: 'QmWbGHB8MuzjfPUkjueAP8HGXYbEceEnF47hV3yKF8edM3',
     attributes: [
       {
         trait_type: 'back',
@@ -4410,7 +4508,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRRGytg7QTJxR9S1tnKHjg5Y5KSBz9w3PsL43Z9waHzDr',
+    previewUrl: 'QmeZp9FZoPAyLS536L89AnQxV8FProUC8oWK8MTqf26mEv',
+    ipfsUrl: 'QmRRGytg7QTJxR9S1tnKHjg5Y5KSBz9w3PsL43Z9waHzDr',
     attributes: [
       {
         trait_type: 'back',
@@ -4455,7 +4554,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTa4pjRboMj5qgeokPovpGqRx3wzRFMWaRRYFmjAWaqsz',
+    previewUrl: 'QmRSvQ8XGpAN8kk642aTJr4NpBfmyamrihsgULbRLeAD8r',
+    ipfsUrl: 'QmTa4pjRboMj5qgeokPovpGqRx3wzRFMWaRRYFmjAWaqsz',
     attributes: [
       {
         trait_type: 'back',
@@ -4500,7 +4600,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmS8KnWDTWAqzSC3XbfBDo48Q5HKAKJk6o8bF22rYHFcrf',
+    previewUrl: 'QmVgtoApYi3y9WUoArLvo4BRrRhzc5xehUzmtX8iTT7yRT',
+    ipfsUrl: 'QmS8KnWDTWAqzSC3XbfBDo48Q5HKAKJk6o8bF22rYHFcrf',
     attributes: [
       {
         trait_type: 'back',
@@ -4545,7 +4646,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWYpH4ydW7QfPFtChyx7zb1LtmNBDSKNw6s7KqhwS7UfC',
+    previewUrl: 'QmehAjjpK5cMrC2BJDGRiJkFip7bNZApnFoHZhGkSQcYmw',
+    ipfsUrl: 'QmWYpH4ydW7QfPFtChyx7zb1LtmNBDSKNw6s7KqhwS7UfC',
     attributes: [
       {
         trait_type: 'back',
@@ -4590,7 +4692,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZKcQ3p95RSGA4YmVFQMkbrv8SPg2SifFyif8wvyVY3bd',
+    previewUrl: 'QmaLGN4SYXLSpRfPbd1tHcanWnME85TcDW3X6xN1v4FE2B',
+    ipfsUrl: 'QmZKcQ3p95RSGA4YmVFQMkbrv8SPg2SifFyif8wvyVY3bd',
     attributes: [
       {
         trait_type: 'back',
@@ -4635,7 +4738,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPX1sTrp9fgJNSPjcEoSWE11zouC8wYvVYkBLSijwzSNR',
+    previewUrl: 'QmcnjGWNRRAVK7xjRmxwaShY9ibYDBdSjTQv6a9mBivhhS',
+    ipfsUrl: 'QmPX1sTrp9fgJNSPjcEoSWE11zouC8wYvVYkBLSijwzSNR',
     attributes: [
       {
         trait_type: 'back',
@@ -4680,7 +4784,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcPYKoZ1KfagmA4c4Lq3dBwxDLorHmrGiDKLgMnt6nLKE',
+    previewUrl: 'QmdmHSGqLXkiPG9m9gxoKTF7dnRRxeXcEPbUtdgrYXAj3A',
+    ipfsUrl: 'QmcPYKoZ1KfagmA4c4Lq3dBwxDLorHmrGiDKLgMnt6nLKE',
     attributes: [
       {
         trait_type: 'back',
@@ -4725,7 +4830,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNh1RM6Ho4KtA9rwVz7jmF428ajGrmPcKEqBFJuPxBuQv',
+    previewUrl: 'QmQMnSqCyEDU8RyvXqKCAdmxhdWvtZ8H354pE3Za5cSNgy',
+    ipfsUrl: 'QmNh1RM6Ho4KtA9rwVz7jmF428ajGrmPcKEqBFJuPxBuQv',
     attributes: [
       {
         trait_type: 'back',
@@ -4770,7 +4876,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfE56iG2YKPrm73u5xaTAuSSEVDNSTdvgJkmUL22STi7E',
+    previewUrl: 'QmYwq7TfE8wwv5jDpHT5m1VHUtcDy1RejhoQXo4aWDmabc',
+    ipfsUrl: 'QmfE56iG2YKPrm73u5xaTAuSSEVDNSTdvgJkmUL22STi7E',
     attributes: [
       {
         trait_type: 'back',
@@ -4815,7 +4922,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZeMLGVtV5xLkEAAN6PCt6obi5NvGrNQUy2sCm1j8HBMg',
+    previewUrl: 'QmXmFiqjoPBUDPj8Q3t5BryBH7y5Va1gQLzNezZoS66Krp',
+    ipfsUrl: 'QmZeMLGVtV5xLkEAAN6PCt6obi5NvGrNQUy2sCm1j8HBMg',
     attributes: [
       {
         trait_type: 'back',
@@ -4860,7 +4968,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYEtyJGpJLynFxcNoeBc58ZjU7p6tBnP9hHSkEqcwv1UB',
+    previewUrl: 'Qme9xmfW6YRcfZRk1XvXXPb5TAsLwB7z74XWjdZ6MVeQJU',
+    ipfsUrl: 'QmYEtyJGpJLynFxcNoeBc58ZjU7p6tBnP9hHSkEqcwv1UB',
     attributes: [
       {
         trait_type: 'back',
@@ -4905,7 +5014,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVRw8jReHiX95NppHZtpVCY2GZ4xtzHsVrJqEN5UyUsaF',
+    previewUrl: 'QmX7oaewEYU6mJKdYSyK8WdEeqh4KHsxieuwXnhPykBuZG',
+    ipfsUrl: 'QmVRw8jReHiX95NppHZtpVCY2GZ4xtzHsVrJqEN5UyUsaF',
     attributes: [
       {
         trait_type: 'back',
@@ -4950,7 +5060,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNdk3egndYdBZVBRT2pVfAejrQ6SW5i4HPoFXEENePdzo',
+    previewUrl: 'QmPqsg5z7Wh6SATAFbWx7wLmqrocJVsimvzArxt3EHfAyF',
+    ipfsUrl: 'QmNdk3egndYdBZVBRT2pVfAejrQ6SW5i4HPoFXEENePdzo',
     attributes: [
       {
         trait_type: 'back',
@@ -4995,7 +5106,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdZ7wdmeyqr2uR1XND8qQTj4MrfRLVZxCG7oyU5KuQQHT',
+    previewUrl: 'QmdyzfzRdmc9cSbn9Gui4eXccU6tu1KPDherqjPLQPEH8b',
+    ipfsUrl: 'QmdZ7wdmeyqr2uR1XND8qQTj4MrfRLVZxCG7oyU5KuQQHT',
     attributes: [
       {
         trait_type: 'back',
@@ -5040,7 +5152,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ8zywHibSbijubv3uN2y7hrKVv2RvHvQgeHbAuhNh6Hq',
+    previewUrl: 'QmdzmWfFigjZgswvFFWuN5sKmz6h3Bdk7tMXb6nE4edCKt',
+    ipfsUrl: 'QmZ8zywHibSbijubv3uN2y7hrKVv2RvHvQgeHbAuhNh6Hq',
     attributes: [
       {
         trait_type: 'back',
@@ -5085,7 +5198,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfEGanC2soe5zyXorLhg5MS6YHxXQF451FskrNHewL23F',
+    previewUrl: 'QmaAo5B25U3q2k95CEPzTHfrv4Voi3kPfDFpVDaj4Jhb5W',
+    ipfsUrl: 'QmfEGanC2soe5zyXorLhg5MS6YHxXQF451FskrNHewL23F',
     attributes: [
       {
         trait_type: 'back',
@@ -5130,7 +5244,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZE8mbicL7URMBjeh8PtBxXjSHcncYWv2ssTMoWfVHLgb',
+    previewUrl: 'Qme3teC5mewKj7TKtHYCPY3XAd8RepBPzxmfsg6WsMDjMu',
+    ipfsUrl: 'QmZE8mbicL7URMBjeh8PtBxXjSHcncYWv2ssTMoWfVHLgb',
     attributes: [
       {
         trait_type: 'back',
@@ -5175,7 +5290,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU8QE9hsvDypxxE7hpfWCGEKtg1aE5QVoEtoCSKTtuzCz',
+    previewUrl: 'QmWcgxRLvDVBGKK8JWG3juStqCBMwSfbouyF3er5Uwxx4i',
+    ipfsUrl: 'QmU8QE9hsvDypxxE7hpfWCGEKtg1aE5QVoEtoCSKTtuzCz',
     attributes: [
       {
         trait_type: 'back',
@@ -5220,7 +5336,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZRzhfVJ7GBSq8scuYrty6x3z6oPhryEctWgkLecDFzDH',
+    previewUrl: 'QmRnzFPiLnKC45wJP7nG6qW3WtduXgkjdQGdJP8GGXiVLX',
+    ipfsUrl: 'QmZRzhfVJ7GBSq8scuYrty6x3z6oPhryEctWgkLecDFzDH',
     attributes: [
       {
         trait_type: 'back',
@@ -5265,7 +5382,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUDuSKFymkQzMkuJh1ZZC9CKLgkH7BTzYqoZtCQ9neWkT',
+    previewUrl: 'QmZaB1qghWVZri4cyPyoxhWuSZqW19GciULNiHoCrECoL8',
+    ipfsUrl: 'QmUDuSKFymkQzMkuJh1ZZC9CKLgkH7BTzYqoZtCQ9neWkT',
     attributes: [
       {
         trait_type: 'back',
@@ -5310,7 +5428,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXGmN5CnBdzHcridH5uJ4pFv6zudy9cUxJyiQtn7S1Pzj',
+    previewUrl: 'QmRq95G1vTADzb5fnn73Zg2w3ThjRtTcUG1915gEBCrNhJ',
+    ipfsUrl: 'QmXGmN5CnBdzHcridH5uJ4pFv6zudy9cUxJyiQtn7S1Pzj',
     attributes: [
       {
         trait_type: 'back',
@@ -5355,7 +5474,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcHwz8Yqnj2es9HQENGx4xmTj7EUnQ6t2Fyj4h9KM78rR',
+    previewUrl: 'QmYyCLpJCSnR85MK8WnQ8sj55AEp5bmGnHMnJLRHYw54sM',
+    ipfsUrl: 'QmcHwz8Yqnj2es9HQENGx4xmTj7EUnQ6t2Fyj4h9KM78rR',
     attributes: [
       {
         trait_type: 'back',
@@ -5400,7 +5520,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbUqK5jds5SjuXjHHR6LM8jSR5t9imwg6FAH4HEvoS4f5',
+    previewUrl: 'QmPPKaD3pzNWiVMzQJ7wpsKSpSq2ypqmfk3hckJw6teQqH',
+    ipfsUrl: 'QmbUqK5jds5SjuXjHHR6LM8jSR5t9imwg6FAH4HEvoS4f5',
     attributes: [
       {
         trait_type: 'back',
@@ -5445,7 +5566,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdnwYfobW8taWqyFi2hYrSbkC4tBdg5e5LMCJJbaWtRm3',
+    previewUrl: 'QmPCaMfYtUExiap8BXdFg9pEWNTWPx3oZqyEDRKWCNKfxk',
+    ipfsUrl: 'QmdnwYfobW8taWqyFi2hYrSbkC4tBdg5e5LMCJJbaWtRm3',
     attributes: [
       {
         trait_type: 'back',
@@ -5490,7 +5612,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVB5Z98dRQ4QL67SauGWkURbGy1keP5mLMRyuvnL9YhCr',
+    previewUrl: 'QmZPRxGJm8Z2bDAauH7LzpgeKr8XsGv5oZW41XCVfbvs12',
+    ipfsUrl: 'QmVB5Z98dRQ4QL67SauGWkURbGy1keP5mLMRyuvnL9YhCr',
     attributes: [
       {
         trait_type: 'back',
@@ -5535,7 +5658,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfN3By2vekzLjsNqkb2a8AabFp5a6TLNNmkBpCUUctTxc',
+    previewUrl: 'QmS3nySFeJ5ZX2o4FscHjNCL6YEGCzJ9dTnGgX54sdqZre',
+    ipfsUrl: 'QmfN3By2vekzLjsNqkb2a8AabFp5a6TLNNmkBpCUUctTxc',
     attributes: [
       {
         trait_type: 'back',
@@ -5580,7 +5704,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmbf7REpvWXQnhoVdbHp4bdVATZQDHDS8kNi2VQmsii972',
+    previewUrl: 'QmVo93JE7WHEMPQsKbjoQQxybSAWLg7s1jmDCT9hkHTZJ7',
+    ipfsUrl: 'Qmbf7REpvWXQnhoVdbHp4bdVATZQDHDS8kNi2VQmsii972',
     attributes: [
       {
         trait_type: 'back',
@@ -5625,7 +5750,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVVwFGb3XVvpzvdFdAmhTsQLx19CcCrmQ6Hx5ZFrRML1d',
+    previewUrl: 'QmWq7wigsseNhBw6vXz8RPF4S8tRn2DRfoNEepTkBJdW3k',
+    ipfsUrl: 'QmVVwFGb3XVvpzvdFdAmhTsQLx19CcCrmQ6Hx5ZFrRML1d',
     attributes: [
       {
         trait_type: 'back',
@@ -5670,7 +5796,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY7siAdem2QUJssnz5wTSzrmoAKG168ZUTmEeuU7jVcnW',
+    previewUrl: 'QmWNFFw1xNL2wDPbaRkLHFN1cqtntThhRfniiB1W4Kzowf',
+    ipfsUrl: 'QmY7siAdem2QUJssnz5wTSzrmoAKG168ZUTmEeuU7jVcnW',
     attributes: [
       {
         trait_type: 'back',
@@ -5715,7 +5842,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaWD2TDv3uN8kCdeuh6cH4kxvauBVrcZGiauJLCuozLQw',
+    previewUrl: 'QmaadFTv8gFA9DYr68d8Ti42S2Gd3LZBrVcEjmC7QsjzQk',
+    ipfsUrl: 'QmaWD2TDv3uN8kCdeuh6cH4kxvauBVrcZGiauJLCuozLQw',
     attributes: [
       {
         trait_type: 'back',
@@ -5760,7 +5888,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeHsUdPuza9XcNsYGbnLKN3yxbT9f2jQHTp3e5jceyZPk',
+    previewUrl: 'QmNLurU69CEU5qkush8KfVFzs5uQg2tusshv4iNS1arKik',
+    ipfsUrl: 'QmeHsUdPuza9XcNsYGbnLKN3yxbT9f2jQHTp3e5jceyZPk',
     attributes: [
       {
         trait_type: 'back',
@@ -5805,7 +5934,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRRiDvRtasZkZQGPL3vQ9AY4Yof99cTGQ6Y8h52FpMERb',
+    previewUrl: 'QmQxz6TJcBbtgvS3ZN8hM1rauJCyd3XxsyWCmgf54EsQ5n',
+    ipfsUrl: 'QmRRiDvRtasZkZQGPL3vQ9AY4Yof99cTGQ6Y8h52FpMERb',
     attributes: [
       {
         trait_type: 'back',
@@ -5850,7 +5980,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTCH48fgizmAAZN6iFVS8mcFqVrB5LgZ61JSZanbS32sE',
+    previewUrl: 'QmY5vVad8q6jKZ98wCWMDhL9BziKFb3vn8fNEYAJtdd9oo',
+    ipfsUrl: 'QmTCH48fgizmAAZN6iFVS8mcFqVrB5LgZ61JSZanbS32sE',
     attributes: [
       {
         trait_type: 'back',
@@ -5895,7 +6026,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQzULYENe3zw37mRaMPnPky5FzaFhFtnTjNLhLEozQJfU',
+    previewUrl: 'QmcLa73Zt5bjXGjoPEwBGHqZMEPhsWHzJnUgMLyGRAJHBF',
+    ipfsUrl: 'QmQzULYENe3zw37mRaMPnPky5FzaFhFtnTjNLhLEozQJfU',
     attributes: [
       {
         trait_type: 'back',
@@ -5940,7 +6072,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcwRmsJW9dtKfARkcH5bF9r9Hz9iX4wp4SJ3a3NXyJn93',
+    previewUrl: 'QmRovnp29VZZcuPUCjNvkRtxnbD8vuU1RJkP7i4NCMVxBv',
+    ipfsUrl: 'QmcwRmsJW9dtKfARkcH5bF9r9Hz9iX4wp4SJ3a3NXyJn93',
     attributes: [
       {
         trait_type: 'back',
@@ -5985,7 +6118,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXcb9MRUiHC8cWYm88RHfzMxx4DvDdCzvCJwLFbfyKVrQ',
+    previewUrl: 'QmUNiXa1a7mNa4WXcmpTBNdUpyxwt2CSQ4rCL17gW9MmVH',
+    ipfsUrl: 'QmXcb9MRUiHC8cWYm88RHfzMxx4DvDdCzvCJwLFbfyKVrQ',
     attributes: [
       {
         trait_type: 'back',
@@ -6030,7 +6164,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbLaSb4ZL9QREgdJKhx7HtS4upoCnVe5pQos1UoYW67HH',
+    previewUrl: 'QmUwAQmgBfeqPYfkW282yUBUMyHzr5JSqFrmYXGdyjMt3J',
+    ipfsUrl: 'QmbLaSb4ZL9QREgdJKhx7HtS4upoCnVe5pQos1UoYW67HH',
     attributes: [
       {
         trait_type: 'back',
@@ -6075,7 +6210,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ3mjBxGLeZcKVpgjVA3MjjynVmE6WkQcurRxQM4VBNey',
+    previewUrl: 'QmSZcN6pa2aUVJLHMYAT7cFdJX5CZXU7Zc9X9gGJwPxkf2',
+    ipfsUrl: 'QmZ3mjBxGLeZcKVpgjVA3MjjynVmE6WkQcurRxQM4VBNey',
     attributes: [
       {
         trait_type: 'back',
@@ -6120,7 +6256,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXXXy8kDfFEJxWs9piaJrsvVRD4vSCvxqg8ZYYHgFwXj5',
+    previewUrl: 'QmYQCp3qcW7z5hoyrUwKpFEGpvXUkhYRWEEujokF9NhvNS',
+    ipfsUrl: 'QmXXXy8kDfFEJxWs9piaJrsvVRD4vSCvxqg8ZYYHgFwXj5',
     attributes: [
       {
         trait_type: 'back',
@@ -6165,7 +6302,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXMsstAWwVZqyAMT2fTbPjiPyk1xLFjUxfeoopV2SMyXy',
+    previewUrl: 'QmfB4qeBLJ9LFyWmHN31ms18CjqEbU38NDgoXHigPGGhBK',
+    ipfsUrl: 'QmXMsstAWwVZqyAMT2fTbPjiPyk1xLFjUxfeoopV2SMyXy',
     attributes: [
       {
         trait_type: 'back',
@@ -6210,7 +6348,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVkuMNuWTxGd2WLhQV5tkKcizzug3UgvvYTMT37pLSBLc',
+    previewUrl: 'QmXZVdXBRoaXqSXU4E1RDaHNh2eqXorF7VVpN2krtBFUYZ',
+    ipfsUrl: 'QmVkuMNuWTxGd2WLhQV5tkKcizzug3UgvvYTMT37pLSBLc',
     attributes: [
       {
         trait_type: 'back',
@@ -6255,7 +6394,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYQjEQxvD4BXsFhG7faE5VQPZUbmN2fsgrYB7pQhFG1tt',
+    previewUrl: 'QmbixtKW6shdBqiCPVmhuLeveKA3e5NaLzvGMwem8dh45U',
+    ipfsUrl: 'QmYQjEQxvD4BXsFhG7faE5VQPZUbmN2fsgrYB7pQhFG1tt',
     attributes: [
       {
         trait_type: 'back',
@@ -6300,7 +6440,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPBHGsFmaj6EAmJHmGiLHK4xQBrqTBESD3uXfgDL81o1W',
+    previewUrl: 'QmRuny18U4k72MxWSGWWJfUUticgpVsUpmP7QSwdbd4s2P',
+    ipfsUrl: 'QmPBHGsFmaj6EAmJHmGiLHK4xQBrqTBESD3uXfgDL81o1W',
     attributes: [
       {
         trait_type: 'back',
@@ -6345,7 +6486,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNYcz6aimGnpMEqETN8YyoYnnedZcNK8Eoaim5zHuntf7',
+    previewUrl: 'Qmd2HrJex95s3x5QZfAe2cBEyrU68YKXfHx6Ws3ae63yH7',
+    ipfsUrl: 'QmNYcz6aimGnpMEqETN8YyoYnnedZcNK8Eoaim5zHuntf7',
     attributes: [
       {
         trait_type: 'back',
@@ -6390,7 +6532,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYR9YfrBMnsbRFfvFtBDy7fomthcGCUDUwZ6gm3H81o8S',
+    previewUrl: 'QmfScLVHF8uXDp9DHbw2sgP146JCcjei9MLKYBgbzdiYdY',
+    ipfsUrl: 'QmYR9YfrBMnsbRFfvFtBDy7fomthcGCUDUwZ6gm3H81o8S',
     attributes: [
       {
         trait_type: 'back',
@@ -6435,7 +6578,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVHiVCXq8eXCnDftMX7CTvrRYLaWkZqGJKUuAy9dz3xix',
+    previewUrl: 'QmeKRce1aihDS4Ct7LT4aZok921Gb2DFPKUbittkiPk9fY',
+    ipfsUrl: 'QmVHiVCXq8eXCnDftMX7CTvrRYLaWkZqGJKUuAy9dz3xix',
     attributes: [
       {
         trait_type: 'back',
@@ -6480,7 +6624,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRLRyjVRNdX1HH3FhCE52g7Wx9tzMPTE7ZfPp9iPxWLmb',
+    previewUrl: 'QmS7xxAZDecjduNMJgRXkpBMoGvXknAMsgaLDo6Uka4XFi',
+    ipfsUrl: 'QmRLRyjVRNdX1HH3FhCE52g7Wx9tzMPTE7ZfPp9iPxWLmb',
     attributes: [
       {
         trait_type: 'back',
@@ -6525,7 +6670,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmS5JH7BP7NLk3XMtS1EBrEm8AQAPeV3Zn1GNnmsSQaRYx',
+    previewUrl: 'QmUBjWNGhToJmakNDVMqnFuEg5PLYsPBKxxsd5EErn7ALm',
+    ipfsUrl: 'QmS5JH7BP7NLk3XMtS1EBrEm8AQAPeV3Zn1GNnmsSQaRYx',
     attributes: [
       {
         trait_type: 'back',
@@ -6570,7 +6716,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmerpYppjcB9LHEseodRjyP1Mffu3DyYnGFvxW4AUEAQcc',
+    previewUrl: 'QmQW1w6y5mToCtACrNnLTHo8vkTGXRX2Kk2BFqfi5CJHzs',
+    ipfsUrl: 'QmerpYppjcB9LHEseodRjyP1Mffu3DyYnGFvxW4AUEAQcc',
     attributes: [
       {
         trait_type: 'back',
@@ -6615,7 +6762,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWpmgo6QAQTUT4nefrjYvwo1ddKcx2QXGaGELvNXSyjpJ',
+    previewUrl: 'QmZSVUhYiE4TQUKoGjnYUU4JEYJt27oK7wN6Qf3gdB5ymM',
+    ipfsUrl: 'QmWpmgo6QAQTUT4nefrjYvwo1ddKcx2QXGaGELvNXSyjpJ',
     attributes: [
       {
         trait_type: 'back',
@@ -6660,7 +6808,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQsSyVgrC18CxeykFw3LzzQ7Sp7acntpgu4veyZjaFFVx',
+    previewUrl: 'QmaLffdU2U6Byji33TX9Bi55RQubqezeM8RotduuKr52sT',
+    ipfsUrl: 'QmQsSyVgrC18CxeykFw3LzzQ7Sp7acntpgu4veyZjaFFVx',
     attributes: [
       {
         trait_type: 'back',
@@ -6705,7 +6854,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXgzTXMCyVijgq2t7A3jRTLDmbHmHYg8AgbsUD56ZCJwj',
+    previewUrl: 'QmV8LUMzJudwhXZhhMek7gmX8gzm32BS4sRrziTkMoPqEM',
+    ipfsUrl: 'QmXgzTXMCyVijgq2t7A3jRTLDmbHmHYg8AgbsUD56ZCJwj',
     attributes: [
       {
         trait_type: 'back',
@@ -6750,7 +6900,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmcb4dYgRJZrRdJaZPvSnzXGAtcFQTR1UVWN9wRpZkx7VL',
+    previewUrl: 'QmXR46NQmiGqrWoRpCyoWMLFQzQcqMYnqe78VJSzs4sNdV',
+    ipfsUrl: 'Qmcb4dYgRJZrRdJaZPvSnzXGAtcFQTR1UVWN9wRpZkx7VL',
     attributes: [
       {
         trait_type: 'back',
@@ -6795,7 +6946,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcP6moNZAAjsqwasF6gvYo2icfjg2dt7D73FRgkyAgpAw',
+    previewUrl: 'QmenTxW73xQMphQHr5Hq9CP4kNu9bFqK4RVepSX96c8v5o',
+    ipfsUrl: 'QmcP6moNZAAjsqwasF6gvYo2icfjg2dt7D73FRgkyAgpAw',
     attributes: [
       {
         trait_type: 'back',
@@ -6840,7 +6992,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeiRmRY1tR3Vr4Rj2kegwGiPQTC9DQ9LQsJcfqW4mvAeK',
+    previewUrl: 'QmRw5v8EYzs5k7zkxFHkkJNyLdDMRkxPMie7E3P337frPZ',
+    ipfsUrl: 'QmeiRmRY1tR3Vr4Rj2kegwGiPQTC9DQ9LQsJcfqW4mvAeK',
     attributes: [
       {
         trait_type: 'back',
@@ -6885,7 +7038,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcpozqTqLRvyvdyqzUhZHoUZ57ztpLgrgEw4Q4nAHQm3M',
+    previewUrl: 'QmVZMSq2MLuwNcUCkHGd4pXPA4xp6UkrtCWw64Hqpr1KQ9',
+    ipfsUrl: 'QmcpozqTqLRvyvdyqzUhZHoUZ57ztpLgrgEw4Q4nAHQm3M',
     attributes: [
       {
         trait_type: 'back',
@@ -6930,7 +7084,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUkkxhx3H9R57BGhZsmKyg4iCLtac6KAPnHTY3JMvjaDr',
+    previewUrl: 'QmNu5P9aCDX2WkAwYcduhSchij4eLZozxoZ1uaASrK6FP8',
+    ipfsUrl: 'QmUkkxhx3H9R57BGhZsmKyg4iCLtac6KAPnHTY3JMvjaDr',
     attributes: [
       {
         trait_type: 'back',
@@ -6975,7 +7130,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTc99dnkmdbnGw8xfE5sMChAH9z7Kz7dYJQWBm1GAUeJj',
+    previewUrl: 'QmQUXXEx8Bogh6gKtw2oCe46z82vvQJK1eJU6xy2UCgf2i',
+    ipfsUrl: 'QmTc99dnkmdbnGw8xfE5sMChAH9z7Kz7dYJQWBm1GAUeJj',
     attributes: [
       {
         trait_type: 'back',
@@ -7020,7 +7176,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaQYbnnmmT75rcEopE3m2iqLNNiWBFPj3QdjpBYY3bhTE',
+    previewUrl: 'QmVc5JGtbBL9je2u1aqL9H2FHXAfLYUBwkWpNa6oUgMY7N',
+    ipfsUrl: 'QmaQYbnnmmT75rcEopE3m2iqLNNiWBFPj3QdjpBYY3bhTE',
     attributes: [
       {
         trait_type: 'back',
@@ -7065,7 +7222,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRoVCq55cSqnRnbnRGCMk6iJcBpSaAN8wmeLUS4mtPUio',
+    previewUrl: 'QmfZmczjtJk5Ufk4GTMhm7bcvdNLJ27MncLHDmuKJjJpSC',
+    ipfsUrl: 'QmRoVCq55cSqnRnbnRGCMk6iJcBpSaAN8wmeLUS4mtPUio',
     attributes: [
       {
         trait_type: 'back',
@@ -7110,7 +7268,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcVq9uHbVTtmD2A5BVXaJfBFiZ2AydAKFCzCCsYKMMfjs',
+    previewUrl: 'QmdtXfGSSn6bSkmhaTrGeyEx6oi3Cjm19bQb3ZxVTQVLrZ',
+    ipfsUrl: 'QmcVq9uHbVTtmD2A5BVXaJfBFiZ2AydAKFCzCCsYKMMfjs',
     attributes: [
       {
         trait_type: 'back',
@@ -7155,7 +7314,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQ1xPiFC4PbBVYj4KshxnWtFoY9QPxFHPXW1nQwS4YC2M',
+    previewUrl: 'QmSJBffVECfVrhNGNVy3T2xb2eg9f4Z3GmdujTxpXTB6rJ',
+    ipfsUrl: 'QmQ1xPiFC4PbBVYj4KshxnWtFoY9QPxFHPXW1nQwS4YC2M',
     attributes: [
       {
         trait_type: 'back',
@@ -7200,7 +7360,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTNN72s8xasStqz7We1hvnbsvpkU6ANNy6gae7rRqwo8x',
+    previewUrl: 'QmUbFhoKW8krkFqeFrVErGGBvFseCsqLLxv5VWrhFARsau',
+    ipfsUrl: 'QmTNN72s8xasStqz7We1hvnbsvpkU6ANNy6gae7rRqwo8x',
     attributes: [
       {
         trait_type: 'back',
@@ -7245,7 +7406,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcXyT19knfKLuA2G6SRWewZ4TL7ujLhRUQKqoE3Q1n5jU',
+    previewUrl: 'QmTvQUN7BhL4tZbdSU5fXdxUM8LiAF8zxgJXNrKpH5hFfp',
+    ipfsUrl: 'QmcXyT19knfKLuA2G6SRWewZ4TL7ujLhRUQKqoE3Q1n5jU',
     attributes: [
       {
         trait_type: 'back',
@@ -7290,7 +7452,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQgxHt26A1bxqz7WmTGQE6yvQaJ1ZSxNKTLFXp3zVaGFF',
+    previewUrl: 'QmSJTvND6xQ6oadwdgbHG352f6a8vT33XzERRJ5FFEp2FT',
+    ipfsUrl: 'QmQgxHt26A1bxqz7WmTGQE6yvQaJ1ZSxNKTLFXp3zVaGFF',
     attributes: [
       {
         trait_type: 'back',
@@ -7335,7 +7498,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTCV8N8XLcaS4HMVjDcUSpNM7jf1TtyxPUZRWxJeEatdA',
+    previewUrl: 'QmPu5YWQz2NFpgRgu9rbqmqYp7i2nRHCNvsfnHqaKzoRcS',
+    ipfsUrl: 'QmTCV8N8XLcaS4HMVjDcUSpNM7jf1TtyxPUZRWxJeEatdA',
     attributes: [
       {
         trait_type: 'back',
@@ -7380,7 +7544,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZqD6P3NGiteBUSnbsc3rRD8GcvxnzxvrSdQpwsmMtvqr',
+    previewUrl: 'Qmf5BxhutLHTWtzFani3DfAyRn6ZkYPwmkhtZPuxdoBYFo',
+    ipfsUrl: 'QmZqD6P3NGiteBUSnbsc3rRD8GcvxnzxvrSdQpwsmMtvqr',
     attributes: [
       {
         trait_type: 'back',
@@ -7425,7 +7590,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaSj3ydpZgZ44xVihCpfNri8D2UqCzmDMDYNA1qJC2h1u',
+    previewUrl: 'QmPfu7Wg5pE7UpdUVhpBa8twmMc6QhZMQSqDvHNXyZJNeX',
+    ipfsUrl: 'QmaSj3ydpZgZ44xVihCpfNri8D2UqCzmDMDYNA1qJC2h1u',
     attributes: [
       {
         trait_type: 'back',
@@ -7470,7 +7636,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYj8k9Pr9eVaqKvikRpamgmzQFJi4eiWpT5PSw9mAkFi1',
+    previewUrl: 'QmbwhgDquzmJWTJrKPnjVbrybsZ8B9uMN8TMw5fW9keYRw',
+    ipfsUrl: 'QmYj8k9Pr9eVaqKvikRpamgmzQFJi4eiWpT5PSw9mAkFi1',
     attributes: [
       {
         trait_type: 'back',
@@ -7515,7 +7682,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPnfVD2cx8XJybCus5UWsrv6FCTVLWk3emzhC4UqxHkKQ',
+    previewUrl: 'QmTfmWodtao4rVCeUVz6VtEFUeChiAgfwGHpjhb5S2pP68',
+    ipfsUrl: 'QmPnfVD2cx8XJybCus5UWsrv6FCTVLWk3emzhC4UqxHkKQ',
     attributes: [
       {
         trait_type: 'back',
@@ -7560,7 +7728,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmdc975ijgDDVHCUtZvwNJNtsT2rwkv1FHUUqE5eP57LxJ',
+    previewUrl: 'QmW89FnpDHAjzgkA5fxUqX7SZkWCHGj1zZeWe9E1dKX8uh',
+    ipfsUrl: 'Qmdc975ijgDDVHCUtZvwNJNtsT2rwkv1FHUUqE5eP57LxJ',
     attributes: [
       {
         trait_type: 'back',
@@ -7605,7 +7774,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSpJTXKXQj2YmnD55Q3c3Gs5N9d2t3SyAUjA5csNCH7s8',
+    previewUrl: 'QmXBidJpPjfpyUPk9cAVZk4mjGJDHi3eHHAoaa6enkZHW5',
+    ipfsUrl: 'QmSpJTXKXQj2YmnD55Q3c3Gs5N9d2t3SyAUjA5csNCH7s8',
     attributes: [
       {
         trait_type: 'back',
@@ -7650,7 +7820,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZcYrWWSZypwQr3cYwd9gmLwap5yXPBZEcX4ab1xuDTNn',
+    previewUrl: 'Qma67LdasauFrVuEvXXGEkYkUmqfE1zz6pVpTcYWTDgCpG',
+    ipfsUrl: 'QmZcYrWWSZypwQr3cYwd9gmLwap5yXPBZEcX4ab1xuDTNn',
     attributes: [
       {
         trait_type: 'back',
@@ -7695,7 +7866,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdQJyhuQZy75WVieQyvDA8dn16tbX8DjvfQbNxPWDgFwF',
+    previewUrl: 'QmdczjH6YZvLBv6NvZnPVFF6JqvKznhCEayLLarCTWKrZv',
+    ipfsUrl: 'QmdQJyhuQZy75WVieQyvDA8dn16tbX8DjvfQbNxPWDgFwF',
     attributes: [
       {
         trait_type: 'back',
@@ -7740,7 +7912,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPQCfLGrYUnNWUXqaDz1jVTXq63Pt6qF1NTfP4kXBhBoG',
+    previewUrl: 'QmVtWcpL6iguNAJMjvsBFgV4Z9zZuFDgdJDm7DKdp2rzFx',
+    ipfsUrl: 'QmPQCfLGrYUnNWUXqaDz1jVTXq63Pt6qF1NTfP4kXBhBoG',
     attributes: [
       {
         trait_type: 'back',
@@ -7785,7 +7958,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSZTkGJiXVKzoiJrwddLe4PCS7pv1Tx5KAMdA3nVPZq8H',
+    previewUrl: 'QmU9FDK3L6mmQ2tVSZ8rNbVLFH4GwWgcCkrPfpYFcC5su4',
+    ipfsUrl: 'QmSZTkGJiXVKzoiJrwddLe4PCS7pv1Tx5KAMdA3nVPZq8H',
     attributes: [
       {
         trait_type: 'back',
@@ -7830,7 +8004,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTE1jDQb89RVnjrPqfPsWccdzMgmASDkRdVbEbZp6gcGU',
+    previewUrl: 'QmSzBwiVSM1sL75YhnzHxXMGBNUPZDANgDgVUijYve5oPz',
+    ipfsUrl: 'QmTE1jDQb89RVnjrPqfPsWccdzMgmASDkRdVbEbZp6gcGU',
     attributes: [
       {
         trait_type: 'back',
@@ -7875,7 +8050,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUaX1d3kiv2wQtb3SwmHd3DRvuDUBNjt1gxPYBcqiwLdX',
+    previewUrl: 'QmcsbP24yCJG3vj78MqkmebaaLqzSD8XGZ8divrC71xJcZ',
+    ipfsUrl: 'QmUaX1d3kiv2wQtb3SwmHd3DRvuDUBNjt1gxPYBcqiwLdX',
     attributes: [
       {
         trait_type: 'back',
@@ -7920,7 +8096,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT5n7Zox76gEdnhr1V617kBXpkiQQc2QyqaCvS99ZcM4M',
+    previewUrl: 'QmfWTUogd3VYk5EXbGaCbXJHfWQF87h6sAQYSn7q9uHsdz',
+    ipfsUrl: 'QmT5n7Zox76gEdnhr1V617kBXpkiQQc2QyqaCvS99ZcM4M',
     attributes: [
       {
         trait_type: 'back',
@@ -7965,7 +8142,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaRNXvnnUAgQSPyHVpcvhiDj1RogiF1nnLiEZRp3yywXd',
+    previewUrl: 'QmYy6maSQ256tu55JSDz4kkVMip8XURpAHMHpAB9rQGbFD',
+    ipfsUrl: 'QmaRNXvnnUAgQSPyHVpcvhiDj1RogiF1nnLiEZRp3yywXd',
     attributes: [
       {
         trait_type: 'back',
@@ -8010,7 +8188,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW4EMZKR2QaZhuedMM3bDZvyAV4knnbY9bDC2kAfCo94U',
+    previewUrl: 'QmfPVv17NXwCHYKhx739og42H1gAaioZJPJVafq68V1ucH',
+    ipfsUrl: 'QmW4EMZKR2QaZhuedMM3bDZvyAV4knnbY9bDC2kAfCo94U',
     attributes: [
       {
         trait_type: 'back',
@@ -8055,7 +8234,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmctMShRxfhN1ovQp9zpUXQBa24LZVjzVTLZeZzjWHgfRH',
+    previewUrl: 'QmaDFvzCqcQDzdr5ncqJyAqxFJ7vyDVYDTcXaS9k4gYKsA',
+    ipfsUrl: 'QmctMShRxfhN1ovQp9zpUXQBa24LZVjzVTLZeZzjWHgfRH',
     attributes: [
       {
         trait_type: 'back',
@@ -8100,7 +8280,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUrTbKXsZ3nCjdXaTm1SbbhpSQMkpv84J2X9T8sMfH8oY',
+    previewUrl: 'QmYG9fJhSL2jSdYceT6iNGbx9PTLWmGUZj3iY3bXbba8xw',
+    ipfsUrl: 'QmUrTbKXsZ3nCjdXaTm1SbbhpSQMkpv84J2X9T8sMfH8oY',
     attributes: [
       {
         trait_type: 'back',
@@ -8145,7 +8326,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRcPRwtCFuNfGYsxmyU2hriaZL12j21k6APNDVNV641N7',
+    previewUrl: 'QmSzGELRs5jbbsoargMzx2gs16Aw3gDBCWwHjkVvFChWVE',
+    ipfsUrl: 'QmRcPRwtCFuNfGYsxmyU2hriaZL12j21k6APNDVNV641N7',
     attributes: [
       {
         trait_type: 'back',
@@ -8190,7 +8372,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcfCp83Kxt2EqVmaSYkLXXutAPMvCk7BVnjr3X4cjTUHm',
+    previewUrl: 'Qmf3EGxMCcUdxrtP5ro9b287JBbogw7LBTkvin1QB4PZ3f',
+    ipfsUrl: 'QmcfCp83Kxt2EqVmaSYkLXXutAPMvCk7BVnjr3X4cjTUHm',
     attributes: [
       {
         trait_type: 'back',
@@ -8235,7 +8418,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPW2jAXmegLP7qbA9gWDex3RRib8qnt3TC5ZKnFRfzix4',
+    previewUrl: 'QmfQUS9Qsk2PiYrGDqXMUVtYWrRypui3GtFUqmomTt213z',
+    ipfsUrl: 'QmPW2jAXmegLP7qbA9gWDex3RRib8qnt3TC5ZKnFRfzix4',
     attributes: [
       {
         trait_type: 'back',
@@ -8280,7 +8464,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPT1TXp8ptQUbvV5zYM54NvRNsRQqjdEc7187BXGZ1qjY',
+    previewUrl: 'QmaoVk5UTDDWCw172H4xEe8iZNHfALrP2Q5mKG9f7YeeoC',
+    ipfsUrl: 'QmPT1TXp8ptQUbvV5zYM54NvRNsRQqjdEc7187BXGZ1qjY',
     attributes: [
       {
         trait_type: 'back',
@@ -8325,7 +8510,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRw1L2T7yVGSKW7tCSMpc8TwF23wwMzHNcyZMY2UZK2UK',
+    previewUrl: 'QmW7mFiRktTDAqStygwL81oKDT3yYxWga4abPmxxqGgxtB',
+    ipfsUrl: 'QmRw1L2T7yVGSKW7tCSMpc8TwF23wwMzHNcyZMY2UZK2UK',
     attributes: [
       {
         trait_type: 'back',
@@ -8370,7 +8556,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSXVB47V3Aphs6s8grZCcj4KPSjxGEFNqEqDgadiVSaUL',
+    previewUrl: 'QmRKvrQy3y1ebXb8Pua6rbuWux9LT731akogcfDSDKQBnx',
+    ipfsUrl: 'QmSXVB47V3Aphs6s8grZCcj4KPSjxGEFNqEqDgadiVSaUL',
     attributes: [
       {
         trait_type: 'back',
@@ -8415,7 +8602,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWVFAWHPuSr8F3CZx7ptovhW1hQXzgstcuYdYTgS2QAaT',
+    previewUrl: 'Qme8UTT59zmXy5zYJPjG1JRPTcYwyVWJjJ8oT4kedSEZ7A',
+    ipfsUrl: 'QmWVFAWHPuSr8F3CZx7ptovhW1hQXzgstcuYdYTgS2QAaT',
     attributes: [
       {
         trait_type: 'back',
@@ -8460,7 +8648,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRgSX9fnFVbLmQRgeGmCgaobJDeJgf1D19g8EsX6YKwwK',
+    previewUrl: 'QmajFAAutcuUQSNEGwEUEvGH8WFAqWAkH7PZQ82BfeN9eV',
+    ipfsUrl: 'QmRgSX9fnFVbLmQRgeGmCgaobJDeJgf1D19g8EsX6YKwwK',
     attributes: [
       {
         trait_type: 'back',
@@ -8505,7 +8694,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaGcY7PgZNuyrMQ3U1RF2LBbiLhYR3x9ZrZzwQFpb9WMh',
+    previewUrl: 'QmYNwpshCHTd2sfVxbAC7sjk5XNkRmjx22b1zU8Yv9pe5V',
+    ipfsUrl: 'QmaGcY7PgZNuyrMQ3U1RF2LBbiLhYR3x9ZrZzwQFpb9WMh',
     attributes: [
       {
         trait_type: 'back',
@@ -8550,7 +8740,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTX7kSN6ubkpiLTtiAqe5Xetzr2hSAfeoNsLTMTjE7TKj',
+    previewUrl: 'QmT8vSPcASYq69QwAhZJe7MndbekrrQfsk7c8fVZh7CUb7',
+    ipfsUrl: 'QmTX7kSN6ubkpiLTtiAqe5Xetzr2hSAfeoNsLTMTjE7TKj',
     attributes: [
       {
         trait_type: 'back',
@@ -8595,7 +8786,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmf7TQuoEFZFbge115P9WMDW4NTUrk2xzdEbYp5pZbWQ4W',
+    previewUrl: 'QmaZZkwYHPg5btz4CRcJtyVZhQrrL1VJBor2xkouCPvyq2',
+    ipfsUrl: 'Qmf7TQuoEFZFbge115P9WMDW4NTUrk2xzdEbYp5pZbWQ4W',
     attributes: [
       {
         trait_type: 'back',
@@ -8640,7 +8832,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUKgqfqHConiCoJP56wsG3Xt1vhovbHjaF4QkukCP8KTz',
+    previewUrl: 'QmTCyXm1FM2Juagbd4e8q8mEAJWKA2qEHcuXYsV1PvRhyn',
+    ipfsUrl: 'QmUKgqfqHConiCoJP56wsG3Xt1vhovbHjaF4QkukCP8KTz',
     attributes: [
       {
         trait_type: 'back',
@@ -8685,7 +8878,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUoD8CQkvGoeypZfvcNapYGe7arQHZyyquWRXUKZT5Ewq',
+    previewUrl: 'QmZ8Q2KsMhEcZNXPxhuBgfJiBtSwnmc6Tp4Gakwxf2tVfj',
+    ipfsUrl: 'QmUoD8CQkvGoeypZfvcNapYGe7arQHZyyquWRXUKZT5Ewq',
     attributes: [
       {
         trait_type: 'back',
@@ -8730,7 +8924,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSLHiSVgiuskDMXzSgD23VAyU1CrN9pQTqYBYqUzJAdGP',
+    previewUrl: 'QmPgKcJXosUZVAnBS9dWWzPjoJ5rcnnVC9MKMQ1D2VjWBo',
+    ipfsUrl: 'QmSLHiSVgiuskDMXzSgD23VAyU1CrN9pQTqYBYqUzJAdGP',
     attributes: [
       {
         trait_type: 'back',
@@ -8775,7 +8970,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNnZ2k2sRecZQT3VLcicwN7oJG7Hy3VUiEJBGkodxqe4U',
+    previewUrl: 'QmR1iTMRutdLyTwdaBQ8qBh2MfsF3WhHL5i1Ha7cVdyTok',
+    ipfsUrl: 'QmNnZ2k2sRecZQT3VLcicwN7oJG7Hy3VUiEJBGkodxqe4U',
     attributes: [
       {
         trait_type: 'back',
@@ -8820,7 +9016,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTjp5WBmASbSWSaavTRz6Vq8MJXhCz8UkVmYppHbvBaNN',
+    previewUrl: 'QmU5sH8ZWhSQvx7JQysZTxagqXhW3WrDDpESnM19z2UBiP',
+    ipfsUrl: 'QmTjp5WBmASbSWSaavTRz6Vq8MJXhCz8UkVmYppHbvBaNN',
     attributes: [
       {
         trait_type: 'back',
@@ -8865,7 +9062,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTBDfnyLG86mFq9EpHAg5rMdRrdyb9SKRRwELWYDivHj8',
+    previewUrl: 'QmNb7VJE8b2av93FVqVj4PAcEJU9HbGKfvw41m3KzEzG5J',
+    ipfsUrl: 'QmTBDfnyLG86mFq9EpHAg5rMdRrdyb9SKRRwELWYDivHj8',
     attributes: [
       {
         trait_type: 'back',
@@ -8910,7 +9108,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXBBrvYBWgJUsE18Kn8yeSMQzUKXZfNnLgu2FduWmB8x1',
+    previewUrl: 'QmRcDNDBp4MZFg26GzsD3Ng7LKHvJjVd2vXF4RKzxe27VT',
+    ipfsUrl: 'QmXBBrvYBWgJUsE18Kn8yeSMQzUKXZfNnLgu2FduWmB8x1',
     attributes: [
       {
         trait_type: 'back',
@@ -8955,7 +9154,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVLRkqvSUL143pQnJzkZNbNi84sLLxyd2dmQvxiNRhSz3',
+    previewUrl: 'QmRVhYmbp6zadbLeLsh8qRKHkTrCjcQUs93KEiesgmEd5E',
+    ipfsUrl: 'QmVLRkqvSUL143pQnJzkZNbNi84sLLxyd2dmQvxiNRhSz3',
     attributes: [
       {
         trait_type: 'back',
@@ -9000,7 +9200,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNVKcF7SARGk9Hcjhs7yCszZmu2EDkXxeUnMYHzBUdfzy',
+    previewUrl: 'QmbM4qswdbnq2YWSLLBmEeodKJQNYBE4dm4Nc2Tct566nm',
+    ipfsUrl: 'QmNVKcF7SARGk9Hcjhs7yCszZmu2EDkXxeUnMYHzBUdfzy',
     attributes: [
       {
         trait_type: 'back',
@@ -9045,7 +9246,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY7cAMgCWyoYQ1z9JxpEB57SNRQYNA3ZirAQN6fh9bn7U',
+    previewUrl: 'QmRQFbgCETQHFh9pvAMtqzaghqyEqFiAj4jvf49Dk5U3WU',
+    ipfsUrl: 'QmY7cAMgCWyoYQ1z9JxpEB57SNRQYNA3ZirAQN6fh9bn7U',
     attributes: [
       {
         trait_type: 'back',
@@ -9090,7 +9292,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNtLiRtefPGdothNk7wRVLFjAU9QNNwt2nb2JnrpsLnEG',
+    previewUrl: 'QmRbTghSxsscJYJdBZyZLjkQ4tmVaedTLu5ZNASVTdkqgG',
+    ipfsUrl: 'QmNtLiRtefPGdothNk7wRVLFjAU9QNNwt2nb2JnrpsLnEG',
     attributes: [
       {
         trait_type: 'back',
@@ -9135,7 +9338,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWiwRa6sdSNRV34HkgZN3tvKcFybMddhxTrV21r9jvUyR',
+    previewUrl: 'QmcqCsm9DEPfrZ2mfE79oeVTaD6dNZpYiyQ5Gww2TRH8rv',
+    ipfsUrl: 'QmWiwRa6sdSNRV34HkgZN3tvKcFybMddhxTrV21r9jvUyR',
     attributes: [
       {
         trait_type: 'back',
@@ -9180,7 +9384,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPYqgkiJjZDAUhfoJoH8EzuwWN7Q41XA79dCMjgA3iG2P',
+    previewUrl: 'Qmdk1aWzG6gMqZqunwTj6NkXsGKL6PqhAfDBfa4MkeCpki',
+    ipfsUrl: 'QmPYqgkiJjZDAUhfoJoH8EzuwWN7Q41XA79dCMjgA3iG2P',
     attributes: [
       {
         trait_type: 'back',
@@ -9225,7 +9430,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZRKqM3EZiv4F4e4hbntMUn43XFowpnyaiHmnqdoYgRJ6',
+    previewUrl: 'QmdTJYaj52AHSv3Va3LdphFukXvojxmv1CowhbC5gmtkPN',
+    ipfsUrl: 'QmZRKqM3EZiv4F4e4hbntMUn43XFowpnyaiHmnqdoYgRJ6',
     attributes: [
       {
         trait_type: 'back',
@@ -9270,7 +9476,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmejXniydN9Xo4jt5HJ97vhyFRXRvkLUfcEn7Hq9q9AGhZ',
+    previewUrl: 'QmdfCKy5ErosHob4KvSzJHZQB9PRmz5QjwFGspcyPuMZ8g',
+    ipfsUrl: 'QmejXniydN9Xo4jt5HJ97vhyFRXRvkLUfcEn7Hq9q9AGhZ',
     attributes: [
       {
         trait_type: 'back',
@@ -9315,7 +9522,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcbEeAuW93M1kZeom4dfikCX2SJY1yxShP2xjGWC3Potq',
+    previewUrl: 'QmechSJTZLeMbaMXywAbKUTW1iNKkyBpfVBV1YeHkwSQ2j',
+    ipfsUrl: 'QmcbEeAuW93M1kZeom4dfikCX2SJY1yxShP2xjGWC3Potq',
     attributes: [
       {
         trait_type: 'back',
@@ -9360,7 +9568,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWTU59whPJmSDoRBsixWhhUqaufQW5VNeHuL2a2cKqp1k',
+    previewUrl: 'QmPHw37vLNy6auiMEH7HaHe5iSc9nynPx132MhtWFmxmDN',
+    ipfsUrl: 'QmWTU59whPJmSDoRBsixWhhUqaufQW5VNeHuL2a2cKqp1k',
     attributes: [
       {
         trait_type: 'back',
@@ -9405,7 +9614,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUXtNdocHzD9nFz5cezcxQzvjBRGbrsLfhKKLJWi3EAZx',
+    previewUrl: 'QmTPxm1uNdpgoRXdBaTtEu7doiSKXr1zk8GgnVFPP4xGvb',
+    ipfsUrl: 'QmUXtNdocHzD9nFz5cezcxQzvjBRGbrsLfhKKLJWi3EAZx',
     attributes: [
       {
         trait_type: 'back',
@@ -9450,7 +9660,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUsQT1hcrSjyn4mnNGW78BcF41eRairQrAZGm21hXEadX',
+    previewUrl: 'Qmdvj7vDLrhztxM65KWwJLrABNwAvN5qa24Qdqnk9JasHv',
+    ipfsUrl: 'QmUsQT1hcrSjyn4mnNGW78BcF41eRairQrAZGm21hXEadX',
     attributes: [
       {
         trait_type: 'back',
@@ -9495,7 +9706,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNTTnbw6AxXxoz4hfPDSkw4WJUcL3pxbKeKDjWjWLPwXh',
+    previewUrl: 'QmXE8KQegqoD6DMCf5aif4tV6H9Pf2KjgGA2Rvm41EThbf',
+    ipfsUrl: 'QmNTTnbw6AxXxoz4hfPDSkw4WJUcL3pxbKeKDjWjWLPwXh',
     attributes: [
       {
         trait_type: 'back',
@@ -9540,7 +9752,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qme9HTjjbQNCHPMUALDiPgAfFow3HEpehjwmVi7CwYC4Ep',
+    previewUrl: 'QmPKf6NXzsGuC4ndQpJsM9biAtzV3LBqqjSQVSyGt6JbnM',
+    ipfsUrl: 'Qme9HTjjbQNCHPMUALDiPgAfFow3HEpehjwmVi7CwYC4Ep',
     attributes: [
       {
         trait_type: 'back',
@@ -9585,7 +9798,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUSQb8yBtkFHBagNpWetLuRoykNsXV1zr4rCSHY2TMT4S',
+    previewUrl: 'QmYR8X9GSgNf2nP9QGiQm5tpYQnXzwi56ZG9tZzQ72Huww',
+    ipfsUrl: 'QmUSQb8yBtkFHBagNpWetLuRoykNsXV1zr4rCSHY2TMT4S',
     attributes: [
       {
         trait_type: 'back',
@@ -9630,7 +9844,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSxFDQLz9Z9vtVpdUiRQEBQV2K8twvWu1RGTLQcrwgd3G',
+    previewUrl: 'QmZwyhXKorZHSAGZvrfACsNEjZi3exX2NGwT9andpe4hBi',
+    ipfsUrl: 'QmSxFDQLz9Z9vtVpdUiRQEBQV2K8twvWu1RGTLQcrwgd3G',
     attributes: [
       {
         trait_type: 'back',
@@ -9675,7 +9890,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmasyWw9PFJViX1dcQjU9VcMH1f1AsG8XdJUW5PL2F94aA',
+    previewUrl: 'QmSAXkTX8Tbw2ZACzXAvknskkjeLvp5g3yJ6YbXhnzHG5q',
+    ipfsUrl: 'QmasyWw9PFJViX1dcQjU9VcMH1f1AsG8XdJUW5PL2F94aA',
     attributes: [
       {
         trait_type: 'back',
@@ -9720,7 +9936,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ9YnfRoQ46eJ9xWj4nPz3HEXJM2nRH9yMdHoLJtw6YmR',
+    previewUrl: 'QmZ8PEQpTNJGiwdaKK4ZpqZurKE1pPbkMLXSXgvDGJ5qAT',
+    ipfsUrl: 'QmZ9YnfRoQ46eJ9xWj4nPz3HEXJM2nRH9yMdHoLJtw6YmR',
     attributes: [
       {
         trait_type: 'back',
@@ -9765,7 +9982,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNvjncxPYgorog7xpxCKf1DGhW9Etw3niRfTmNT32wrGC',
+    previewUrl: 'Qmch3sWk6GmC8rvhVhsZZkTFz8TpQgUHBqrUKKADLT9erm',
+    ipfsUrl: 'QmNvjncxPYgorog7xpxCKf1DGhW9Etw3niRfTmNT32wrGC',
     attributes: [
       {
         trait_type: 'back',
@@ -9810,7 +10028,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRx2wkuuMAhgBCTfuQV15Yyx2SGXX7Gu2ck2J1wQUQhyK',
+    previewUrl: 'QmcvxZRacWYGpQqHZptALnbXV2YrovKR54tCdQV5jv6V96',
+    ipfsUrl: 'QmRx2wkuuMAhgBCTfuQV15Yyx2SGXX7Gu2ck2J1wQUQhyK',
     attributes: [
       {
         trait_type: 'back',
@@ -9855,7 +10074,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNzCCYxw8cLXa52EdAV4tReccuBW8qMDi4qSz7LQB7nXr',
+    previewUrl: 'QmYi6HNvaFPtQKrBntDquqH3NGwxTFrrSrPNQdv9tJUfau',
+    ipfsUrl: 'QmNzCCYxw8cLXa52EdAV4tReccuBW8qMDi4qSz7LQB7nXr',
     attributes: [
       {
         trait_type: 'back',
@@ -9900,7 +10120,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmagwwXCqNwVwytwjuizfUTf3cEnuwn8cznXGrdSxNBzvu',
+    previewUrl: 'QmP4endMYzVVVQHCnmba9fFLWas7q6jDmw4CysrYfgWvyD',
+    ipfsUrl: 'QmagwwXCqNwVwytwjuizfUTf3cEnuwn8cznXGrdSxNBzvu',
     attributes: [
       {
         trait_type: 'back',
@@ -9945,7 +10166,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSw9sX3fdeeB7K3QKHeSLv2YsewQJGj1uwZzWkPbKePtY',
+    previewUrl: 'QmRoPrXsNK1p8cacBBG6k7u85RR6WCgqtCG3Uufi4FVZ4f',
+    ipfsUrl: 'QmSw9sX3fdeeB7K3QKHeSLv2YsewQJGj1uwZzWkPbKePtY',
     attributes: [
       {
         trait_type: 'back',
@@ -9990,7 +10212,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZckx5ovSpiV1FLuuPVsp6QWaQP2QUULJT3Ad9NemrLCx',
+    previewUrl: 'QmV3PYym3m8i5sfmBG6Q7SsTtLLvcZ8qg4yvWyDTMWFDqr',
+    ipfsUrl: 'QmZckx5ovSpiV1FLuuPVsp6QWaQP2QUULJT3Ad9NemrLCx',
     attributes: [
       {
         trait_type: 'back',
@@ -10035,7 +10258,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeSPTh1CDJA3z14MtJWkUmL65oqkLfxf16mBqH9XnfF5a',
+    previewUrl: 'QmWN1GCyRLRWzFXjQaJo5oZGBG6F2qQfoDGFExLLZNoANh',
+    ipfsUrl: 'QmeSPTh1CDJA3z14MtJWkUmL65oqkLfxf16mBqH9XnfF5a',
     attributes: [
       {
         trait_type: 'back',
@@ -10080,7 +10304,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXxwmL1rbyKwVh6RjbmotmDN9igoKCphixjEEj3tpj6XY',
+    previewUrl: 'QmaWh6UhaRRzVkergEuxakqynLfmcVTX9quLvtXGwgMLDy',
+    ipfsUrl: 'QmXxwmL1rbyKwVh6RjbmotmDN9igoKCphixjEEj3tpj6XY',
     attributes: [
       {
         trait_type: 'back',
@@ -10125,7 +10350,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdMUtET8av2NM7SWWK751FRRumpmEfPhHHCfMqjiH3HXX',
+    previewUrl: 'QmeysnirqyFDfvGsBJ6rFibkk1y8DdmY4zSpJwcmLnnguC',
+    ipfsUrl: 'QmdMUtET8av2NM7SWWK751FRRumpmEfPhHHCfMqjiH3HXX',
     attributes: [
       {
         trait_type: 'back',
@@ -10170,7 +10396,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPHoqVMRckhnixUvFiP414R6ruG7Z4jtrH2q7SWUL6S1Z',
+    previewUrl: 'QmaZAc6PeRJz8SmgpUiTeK26WjRZV5iTAHxgbB45zJiDtB',
+    ipfsUrl: 'QmPHoqVMRckhnixUvFiP414R6ruG7Z4jtrH2q7SWUL6S1Z',
     attributes: [
       {
         trait_type: 'back',
@@ -10215,7 +10442,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qma2DAWxcKDx65D6VX9SuDhNWPAZryxbMtk7jJeaDut6mp',
+    previewUrl: 'QmQf37MMDbPKA86jrnZE2WDU9hGbcC5DbvgUpoihakCp9a',
+    ipfsUrl: 'Qma2DAWxcKDx65D6VX9SuDhNWPAZryxbMtk7jJeaDut6mp',
     attributes: [
       {
         trait_type: 'back',
@@ -10260,7 +10488,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSwQucLBDPtZgkqpCtfk5SajJG4fgRcuB97jUR56BNi1V',
+    previewUrl: 'QmShrgdUUdAjLy5N81G8rjbMchJT6U64iU5BvjKDsJgmh6',
+    ipfsUrl: 'QmSwQucLBDPtZgkqpCtfk5SajJG4fgRcuB97jUR56BNi1V',
     attributes: [
       {
         trait_type: 'back',
@@ -10305,7 +10534,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR78FrEcZdR2uLutpediYaeWRSTnMdDQucUAjJyrsskCk',
+    previewUrl: 'QmQkdkiSGzNwy92gSoQ8jAzrNr2gno3i2ma5UeTSAXRadc',
+    ipfsUrl: 'QmR78FrEcZdR2uLutpediYaeWRSTnMdDQucUAjJyrsskCk',
     attributes: [
       {
         trait_type: 'back',
@@ -10350,7 +10580,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQRip2tqgoY1eNUQrdGcGrouT576S7g59bYcgK1XPpKLv',
+    previewUrl: 'QmeG1CnfJCAZx1auYahd2Sds1VHqSVwceep9enz356zitE',
+    ipfsUrl: 'QmQRip2tqgoY1eNUQrdGcGrouT576S7g59bYcgK1XPpKLv',
     attributes: [
       {
         trait_type: 'back',
@@ -10395,7 +10626,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbHkhLtutpPHuxUbgZWd6QupTY7KQkozp9KqStCtWSdXW',
+    previewUrl: 'QmQRUiZSFgvFPAHNrSA7ppMoApiQJgkoUgXHKvAXasbj54',
+    ipfsUrl: 'QmbHkhLtutpPHuxUbgZWd6QupTY7KQkozp9KqStCtWSdXW',
     attributes: [
       {
         trait_type: 'back',
@@ -10440,7 +10672,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZS37dmQZGqGmezacjPnM38z7TM6v9Dy4ajkuP7KZT7Us',
+    previewUrl: 'QmZSJE2Mv3UXiohuHH9tmX4ggsH79ecjGLfPNYbCqCgjfM',
+    ipfsUrl: 'QmZS37dmQZGqGmezacjPnM38z7TM6v9Dy4ajkuP7KZT7Us',
     attributes: [
       {
         trait_type: 'back',
@@ -10485,7 +10718,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQmk7mSupoYnZwnA2iWMYMmpKhpSVrb5dymwCUziUZw2J',
+    previewUrl: 'QmX8pxdGKjjYH4WTfdQcWoSQsbF24YtxUXigCNdsfTxQxf',
+    ipfsUrl: 'QmQmk7mSupoYnZwnA2iWMYMmpKhpSVrb5dymwCUziUZw2J',
     attributes: [
       {
         trait_type: 'back',
@@ -10530,7 +10764,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmS9aJjcods6F2zVEzaooa2nx2hNuzzBPnDuQPP48arQyU',
+    previewUrl: 'QmNVigqCUb37U3b71ikg62ogCo3JJfxoNSRRWar2FFaBV5',
+    ipfsUrl: 'QmS9aJjcods6F2zVEzaooa2nx2hNuzzBPnDuQPP48arQyU',
     attributes: [
       {
         trait_type: 'back',
@@ -10575,7 +10810,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQXXKk7uqxrY416XpKshu1g68pVsEFwdXLnFcCedw1vKe',
+    previewUrl: 'QmPM4WAsxoz5eJCBRTHV9UKPk5ccx291n6BBGjoR3PhNDL',
+    ipfsUrl: 'QmQXXKk7uqxrY416XpKshu1g68pVsEFwdXLnFcCedw1vKe',
     attributes: [
       {
         trait_type: 'back',
@@ -10620,7 +10856,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVTD6zUkRpfkyzQUasQeUCokccER6sShPfBpVikqDz7Fa',
+    previewUrl: 'QmX8mgiPLzC8DHe2LR6gcq3cHpKZDwCcbH3JnU9oh4Hu1d',
+    ipfsUrl: 'QmVTD6zUkRpfkyzQUasQeUCokccER6sShPfBpVikqDz7Fa',
     attributes: [
       {
         trait_type: 'back',
@@ -10665,7 +10902,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qme9uJxwuTboWCNrZbDwB5pjTMfRVQtKX5c7uopGe6i88d',
+    previewUrl: 'QmaHaRwR4JHZ4GcrXanoaYLt8HYmUTC6XUkino4XV1Xzva',
+    ipfsUrl: 'Qme9uJxwuTboWCNrZbDwB5pjTMfRVQtKX5c7uopGe6i88d',
     attributes: [
       {
         trait_type: 'back',
@@ -10710,7 +10948,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmShz9kMxgcMcYmGDSGWVK1qmN4xu8Z9etf4NXpwtZ25Ci',
+    previewUrl: 'QmSEwh9xpQUHJXsMxqfaY8CzoipdAUqjTf35sqTbKjYCCz',
+    ipfsUrl: 'QmShz9kMxgcMcYmGDSGWVK1qmN4xu8Z9etf4NXpwtZ25Ci',
     attributes: [
       {
         trait_type: 'back',
@@ -10755,7 +10994,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUznbrPMajVhinT6MgBeZoyPkFqvprmu5DdfMA6i1yHUg',
+    previewUrl: 'QmTdTNUd2HJQKRUxWrZ4Ms8WcGneg2jnVg6Cqm7baHu2yy',
+    ipfsUrl: 'QmUznbrPMajVhinT6MgBeZoyPkFqvprmu5DdfMA6i1yHUg',
     attributes: [
       {
         trait_type: 'back',
@@ -10800,7 +11040,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPhqms6MmLbQLo6x3KLqoXWRRDeVxzobsDwxWD7YDTfhL',
+    previewUrl: 'QmU17CuYsZh9VbW9jwBKmdnLNJ4fE9EraoiPhpbXfehZaM',
+    ipfsUrl: 'QmPhqms6MmLbQLo6x3KLqoXWRRDeVxzobsDwxWD7YDTfhL',
     attributes: [
       {
         trait_type: 'back',
@@ -10845,7 +11086,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdcC7QPkYUcYMDTPBFgQcQCyWSC54CcALRDkMtm4YzSog',
+    previewUrl: 'QmTKoxqazkrSSmqXLbmviCUooMf4N4D1FBoyHVW1GamiXy',
+    ipfsUrl: 'QmdcC7QPkYUcYMDTPBFgQcQCyWSC54CcALRDkMtm4YzSog',
     attributes: [
       {
         trait_type: 'back',
@@ -10890,7 +11132,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRDyRubLwwRQgxjRivqtWEQoXaSryzHFksCRu41CtZg6D',
+    previewUrl: 'QmRi7F1Jwuoj8R6fs1Hx592EWGCmYUabzFxTrzNjFZZtUu',
+    ipfsUrl: 'QmRDyRubLwwRQgxjRivqtWEQoXaSryzHFksCRu41CtZg6D',
     attributes: [
       {
         trait_type: 'back',
@@ -10935,7 +11178,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVdtm9u4QhFJHfLmK3Q6MGVeWic9H8D9omeWE3bQ7MC5B',
+    previewUrl: 'QmeeZ6y4s6jfJzNFtV4kH8VHKK1fSvCgwfZsETvRVk5FRM',
+    ipfsUrl: 'QmVdtm9u4QhFJHfLmK3Q6MGVeWic9H8D9omeWE3bQ7MC5B',
     attributes: [
       {
         trait_type: 'back',
@@ -10980,7 +11224,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRSu6VAZLZWDNnwkCxfnpgnXLhvRYE8P3J7f2ZSTwqHfT',
+    previewUrl: 'QmXtTWhRUtqFkL8kVX7wBxHafDn7xG4hn7sLKhBzEBYekg',
+    ipfsUrl: 'QmRSu6VAZLZWDNnwkCxfnpgnXLhvRYE8P3J7f2ZSTwqHfT',
     attributes: [
       {
         trait_type: 'back',
@@ -11025,7 +11270,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZFBWiC4YjtvkpwP4wZMVUiPCgDeGNDLyVMxr87QMoTEF',
+    previewUrl: 'QmfYvZZzHp6iT7ERT8GCjnmFzMMsy8KgtCDtLpp59sYtzg',
+    ipfsUrl: 'QmZFBWiC4YjtvkpwP4wZMVUiPCgDeGNDLyVMxr87QMoTEF',
     attributes: [
       {
         trait_type: 'back',
@@ -11070,7 +11316,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeUgNyMmPFJ143wAdfZrMP9rZE7P8WMLma2Pm9kesAbE1',
+    previewUrl: 'QmNpWQP1iiV2ogX37XPnFfJ8RKDewwb6mjDyxKJ5PhWt1f',
+    ipfsUrl: 'QmeUgNyMmPFJ143wAdfZrMP9rZE7P8WMLma2Pm9kesAbE1',
     attributes: [
       {
         trait_type: 'back',
@@ -11115,7 +11362,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYFZBcQwce8vxFaVEbrwGJHx4nod9XyEQVB2XokTo3dhd',
+    previewUrl: 'QmRkJ556oceksmzbMqURSeGg2m9swFRPZsJW4b8ofTqzuf',
+    ipfsUrl: 'QmYFZBcQwce8vxFaVEbrwGJHx4nod9XyEQVB2XokTo3dhd',
     attributes: [
       {
         trait_type: 'back',
@@ -11160,7 +11408,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSCCRVwCUkghyXRvEsXd1NQkYcPvCG6PKJ62ufy1NcFTQ',
+    previewUrl: 'QmTC2UyTrsm61WDyf3RhXWMGtfgLsmLhDSynQXTLrZSNiH',
+    ipfsUrl: 'QmSCCRVwCUkghyXRvEsXd1NQkYcPvCG6PKJ62ufy1NcFTQ',
     attributes: [
       {
         trait_type: 'back',
@@ -11205,7 +11454,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaTbZMr7Fc8Qw6MXTE7fE4QvAgSWic6VHghRWPzCyY2tP',
+    previewUrl: 'QmXqi8R4NYfg9TSKdVCVGJeVyM8QM83YKB64XjKxxNW5pr',
+    ipfsUrl: 'QmaTbZMr7Fc8Qw6MXTE7fE4QvAgSWic6VHghRWPzCyY2tP',
     attributes: [
       {
         trait_type: 'back',
@@ -11250,7 +11500,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeoPRz7TD8cixv5ACgi9t5jZrkhdEztjaf6BykrP8iWnq',
+    previewUrl: 'QmPv1fAA8Ju7RJVQYmHA5tu7bLiXxKNq9g9GWexj6zkcmq',
+    ipfsUrl: 'QmeoPRz7TD8cixv5ACgi9t5jZrkhdEztjaf6BykrP8iWnq',
     attributes: [
       {
         trait_type: 'back',
@@ -11295,7 +11546,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUzQmmNVCAnbfc2EEfDu4egV9cQAR4s4xh1v2fBY3ib2U',
+    previewUrl: 'Qmf9j3hBsAiWRKQaRdCZhNjeupoPu6pkv8MxxvnqrtACVB',
+    ipfsUrl: 'QmUzQmmNVCAnbfc2EEfDu4egV9cQAR4s4xh1v2fBY3ib2U',
     attributes: [
       {
         trait_type: 'back',
@@ -11340,7 +11592,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSWxySBhR3KxquyYtwoNLoVz1XCL8Wb9Swa2ex2XJ2aoQ',
+    previewUrl: 'QmXmBDTPuA3HQrAkRYQndDkbfyDKgApXk8TVhGEhd2w1TE',
+    ipfsUrl: 'QmSWxySBhR3KxquyYtwoNLoVz1XCL8Wb9Swa2ex2XJ2aoQ',
     attributes: [
       {
         trait_type: 'back',
@@ -11385,7 +11638,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUX7vNLkLs2JgxbWRXtbExAqXFrEe5kK2sTfRVgh91b3x',
+    previewUrl: 'QmfUN26M7zhpMNMPTSjLzxMM4SzckNpoYdz1Ekqfk5JoXq',
+    ipfsUrl: 'QmUX7vNLkLs2JgxbWRXtbExAqXFrEe5kK2sTfRVgh91b3x',
     attributes: [
       {
         trait_type: 'back',
@@ -11430,7 +11684,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSyiETXbKKsX4EJzacLuUXkuqc4sxu36y2DXkKCijP2t4',
+    previewUrl: 'QmPZdLnXfPf3ayRzia3ToaEJREkf7XxbidFhd9Wyk43pzp',
+    ipfsUrl: 'QmSyiETXbKKsX4EJzacLuUXkuqc4sxu36y2DXkKCijP2t4',
     attributes: [
       {
         trait_type: 'back',
@@ -11475,7 +11730,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVh73H4jV4P1T9XXSMq9Kka65SJQQXkZKWfY48NHtd1Mx',
+    previewUrl: 'QmThyBPetopfHhUVqhXvyiMyEnRwU1GWgxQyiqw1zksRJR',
+    ipfsUrl: 'QmVh73H4jV4P1T9XXSMq9Kka65SJQQXkZKWfY48NHtd1Mx',
     attributes: [
       {
         trait_type: 'back',
@@ -11520,7 +11776,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYfdgv5TkkukHkDyaWJiyXk74Evb6U7Fuw6EG9BMsbkqo',
+    previewUrl: 'Qmepu5M676ismR7FYcLb7E6r3HVpitvWWgfR5FtJuTEiPZ',
+    ipfsUrl: 'QmYfdgv5TkkukHkDyaWJiyXk74Evb6U7Fuw6EG9BMsbkqo',
     attributes: [
       {
         trait_type: 'back',
@@ -11565,7 +11822,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXWRBkFP5skv7LjDw3ft4E24HaE57SpHoVukLEVNbwAoL',
+    previewUrl: 'Qmeuvh3L6dA4An5tAVQqjdJP8WXoicdXbfczFWUpA5Cz3B',
+    ipfsUrl: 'QmXWRBkFP5skv7LjDw3ft4E24HaE57SpHoVukLEVNbwAoL',
     attributes: [
       {
         trait_type: 'back',
@@ -11610,7 +11868,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVNZ2Q8wr5bdJNc633TromFEaPtwPc8r6zptJ5Fnd9qXt',
+    previewUrl: 'QmZNRBC8ZvkJHCHC494KGKriqaDed4KNtSrjdLX8kFGBoD',
+    ipfsUrl: 'QmVNZ2Q8wr5bdJNc633TromFEaPtwPc8r6zptJ5Fnd9qXt',
     attributes: [
       {
         trait_type: 'back',
@@ -11655,7 +11914,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVhNB8cT8QfwMzRJJKketjJSvLVkWhGUbM4vTkZgUn2Pt',
+    previewUrl: 'QmWVRK2Cbiohkvydye4q8HgMGhGPntFw6Bjpt3YsMGvHQn',
+    ipfsUrl: 'QmVhNB8cT8QfwMzRJJKketjJSvLVkWhGUbM4vTkZgUn2Pt',
     attributes: [
       {
         trait_type: 'back',
@@ -11700,7 +11960,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVamZgr2wrT9qDedCLFQy14i7dQqB8yYfGhZdeWpMkqxv',
+    previewUrl: 'QmVpmQfiZJyxDaPZChyeUUeSocj7MBcznXccnPR98VxJTj',
+    ipfsUrl: 'QmVamZgr2wrT9qDedCLFQy14i7dQqB8yYfGhZdeWpMkqxv',
     attributes: [
       {
         trait_type: 'back',
@@ -11745,7 +12006,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbDwxgiSETEhHcHYuX2NJnh3rnjqY7s7ZzMCrFgCRjpqm',
+    previewUrl: 'Qmd5qtULUQM8BTqnwRdeDU1u96YsvfuY5DcW2Lu7WR9JQF',
+    ipfsUrl: 'QmbDwxgiSETEhHcHYuX2NJnh3rnjqY7s7ZzMCrFgCRjpqm',
     attributes: [
       {
         trait_type: 'back',
@@ -11790,7 +12052,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaGEe8ZZhvaGxAzN7fKafCDNaYqjS2BpbrocxRkiyH7vM',
+    previewUrl: 'QmNnxoSDRwBwUMkyTuFGfiAytS7FhrR9qQLeewjWF3Ei8t',
+    ipfsUrl: 'QmaGEe8ZZhvaGxAzN7fKafCDNaYqjS2BpbrocxRkiyH7vM',
     attributes: [
       {
         trait_type: 'back',
@@ -11835,7 +12098,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPY4qtfgMRdKdecKRNkbDa2Axe5anWoEttFqMZb2Zw1HZ',
+    previewUrl: 'QmPcuvXh6AZrK2gdMqqvhNF2ukEGExVzN2qRxWUQZN9T1N',
+    ipfsUrl: 'QmPY4qtfgMRdKdecKRNkbDa2Axe5anWoEttFqMZb2Zw1HZ',
     attributes: [
       {
         trait_type: 'back',
@@ -11880,7 +12144,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUSpCEFhMFLuYR5C4sMk4ynpUezETPvpDoiVjN5Q12P7Q',
+    previewUrl: 'QmSZRXGo6Nxed75dyKTpCeUcXUE5ypgGKfEyvTRizLDo1w',
+    ipfsUrl: 'QmUSpCEFhMFLuYR5C4sMk4ynpUezETPvpDoiVjN5Q12P7Q',
     attributes: [
       {
         trait_type: 'back',
@@ -11925,7 +12190,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmbg3RqbBvnbENtnNjRsicHKu76u1SSzDzhkTuDJHT5qqY',
+    previewUrl: 'QmcwuErcH4QCWRUcJPpXAPL8nfuTXic2MqZCErpjTj25iW',
+    ipfsUrl: 'Qmbg3RqbBvnbENtnNjRsicHKu76u1SSzDzhkTuDJHT5qqY',
     attributes: [
       {
         trait_type: 'back',
@@ -11970,7 +12236,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeRv1wFbZskQjt8ugggXRDjbpY8s3GN6krGe8FDbkLat1',
+    previewUrl: 'QmY242qxab9dQH8NYohpKapxxf3rdt7rMAsvwYoG8UsBsr',
+    ipfsUrl: 'QmeRv1wFbZskQjt8ugggXRDjbpY8s3GN6krGe8FDbkLat1',
     attributes: [
       {
         trait_type: 'back',
@@ -12015,7 +12282,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeBjFqAUNNqPkNptU5UkX2Bf8epUcTiRru9dWA6Treh9Q',
+    previewUrl: 'QmZAGkbunQM3CxbXDQvDr6yjyumJW416cCQbJ83ngFkEwe',
+    ipfsUrl: 'QmeBjFqAUNNqPkNptU5UkX2Bf8epUcTiRru9dWA6Treh9Q',
     attributes: [
       {
         trait_type: 'back',
@@ -12060,7 +12328,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVcNJ26juHB75HShT5nNLhTfu8BovcsMbiCVbYT2u9roA',
+    previewUrl: 'QmbPR8nsBqLjbzCi3XZYkiesbvNz2UGgX931DyAs3XnVQd',
+    ipfsUrl: 'QmVcNJ26juHB75HShT5nNLhTfu8BovcsMbiCVbYT2u9roA',
     attributes: [
       {
         trait_type: 'back',
@@ -12105,7 +12374,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTzvo8yYJq8C5Zry76sXjXiH2sMgRNG84jUP15dF1yi45',
+    previewUrl: 'QmdSSK7ZPF7YidrwTQJ9pfyYZqPkrripuRcSRMbR9k1mnu',
+    ipfsUrl: 'QmTzvo8yYJq8C5Zry76sXjXiH2sMgRNG84jUP15dF1yi45',
     attributes: [
       {
         trait_type: 'back',
@@ -12150,7 +12420,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW3Gq145AicAof5dmUgQPB1MFxrb8ztWkC3pF6mxCwqd7',
+    previewUrl: 'QmZEx2eFxFZDwQejaYMZWS32Pe6tuPSwTWMQhRZd9m8zoz',
+    ipfsUrl: 'QmW3Gq145AicAof5dmUgQPB1MFxrb8ztWkC3pF6mxCwqd7',
     attributes: [
       {
         trait_type: 'back',
@@ -12195,7 +12466,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSBYzoTUTeHGZCKH8tzbWyD9g4mv18AVAUUXY383m2862',
+    previewUrl: 'Qmans7ALTGXfq5sNnVTJ37ZU4fuSBkDVPNVtGR4FkGFerK',
+    ipfsUrl: 'QmSBYzoTUTeHGZCKH8tzbWyD9g4mv18AVAUUXY383m2862',
     attributes: [
       {
         trait_type: 'back',
@@ -12240,7 +12512,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQBi5uJi8niNpBEbLqi3X6d9WNJSEcutFZRZEszCP9Jhs',
+    previewUrl: 'Qmc1hof4i2XJQmU1jXb8kHzzeLUJNX743mp5MT4StBUMCP',
+    ipfsUrl: 'QmQBi5uJi8niNpBEbLqi3X6d9WNJSEcutFZRZEszCP9Jhs',
     attributes: [
       {
         trait_type: 'back',
@@ -12285,7 +12558,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSJiJB15X75QLkvD2t8J7ACoAsvVUkCBAt2Jy1BNfPSNv',
+    previewUrl: 'QmV5gxPR6VRogyVVYBEVeUuvvLpgMmLmmkEyZVat9rBnfi',
+    ipfsUrl: 'QmSJiJB15X75QLkvD2t8J7ACoAsvVUkCBAt2Jy1BNfPSNv',
     attributes: [
       {
         trait_type: 'back',
@@ -12330,7 +12604,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUWnezU4WN5ZimHw5gsb8yG46EkEMSe6xMfe7F68a31Rq',
+    previewUrl: 'QmTuubDeoYe9hNxifCYVa3DRZWnEt7FTrTjRuESxnCBjCy',
+    ipfsUrl: 'QmUWnezU4WN5ZimHw5gsb8yG46EkEMSe6xMfe7F68a31Rq',
     attributes: [
       {
         trait_type: 'back',
@@ -12375,7 +12650,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSHQJNU2tVyc1HEQDGT3t2fVnwcLC2K9oDjdTb5F7nT4e',
+    previewUrl: 'QmVEwVaPzGmQwm1wCpZeZDAShFQQsQRbW6t3RMbjpLMbRS',
+    ipfsUrl: 'QmSHQJNU2tVyc1HEQDGT3t2fVnwcLC2K9oDjdTb5F7nT4e',
     attributes: [
       {
         trait_type: 'back',
@@ -12420,7 +12696,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYFGLPw4oKKZZPYAUzWq8VLA2BiNqM6ajWY1MJgjNDuLd',
+    previewUrl: 'QmenAP62pBCjdikZeZLfUVZs6Av4aaKjfvGbaM19j4ULUZ',
+    ipfsUrl: 'QmYFGLPw4oKKZZPYAUzWq8VLA2BiNqM6ajWY1MJgjNDuLd',
     attributes: [
       {
         trait_type: 'back',
@@ -12465,7 +12742,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRYbtnhB88hJ7z8sgTZPkjVs9d4cXfwMvGWQnLThVgP2F',
+    previewUrl: 'Qmcko1jQqn7d1TCjUUzTjU1TyhqVCeQUjZbzmuBFwhX54e',
+    ipfsUrl: 'QmRYbtnhB88hJ7z8sgTZPkjVs9d4cXfwMvGWQnLThVgP2F',
     attributes: [
       {
         trait_type: 'back',
@@ -12510,7 +12788,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXu9BCZMpLjGqjmRFYpCGnQxtD3AbFwNxxzngFUZZZgbX',
+    previewUrl: 'QmYakVSAozbuniR4iL4i5LwS44ERbLuPQK6SEdFpWPKRJs',
+    ipfsUrl: 'QmXu9BCZMpLjGqjmRFYpCGnQxtD3AbFwNxxzngFUZZZgbX',
     attributes: [
       {
         trait_type: 'back',
@@ -12555,7 +12834,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPhiaqzchueqDh1zqNYqHM2rF4gnAcm4iHDaonSrqMUo3',
+    previewUrl: 'QmWqDLyyLR1bSdAWZbqf4f8JPhyT7igPmrMSLD224jYNUR',
+    ipfsUrl: 'QmPhiaqzchueqDh1zqNYqHM2rF4gnAcm4iHDaonSrqMUo3',
     attributes: [
       {
         trait_type: 'back',
@@ -12600,7 +12880,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXwcb6euRqNCsAvBQ8nyZK18zHhroqqT5TCjzo2g5KjsV',
+    previewUrl: 'QmPbBeBBsBpj4d1x2YqUfXXE8Rzs2vh7wYHiqqCtDrLGrj',
+    ipfsUrl: 'QmXwcb6euRqNCsAvBQ8nyZK18zHhroqqT5TCjzo2g5KjsV',
     attributes: [
       {
         trait_type: 'back',
@@ -12645,7 +12926,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeAQfhMk84oZhPuNuxRs3q3wcihXn22e2sSriAA7XLAyx',
+    previewUrl: 'QmaV47YUKfPUPpwmriHmV3hpEwSqHZ8HyYp2995juPfbtd',
+    ipfsUrl: 'QmeAQfhMk84oZhPuNuxRs3q3wcihXn22e2sSriAA7XLAyx',
     attributes: [
       {
         trait_type: 'back',
@@ -12690,7 +12972,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcpTtg2vdKbb7LaHEoHGnudyZYL9KRikBqNT2C2uXBQxS',
+    previewUrl: 'QmbJrzPBXR2PgrMxNvWHPWxroS1CJdw1w6Joh5qnsVvokk',
+    ipfsUrl: 'QmcpTtg2vdKbb7LaHEoHGnudyZYL9KRikBqNT2C2uXBQxS',
     attributes: [
       {
         trait_type: 'back',
@@ -12735,7 +13018,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUNgXQMN6xWescGkgfRjVbqHsM9eGdWMq5h98kZW9XG1y',
+    previewUrl: 'QmV1Qkmd3CvsHfm7iTrzstNgk9jKz64igFa7TdM9TaFrZ2',
+    ipfsUrl: 'QmUNgXQMN6xWescGkgfRjVbqHsM9eGdWMq5h98kZW9XG1y',
     attributes: [
       {
         trait_type: 'back',
@@ -12780,7 +13064,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcvXZ9YBitstJHYAgn3TCyj7WiKnXqf28KMQTsoEgLFo4',
+    previewUrl: 'QmSGqMUUsEVr33DtfHGTGZo72ZhBZNRLicKSmwMNoMDoZE',
+    ipfsUrl: 'QmcvXZ9YBitstJHYAgn3TCyj7WiKnXqf28KMQTsoEgLFo4',
     attributes: [
       {
         trait_type: 'back',
@@ -12788,7 +13073,7 @@ export const broxieCollection = [
       },
       {
         trait_type: 'body',
-        value: 'No ears black',
+        value: 'Regular',
       },
       {
         trait_type: 'ears',
@@ -12796,11 +13081,11 @@ export const broxieCollection = [
       },
       {
         trait_type: 'head',
-        value: 'Cartoon hair',
+        value: 'Skullcap',
       },
       {
         trait_type: 'clothes',
-        value: 'Blue jumper',
+        value: 'Denim jacket',
       },
       {
         trait_type: 'nose',
@@ -12808,11 +13093,11 @@ export const broxieCollection = [
       },
       {
         trait_type: 'neck',
-        value: 'Flower necklace',
+        value: 'None',
       },
       {
         trait_type: 'accessory_top',
-        value: 'Black aviator glasses',
+        value: 'None',
       },
       {
         trait_type: 'accessory_down',
@@ -12820,12 +13105,13 @@ export const broxieCollection = [
       },
       {
         trait_type: 'emotions',
-        value: 'Regular',
+        value: 'Alien',
       },
     ],
   },
   {
-    url: 'QmbqaprzJauoSKALkrrVBihDfRGtc4xDMPRaEEBwPSxwNB',
+    previewUrl: 'QmYDbkA2TbbYueq2KtRa1rhDTRG6wuW9VPfMPLBBLSdLb5',
+    ipfsUrl: 'QmbqaprzJauoSKALkrrVBihDfRGtc4xDMPRaEEBwPSxwNB',
     attributes: [
       {
         trait_type: 'back',
@@ -12870,7 +13156,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZtiakyjXHp2pP3nRsJjCjNMWzNLVtc4oRMUXn9jsVSyS',
+    previewUrl: 'Qmdi7hbbSRqCJihH34UC9W3HiCw4gJBPPMm6Fw2LTdP7AG',
+    ipfsUrl: 'QmZtiakyjXHp2pP3nRsJjCjNMWzNLVtc4oRMUXn9jsVSyS',
     attributes: [
       {
         trait_type: 'back',
@@ -12915,7 +13202,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdFgcn7VeGyKTpMpD4P3b2detcip9HqfKZpJTqAcF96vo',
+    previewUrl: 'QmaYEpBM1NsM9G46M1goM2iHesetzHfQeTG8JVhF8RFKoZ',
+    ipfsUrl: 'QmdFgcn7VeGyKTpMpD4P3b2detcip9HqfKZpJTqAcF96vo',
     attributes: [
       {
         trait_type: 'back',
@@ -12960,7 +13248,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSPMaiJSQPRTBYMT8VVBSa4rKrZCNLjrfAhRa7wiA2nY9',
+    previewUrl: 'QmbjcWNMnszqmV6KftCozTdu9S1hB1XijdUU5FKo1geTQS',
+    ipfsUrl: 'QmSPMaiJSQPRTBYMT8VVBSa4rKrZCNLjrfAhRa7wiA2nY9',
     attributes: [
       {
         trait_type: 'back',
@@ -13005,7 +13294,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdL7iE3sXiVs8Ey758PT8mTkoWGbPqDkUEgmHdm6pWXP3',
+    previewUrl: 'QmSpSeQDu4Ye9Nt1wHBzG89q9vViK2paM13Ek162QXnm3R',
+    ipfsUrl: 'QmdL7iE3sXiVs8Ey758PT8mTkoWGbPqDkUEgmHdm6pWXP3',
     attributes: [
       {
         trait_type: 'back',
@@ -13050,7 +13340,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdLortWuk42dNB5cWuYL13bCxeQvUYN7TqcCNWEqa2eDz',
+    previewUrl: 'QmehrTVB4cxzygPsCrzqPYnPW8yxQHD6sKyStpJyJ5HbNE',
+    ipfsUrl: 'QmdLortWuk42dNB5cWuYL13bCxeQvUYN7TqcCNWEqa2eDz',
     attributes: [
       {
         trait_type: 'back',
@@ -13095,7 +13386,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbxerZk9UDW4ZJ2ABexXfyNJChcM56WumXBebGmEM5UoC',
+    previewUrl: 'QmWXw8VvjaPhQbhcv8er7sfJvVB1q2g4mGMfMNrQbVvC8b',
+    ipfsUrl: 'QmbxerZk9UDW4ZJ2ABexXfyNJChcM56WumXBebGmEM5UoC',
     attributes: [
       {
         trait_type: 'back',
@@ -13140,7 +13432,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYBq7upXa3Eqoyxx7EHUHF1dCmusD7hcmQ3FU1zxa1Uk6',
+    previewUrl: 'QmZDji8GxG6AEAD84SJY3sowhkbSMuAR7ZKhQjSobhpi5Q',
+    ipfsUrl: 'QmYBq7upXa3Eqoyxx7EHUHF1dCmusD7hcmQ3FU1zxa1Uk6',
     attributes: [
       {
         trait_type: 'back',
@@ -13185,7 +13478,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfHQUncCbXZRtMggxc1egVTVYWsk92CXzc7amYiGZEcsh',
+    previewUrl: 'QmQy9BxhDK1VGfn52mxzrhRGYBvHaDPLFSVwTcqt76Ssnr',
+    ipfsUrl: 'QmfHQUncCbXZRtMggxc1egVTVYWsk92CXzc7amYiGZEcsh',
     attributes: [
       {
         trait_type: 'back',
@@ -13230,7 +13524,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWfyCtnLELe5D9VAhS9dT7m4w77HsMqW3wqVvs9VEWtqQ',
+    previewUrl: 'QmevAsZg4WA1wGJQFtvGN9zcA7V6HJ99FaYwiK2ZhpYwCy',
+    ipfsUrl: 'QmWfyCtnLELe5D9VAhS9dT7m4w77HsMqW3wqVvs9VEWtqQ',
     attributes: [
       {
         trait_type: 'back',
@@ -13275,7 +13570,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYKft6sY1PNgDnkfYeGnCeBuiDpEE2abbG947Mz4X29WM',
+    previewUrl: 'QmWQgLLBpG956MmZYJZkfzCyNNxZsnDVCkUZTkw5P5Ki1A',
+    ipfsUrl: 'QmYKft6sY1PNgDnkfYeGnCeBuiDpEE2abbG947Mz4X29WM',
     attributes: [
       {
         trait_type: 'back',
@@ -13320,7 +13616,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmb37C2kFn6U9d1Ks7FaGkqsTo8AzT2c4od7u2Jqh6wiV8',
+    previewUrl: 'QmUCo24MqPdXXFbw8W2UKhFH5jriRQU9QZLgVv94NTKhuv',
+    ipfsUrl: 'Qmb37C2kFn6U9d1Ks7FaGkqsTo8AzT2c4od7u2Jqh6wiV8',
     attributes: [
       {
         trait_type: 'back',
@@ -13365,7 +13662,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmezY2KAM2AVaGkarJQLCSCyscz5phnejoqVCC2c6BUfMp',
+    previewUrl: 'Qmctp1jCkD8ARvGKuaYnr5U9Bi2h915xJgsZcbrjUjX9kf',
+    ipfsUrl: 'QmezY2KAM2AVaGkarJQLCSCyscz5phnejoqVCC2c6BUfMp',
     attributes: [
       {
         trait_type: 'back',
@@ -13410,7 +13708,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUsJWo33ZTNzWuDiLa7G34n5Ck6P2dqUUwFgyWKtPpbxe',
+    previewUrl: 'QmfNzJjxkGwyjD9nwHHcJCg1qb1UxS3xwHvQ8DhSTQuWaM',
+    ipfsUrl: 'QmUsJWo33ZTNzWuDiLa7G34n5Ck6P2dqUUwFgyWKtPpbxe',
     attributes: [
       {
         trait_type: 'back',
@@ -13455,7 +13754,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSPTpUdKBGAc6ZpRfUmcKRk7S5LzBYTxxFvJBJbTWoTgY',
+    previewUrl: 'QmfKfqn76k9qJVm9BQFJoyPA3Y4X3ooadwdPVipZ4HVe42',
+    ipfsUrl: 'QmSPTpUdKBGAc6ZpRfUmcKRk7S5LzBYTxxFvJBJbTWoTgY',
     attributes: [
       {
         trait_type: 'back',
@@ -13500,7 +13800,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU9W21TV8gjpR2PVdBAg114D6Bepcd4Aq6NqDW5gqMUq3',
+    previewUrl: 'QmSi8npXPkqHAQXGkZt7Hj1uHf2devFdU54C3qfos1Dw49',
+    ipfsUrl: 'QmU9W21TV8gjpR2PVdBAg114D6Bepcd4Aq6NqDW5gqMUq3',
     attributes: [
       {
         trait_type: 'back',
@@ -13545,7 +13846,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZcTaxHmmUAifgWCJ1JoPHd7LWLGSb2yuZ7XGEXeUZeN7',
+    previewUrl: 'QmZWCmewzom1Y6V6SeiwSBfGezVjQstuhkWog8D1oGKJeu',
+    ipfsUrl: 'QmZcTaxHmmUAifgWCJ1JoPHd7LWLGSb2yuZ7XGEXeUZeN7',
     attributes: [
       {
         trait_type: 'back',
@@ -13590,7 +13892,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR2BZE7XqQcREq6VfHLgyPu5ZDebeWB7mRCy58BHUvymC',
+    previewUrl: 'QmREqh9pg6qVvfZLkWLS4Ps6hH7pGbo1NgapCPgur7RyAD',
+    ipfsUrl: 'QmR2BZE7XqQcREq6VfHLgyPu5ZDebeWB7mRCy58BHUvymC',
     attributes: [
       {
         trait_type: 'back',
@@ -13635,7 +13938,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmda2oaJXQDAb5vY4j6kmugDELtPU4tpVzfv1Zja7YnuZD',
+    previewUrl: 'QmeChoeKD9pv1VgkJu1cWQvY9T9b83vgZ2Ju6YUFpQhL8D',
+    ipfsUrl: 'Qmda2oaJXQDAb5vY4j6kmugDELtPU4tpVzfv1Zja7YnuZD',
     attributes: [
       {
         trait_type: 'back',
@@ -13680,7 +13984,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmd4p6NXGqgw2tvMkwznf2DPtodpRo8xbLzdMD49gCvPJF',
+    previewUrl: 'QmZrpAKRhH9uQqRU3y9e2Se2dxvEqQTAQYFEdnMy7nGb3M',
+    ipfsUrl: 'Qmd4p6NXGqgw2tvMkwznf2DPtodpRo8xbLzdMD49gCvPJF',
     attributes: [
       {
         trait_type: 'back',
@@ -13725,7 +14030,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPAUkUn3qiwv44bZL9HvpmpySG6yPS1N6wMS5Z6ZtynfG',
+    previewUrl: 'QmVYvmznG2ufCHd9Le7YwtkyBRGZpMNighGCUcVESs3rae',
+    ipfsUrl: 'QmPAUkUn3qiwv44bZL9HvpmpySG6yPS1N6wMS5Z6ZtynfG',
     attributes: [
       {
         trait_type: 'back',
@@ -13770,7 +14076,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfP9AfFfGoSFdsHZ4sj8SqMUXMjiVZSiDKBcgMea75RXn',
+    previewUrl: 'QmQCZK9uP1LHQABDDcXr8PJ9h9K2g5r2qX7fa7CmnFxt4b',
+    ipfsUrl: 'QmfP9AfFfGoSFdsHZ4sj8SqMUXMjiVZSiDKBcgMea75RXn',
     attributes: [
       {
         trait_type: 'back',
@@ -13815,7 +14122,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ9L7AsjkhJjMHQFiFmqWC2ZVkKSwsFXbarwKLhRGc4bT',
+    previewUrl: 'QmdNnuxnwJAUinQnP8FripzZycpPzzVfsineFNbt95VHC1',
+    ipfsUrl: 'QmZ9L7AsjkhJjMHQFiFmqWC2ZVkKSwsFXbarwKLhRGc4bT',
     attributes: [
       {
         trait_type: 'back',
@@ -13860,7 +14168,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcB4d5WThxa3pyyQTFjr1JwFHV8RPPNZqLzBnsZMLXYqY',
+    previewUrl: 'QmeFBSwbfKDo8h2gw5Wq3PPT1rD9GUYggknpi4vxQ5f47V',
+    ipfsUrl: 'QmcB4d5WThxa3pyyQTFjr1JwFHV8RPPNZqLzBnsZMLXYqY',
     attributes: [
       {
         trait_type: 'back',
@@ -13905,7 +14214,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVyUrWjCQpz19RULPjozbwiFbFHHHDgXQAfdNhVNCp1tm',
+    previewUrl: 'QmZwQfA2XP49DF1ZdFiWas5ezsSrr96zhzmAYjRRZCjma6',
+    ipfsUrl: 'QmVyUrWjCQpz19RULPjozbwiFbFHHHDgXQAfdNhVNCp1tm',
     attributes: [
       {
         trait_type: 'back',
@@ -13950,7 +14260,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbNxgtuW42j6BLdhSRSfxo4che4z6mQi1odMkd3DBeW7M',
+    previewUrl: 'Qmakgp3y7Pyry4D8ePUoWu8ZTL64QURzvrctudbdo51S4L',
+    ipfsUrl: 'QmbNxgtuW42j6BLdhSRSfxo4che4z6mQi1odMkd3DBeW7M',
     attributes: [
       {
         trait_type: 'back',
@@ -13995,7 +14306,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVdqoXNjUehWKrRmPSY7oHEdhtacQrqVBAGLFtEykp7St',
+    previewUrl: 'QmTMmRLfJxi1zUaTeMDtSHVnJgySoefHP6L599A8drhQj2',
+    ipfsUrl: 'QmVdqoXNjUehWKrRmPSY7oHEdhtacQrqVBAGLFtEykp7St',
     attributes: [
       {
         trait_type: 'back',
@@ -14040,7 +14352,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXuurii4FT8K1LDzXhWCtaqmp5Pa3QQPpWT6WjjP3aJqy',
+    previewUrl: 'QmYrEnNWCy8fe6Gu5LNLyYZ4xQbAYK1cNTSttFsRY2h6XF',
+    ipfsUrl: 'QmXuurii4FT8K1LDzXhWCtaqmp5Pa3QQPpWT6WjjP3aJqy',
     attributes: [
       {
         trait_type: 'back',
@@ -14085,7 +14398,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdxQWrvGBCoHR8pXNUGsyQCoXnMAbcTWzDyDncoHqmzbh',
+    previewUrl: 'QmXu2BzHXotdAuj9DrmWQe7UKbGuNfCu59b7DP6b6rwCHe',
+    ipfsUrl: 'QmdxQWrvGBCoHR8pXNUGsyQCoXnMAbcTWzDyDncoHqmzbh',
     attributes: [
       {
         trait_type: 'back',
@@ -14130,7 +14444,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNgqiC9Vx9E6zeEHns5oogeKTodN6VbEJG1yTRwJeLPTc',
+    previewUrl: 'QmZFYWBpwEkBL6eigZ5iANm4im87EX595B8bYwmqMVTJko',
+    ipfsUrl: 'QmNgqiC9Vx9E6zeEHns5oogeKTodN6VbEJG1yTRwJeLPTc',
     attributes: [
       {
         trait_type: 'back',
@@ -14175,7 +14490,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeSYrgUYnq24bqKH7bevzWr4tBZiLpjukZVQxKQ1spQ9F',
+    previewUrl: 'Qmb4U5zY6ToXK8bBXSuaHqPoFLDCjoH8phhh6Fv3jiYe7a',
+    ipfsUrl: 'QmeSYrgUYnq24bqKH7bevzWr4tBZiLpjukZVQxKQ1spQ9F',
     attributes: [
       {
         trait_type: 'back',
@@ -14220,7 +14536,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPeEbAmDCATU2QoxigTqYWaM2DsLjG77ZdTWRjRpCYdXK',
+    previewUrl: 'QmVHZP12UWoUi4nkt6HSe134dnvawroVKR2zJFLe3dPmcG',
+    ipfsUrl: 'QmPeEbAmDCATU2QoxigTqYWaM2DsLjG77ZdTWRjRpCYdXK',
     attributes: [
       {
         trait_type: 'back',
@@ -14265,7 +14582,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV3JwAGZWTDmkpY1tYpQqbfcHCbA64heRggCqZxQGMM18',
+    previewUrl: 'QmTzt2Jw2kHyX62DVYHPihHofgQCj4PkRarUYaBqTCkM1P',
+    ipfsUrl: 'QmV3JwAGZWTDmkpY1tYpQqbfcHCbA64heRggCqZxQGMM18',
     attributes: [
       {
         trait_type: 'back',
@@ -14310,7 +14628,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV2854iGxsW4BnnUNg4fBbyEh4CKrv5CZn3md7LVEncm3',
+    previewUrl: 'QmXj1BzxZ4nBRYq1Jbq3HSRfXp6yuWeiApCyzWx1eq1TLE',
+    ipfsUrl: 'QmV2854iGxsW4BnnUNg4fBbyEh4CKrv5CZn3md7LVEncm3',
     attributes: [
       {
         trait_type: 'back',
@@ -14355,7 +14674,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXSXnkSF6a1a1wC59oHyVpKKsmQxgeWayknBkafyDmYci',
+    previewUrl: 'QmTGUr5hporNTuiX83c5CNZaYNz9Mdh8diWyR1zUzf9bwx',
+    ipfsUrl: 'QmXSXnkSF6a1a1wC59oHyVpKKsmQxgeWayknBkafyDmYci',
     attributes: [
       {
         trait_type: 'back',
@@ -14400,7 +14720,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWcpBnmTKkak6dt9s4ZGVe4NERDqWCzhCcDLiaCgaT6hX',
+    previewUrl: 'QmNkFA2GcY8Y3yN6qyEmVWJDci4hEmkPZFQ2Ad5TdDCof5',
+    ipfsUrl: 'QmWcpBnmTKkak6dt9s4ZGVe4NERDqWCzhCcDLiaCgaT6hX',
     attributes: [
       {
         trait_type: 'back',
@@ -14445,7 +14766,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmS71Er7eYNXhoJmdvPuc8JSk2Gj6XbQ6AttWjFR5BSytb',
+    previewUrl: 'QmfSnKSWr53P7PU4Kvt9bNbgzZqieUJy7Xt2hAnr4xBdYt',
+    ipfsUrl: 'QmS71Er7eYNXhoJmdvPuc8JSk2Gj6XbQ6AttWjFR5BSytb',
     attributes: [
       {
         trait_type: 'back',
@@ -14490,7 +14812,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT3zau6h3567sV2urgL5ooB86cFGZYdC2LNjrKp2LPYR4',
+    previewUrl: 'QmPk4SQoXFCyzcMpoPuVeBn9rWx2javLTU6azNZEAV62Tg',
+    ipfsUrl: 'QmT3zau6h3567sV2urgL5ooB86cFGZYdC2LNjrKp2LPYR4',
     attributes: [
       {
         trait_type: 'back',
@@ -14535,7 +14858,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qme6ptDELqQLNSN2y295tRbeFBTPcCpBmoYjZnFn14ttHV',
+    previewUrl: 'Qmd187XxiMiXkrCGrW89wWper6RrnJiiBhtykkpKgzyJAk',
+    ipfsUrl: 'Qme6ptDELqQLNSN2y295tRbeFBTPcCpBmoYjZnFn14ttHV',
     attributes: [
       {
         trait_type: 'back',
@@ -14580,7 +14904,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaT4YDLeSuykyfieJkG2VZzcUZwi9G4robtaL45WNRMY4',
+    previewUrl: 'QmSo463d6ymq47BWUye3nokRAz4a8jbMBHWe2RDB4S24hq',
+    ipfsUrl: 'QmaT4YDLeSuykyfieJkG2VZzcUZwi9G4robtaL45WNRMY4',
     attributes: [
       {
         trait_type: 'back',
@@ -14625,7 +14950,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ7DKTxDrNPet2Qbim8nRarwABk4NNpapHKd9rxNd1VNK',
+    previewUrl: 'QmRbGouL1b78FdnhPEin22WxWJ1VC8JqrBWWNG2mxroPsk',
+    ipfsUrl: 'QmZ7DKTxDrNPet2Qbim8nRarwABk4NNpapHKd9rxNd1VNK',
     attributes: [
       {
         trait_type: 'back',
@@ -14670,7 +14996,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVsmwEsuH1EMpNNFVTXuXME1g7XnTVX9KVZnFyRu4ZSHz',
+    previewUrl: 'QmQkVDZihwfwHN7chzfVxCysskJTLgFnC5nXF17e9mKMMp',
+    ipfsUrl: 'QmVsmwEsuH1EMpNNFVTXuXME1g7XnTVX9KVZnFyRu4ZSHz',
     attributes: [
       {
         trait_type: 'back',
@@ -14715,7 +15042,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZfE8HPoeLvzeDvp4AkPKgmyyS7yAkBjH5Q3yKvJ4hABm',
+    previewUrl: 'QmQ4tv8mWyS7xZqmx7M4iS6jURmqvpYEJr6ARMoKwjvchL',
+    ipfsUrl: 'QmZfE8HPoeLvzeDvp4AkPKgmyyS7yAkBjH5Q3yKvJ4hABm',
     attributes: [
       {
         trait_type: 'back',
@@ -14760,7 +15088,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmcca8GyHW32nQdo3hZKUD1wne3uWSDvTh3aM52xVonTcr',
+    previewUrl: 'QmaZQKfo6s4T3n3cubbjYHDFCBGJDXUMeR4KGCEiMvnPne',
+    ipfsUrl: 'Qmcca8GyHW32nQdo3hZKUD1wne3uWSDvTh3aM52xVonTcr',
     attributes: [
       {
         trait_type: 'back',
@@ -14805,7 +15134,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXPgDcnhDB2i2mgrzR4h3p1YQgbX8XEuFD9Npgt3BLGJC',
+    previewUrl: 'QmZJuaLwD1ounCDwWWLzBZ2dcMdS9rqga3cnXw98A3v2AS',
+    ipfsUrl: 'QmXPgDcnhDB2i2mgrzR4h3p1YQgbX8XEuFD9Npgt3BLGJC',
     attributes: [
       {
         trait_type: 'back',
@@ -14850,7 +15180,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYbx2eNpr3AgyV88BZShd1yYYnrKQ5XEt92VVTatPVRGn',
+    previewUrl: 'QmQVod8Ec42USmp4mwjKLc1inD6GafhdKYFZoHWxRoAHCR',
+    ipfsUrl: 'QmYbx2eNpr3AgyV88BZShd1yYYnrKQ5XEt92VVTatPVRGn',
     attributes: [
       {
         trait_type: 'back',
@@ -14895,7 +15226,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPjTU4FUnTRQVR1yjGsj9FtHobkLWLtpRqxVESwipF36J',
+    previewUrl: 'QmTQxPEQhsqGb4MLuEHsdxELUQkj1AhWKTs9bXpBygsDds',
+    ipfsUrl: 'QmPjTU4FUnTRQVR1yjGsj9FtHobkLWLtpRqxVESwipF36J',
     attributes: [
       {
         trait_type: 'back',
@@ -14940,7 +15272,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRjkAKXjBMyTzWEha56TMD69WMGnDTxVrKMQtoWekLVEp',
+    previewUrl: 'QmaSMXMqqYAYp1NdaMLrSkrA8X5LiyVcBi8o7y3iPywPFJ',
+    ipfsUrl: 'QmRjkAKXjBMyTzWEha56TMD69WMGnDTxVrKMQtoWekLVEp',
     attributes: [
       {
         trait_type: 'back',
@@ -14985,7 +15318,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmb5ChWWkAtXq27vv4kXUJdeNS7SjnfGDtT3uExom99BEU',
+    previewUrl: 'Qmf3dwUzPkE8LUPK9Mbt9nD3WSeeahhdpzAnhUKBWwZPX3',
+    ipfsUrl: 'Qmb5ChWWkAtXq27vv4kXUJdeNS7SjnfGDtT3uExom99BEU',
     attributes: [
       {
         trait_type: 'back',
@@ -15030,7 +15364,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ2Xbc6N7cUy44aVUitpF7RyJjdWpbBmww5hn26vH1REH',
+    previewUrl: 'QmeQHjQqpouLnKvJ1jxH5xEmGGrX5bFNFUENC7NcvRqm9h',
+    ipfsUrl: 'QmZ2Xbc6N7cUy44aVUitpF7RyJjdWpbBmww5hn26vH1REH',
     attributes: [
       {
         trait_type: 'back',
@@ -15075,7 +15410,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQtH9Yx5nfeJb7UycBGJdvYJ9PUAr3zBaup2z9PQkr9G4',
+    previewUrl: 'QmQPBSXq9t9mR62v8F4cKVZ6kpWCUBz1zNFjNNBkHmwaTZ',
+    ipfsUrl: 'QmQtH9Yx5nfeJb7UycBGJdvYJ9PUAr3zBaup2z9PQkr9G4',
     attributes: [
       {
         trait_type: 'back',
@@ -15120,7 +15456,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmavGqMDxiHSWZi5zPEaxmZwLmrdNCyEiqbcpTyuBGCsnt',
+    previewUrl: 'QmPN7Jirj5atRQr1xjQ5Qsh6hipxnxJVze7L3jrvWSrsUU',
+    ipfsUrl: 'QmavGqMDxiHSWZi5zPEaxmZwLmrdNCyEiqbcpTyuBGCsnt',
     attributes: [
       {
         trait_type: 'back',
@@ -15165,7 +15502,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSNPf5JcrxwjP6pMyct4iihEL9VvwimBb4UgN4tNotD1R',
+    previewUrl: 'QmSPkdExZFq7zfmZZ77udrgAomH8CJgnFuw9MCZrjgrxpi',
+    ipfsUrl: 'QmSNPf5JcrxwjP6pMyct4iihEL9VvwimBb4UgN4tNotD1R',
     attributes: [
       {
         trait_type: 'back',
@@ -15210,7 +15548,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNvkD6CbNZ7EHbvcLngyDPT6K5c4jcvw2tkfwKoNjsKEg',
+    previewUrl: 'QmVjoTunCypjMcQnoh6KBWbPFEyBgH2Vh62UGQEutZq2ge',
+    ipfsUrl: 'QmNvkD6CbNZ7EHbvcLngyDPT6K5c4jcvw2tkfwKoNjsKEg',
     attributes: [
       {
         trait_type: 'back',
@@ -15255,7 +15594,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSrEm7R3whqYGZJ3e2f3P4SUqj1AJSAbST1hqwW4wxeuW',
+    previewUrl: 'QmQL1TLcJ2jFS5o4YNGbeYfmf8kbQ5tVNvxpeQvJaS5mmA',
+    ipfsUrl: 'QmSrEm7R3whqYGZJ3e2f3P4SUqj1AJSAbST1hqwW4wxeuW',
     attributes: [
       {
         trait_type: 'back',
@@ -15300,7 +15640,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdxfBgHnu4bNruM7abmNRHXq8t9CsYao412hJ8hfQK3jm',
+    previewUrl: 'QmZACAPvkSN6vMmR1PoL2Kpp9rm6DWjZgSvzCqxLGVG8h1',
+    ipfsUrl: 'QmdxfBgHnu4bNruM7abmNRHXq8t9CsYao412hJ8hfQK3jm',
     attributes: [
       {
         trait_type: 'back',
@@ -15345,7 +15686,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZgYWL9g6nai4m8YHoGFoSbRn1bUpXHsA8uyYciJSXVqm',
+    previewUrl: 'QmRh6N8nALuFtbLNWXRdttvpsmEMjXbiad1iM6MoFSyhBV',
+    ipfsUrl: 'QmZgYWL9g6nai4m8YHoGFoSbRn1bUpXHsA8uyYciJSXVqm',
     attributes: [
       {
         trait_type: 'back',
@@ -15390,7 +15732,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmf8txnLTFWQGhrHoPdgnbfpR7dfEZVGC2zHgYCZHVYvxU',
+    previewUrl: 'QmPY9W2dygQmWivemqQG1b6rQMJ5uTvbaiGK6dwkU75yGj',
+    ipfsUrl: 'Qmf8txnLTFWQGhrHoPdgnbfpR7dfEZVGC2zHgYCZHVYvxU',
     attributes: [
       {
         trait_type: 'back',
@@ -15435,7 +15778,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQaKH9ZG1GCdjsC2Xac4Y5to7RV98EJCL7qkndbi7Wrrt',
+    previewUrl: 'Qma2uHg2mkuzaKCfnaen4MUJhaZJA2iDB23A7AgpeZ2asr',
+    ipfsUrl: 'QmQaKH9ZG1GCdjsC2Xac4Y5to7RV98EJCL7qkndbi7Wrrt',
     attributes: [
       {
         trait_type: 'back',
@@ -15480,7 +15824,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmd5oYQdeQ4EYQnAdGjtgVr9QBkRRwMQdZwdPVZNx8XHAi',
+    previewUrl: 'QmWZ2mtTtsDLBPEZdLwpvo9rZRPvu25unNr8gcmW6M5yyL',
+    ipfsUrl: 'Qmd5oYQdeQ4EYQnAdGjtgVr9QBkRRwMQdZwdPVZNx8XHAi',
     attributes: [
       {
         trait_type: 'back',
@@ -15525,7 +15870,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbA3xk6g8taMkVCzyULvQmL4HAfw2sZYvMSCrLyyqnfkm',
+    previewUrl: 'QmSksHJBu2n1apNRH1NL4i4CeXZz7gP64CcDtbp3QCBnaY',
+    ipfsUrl: 'QmbA3xk6g8taMkVCzyULvQmL4HAfw2sZYvMSCrLyyqnfkm',
     attributes: [
       {
         trait_type: 'back',
@@ -15570,7 +15916,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbuyVBkzv9NHVyYBG8N1jABB5hLr8bxf8sP7tX4f7E2kZ',
+    previewUrl: 'QmSPrsCZ1vTWfSsMrcrJBgdt62tzN1xNSmKC4PQweTN9JW',
+    ipfsUrl: 'QmbuyVBkzv9NHVyYBG8N1jABB5hLr8bxf8sP7tX4f7E2kZ',
     attributes: [
       {
         trait_type: 'back',
@@ -15615,7 +15962,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUaQeWNbNL695ximUWSzfxNt7XoZ5KEkdhXjbN3a7GA9d',
+    previewUrl: 'QmWECErCHX2us8gvsxQJ3CNzhqcBDYEr74FYiSnJnDPjBY',
+    ipfsUrl: 'QmUaQeWNbNL695ximUWSzfxNt7XoZ5KEkdhXjbN3a7GA9d',
     attributes: [
       {
         trait_type: 'back',
@@ -15660,7 +16008,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV3qQZHHVkYPJ6MoZRVNXXaGhiFT4zyq7ArgLKugRaaE6',
+    previewUrl: 'QmZFYRbCebL4qPHV3AiabGHXX6MsFrQhd1R3hYEV9Gnh7e',
+    ipfsUrl: 'QmV3qQZHHVkYPJ6MoZRVNXXaGhiFT4zyq7ArgLKugRaaE6',
     attributes: [
       {
         trait_type: 'back',
@@ -15705,7 +16054,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQ6VhF2YHjo11n3mL3wap7PL4WTGzzrPYw2eutkrXP5Wg',
+    previewUrl: 'QmWLWkURokLx7Pzgq4QZsBYLBKsFrgL5dAxYzj24kwHJUH',
+    ipfsUrl: 'QmQ6VhF2YHjo11n3mL3wap7PL4WTGzzrPYw2eutkrXP5Wg',
     attributes: [
       {
         trait_type: 'back',
@@ -15750,7 +16100,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPRDmxDPLha6rAz2rD4FG7Fhr5b3r4ps67pQKnQGkx45C',
+    previewUrl: 'QmSeZYLz7ee8Qx3KDccXRUdqrtawRAYba4X7iimasG4n7D',
+    ipfsUrl: 'QmPRDmxDPLha6rAz2rD4FG7Fhr5b3r4ps67pQKnQGkx45C',
     attributes: [
       {
         trait_type: 'back',
@@ -15795,7 +16146,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmbe15WBBNUE6GP4RHT2yHmaXdCt8YKHNWe5rfVx5NQPsJ',
+    previewUrl: 'QmQKxU9HqVFmuwDVZ4Q989e5rgnk6k7ifgCQueaMKeJ1nu',
+    ipfsUrl: 'Qmbe15WBBNUE6GP4RHT2yHmaXdCt8YKHNWe5rfVx5NQPsJ',
     attributes: [
       {
         trait_type: 'back',
@@ -15840,7 +16192,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSUHPsqxqvpHfrp9eg3HVpWGm8Gnsoa8D9nn87bvDYG4U',
+    previewUrl: 'QmNzFAVb9dFAidGnVDwzVT6SH7wyVz3YxNhCXXMuMvmMUx',
+    ipfsUrl: 'QmSUHPsqxqvpHfrp9eg3HVpWGm8Gnsoa8D9nn87bvDYG4U',
     attributes: [
       {
         trait_type: 'back',
@@ -15885,7 +16238,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZTA23QQTcRy3RwNf1Xi5gWTMqF5m4CNYwtSoMqgbkWsK',
+    previewUrl: 'QmaFQ4ycbqND9A7AeqQp2FZGCcXtBKyduAWym8PDdtLKs7',
+    ipfsUrl: 'QmZTA23QQTcRy3RwNf1Xi5gWTMqF5m4CNYwtSoMqgbkWsK',
     attributes: [
       {
         trait_type: 'back',
@@ -15930,7 +16284,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZVJUj66Mh1TA444p6pEc5WAU91oWBw8k5N8HNaNbmua4',
+    previewUrl: 'QmeRng1TqGdtAGAugaMCbSMujHNA4kParR5EAwUF6oxzeY',
+    ipfsUrl: 'QmZVJUj66Mh1TA444p6pEc5WAU91oWBw8k5N8HNaNbmua4',
     attributes: [
       {
         trait_type: 'back',
@@ -15975,7 +16330,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQ7XyPrQ2SFqjEQgc7LyvKDK4Y4Hp4QDVcK65wjk5F9JT',
+    previewUrl: 'QmVqe1TDPSHs5yVPSb93smzyiqfmjRVPQ6772Jjq9TZKse',
+    ipfsUrl: 'QmQ7XyPrQ2SFqjEQgc7LyvKDK4Y4Hp4QDVcK65wjk5F9JT',
     attributes: [
       {
         trait_type: 'back',
@@ -16020,7 +16376,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcvKBB7WUDfAndndMKSyG2EXT1UByLmiDvj4bFjcmXTM9',
+    previewUrl: 'QmZRxMM6fWBDQSzVWXUs3JSjreTUSnSDczGXz3JFBVVKCU',
+    ipfsUrl: 'QmcvKBB7WUDfAndndMKSyG2EXT1UByLmiDvj4bFjcmXTM9',
     attributes: [
       {
         trait_type: 'back',
@@ -16065,7 +16422,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmdw5x4MSEs2fty5LnuskkY5Ms2fbAUkR8ZkFQoB29Cacc',
+    previewUrl: 'QmNXyaep6dSqq5APhDck8vfnvmgdXk7h3ocZtgk9JB5w6N',
+    ipfsUrl: 'Qmdw5x4MSEs2fty5LnuskkY5Ms2fbAUkR8ZkFQoB29Cacc',
     attributes: [
       {
         trait_type: 'back',
@@ -16110,7 +16468,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdSPtTGgEEaBabprkjxWmdK2N5b6Qa6o9a9cuoyMvSH7h',
+    previewUrl: 'QmSzgKFpTnJNWyZxHRvfTMaAWx3WNavW6hSLQiJp4MwLzn',
+    ipfsUrl: 'QmdSPtTGgEEaBabprkjxWmdK2N5b6Qa6o9a9cuoyMvSH7h',
     attributes: [
       {
         trait_type: 'back',
@@ -16155,7 +16514,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNeWLQKTTvRs8YUi9iGoyeapXbAiiXJbfsZte32afEcPL',
+    previewUrl: 'QmWV8VhVie9s75xJGcTZznzJSUHJdtVCcugwc9oiXXXVht',
+    ipfsUrl: 'QmNeWLQKTTvRs8YUi9iGoyeapXbAiiXJbfsZte32afEcPL',
     attributes: [
       {
         trait_type: 'back',
@@ -16200,7 +16560,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVv4smK2poyrFGUY2zZS4a9E26SW8hM1TbTZhS484GPYC',
+    previewUrl: 'QmTrj3KfjFQyGeoPV8f7AeFa9Eq6B8Gi96DBMojznHv7LN',
+    ipfsUrl: 'QmVv4smK2poyrFGUY2zZS4a9E26SW8hM1TbTZhS484GPYC',
     attributes: [
       {
         trait_type: 'back',
@@ -16245,7 +16606,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRFuJxv5E1KQczAUUjTt6GQsLag5YJAHN1V7BEwYewD54',
+    previewUrl: 'QmY8pYcM1s5XD17C1FqiZcjJwozK2MQdFxkZ7s3X5zDmm9',
+    ipfsUrl: 'QmRFuJxv5E1KQczAUUjTt6GQsLag5YJAHN1V7BEwYewD54',
     attributes: [
       {
         trait_type: 'back',
@@ -16290,7 +16652,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmegZpz1ySo9mB3dCCt9ddML65fvjkn5Q9tDq1a832nDFk',
+    previewUrl: 'QmXvsuqrY98diWu3aEZL6Ysx7zLng6LnSLfoBfABYfSUWq',
+    ipfsUrl: 'QmegZpz1ySo9mB3dCCt9ddML65fvjkn5Q9tDq1a832nDFk',
     attributes: [
       {
         trait_type: 'back',
@@ -16335,7 +16698,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaquuQGHtRPnEB3tBRnXyGfGyTn8Jc6AVdEtNmSEPoB9K',
+    previewUrl: 'QmerJRmhZdDgs5yFLFxtgBV1S5iwQuZECMNRryFHkJ6mTt',
+    ipfsUrl: 'QmaquuQGHtRPnEB3tBRnXyGfGyTn8Jc6AVdEtNmSEPoB9K',
     attributes: [
       {
         trait_type: 'back',
@@ -16380,7 +16744,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeastXxd1xu2zyPgtC2y1fxVUDG8Xaxk261LuGsxV1nhf',
+    previewUrl: 'QmWAW74z1J2RHqkJRnNErL8NkpY4r2SoacFTpmjqqNeiEM',
+    ipfsUrl: 'QmeastXxd1xu2zyPgtC2y1fxVUDG8Xaxk261LuGsxV1nhf',
     attributes: [
       {
         trait_type: 'back',
@@ -16425,7 +16790,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW2o4Z2KPkXggV7fYjMVFfdbPnHsTamT7uGu1r52rnULT',
+    previewUrl: 'Qmd2nZNK6UhbGg9xqRoUp13o3Q7nzjh1UuHHLiJjjt65yC',
+    ipfsUrl: 'QmW2o4Z2KPkXggV7fYjMVFfdbPnHsTamT7uGu1r52rnULT',
     attributes: [
       {
         trait_type: 'back',
@@ -16470,7 +16836,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUTXvZyKRGv1xWmjHiDZe3cRFsRH3dHHSdZbesYP6xKN6',
+    previewUrl: 'QmS2pNmKmvERPPFBdnB8T5x7H4woA8QEBxgTGXBok4CBhd',
+    ipfsUrl: 'QmUTXvZyKRGv1xWmjHiDZe3cRFsRH3dHHSdZbesYP6xKN6',
     attributes: [
       {
         trait_type: 'back',
@@ -16515,7 +16882,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPLSo1HAwZJfizvHGFh4GGLVX2jQ1WVSpZnCP7X7f7iY5',
+    previewUrl: 'QmW3SvshySw8KpyfBGq55pkd4unJexYj2zBfMKHL1ZVxMe',
+    ipfsUrl: 'QmPLSo1HAwZJfizvHGFh4GGLVX2jQ1WVSpZnCP7X7f7iY5',
     attributes: [
       {
         trait_type: 'back',
@@ -16560,7 +16928,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSiYkky9TVYGkMZbrRBktUQDcNd3UmL1vobwxcK4VnN1A',
+    previewUrl: 'QmZqaiuPCSZLHaqVe8YSEkDFbdNQutH4gxAErkeqiHUKrg',
+    ipfsUrl: 'QmSiYkky9TVYGkMZbrRBktUQDcNd3UmL1vobwxcK4VnN1A',
     attributes: [
       {
         trait_type: 'back',
@@ -16605,7 +16974,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWaZgMKPejQCo9aPmk1M7RtT4hYwiNNX6VrcsuPTb9NWt',
+    previewUrl: 'QmRgq1cmH4oEy9trc78CUg1PCjx6TWt1xfsmjPHjGWRM4N',
+    ipfsUrl: 'QmWaZgMKPejQCo9aPmk1M7RtT4hYwiNNX6VrcsuPTb9NWt',
     attributes: [
       {
         trait_type: 'back',
@@ -16650,7 +17020,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qma6qiVUr8xyEvYiFsHaFd3hgmtmK68DCRiM42NdmUCgGs',
+    previewUrl: 'QmaWdBWEfrDf7d94DEAoAYQQmNjzYffyiVu9BiEaTpVz2U',
+    ipfsUrl: 'Qma6qiVUr8xyEvYiFsHaFd3hgmtmK68DCRiM42NdmUCgGs',
     attributes: [
       {
         trait_type: 'back',
@@ -16695,7 +17066,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSogg79KWoZmJzLqzhB2WcpN8ckYVUz5qcAYWXU5LThRs',
+    previewUrl: 'QmcA2JL7pnMtGKfGCTrjyjpCuaLEHB6DkvF23kumh8VzWc',
+    ipfsUrl: 'QmSogg79KWoZmJzLqzhB2WcpN8ckYVUz5qcAYWXU5LThRs',
     attributes: [
       {
         trait_type: 'back',
@@ -16740,7 +17112,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYoBQJxYXdqJC6nnzFiPrczNDt3xEVG8NPQE2GgpHj4Aq',
+    previewUrl: 'QmWvypx8KiK6kMn1KZAB2pjffnzHNLLA2NuztEY8xn3yLW',
+    ipfsUrl: 'QmYoBQJxYXdqJC6nnzFiPrczNDt3xEVG8NPQE2GgpHj4Aq',
     attributes: [
       {
         trait_type: 'back',
@@ -16785,7 +17158,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXmnPvRBCynitRdaEdrqjidaABm5xaCAPk9Z2y1oicjQN',
+    previewUrl: 'QmX2QohzeE6vFd6tWKuGjKKJfoCe7FzKNZ5chKCFUyPVpG',
+    ipfsUrl: 'QmXmnPvRBCynitRdaEdrqjidaABm5xaCAPk9Z2y1oicjQN',
     attributes: [
       {
         trait_type: 'back',
@@ -16830,7 +17204,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTDa9nQEtTmt9uYu3JsiAPFSpL6cKkMbtKJcrBJyHmdtq',
+    previewUrl: 'QmWfiLaZgMkrFVkWZeCyGAueNhS3kgWgyjbDZGwtQRACHx',
+    ipfsUrl: 'QmTDa9nQEtTmt9uYu3JsiAPFSpL6cKkMbtKJcrBJyHmdtq',
     attributes: [
       {
         trait_type: 'back',
@@ -16875,7 +17250,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcSbofQRgari8yJbtTB9ABE7ujzfa3E1KPWFZ8Wd6tLhJ',
+    previewUrl: 'Qmd6kH3N7Z3KVCs4rkJwhXJ9HqmGFQuKDnPGCmHQb1uQZy',
+    ipfsUrl: 'QmcSbofQRgari8yJbtTB9ABE7ujzfa3E1KPWFZ8Wd6tLhJ',
     attributes: [
       {
         trait_type: 'back',
@@ -16920,7 +17296,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYtSMPyqzjEeR7PEpkXH6pF382soKkYNdWkAnA6sucBLZ',
+    previewUrl: 'QmUsR9xaFinFongDLYK81EFrHLTmPaRedQ2esAoj3RhsnH',
+    ipfsUrl: 'QmYtSMPyqzjEeR7PEpkXH6pF382soKkYNdWkAnA6sucBLZ',
     attributes: [
       {
         trait_type: 'back',
@@ -16965,7 +17342,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcN6ruJTRVKDPQATMRAGeXizkRtLSbj5oL2fizdWGs9VQ',
+    previewUrl: 'QmQw5cP58VU2bDR8UdAqPsbSjx4UiFRbzwK9KBdRHYnkdy',
+    ipfsUrl: 'QmcN6ruJTRVKDPQATMRAGeXizkRtLSbj5oL2fizdWGs9VQ',
     attributes: [
       {
         trait_type: 'back',
@@ -17010,7 +17388,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXudvPNiH2gDSKtHVd3pPyTyDAQ1h6mLEPF6hvS9DAgv2',
+    previewUrl: 'Qma5mCUrCoac3yLv39mXr6NSUdgJ2fe6C1hMW5foLP53cA',
+    ipfsUrl: 'QmXudvPNiH2gDSKtHVd3pPyTyDAQ1h6mLEPF6hvS9DAgv2',
     attributes: [
       {
         trait_type: 'back',
@@ -17055,7 +17434,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUDW62UJu9miRhjDEHgh6tzX8vECfpZGnC4h92MMHab7u',
+    previewUrl: 'QmUYFqmW9z7GjkFxANWmUQYkVoYZeKQWKpdvyJN6mRXERX',
+    ipfsUrl: 'QmUDW62UJu9miRhjDEHgh6tzX8vECfpZGnC4h92MMHab7u',
     attributes: [
       {
         trait_type: 'back',
@@ -17100,7 +17480,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRAaDZrLmojtgJ6T2gjeLAEnEqqbFZP3d9x4PjjNHQ4Bo',
+    previewUrl: 'QmQhvQRomCfZMraxGBqHBMvQt3Vnj9Ly9buqKUyFBuRQPp',
+    ipfsUrl: 'QmRAaDZrLmojtgJ6T2gjeLAEnEqqbFZP3d9x4PjjNHQ4Bo',
     attributes: [
       {
         trait_type: 'back',
@@ -17145,7 +17526,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX1TgXHn8sp5SKMeJrwFUSJXWDQbymR1X4invnKk1kKDP',
+    previewUrl: 'QmQg3m3STHMJ4q1Fu5pRoEN6SoyWYbNbUU1FQi2btNyQLf',
+    ipfsUrl: 'QmX1TgXHn8sp5SKMeJrwFUSJXWDQbymR1X4invnKk1kKDP',
     attributes: [
       {
         trait_type: 'back',
@@ -17190,7 +17572,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPQfwSRgoFhp9hUrExZ36RBfsoizvLMxJJzGYzvW8FB4z',
+    previewUrl: 'QmNssqb4TLXPPvdbPxwpAndrZaL7Y2RtDAGZMozW8E77An',
+    ipfsUrl: 'QmPQfwSRgoFhp9hUrExZ36RBfsoizvLMxJJzGYzvW8FB4z',
     attributes: [
       {
         trait_type: 'back',
@@ -17235,7 +17618,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYWNiQBCx17jkhvaWsR3abDGoFaoXtArHL5YWXR6PK16w',
+    previewUrl: 'QmSBFfNTN3iaxeSPAoFRiGTvkfk8ZCJUXsW1j3P3eCD3rK',
+    ipfsUrl: 'QmYWNiQBCx17jkhvaWsR3abDGoFaoXtArHL5YWXR6PK16w',
     attributes: [
       {
         trait_type: 'back',
@@ -17280,7 +17664,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRCJW7zDokpf9JZv7w49fhbn3DDt37xDepsMyqM56qhoH',
+    previewUrl: 'QmNep2k79AjStSp4CwwUuaWpC1kBYTYj2xr52KmwkgSKoC',
+    ipfsUrl: 'QmRCJW7zDokpf9JZv7w49fhbn3DDt37xDepsMyqM56qhoH',
     attributes: [
       {
         trait_type: 'back',
@@ -17325,7 +17710,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZVhcxEKkT9jxNdv4yP8QgtS1K2F1Kv28ka2mtupMJhjB',
+    previewUrl: 'QmcVyjswGw28cXLoJwTD3sE74RoAwvfTV5eUkT5UAj7HNs',
+    ipfsUrl: 'QmZVhcxEKkT9jxNdv4yP8QgtS1K2F1Kv28ka2mtupMJhjB',
     attributes: [
       {
         trait_type: 'back',
@@ -17370,7 +17756,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXjGF5EJKJmXNf9xDe9A28YLtfCT17Xsy8QFrz8ThweWX',
+    previewUrl: 'QmZvMXGuQRistvWXGXGhQ2JBxbFeg6o1kcvJbUFeePijED',
+    ipfsUrl: 'QmXjGF5EJKJmXNf9xDe9A28YLtfCT17Xsy8QFrz8ThweWX',
     attributes: [
       {
         trait_type: 'back',
@@ -17415,7 +17802,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXxFyBuRKq3SF3b5KGCQehMhRjSc9BtLnWrzjGVEVioZS',
+    previewUrl: 'QmSgLqedPwCvrECCW4W6F95jCLKMyNrsF7BJ1Aju3GHWaZ',
+    ipfsUrl: 'QmXxFyBuRKq3SF3b5KGCQehMhRjSc9BtLnWrzjGVEVioZS',
     attributes: [
       {
         trait_type: 'back',
@@ -17460,7 +17848,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQkf4FcktaLKWNTnG28tyc8pDEWUbYpeZqMuJJbKcgYFJ',
+    previewUrl: 'QmQTY9hNyrK3sDp4ZK2a9Wx6rsDWA8kM5GEPSFm7KkacYK',
+    ipfsUrl: 'QmQkf4FcktaLKWNTnG28tyc8pDEWUbYpeZqMuJJbKcgYFJ',
     attributes: [
       {
         trait_type: 'back',
@@ -17505,7 +17894,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeHset5sGKN5qyY4MAq9XFLicERqsLy2EtxbSVaqZNmho',
+    previewUrl: 'QmTXeuiCVBVEYiEmSEjat1ohQUdJ491sM9DV2ktxhtDgFH',
+    ipfsUrl: 'QmeHset5sGKN5qyY4MAq9XFLicERqsLy2EtxbSVaqZNmho',
     attributes: [
       {
         trait_type: 'back',
@@ -17550,7 +17940,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUHxCXj9QPNjMAJQ6bsuUj5UEBz5pT5wJieFNp3SqyuDR',
+    previewUrl: 'QmSighjvrX8RpzJTvT7J7JC4F83t3uN6TvfTYw5a6kmPoe',
+    ipfsUrl: 'QmUHxCXj9QPNjMAJQ6bsuUj5UEBz5pT5wJieFNp3SqyuDR',
     attributes: [
       {
         trait_type: 'back',
@@ -17595,7 +17986,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX6QooHEjpymFCgziPG7U7Mt1MwdfKm6Z5WnhFMazaTsD',
+    previewUrl: 'QmYxGzKVa1Fv27fgp3CfftYRQXBdry2Rnb4rBWojk8kzUT',
+    ipfsUrl: 'QmX6QooHEjpymFCgziPG7U7Mt1MwdfKm6Z5WnhFMazaTsD',
     attributes: [
       {
         trait_type: 'back',
@@ -17640,7 +18032,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRQVNnB3JBRTWjJXrm2JEjtAJLrVwEnwbVDsLsiv8LiFk',
+    previewUrl: 'Qmbjx3uQyNw8McvN3RiSF2xbioFWPDkt5Sc4obHd1Wysg2',
+    ipfsUrl: 'QmRQVNnB3JBRTWjJXrm2JEjtAJLrVwEnwbVDsLsiv8LiFk',
     attributes: [
       {
         trait_type: 'back',
@@ -17685,7 +18078,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWgJNvVWk8LK1EUUyt1RQsdtF12QK1jfiRY45s3fKk6T2',
+    previewUrl: 'QmdLfs9FEAFxdPLsZi26dwsZ1e3B8VFoeSSxZViXATH7Zc',
+    ipfsUrl: 'QmWgJNvVWk8LK1EUUyt1RQsdtF12QK1jfiRY45s3fKk6T2',
     attributes: [
       {
         trait_type: 'back',
@@ -17730,7 +18124,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZsLzikLtLSXXLHRkrqbSpQ8u8GnXcnsRsztheLo7NgFW',
+    previewUrl: 'QmWGtd3RNUrkwdcg3WGeRTwtEJZ11TYT8wGvduVkhbvwkp',
+    ipfsUrl: 'QmZsLzikLtLSXXLHRkrqbSpQ8u8GnXcnsRsztheLo7NgFW',
     attributes: [
       {
         trait_type: 'back',
@@ -17775,7 +18170,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTx7Rn9BR648VyA7jGzJ7ywZmQnmrTC9ouKFHVpJ6CZ2t',
+    previewUrl: 'QmSjNYBHYpSY6dvJY3CwdJTpNfHyJZdYGb9qtUoghZmamZ',
+    ipfsUrl: 'QmTx7Rn9BR648VyA7jGzJ7ywZmQnmrTC9ouKFHVpJ6CZ2t',
     attributes: [
       {
         trait_type: 'back',
@@ -17820,7 +18216,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmawncs19BEGPnMGPy4BetJqxkD8Gv46nWnXyPezjVRKUW',
+    previewUrl: 'QmaFmGwAe1ZHN1MzcKhhy6iionH9jc4c9L84UYZmTYWCdP',
+    ipfsUrl: 'Qmawncs19BEGPnMGPy4BetJqxkD8Gv46nWnXyPezjVRKUW',
     attributes: [
       {
         trait_type: 'back',
@@ -17865,7 +18262,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWrHRdowqFk8iDNewCa3GerjRNbxsEwX2zPCvC372Nmvq',
+    previewUrl: 'Qmf9qMe2FeTAV1diABrUwCdg6tjVKQxB2Cydai1axhFQSQ',
+    ipfsUrl: 'QmWrHRdowqFk8iDNewCa3GerjRNbxsEwX2zPCvC372Nmvq',
     attributes: [
       {
         trait_type: 'back',
@@ -17910,7 +18308,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaRoM8PPpvXs3FWDb9EcXeTnidgZ6m9Fgymarkd34K28W',
+    previewUrl: 'QmSABUo1Ha5fjKFsxCEygfyxqdn4yrPG3sZxs3vA8WAsXx',
+    ipfsUrl: 'QmaRoM8PPpvXs3FWDb9EcXeTnidgZ6m9Fgymarkd34K28W',
     attributes: [
       {
         trait_type: 'back',
@@ -17955,7 +18354,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQnFNz7ety939NCdegZX6qpT4zchKDt7KNxLbTUvG8FvR',
+    previewUrl: 'QmRNhVFFeJobatLLMSWUb7asvTnuqbXUzYfPhrHkaVGYir',
+    ipfsUrl: 'QmQnFNz7ety939NCdegZX6qpT4zchKDt7KNxLbTUvG8FvR',
     attributes: [
       {
         trait_type: 'back',
@@ -18000,7 +18400,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQuYurfcLy9zjGxpfePzYqqBH9RAo5h7uK9o1jVeeA6Gx',
+    previewUrl: 'QmegZRhvc1Jfj6cvwbXRw5JPQCXGV5JLfM1XfY3RuEtJWh',
+    ipfsUrl: 'QmQuYurfcLy9zjGxpfePzYqqBH9RAo5h7uK9o1jVeeA6Gx',
     attributes: [
       {
         trait_type: 'back',
@@ -18045,7 +18446,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZkCMDUdS9eQAGYJmkSeAnRXumWcrdaDDrdxSpL2VLmu6',
+    previewUrl: 'QmRDYjn6KCwJH8z6WWgnckgVt14TjKXhe7mCVZmJziXRYG',
+    ipfsUrl: 'QmZkCMDUdS9eQAGYJmkSeAnRXumWcrdaDDrdxSpL2VLmu6',
     attributes: [
       {
         trait_type: 'back',
@@ -18090,7 +18492,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmduXmvT5Muec3U8dqQxtCW7UjtkFQsS12LDX1B776s9FG',
+    previewUrl: 'QmWE9hdaukA1NwEkBJcCU9URs9YTbD8Aedvtbv4ih4hehy',
+    ipfsUrl: 'QmduXmvT5Muec3U8dqQxtCW7UjtkFQsS12LDX1B776s9FG',
     attributes: [
       {
         trait_type: 'back',
@@ -18135,7 +18538,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT7eUyz1ui26PWWtNvdJGD9Eb2KsnwMSA7nWA79RFUsF5',
+    previewUrl: 'QmQQ3xQbyuW5sk39e1NWe6T4f4o3TFiRoedKDnUtraSfuj',
+    ipfsUrl: 'QmT7eUyz1ui26PWWtNvdJGD9Eb2KsnwMSA7nWA79RFUsF5',
     attributes: [
       {
         trait_type: 'back',
@@ -18180,7 +18584,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVtqF1YvPnmSt9DLt6rRGaoHCsYF4wtRYFzjawssm6tvG',
+    previewUrl: 'QmUySvT5ebhF9dTLEi5Wf7hnKD225mgLn1DSsSgPnGQJKS',
+    ipfsUrl: 'QmVtqF1YvPnmSt9DLt6rRGaoHCsYF4wtRYFzjawssm6tvG',
     attributes: [
       {
         trait_type: 'back',
@@ -18225,7 +18630,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmf8HdMmoBJ319pHDNWrRsDo2Gj9JGk9jDNhwpygmKSyA6',
+    previewUrl: 'QmSeHNh3nVhiuGW3fifMY2K51JPnt69GGp8HnAsPLJGbgj',
+    ipfsUrl: 'Qmf8HdMmoBJ319pHDNWrRsDo2Gj9JGk9jDNhwpygmKSyA6',
     attributes: [
       {
         trait_type: 'back',
@@ -18270,7 +18676,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmf3tSrNgtzThx27BAsBmDc5RjgU1xfnqxUKqjCNNUtgVT',
+    previewUrl: 'QmSCVTuAWdUiowaSotSzP64bmL3ZeWLNt2VqFPcbuzxLhL',
+    ipfsUrl: 'Qmf3tSrNgtzThx27BAsBmDc5RjgU1xfnqxUKqjCNNUtgVT',
     attributes: [
       {
         trait_type: 'back',
@@ -18315,7 +18722,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTJN7AsabqSKHUHrCi31D7BGjHUDTGjxaWeKzhUnDrAmd',
+    previewUrl: 'QmNpAo7kf9tiuem32XKLp3vvG9VbvBTVgtEZX9zik7jifh',
+    ipfsUrl: 'QmTJN7AsabqSKHUHrCi31D7BGjHUDTGjxaWeKzhUnDrAmd',
     attributes: [
       {
         trait_type: 'back',
@@ -18360,7 +18768,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcUR135mX8W8cLTiCp4rft4DKtwsMLrGwAzFCkhP8Arpt',
+    previewUrl: 'QmZUDFC5bgxdGa6TL2SZaXr8rPK64W5gAXaMdCFM2gsVZr',
+    ipfsUrl: 'QmcUR135mX8W8cLTiCp4rft4DKtwsMLrGwAzFCkhP8Arpt',
     attributes: [
       {
         trait_type: 'back',
@@ -18405,7 +18814,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNxxjUydJFq91txkAs1RhgYMRjHQZDyswuQeg6kEnUFoF',
+    previewUrl: 'QmWydsVYwZNrdLCGaKPQkWUHLTaWoG3vei19STcyHkJcwu',
+    ipfsUrl: 'QmNxxjUydJFq91txkAs1RhgYMRjHQZDyswuQeg6kEnUFoF',
     attributes: [
       {
         trait_type: 'back',
@@ -18450,7 +18860,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZxHoqkYhv2Hw4fqQoKb5UWxK2ZqeUvrqDDLFYJDxmpuG',
+    previewUrl: 'QmNY7CVzSeCCkUemyrgy3jpUmyCvD2miG8txkbWgZ8oBwW',
+    ipfsUrl: 'QmZxHoqkYhv2Hw4fqQoKb5UWxK2ZqeUvrqDDLFYJDxmpuG',
     attributes: [
       {
         trait_type: 'back',
@@ -18495,7 +18906,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVS4aXMtTU5ciUFbQFH7EoU8x5331x9F4G7Kx4fZq5GPN',
+    previewUrl: 'QmSwSzq1bg8K5AU6QJFrVLJxep8pozXg7rYxSZFPLss1UL',
+    ipfsUrl: 'QmVS4aXMtTU5ciUFbQFH7EoU8x5331x9F4G7Kx4fZq5GPN',
     attributes: [
       {
         trait_type: 'back',
@@ -18540,7 +18952,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWGBYT7Dsup1cvcrMYp15c4fheVXFpXPEGGNJ8Q6zu6cD',
+    previewUrl: 'QmQ6itP1JZmE6UWsC2YTxMccPJ2kUZCviMdE2oLUCNinmr',
+    ipfsUrl: 'QmWGBYT7Dsup1cvcrMYp15c4fheVXFpXPEGGNJ8Q6zu6cD',
     attributes: [
       {
         trait_type: 'back',
@@ -18585,7 +18998,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeJf2zpYe5SvQcdcRixr3FkocQqC3yaxzkFgp9xxG94bv',
+    previewUrl: 'QmUyDov4VqNPzeJpX7TQbzXeRquEDtmWsRuUpSzLF4Yzty',
+    ipfsUrl: 'QmeJf2zpYe5SvQcdcRixr3FkocQqC3yaxzkFgp9xxG94bv',
     attributes: [
       {
         trait_type: 'back',
@@ -18630,7 +19044,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUUN3SgDcfpPGA8SwPfQ7RhQ4pP6hASKMjqgrHH7tWsr1',
+    previewUrl: 'QmQjD3dFKqWz6rzC51T2FFLebMo1Ft1JLcfMQ9heQ3xQtX',
+    ipfsUrl: 'QmUUN3SgDcfpPGA8SwPfQ7RhQ4pP6hASKMjqgrHH7tWsr1',
     attributes: [
       {
         trait_type: 'back',
@@ -18675,7 +19090,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXfryYqvEqNCRsSbFK4yyFNtQ9SiFA2ogFf9cyqjQ915L',
+    previewUrl: 'QmcAFYSzKV3Md4xVbWc7KRzPNkuvtksPzQf3vhDqd5pmFG',
+    ipfsUrl: 'QmXfryYqvEqNCRsSbFK4yyFNtQ9SiFA2ogFf9cyqjQ915L',
     attributes: [
       {
         trait_type: 'back',
@@ -18720,7 +19136,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUywo9nSq4WeSUszs5psTR1N3MXYdxdsz4xPXbCauMkSu',
+    previewUrl: 'QmcYcp9f45LKGeQPB48ZW8UxfEfsRLxwAwZsVx87u9eak7',
+    ipfsUrl: 'QmUywo9nSq4WeSUszs5psTR1N3MXYdxdsz4xPXbCauMkSu',
     attributes: [
       {
         trait_type: 'back',
@@ -18765,7 +19182,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmd2P7SZTev6pzDo4QCp2HDqhejbADBhGwyP7qFATLzx4N',
+    previewUrl: 'QmYiDH2BEWNmJ1YFZhPH7heMavFm6nZPeHimDmoUeyM3U8',
+    ipfsUrl: 'Qmd2P7SZTev6pzDo4QCp2HDqhejbADBhGwyP7qFATLzx4N',
     attributes: [
       {
         trait_type: 'back',
@@ -18810,7 +19228,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ8b5dntf4HwpfsU2XDEAxBsrX7d9kiLGx9iSPQzZg9MM',
+    previewUrl: 'QmUHWd2eivzG42gmq76GABTDAhgRxfGJkYJCmz4uTATAic',
+    ipfsUrl: 'QmZ8b5dntf4HwpfsU2XDEAxBsrX7d9kiLGx9iSPQzZg9MM',
     attributes: [
       {
         trait_type: 'back',
@@ -18855,7 +19274,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV4RJdP75H9QA4FwNdByQxfXB1GaoxVKpArbZRzU5NUV5',
+    previewUrl: 'QmUJ7sjuKdStFe5ziq8cvwDo4qFJbUKyAfTqvLN2Eh2vek',
+    ipfsUrl: 'QmV4RJdP75H9QA4FwNdByQxfXB1GaoxVKpArbZRzU5NUV5',
     attributes: [
       {
         trait_type: 'back',
@@ -18900,7 +19320,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRhRazf3F3zprrhkQCf85PLG8TrcFrpJ33C4BAeccX5Gh',
+    previewUrl: 'QmRktw9Uvz3shgn6e3J4qYx1qYrqYMrZGdHnBrERWhnvfq',
+    ipfsUrl: 'QmRhRazf3F3zprrhkQCf85PLG8TrcFrpJ33C4BAeccX5Gh',
     attributes: [
       {
         trait_type: 'back',
@@ -18945,7 +19366,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU46UoNSL9CNVDkcTJfVJnyM1RK1yJEZKy3guoUiEBZbf',
+    previewUrl: 'QmSsrTjAK4AaNqKjSzuX7cArFidGdmg3X3thYiuTZeV4aa',
+    ipfsUrl: 'QmU46UoNSL9CNVDkcTJfVJnyM1RK1yJEZKy3guoUiEBZbf',
     attributes: [
       {
         trait_type: 'back',
@@ -18990,7 +19412,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSBsAerRACeiogAA8ycehvY2cTLd6nvYamawBQVr2Qjvn',
+    previewUrl: 'QmXRPJ9bu1VBzqo3JBYMpBADRyjywWCWW14By5UPWrbdFa',
+    ipfsUrl: 'QmSBsAerRACeiogAA8ycehvY2cTLd6nvYamawBQVr2Qjvn',
     attributes: [
       {
         trait_type: 'back',
@@ -19035,7 +19458,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRMRVAWSn6JjirZKaEiwjDnjQZS8RuEj8CNWYx48HPwVD',
+    previewUrl: 'QmYxVhduSbCUazWHyvnxUmF6YaQMY8wfpEJ5X6gHQhZ8vH',
+    ipfsUrl: 'QmRMRVAWSn6JjirZKaEiwjDnjQZS8RuEj8CNWYx48HPwVD',
     attributes: [
       {
         trait_type: 'back',
@@ -19080,7 +19504,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRKSkdJ6cLWhu7zZDBqDJjTiNTv4EJRtvF2XsdLM3dvig',
+    previewUrl: 'QmYxPic9nR8xeLwkcDRQbF6V8G1nvFHHdBKeZvQdB4yKQn',
+    ipfsUrl: 'QmRKSkdJ6cLWhu7zZDBqDJjTiNTv4EJRtvF2XsdLM3dvig',
     attributes: [
       {
         trait_type: 'back',
@@ -19125,7 +19550,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUPXuAs53vP4MA8Jj7tECtLRdcunfnV9Ygbb1PfHKNWyM',
+    previewUrl: 'QmUfdtV59GTLZxdiC8w2LhfbPYUTGQBDrSTVGF2VKgDoy2',
+    ipfsUrl: 'QmUPXuAs53vP4MA8Jj7tECtLRdcunfnV9Ygbb1PfHKNWyM',
     attributes: [
       {
         trait_type: 'back',
@@ -19170,7 +19596,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmadWgDqywiCzkJLEkZJAZcz4YwT17FATidUKFbF1jA8Go',
+    previewUrl: 'QmerdAiNYCzs5sJuMvJRTxom8tnGKaScnDHzbEMoJveqxy',
+    ipfsUrl: 'QmadWgDqywiCzkJLEkZJAZcz4YwT17FATidUKFbF1jA8Go',
     attributes: [
       {
         trait_type: 'back',
@@ -19215,7 +19642,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYY76Wsp82QX7XM2cSyMRo91DqqDgLSVeq36gLWtFb2MT',
+    previewUrl: 'QmVvJS2tsWAytFFvEx4oCqtjkD6tUF7yuwwFpSJoxCcztb',
+    ipfsUrl: 'QmYY76Wsp82QX7XM2cSyMRo91DqqDgLSVeq36gLWtFb2MT',
     attributes: [
       {
         trait_type: 'back',
@@ -19260,7 +19688,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR9BKi1PjJJdmYKqhXwsTjxeF15AZx3bHKL4gSJzNzmhH',
+    previewUrl: 'QmeSKKHKLCqNELNE9wW6oqjeYp4FRZ6nL58BiTJ5vEC6Zz',
+    ipfsUrl: 'QmR9BKi1PjJJdmYKqhXwsTjxeF15AZx3bHKL4gSJzNzmhH',
     attributes: [
       {
         trait_type: 'back',
@@ -19305,7 +19734,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmeedbg1mwne1E4TV3FTscVaegbSW1D2GfdqSz1Bb1JGQr',
+    previewUrl: 'QmNgiVqqJ7NiyPmdHXcM2vignczeKyixQvmLcWRTyfSbRM',
+    ipfsUrl: 'Qmeedbg1mwne1E4TV3FTscVaegbSW1D2GfdqSz1Bb1JGQr',
     attributes: [
       {
         trait_type: 'back',
@@ -19350,7 +19780,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmacLGJe17kaircNqZZfYTXt6A4F6mW4G3Ln15zxRK3VP8',
+    previewUrl: 'QmP826DVfs2CQckZeNh3rv8WQS54Ry2b1qagwrJiB5P83W',
+    ipfsUrl: 'QmacLGJe17kaircNqZZfYTXt6A4F6mW4G3Ln15zxRK3VP8',
     attributes: [
       {
         trait_type: 'back',
@@ -19395,7 +19826,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSeKfggJLcANrecjw51pCRq7SQqbWgm9vpatPfkaF7nRb',
+    previewUrl: 'QmWsjYAdk6gqAKV4nRKxqXyYKUPF3vzQ3gcfpovJBNjDUM',
+    ipfsUrl: 'QmSeKfggJLcANrecjw51pCRq7SQqbWgm9vpatPfkaF7nRb',
     attributes: [
       {
         trait_type: 'back',
@@ -19440,7 +19872,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfAZp4gM74GhP4ca3VMgZbSqhQ2gNCrcC1tqua4a7jhgJ',
+    previewUrl: 'QmVWFsz1oJb5b2usnL35NPgE7ZhfQntw5QbxAdiYaPmdDD',
+    ipfsUrl: 'QmfAZp4gM74GhP4ca3VMgZbSqhQ2gNCrcC1tqua4a7jhgJ',
     attributes: [
       {
         trait_type: 'back',
@@ -19485,7 +19918,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX2ZyWxefcCCaPaXssTXeWkKL1JqvCoRvyzjGiwyZ1i8s',
+    previewUrl: 'Qmdtznd3HQJixDmPdvhZedk6wsWC3nDUCW17MUMAMA4bcF',
+    ipfsUrl: 'QmX2ZyWxefcCCaPaXssTXeWkKL1JqvCoRvyzjGiwyZ1i8s',
     attributes: [
       {
         trait_type: 'back',
@@ -19530,7 +19964,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQxhnFzXAnnVEd1j7m6cMHrZ426vgebkNrVhDXErsUQV3',
+    previewUrl: 'QmdwmFfFNNeGYKFY5HhGkpeqJWD9WQrzfyT2R8DsV281tn',
+    ipfsUrl: 'QmQxhnFzXAnnVEd1j7m6cMHrZ426vgebkNrVhDXErsUQV3',
     attributes: [
       {
         trait_type: 'back',
@@ -19575,7 +20010,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmP1fXWFAq7YuGt2cnATavroXMYFc8EyPwsmKiynsSUFJU',
+    previewUrl: 'QmaSfL1fJVfgS44FpUaVd53UHWDvzEEmobn71nAb8QXLsg',
+    ipfsUrl: 'QmP1fXWFAq7YuGt2cnATavroXMYFc8EyPwsmKiynsSUFJU',
     attributes: [
       {
         trait_type: 'back',
@@ -19620,7 +20056,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWxu5trCGimXY1nRJrddFvVkVyWtPYKeiq5JzfrCmNtaP',
+    previewUrl: 'QmPBz5EidbKs5t9YooxCiy5hY6igoAqWpfZ7XBA8M3tUFc',
+    ipfsUrl: 'QmWxu5trCGimXY1nRJrddFvVkVyWtPYKeiq5JzfrCmNtaP',
     attributes: [
       {
         trait_type: 'back',
@@ -19665,7 +20102,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbiJPXFGV2qFdjU9tDSMmi2F3TYVhr8Zwk187bUisoh66',
+    previewUrl: 'QmUQXBonKWEfyp52eLACZeX23RRZqf2qfv3BTuFeoVC5DP',
+    ipfsUrl: 'QmbiJPXFGV2qFdjU9tDSMmi2F3TYVhr8Zwk187bUisoh66',
     attributes: [
       {
         trait_type: 'back',
@@ -19710,7 +20148,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPrPoZPuU4bKJPr2AneKLEBVLYrmXGoZbFp7VJkoUpSZg',
+    previewUrl: 'QmZ1ToBX7q5UeuEezPo1KnJkmReCCK6X6uVhBAmAwD5prN',
+    ipfsUrl: 'QmPrPoZPuU4bKJPr2AneKLEBVLYrmXGoZbFp7VJkoUpSZg',
     attributes: [
       {
         trait_type: 'back',
@@ -19755,7 +20194,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQXPXqaKawBUTNyu4YwnZEzUvyR6PNJKC5tT4L5nhHAfQ',
+    previewUrl: 'QmTJCK2FCRWoh4575uKRS5bLn27DGFR9BnC7zEUBtt6dbb',
+    ipfsUrl: 'QmQXPXqaKawBUTNyu4YwnZEzUvyR6PNJKC5tT4L5nhHAfQ',
     attributes: [
       {
         trait_type: 'back',
@@ -19800,7 +20240,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPxoCZ7eNmuZuaKtFXcPAGuTezYHdXSePDULEnu4K1Asi',
+    previewUrl: 'QmRdpGPoP62fiK4MNKsBh1oR36jBWWAP7WbDzij43aUNJn',
+    ipfsUrl: 'QmPxoCZ7eNmuZuaKtFXcPAGuTezYHdXSePDULEnu4K1Asi',
     attributes: [
       {
         trait_type: 'back',
@@ -19845,7 +20286,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSZtCWmVDzXzB8c9sU7GVAN5VGKaBmUNmRRPg8yAoemMw',
+    previewUrl: 'QmawjFayNBLd61z3dL7YMnym1b2Nb7ERBmGBXLFC7qBwNf',
+    ipfsUrl: 'QmSZtCWmVDzXzB8c9sU7GVAN5VGKaBmUNmRRPg8yAoemMw',
     attributes: [
       {
         trait_type: 'back',
@@ -19890,7 +20332,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXxXxhGS9zE5zkYM1UgGGiCvSBcop15mvowfQpCGc6shC',
+    previewUrl: 'QmRGpuEHfvwoVxPkMJtxCBmiTB4u2cP7KhYXrbu7D2ZcYX',
+    ipfsUrl: 'QmXxXxhGS9zE5zkYM1UgGGiCvSBcop15mvowfQpCGc6shC',
     attributes: [
       {
         trait_type: 'back',
@@ -19935,7 +20378,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSa1G77FT7WHNp2VnMA8jARBJUTqwL1wSHwncQ31vSsVx',
+    previewUrl: 'Qmcw4t28U2yA5moJabPU4MfiquJn2i8ECRGZxXWgdTTPU5',
+    ipfsUrl: 'QmSa1G77FT7WHNp2VnMA8jARBJUTqwL1wSHwncQ31vSsVx',
     attributes: [
       {
         trait_type: 'back',
@@ -19980,7 +20424,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSUfB5vryW5x2zd4ADpFAQx3nXXAN9MZUbjjYX8987qTg',
+    previewUrl: 'QmQPFU8jjfV3qiVyyN1JwFFQ7it2nbDGCh8WrRAN6SjYid',
+    ipfsUrl: 'QmSUfB5vryW5x2zd4ADpFAQx3nXXAN9MZUbjjYX8987qTg',
     attributes: [
       {
         trait_type: 'back',
@@ -20025,7 +20470,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTcNVegXPw8Uc7WEAAWmv2Egf9jJ5Nx5SPMsmNiT9kH8L',
+    previewUrl: 'QmQZUqr3wiYshQTsn8BcuH1XCH4KmE8Yc7YQ4CNXj1Gzpi',
+    ipfsUrl: 'QmTcNVegXPw8Uc7WEAAWmv2Egf9jJ5Nx5SPMsmNiT9kH8L',
     attributes: [
       {
         trait_type: 'back',
@@ -20070,7 +20516,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcFnibqLYYyN8xsegpKuthNHTJiV3RgZpV3Fi21CYApYp',
+    previewUrl: 'QmPAZXxJ3uaBnF3TKbd8NQPpNRHUspixANNjsVrnnd91ze',
+    ipfsUrl: 'QmcFnibqLYYyN8xsegpKuthNHTJiV3RgZpV3Fi21CYApYp',
     attributes: [
       {
         trait_type: 'back',
@@ -20115,7 +20562,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVvcyKj1JZCm387jZCDdk4pChcGbEeTogu2asxZV78N9A',
+    previewUrl: 'QmXN2BD1tTT12FKEyoAN6cyGnxeSVdCRtrKvJzJ5bawgYW',
+    ipfsUrl: 'QmVvcyKj1JZCm387jZCDdk4pChcGbEeTogu2asxZV78N9A',
     attributes: [
       {
         trait_type: 'back',
@@ -20160,7 +20608,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVKMctnz374KeEAMMBNuE3myfq8rjjyZF6rJXrAB2wkwv',
+    previewUrl: 'QmeFD9dLuN5ztgst4Pnc21dNrf2mjZuVFTfsSibfCPwCYr',
+    ipfsUrl: 'QmVKMctnz374KeEAMMBNuE3myfq8rjjyZF6rJXrAB2wkwv',
     attributes: [
       {
         trait_type: 'back',
@@ -20205,7 +20654,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRAZfMJGNTJWD47BKMTgGPTCeVd51TrRT9Mjfv4D38D46',
+    previewUrl: 'QmYxDRBxJsnK4SQq5wMhTKHjpUXyZyo68r82gLLe9HmYmd',
+    ipfsUrl: 'QmRAZfMJGNTJWD47BKMTgGPTCeVd51TrRT9Mjfv4D38D46',
     attributes: [
       {
         trait_type: 'back',
@@ -20250,7 +20700,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPDNhgewcgewPXdHJ6yyUP3e9J1jWFoLZ6LayevgUyXdS',
+    previewUrl: 'QmcrrG3swC8mgd6zPuJYjBEKrGY1pvH9387LNvctQtqcSn',
+    ipfsUrl: 'QmPDNhgewcgewPXdHJ6yyUP3e9J1jWFoLZ6LayevgUyXdS',
     attributes: [
       {
         trait_type: 'back',
@@ -20295,7 +20746,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPEWvEbiyPtKQWTr3pfYN8b8U8jCnRkJoxxNjbjXi6yG8',
+    previewUrl: 'QmVu5KjWcyHWdnu7tUZqDUmRuaGxUUd2UQjbVo1tXScxcj',
+    ipfsUrl: 'QmPEWvEbiyPtKQWTr3pfYN8b8U8jCnRkJoxxNjbjXi6yG8',
     attributes: [
       {
         trait_type: 'back',
@@ -20340,7 +20792,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQhvcbjYRSzgxGzhXNbdApFcRjjezc83GgnbQpwPffjSM',
+    previewUrl: 'QmaFBbtSzLqxus7bJ2DCeoGNe51C3hwKXjyeU6hPJFAEAQ',
+    ipfsUrl: 'QmQhvcbjYRSzgxGzhXNbdApFcRjjezc83GgnbQpwPffjSM',
     attributes: [
       {
         trait_type: 'back',
@@ -20385,7 +20838,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfHw9uhamB1HzyHLsnuGaG5KWjWsSnF32u4HRHnk8XPTB',
+    previewUrl: 'QmYEm8Gw5j17VzS55n9NZuT4JPzEea9Z7zaXQjrHpfw8Ku',
+    ipfsUrl: 'QmfHw9uhamB1HzyHLsnuGaG5KWjWsSnF32u4HRHnk8XPTB',
     attributes: [
       {
         trait_type: 'back',
@@ -20430,7 +20884,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbgP8kc8sXkWqZ31r58TAkvzHHEHUYRnADctkAqLz4Ewx',
+    previewUrl: 'QmNgCJTLEYP6HA9tLrLuD656jMLhJXBdHY8T7SKVCaXwwN',
+    ipfsUrl: 'QmbgP8kc8sXkWqZ31r58TAkvzHHEHUYRnADctkAqLz4Ewx',
     attributes: [
       {
         trait_type: 'back',
@@ -20475,7 +20930,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmanSUCDPvZZFEpJyzWu27LbjDrjXrX8MTrhfu5j3nLYfr',
+    previewUrl: 'QmY7cPdKb8qQoH3qs3wuZEtznk3omHJzLJzu9fvoQG7z6P',
+    ipfsUrl: 'QmanSUCDPvZZFEpJyzWu27LbjDrjXrX8MTrhfu5j3nLYfr',
     attributes: [
       {
         trait_type: 'back',
@@ -20520,7 +20976,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVAfd9DrZYdaVkz2asZN1aWAGT18892rUKp4KgfGbiKcX',
+    previewUrl: 'QmUMtrAcoW4Zn2vcVS9gzgz74pa9cK13DN5RC7KYbNf2se',
+    ipfsUrl: 'QmVAfd9DrZYdaVkz2asZN1aWAGT18892rUKp4KgfGbiKcX',
     attributes: [
       {
         trait_type: 'back',
@@ -20565,7 +21022,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUTqaev8p5KEotWhiZjBydmT5yV2Hf17gMh44RcSxu7PT',
+    previewUrl: 'QmTfTz7Nifj8S1LkuubpmwU6CBCf7YSXNhAmASEoRaaUgT',
+    ipfsUrl: 'QmUTqaev8p5KEotWhiZjBydmT5yV2Hf17gMh44RcSxu7PT',
     attributes: [
       {
         trait_type: 'back',
@@ -20610,7 +21068,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVgmVqyabAuR9oaE1LYHhLeDze2zQvryoSLorsTzFoXv4',
+    previewUrl: 'QmbGipvqGNMnrCH35UtZTUXSnEQfFkjRbVQBFRBwT8WHjE',
+    ipfsUrl: 'QmVgmVqyabAuR9oaE1LYHhLeDze2zQvryoSLorsTzFoXv4',
     attributes: [
       {
         trait_type: 'back',
@@ -20655,7 +21114,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXVisTPD3ekbQnsGtzTfNayFapPLrkPsSNr2zpg9QDV82',
+    previewUrl: 'QmViriQ93TjLr4bVjg4qjTwhSgjEywzZ8tKDNXPa5idn4w',
+    ipfsUrl: 'QmXVisTPD3ekbQnsGtzTfNayFapPLrkPsSNr2zpg9QDV82',
     attributes: [
       {
         trait_type: 'back',
@@ -20700,7 +21160,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfU6q9QztHjiZchLoGno9JgxRPDma3D6t7vntj2q4rnJM',
+    previewUrl: 'QmbZseLiGX51DDi5aUiF6tTxaHxxUHiM92DJRcMbVUfu79',
+    ipfsUrl: 'QmfU6q9QztHjiZchLoGno9JgxRPDma3D6t7vntj2q4rnJM',
     attributes: [
       {
         trait_type: 'back',
@@ -20745,7 +21206,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdxSJZoEb2HbgP9xm6diaNHa1WACKK2eki17PJW3SoyEC',
+    previewUrl: 'QmearrATykb64DGY9zvsoUMkWAC6cRdGi9peG6gjT9ti42',
+    ipfsUrl: 'QmdxSJZoEb2HbgP9xm6diaNHa1WACKK2eki17PJW3SoyEC',
     attributes: [
       {
         trait_type: 'back',
@@ -20790,7 +21252,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPPAG3CMNs3pMS34uUVUYvMbEr1qfNkbrN42fAVRxsEWJ',
+    previewUrl: 'QmUYd8gE7aztQJXyvUXphN81C2LZhKuYTAkZFTTGkHdsvC',
+    ipfsUrl: 'QmPPAG3CMNs3pMS34uUVUYvMbEr1qfNkbrN42fAVRxsEWJ',
     attributes: [
       {
         trait_type: 'back',
@@ -20835,7 +21298,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTXPMaYruPxbW3HHZorBUKd2oNbryaPNKgnox1RMPNJvU',
+    previewUrl: 'QmWGvCugsScBxB8SpjY7F1kFpZkoj3RBhNHmqnXcNdFLtU',
+    ipfsUrl: 'QmTXPMaYruPxbW3HHZorBUKd2oNbryaPNKgnox1RMPNJvU',
     attributes: [
       {
         trait_type: 'back',
@@ -20880,7 +21344,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV37T6Tp5f3x3fBn4A7gpaPHEnGPLUwje5Uhs1iqkdSgq',
+    previewUrl: 'QmSUuomZg71oUH63tprhR2UuH9ChsL1vsd19cphxEWPNZZ',
+    ipfsUrl: 'QmV37T6Tp5f3x3fBn4A7gpaPHEnGPLUwje5Uhs1iqkdSgq',
     attributes: [
       {
         trait_type: 'back',
@@ -20925,7 +21390,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUVUtMjsNUtMYRYZEKXnmN2qr4wAn3ihqa1hvYJQ1eheD',
+    previewUrl: 'QmWMy6iAgCmgYsbo3AHaVkcAreiQfuaneA9QuFCSVn2uuH',
+    ipfsUrl: 'QmUVUtMjsNUtMYRYZEKXnmN2qr4wAn3ihqa1hvYJQ1eheD',
     attributes: [
       {
         trait_type: 'back',
@@ -20970,7 +21436,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPNe9SsQzdd6f2KHesmW89tQdppYFySK4VeXhmwW26kCf',
+    previewUrl: 'QmZuUCfyvHu1JP9wUYSxzYcmhT9uVwEjUyQTnojEXQrceu',
+    ipfsUrl: 'QmPNe9SsQzdd6f2KHesmW89tQdppYFySK4VeXhmwW26kCf',
     attributes: [
       {
         trait_type: 'back',
@@ -21015,7 +21482,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXVzZzmzePhT4sat6EXxGXubvVwjJ1Gsha9KVCe5KNiPe',
+    previewUrl: 'QmUcBdbPLKvFebeevkvsSCa4MxxdTZrN3twW2RqyQdmx7y',
+    ipfsUrl: 'QmXVzZzmzePhT4sat6EXxGXubvVwjJ1Gsha9KVCe5KNiPe',
     attributes: [
       {
         trait_type: 'back',
@@ -21060,7 +21528,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUdVRqc6pfgbyYUhB9TZ7BsE2xvLPMkZUJbu8WjCSk67h',
+    previewUrl: 'QmQMCeR2mz9xeM1KHT5UheUcgCAkB16WAafD6eoU21kxaj',
+    ipfsUrl: 'QmUdVRqc6pfgbyYUhB9TZ7BsE2xvLPMkZUJbu8WjCSk67h',
     attributes: [
       {
         trait_type: 'back',
@@ -21105,7 +21574,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUf82Yk2Y81JkTfDh7oxpLLUVwT6UW2JoPJiLKia8F985',
+    previewUrl: 'QmesmyJRaa1mKHG5AQbmRXYoYHscm1TGZyCD5hnWomGyt9',
+    ipfsUrl: 'QmUf82Yk2Y81JkTfDh7oxpLLUVwT6UW2JoPJiLKia8F985',
     attributes: [
       {
         trait_type: 'back',
@@ -21150,7 +21620,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSWaXgrThBqbA1M7kehseRwm6LoV2JCsKMXaS23dAfobf',
+    previewUrl: 'QmU75BF1hxBXop6HEkYgM4FEW4Rq5bQtU3cz8v8kifPEoh',
+    ipfsUrl: 'QmSWaXgrThBqbA1M7kehseRwm6LoV2JCsKMXaS23dAfobf',
     attributes: [
       {
         trait_type: 'back',
@@ -21195,7 +21666,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ3BejhuXVf245a21TdWVATmQ5WjZgpcKu9w8DabNYcPS',
+    previewUrl: 'QmQ4etBo2b8fYxext1XgQX9haPpWYxkQmUTGZ3j1B5EYfH',
+    ipfsUrl: 'QmZ3BejhuXVf245a21TdWVATmQ5WjZgpcKu9w8DabNYcPS',
     attributes: [
       {
         trait_type: 'back',
@@ -21240,7 +21712,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmevgF21pS68ik8QD3XfZXgbs2rrszVmHCj7jLPurz7Aek',
+    previewUrl: 'QmPyNPKhWBg1fuz7Rz4xPMbcZ4VeApTDQbazDFyzUumtqZ',
+    ipfsUrl: 'QmevgF21pS68ik8QD3XfZXgbs2rrszVmHCj7jLPurz7Aek',
     attributes: [
       {
         trait_type: 'back',
@@ -21285,7 +21758,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qme8DhhYkHRWPm7HqCThhF9qZZM1AP9wGzZFv3vmY4h7iu',
+    previewUrl: 'QmSMJKX2XXt1Le81FoxiZvSYMXRwY4WbWDAJNzbWqcs8Lm',
+    ipfsUrl: 'Qme8DhhYkHRWPm7HqCThhF9qZZM1AP9wGzZFv3vmY4h7iu',
     attributes: [
       {
         trait_type: 'back',
@@ -21330,7 +21804,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQT1sVGAvYWhudXFMzgLwpEbsBpffN7YGxVRpa8fP8Sx7',
+    previewUrl: 'QmVYwibrCXSWz5ohzGrk2c6iNkAbTyRadpvNRzruKEYhSX',
+    ipfsUrl: 'QmQT1sVGAvYWhudXFMzgLwpEbsBpffN7YGxVRpa8fP8Sx7',
     attributes: [
       {
         trait_type: 'back',
@@ -21375,7 +21850,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmefXQpkChz291ki4FW94PzGdGDqQeRKqc7DQyJZJoGS7a',
+    previewUrl: 'QmbqmhuLtNp8SG68cPjfiZANngaoxqrFv4xr39GCQKcgs7',
+    ipfsUrl: 'QmefXQpkChz291ki4FW94PzGdGDqQeRKqc7DQyJZJoGS7a',
     attributes: [
       {
         trait_type: 'back',
@@ -21420,7 +21896,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQKcazigEBE5h8wmQdhrrxzp43UUdK3LiudAMsiivwvyM',
+    previewUrl: 'QmV2Ck2FJnEtefzerYekmfoxYCPt4b5cu3r6u5VXXCAdW7',
+    ipfsUrl: 'QmQKcazigEBE5h8wmQdhrrxzp43UUdK3LiudAMsiivwvyM',
     attributes: [
       {
         trait_type: 'back',
@@ -21465,7 +21942,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYJXgzczRjJW38tBj62trsHz9E1uUDbsLW1ALHJearePg',
+    previewUrl: 'QmQo4TtrE7eZqvVBQbM8TYPJkT4erjSHTGSE48XXhtLovj',
+    ipfsUrl: 'QmYJXgzczRjJW38tBj62trsHz9E1uUDbsLW1ALHJearePg',
     attributes: [
       {
         trait_type: 'back',
@@ -21510,7 +21988,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUq9ApeNHE9bLHTCWsWHAjtC2Yrd9Z6U6kT9EkSjeKLCt',
+    previewUrl: 'QmeUHCAjeCt9uTnkRYECi9oeXk3y8Sn4bSdum87aCyCyB9',
+    ipfsUrl: 'QmUq9ApeNHE9bLHTCWsWHAjtC2Yrd9Z6U6kT9EkSjeKLCt',
     attributes: [
       {
         trait_type: 'back',
@@ -21555,7 +22034,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR5iNXdFbRe4X59gVhmubTXEjiXQmD7CsKWU4jzSSo4rp',
+    previewUrl: 'QmTojUbsiimAJDxYp54Pn6LWu8NsW5LNBCPLp6jkfK5bqf',
+    ipfsUrl: 'QmR5iNXdFbRe4X59gVhmubTXEjiXQmD7CsKWU4jzSSo4rp',
     attributes: [
       {
         trait_type: 'back',
@@ -21600,7 +22080,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcUuEmRFYZJGVT1TiDnQXgMnuks773k6Xiz5gcNnGSPww',
+    previewUrl: 'QmZDrBv5iib3tuWqFHmDh4JxV1t7VVHdFZcb5estbBBGHS',
+    ipfsUrl: 'QmcUuEmRFYZJGVT1TiDnQXgMnuks773k6Xiz5gcNnGSPww',
     attributes: [
       {
         trait_type: 'back',
@@ -21645,7 +22126,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTFsZcBBrwEwU53hhPANE8wekZ3F1haBuFE9sBwVhn52K',
+    previewUrl: 'QmTMPoLVf7W9fETE1RRYJwt5EH717LqPmEk5JPx6bfJQow',
+    ipfsUrl: 'QmTFsZcBBrwEwU53hhPANE8wekZ3F1haBuFE9sBwVhn52K',
     attributes: [
       {
         trait_type: 'back',
@@ -21690,7 +22172,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfD7TUbZNVBdcCpjXsqNLhJozZJu3e9JBXgGDVZ1WJTzp',
+    previewUrl: 'QmSnEavUiXwy34LB2kb9WdCTnt5JYhHaThjJjPRFiF1wSa',
+    ipfsUrl: 'QmfD7TUbZNVBdcCpjXsqNLhJozZJu3e9JBXgGDVZ1WJTzp',
     attributes: [
       {
         trait_type: 'back',
@@ -21735,7 +22218,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRLPWEQEEvViHWmKTzTZMgNuaicGmacxp1JXa8cVRR95E',
+    previewUrl: 'QmYonsfriFYaZTWMgT4uFXgrbzjJeDQGfFvNG8ZgsxTsX3',
+    ipfsUrl: 'QmRLPWEQEEvViHWmKTzTZMgNuaicGmacxp1JXa8cVRR95E',
     attributes: [
       {
         trait_type: 'back',
@@ -21780,7 +22264,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdPczSfEWZkB4DyKbFRkiibAd7AdZW3XNWASpYjL31cq9',
+    previewUrl: 'QmZ4EQS1mbGFnWj69HzVW6RS5yhAoa83KqAQKsK5jMF7GJ',
+    ipfsUrl: 'QmdPczSfEWZkB4DyKbFRkiibAd7AdZW3XNWASpYjL31cq9',
     attributes: [
       {
         trait_type: 'back',
@@ -21825,7 +22310,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSCyDrcQLPyZc9oFwpkiZoCNc8BL52VVSLT4giY12mJVe',
+    previewUrl: 'QmPTNnYGoVSxV2gRqGmYbnAGkpfuVQah1zZdKSo3rYDDkW',
+    ipfsUrl: 'QmSCyDrcQLPyZc9oFwpkiZoCNc8BL52VVSLT4giY12mJVe',
     attributes: [
       {
         trait_type: 'back',
@@ -21870,7 +22356,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVYj25szwSmc9uQ8MkKRN3SVjXcxh4UT81X9fGSZvgqzY',
+    previewUrl: 'QmZrF9VkVr1GurGiHzpnLwdQcfm8MyTLyMqJHWtihzQ9gP',
+    ipfsUrl: 'QmVYj25szwSmc9uQ8MkKRN3SVjXcxh4UT81X9fGSZvgqzY',
     attributes: [
       {
         trait_type: 'back',
@@ -21915,7 +22402,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUAtsFqPFzY4nMoC1boiFvLzUbof1Myd5deZBWkiT29Hf',
+    previewUrl: 'QmPg6DQzkxzayBDFz3gcs3FMfosT6xf1H1P53ZBZCLmTju',
+    ipfsUrl: 'QmUAtsFqPFzY4nMoC1boiFvLzUbof1Myd5deZBWkiT29Hf',
     attributes: [
       {
         trait_type: 'back',
@@ -21960,7 +22448,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXJACt8tSJkkH3wB2oqyVEjxykoFBBWRYboN7Wg1fBWoC',
+    previewUrl: 'QmZGyVi9pJFfNA13fANDUa4rXe33WVU36Pkieh33wNLDfu',
+    ipfsUrl: 'QmXJACt8tSJkkH3wB2oqyVEjxykoFBBWRYboN7Wg1fBWoC',
     attributes: [
       {
         trait_type: 'back',
@@ -22005,7 +22494,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYzQJB3uHkkKzxcMdM9zR3tfQ7RjPttqTwtSbaerE4wYg',
+    previewUrl: 'QmbrPJh6YBRiLUghBo5rr2nTUApJ3G9Vka5RcmUL9E1vKd',
+    ipfsUrl: 'QmYzQJB3uHkkKzxcMdM9zR3tfQ7RjPttqTwtSbaerE4wYg',
     attributes: [
       {
         trait_type: 'back',
@@ -22050,7 +22540,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQja6ACvZAV87MPC2bKHQKn7i9H5Ntn2HqdFZJMUTfPaJ',
+    previewUrl: 'QmRD34WHNw7tqYH7RGRD5GQcihiGRCaKmka3EVzpWpSukH',
+    ipfsUrl: 'QmQja6ACvZAV87MPC2bKHQKn7i9H5Ntn2HqdFZJMUTfPaJ',
     attributes: [
       {
         trait_type: 'back',
@@ -22095,7 +22586,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXE5z6uXmELPd3rnFJehDRrTmLUVrPevnpki6NvQSKLnJ',
+    previewUrl: 'QmSQLYwKaY4UZojUetrDYMHDuvj5NBMrxQGFWGTrrx7X3m',
+    ipfsUrl: 'QmXE5z6uXmELPd3rnFJehDRrTmLUVrPevnpki6NvQSKLnJ',
     attributes: [
       {
         trait_type: 'back',
@@ -22140,7 +22632,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmdk8xpz28sUGTHV3bJ3fbpzmEdxh6NUaBDpVSg4dttJvP',
+    previewUrl: 'QmbiNWJWFZdJknVKdcZ9gdieGUcvEhFSQAdUbpbKWHTRkj',
+    ipfsUrl: 'Qmdk8xpz28sUGTHV3bJ3fbpzmEdxh6NUaBDpVSg4dttJvP',
     attributes: [
       {
         trait_type: 'back',
@@ -22185,7 +22678,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR4KoJBBXEkAbMqvYdGytyTDakBQ6u1cs32gkWbGTHYRM',
+    previewUrl: 'QmUuJ791MbMKr1YZHNQnbNJhp5DxMuxgfLkoLhLJKPJxEH',
+    ipfsUrl: 'QmR4KoJBBXEkAbMqvYdGytyTDakBQ6u1cs32gkWbGTHYRM',
     attributes: [
       {
         trait_type: 'back',
@@ -22230,7 +22724,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbcrtxKjLN5fZruqq53bVwcnjdWGM9q7XQWHxNzocRPeh',
+    previewUrl: 'QmUfFqcmACvP4w1h1bwFEe2f19HMKyR5UrZkhAZo6aLBD1',
+    ipfsUrl: 'QmbcrtxKjLN5fZruqq53bVwcnjdWGM9q7XQWHxNzocRPeh',
     attributes: [
       {
         trait_type: 'back',
@@ -22275,7 +22770,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaVqZvaweh9kDW9XrQ5eB8MA4VKuWx6sfTa3BWcnrENQv',
+    previewUrl: 'QmWq1V1BXnjEaAuscZEKBfRAwH3ymUgFzePtmLwzkEXxYb',
+    ipfsUrl: 'QmaVqZvaweh9kDW9XrQ5eB8MA4VKuWx6sfTa3BWcnrENQv',
     attributes: [
       {
         trait_type: 'back',
@@ -22320,7 +22816,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcsGrkiLWevvd5NpnwyQtxuf4YMQN9cXcrXb2RASBX2vH',
+    previewUrl: 'QmS6tRTzde2baN2xkYZtPJLFQUoRj1EEaDvUmo37y8Hrw4',
+    ipfsUrl: 'QmcsGrkiLWevvd5NpnwyQtxuf4YMQN9cXcrXb2RASBX2vH',
     attributes: [
       {
         trait_type: 'back',
@@ -22365,7 +22862,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYYRPFEov4bGa6an7e38yXKZ582VVCTiqNNCjxm6BVzyD',
+    previewUrl: 'QmNPja4LHyF5A9fBUXJBbysEGzq1rAGjqbKzPGA9SXXEAC',
+    ipfsUrl: 'QmYYRPFEov4bGa6an7e38yXKZ582VVCTiqNNCjxm6BVzyD',
     attributes: [
       {
         trait_type: 'back',
@@ -22410,7 +22908,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYiduBuzFxhzXQdDoaxiCBoHFZGCt6wcWqJ3998GRCSC2',
+    previewUrl: 'QmbtFJJS34iEtBDd5veLueipzdLX7UiJnGtAx2KMpxLuEj',
+    ipfsUrl: 'QmYiduBuzFxhzXQdDoaxiCBoHFZGCt6wcWqJ3998GRCSC2',
     attributes: [
       {
         trait_type: 'back',
@@ -22455,7 +22954,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdSi5nBTohPxyToXqsra8tvU6wG32FuagmjiLXzJZ3Ep6',
+    previewUrl: 'QmPaNiypdLgUCpPUdjYxxEYAphaWQd2AJBN12zJrJKi7Fo',
+    ipfsUrl: 'QmdSi5nBTohPxyToXqsra8tvU6wG32FuagmjiLXzJZ3Ep6',
     attributes: [
       {
         trait_type: 'back',
@@ -22500,7 +23000,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPqMqsAUZKbg6zK7MDuRS3op2TeYYY6M3uCVLAbff9Lqp',
+    previewUrl: 'QmNtv1JnzZ6SJfFcMcbqRcjTgQbATJvmbo4m2r1xWW5kQk',
+    ipfsUrl: 'QmPqMqsAUZKbg6zK7MDuRS3op2TeYYY6M3uCVLAbff9Lqp',
     attributes: [
       {
         trait_type: 'back',
@@ -22545,7 +23046,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeAuBZPhQoQ932yBP1hjzZMnze2o9VemPKzwX5gYmCHJu',
+    previewUrl: 'QmWq7aqTyBGNiLxDH9Pw7UDRigKi29UMTQcjrmdPH6C6Cq',
+    ipfsUrl: 'QmeAuBZPhQoQ932yBP1hjzZMnze2o9VemPKzwX5gYmCHJu',
     attributes: [
       {
         trait_type: 'back',
@@ -22590,7 +23092,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTPPQ4P1guAaq3KrEKt7M9zuqL8pPNFxja5FvMY81BHJc',
+    previewUrl: 'Qmdpqp8jsFifnVFZvfzf9UGnSrAJif61aDfA95vhHwKqGj',
+    ipfsUrl: 'QmTPPQ4P1guAaq3KrEKt7M9zuqL8pPNFxja5FvMY81BHJc',
     attributes: [
       {
         trait_type: 'back',
@@ -22635,7 +23138,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR6fR6AFmxLuuGpoyp8BPUm3PhDkpqF2DZ6pUcqS6vRNx',
+    previewUrl: 'QmbDx44bfMNjfHmTHDorCTWhWooU4bGgy85qroAqux2LVR',
+    ipfsUrl: 'QmR6fR6AFmxLuuGpoyp8BPUm3PhDkpqF2DZ6pUcqS6vRNx',
     attributes: [
       {
         trait_type: 'back',
@@ -22680,7 +23184,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX5rA5zSaseo88wMb96A14xTfJRR2uDQkiD5qCDs1xkcy',
+    previewUrl: 'Qmeys2gew2aCNwB189iDdJ8W9rR56CtBUhYeq8LELFwYvG',
+    ipfsUrl: 'QmX5rA5zSaseo88wMb96A14xTfJRR2uDQkiD5qCDs1xkcy',
     attributes: [
       {
         trait_type: 'back',
@@ -22725,7 +23230,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNUv4ymJC6bGbX5cVoEvkLWv3QV3Lh5ehyjj3871PK2TC',
+    previewUrl: 'QmPLYJ7yHtqSqwUaPTTWoo8KUx2YtaayBdFKncoUFyaRxg',
+    ipfsUrl: 'QmNUv4ymJC6bGbX5cVoEvkLWv3QV3Lh5ehyjj3871PK2TC',
     attributes: [
       {
         trait_type: 'back',
@@ -22770,7 +23276,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdNBfJ1tjRHqvW6jpEn9jQn41vidv7UrzhMcBQED8MkrV',
+    previewUrl: 'QmQnKtwZT1t7Sp3M19FM5iXBFSEQRT1FKsE2r9WYFMSVaZ',
+    ipfsUrl: 'QmdNBfJ1tjRHqvW6jpEn9jQn41vidv7UrzhMcBQED8MkrV',
     attributes: [
       {
         trait_type: 'back',
@@ -22815,7 +23322,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcwQammCy8jS4j88Q71SqhckWxaarci6RtPVhCcuaa6t7',
+    previewUrl: 'QmSUN8AARbvFrqvGvB5EuhT42EEUK5SzEZRo54Zzt5aLwT',
+    ipfsUrl: 'QmcwQammCy8jS4j88Q71SqhckWxaarci6RtPVhCcuaa6t7',
     attributes: [
       {
         trait_type: 'back',
@@ -22860,7 +23368,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXtuZNC5rV6UaDeScTmCdDUb7Xq8RRgtvZxvuutLVMXSr',
+    previewUrl: 'QmafVg9ECRA4PfMkXSsxDFLaeY29fB37yhAQq4qxUSg8Rz',
+    ipfsUrl: 'QmXtuZNC5rV6UaDeScTmCdDUb7Xq8RRgtvZxvuutLVMXSr',
     attributes: [
       {
         trait_type: 'back',
@@ -22905,7 +23414,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW1KS5u7sH2zNpboh3jkaB9PjjuHryYiuguw1AkbDGj1J',
+    previewUrl: 'QmWJ9pmZ3YRSqv6FNeMWLB8C2bovwp4vS7yYxca2ewKgmi',
+    ipfsUrl: 'QmW1KS5u7sH2zNpboh3jkaB9PjjuHryYiuguw1AkbDGj1J',
     attributes: [
       {
         trait_type: 'back',
@@ -22950,7 +23460,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW29gZgkA4FGEKkNZB3TVVQ6ZLWW8KELhdBh95wkwEaof',
+    previewUrl: 'QmYuhGPQa8xaRWFbJGC8KvpaaWz5mxWS9Us8BeghVtBtz8',
+    ipfsUrl: 'QmW29gZgkA4FGEKkNZB3TVVQ6ZLWW8KELhdBh95wkwEaof',
     attributes: [
       {
         trait_type: 'back',
@@ -22995,7 +23506,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU7H4afwmKqr4DxjrNTiGKiwCrQobLGwvnGfLsoD54yMn',
+    previewUrl: 'QmYsbuHMwXjv1RxAHaWDLquw5HAsetpzTp9zi3fRaJa9tz',
+    ipfsUrl: 'QmU7H4afwmKqr4DxjrNTiGKiwCrQobLGwvnGfLsoD54yMn',
     attributes: [
       {
         trait_type: 'back',
@@ -23040,7 +23552,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfLXC7sXb1hYjXRAmTXHB8BVdC7eHhvGrwagitmCSrBdJ',
+    previewUrl: 'QmUdDRbqccWLiRQr3Em6h4rBamz5jNWUGQwRX34Q3Rnrsm',
+    ipfsUrl: 'QmfLXC7sXb1hYjXRAmTXHB8BVdC7eHhvGrwagitmCSrBdJ',
     attributes: [
       {
         trait_type: 'back',
@@ -23085,7 +23598,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTAAA2qMShqHKnmCKzmBfLQcXPuBUAr4Hom3TQb7ogaEx',
+    previewUrl: 'QmaPkmRJnTyBbjPowGnmU3pviQoFwnVgX8zYoNCiMYxnic',
+    ipfsUrl: 'QmTAAA2qMShqHKnmCKzmBfLQcXPuBUAr4Hom3TQb7ogaEx',
     attributes: [
       {
         trait_type: 'back',
@@ -23130,7 +23644,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZhqCmpBw2GQU89ayFhk18XXDHRGoZU89YeFNabdMUDfV',
+    previewUrl: 'QmNXmPBYgQDybqzwtur6fx6owHvQmRDo5eKd8XAHfy7LiQ',
+    ipfsUrl: 'QmZhqCmpBw2GQU89ayFhk18XXDHRGoZU89YeFNabdMUDfV',
     attributes: [
       {
         trait_type: 'back',
@@ -23175,7 +23690,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaK5UbQTB7rPVMYAGaYNv1JKDYcut7BkWAUUW3pcrmhKC',
+    previewUrl: 'QmXhw9HpRwc4myP7Agw7QjNrSWrKYLT5736uP6BxEBnAvc',
+    ipfsUrl: 'QmaK5UbQTB7rPVMYAGaYNv1JKDYcut7BkWAUUW3pcrmhKC',
     attributes: [
       {
         trait_type: 'back',
@@ -23220,7 +23736,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNxvjj4iHzm2UgWUrJPUAdv14J87sBn9feTHnXj6DP5AJ',
+    previewUrl: 'QmRzxGtM3vufXcq6cM2bRN1sKs7rBFfNQ1osYUJw4BGdkn',
+    ipfsUrl: 'QmNxvjj4iHzm2UgWUrJPUAdv14J87sBn9feTHnXj6DP5AJ',
     attributes: [
       {
         trait_type: 'back',
@@ -23265,7 +23782,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc7Xw12UehnT4mGoMzXnu1VF3p9rh45c6YZkpSM8S9kC5',
+    previewUrl: 'QmaYLSxf75eLxGR1FvrTAZxbw3njijXyuSHMu2dpRv6jPm',
+    ipfsUrl: 'Qmc7Xw12UehnT4mGoMzXnu1VF3p9rh45c6YZkpSM8S9kC5',
     attributes: [
       {
         trait_type: 'back',
@@ -23310,7 +23828,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdDW5ZyueWtg6stD5ztqUwmRXwU1UZHrVE8GDgGmj6KT2',
+    previewUrl: 'Qmcb1YtE6A5H3rYR83afuNULtRGWWoPK2KAh5zaCfZvPpM',
+    ipfsUrl: 'QmdDW5ZyueWtg6stD5ztqUwmRXwU1UZHrVE8GDgGmj6KT2',
     attributes: [
       {
         trait_type: 'back',
@@ -23355,7 +23874,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTV3sMR9C9TiubM5DwZq6AM3HY57VgEyLXLQNxDHpsZa1',
+    previewUrl: 'QmNTZTzddw4xxL8E1fy3UgqQxdmE1BtUhy6J85NgKHUeGy',
+    ipfsUrl: 'QmTV3sMR9C9TiubM5DwZq6AM3HY57VgEyLXLQNxDHpsZa1',
     attributes: [
       {
         trait_type: 'back',
@@ -23400,7 +23920,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZxVPwsVRtY74s2ZkiuwyXLZ6A7pFqt89CtCqGaX6Y6uH',
+    previewUrl: 'Qme8C6oHwSNC62E1piKcnAjRZCXoN7HnmWnZw5KtbJWWME',
+    ipfsUrl: 'QmZxVPwsVRtY74s2ZkiuwyXLZ6A7pFqt89CtCqGaX6Y6uH',
     attributes: [
       {
         trait_type: 'back',
@@ -23445,7 +23966,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRdk8jZCZE58gm3ABHnj4GdY6h4bDpPLwA7REZrtbR5zv',
+    previewUrl: 'QmWDA3jpTaTTLEHnmCCNECNnebrZqykojMdhhEi3JCQhxN',
+    ipfsUrl: 'QmRdk8jZCZE58gm3ABHnj4GdY6h4bDpPLwA7REZrtbR5zv',
     attributes: [
       {
         trait_type: 'back',
@@ -23490,7 +24012,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZLQpKysCSoNHKUCcmTcnSGZfGXS4vsCDvxx9mWTcHr9g',
+    previewUrl: 'QmdNjCQbj7ZRe2zTcyvQZoq4Bk1mpaqcrR4b7fEqLrX6GW',
+    ipfsUrl: 'QmZLQpKysCSoNHKUCcmTcnSGZfGXS4vsCDvxx9mWTcHr9g',
     attributes: [
       {
         trait_type: 'back',
@@ -23535,7 +24058,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSe7u5qpG1YvvMUnEbsH3Ys2mG215AKqaSCWLne9Um6wB',
+    previewUrl: 'Qma2qSny8cpjZBa2vTsrbeGCnJkgcp1ECLHv2YpduonPma',
+    ipfsUrl: 'QmSe7u5qpG1YvvMUnEbsH3Ys2mG215AKqaSCWLne9Um6wB',
     attributes: [
       {
         trait_type: 'back',
@@ -23580,7 +24104,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeEEdjjFm2Etr2MJGtxW1H1yyeCoLXYKxPCvqhnJjpgHf',
+    previewUrl: 'QmdGEAAU2SrB3BWCEnBdtQuZGG76dFuu3DHvuRQQtTYdmL',
+    ipfsUrl: 'QmeEEdjjFm2Etr2MJGtxW1H1yyeCoLXYKxPCvqhnJjpgHf',
     attributes: [
       {
         trait_type: 'back',
@@ -23625,7 +24150,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTx1Vd7T441G2hNXeGcwSaCxQuK9BBupdcnpsF7NkCk77',
+    previewUrl: 'QmesJ9bwh9VNBQ3DPJPDnRtv7XbWfsNCAJtCPzKwGMF4qS',
+    ipfsUrl: 'QmTx1Vd7T441G2hNXeGcwSaCxQuK9BBupdcnpsF7NkCk77',
     attributes: [
       {
         trait_type: 'back',
@@ -23670,7 +24196,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQDW75AVKtW6yP2aRbiQ8RKups1aGwc5qNwYGKwWLAKF9',
+    previewUrl: 'QmNvm9Bbhopy3RD9X4prVi9FDDmCtpULxxEc5kRzkvp1rD',
+    ipfsUrl: 'QmQDW75AVKtW6yP2aRbiQ8RKups1aGwc5qNwYGKwWLAKF9',
     attributes: [
       {
         trait_type: 'back',
@@ -23715,7 +24242,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVAukTPixhoKHrEdFx7y1p7YQDnR2BzV8QYsxitgFbmkB',
+    previewUrl: 'QmPjAydoCGTk6gXfSM67JzEdoy93Xp2JuSxXeLgnpTWTfU',
+    ipfsUrl: 'QmVAukTPixhoKHrEdFx7y1p7YQDnR2BzV8QYsxitgFbmkB',
     attributes: [
       {
         trait_type: 'back',
@@ -23760,7 +24288,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTJW5zMkkVMUWqcXRCfwA7myWyyU2uDeWYrKanGrygpgi',
+    previewUrl: 'QmSHn1zRRuStyncmqnGiXcpwPQNLVThqtpa96WVKbFqcDF',
+    ipfsUrl: 'QmTJW5zMkkVMUWqcXRCfwA7myWyyU2uDeWYrKanGrygpgi',
     attributes: [
       {
         trait_type: 'back',
@@ -23805,7 +24334,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWm7xDjULGpwanmvc74JbKREoJ9aXV7Qxd6ZXhamQfkSE',
+    previewUrl: 'QmXwBi8BSXZ65vzLM97AjPitMHwmWRKp9WrfmfXzehH1Mg',
+    ipfsUrl: 'QmWm7xDjULGpwanmvc74JbKREoJ9aXV7Qxd6ZXhamQfkSE',
     attributes: [
       {
         trait_type: 'back',
@@ -23850,7 +24380,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmP2Exs3H5ctjYRZ28bpbt1XVoCojL55Qdqib2GeAVc9K7',
+    previewUrl: 'QmPFxsnawcVy3RdBZVP1A5jxr8PFk5hWv6EibLUp93w4am',
+    ipfsUrl: 'QmP2Exs3H5ctjYRZ28bpbt1XVoCojL55Qdqib2GeAVc9K7',
     attributes: [
       {
         trait_type: 'back',
@@ -23895,7 +24426,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUCWQYd5yqYr7zBhtQeqGSC28qvApYVfe4iRayvae3hVZ',
+    previewUrl: 'QmYpbbxtTKjEXCCkcUe1qxtMHSxz4vNGcfwtRQyLK5sfDN',
+    ipfsUrl: 'QmUCWQYd5yqYr7zBhtQeqGSC28qvApYVfe4iRayvae3hVZ',
     attributes: [
       {
         trait_type: 'back',
@@ -23940,7 +24472,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmP4myAWWg8gKfFehybeYoHXvWL9nxgryBovZVLxk1eT9S',
+    previewUrl: 'QmTeR6mPx4WNRM79jckbq79m1nqRij8vgKo83kfLswnWuK',
+    ipfsUrl: 'QmP4myAWWg8gKfFehybeYoHXvWL9nxgryBovZVLxk1eT9S',
     attributes: [
       {
         trait_type: 'back',
@@ -23985,7 +24518,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcUCn4XimhTvbHZNfkCKHxe7JJbeoAi9N2VA9ns8fpuh5',
+    previewUrl: 'QmW2KAHxLBtKUjKRoNjJUjhPQuna2zjFrUcFVDojyLQjiX',
+    ipfsUrl: 'QmcUCn4XimhTvbHZNfkCKHxe7JJbeoAi9N2VA9ns8fpuh5',
     attributes: [
       {
         trait_type: 'back',
@@ -24030,7 +24564,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPzmfku5h3AgcWf8KTMUSfkSUDPZgpfxKFAkAVZP4JwUQ',
+    previewUrl: 'QmdhQfY3vzWzbipr3t2w5i1DZCCaQRonawqf6jjHmoNHNA',
+    ipfsUrl: 'QmPzmfku5h3AgcWf8KTMUSfkSUDPZgpfxKFAkAVZP4JwUQ',
     attributes: [
       {
         trait_type: 'back',
@@ -24075,7 +24610,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWU4TZMNk4QDEX3LoD5vnw6FfkdpEW3Jp9TCbMEZ68RnK',
+    previewUrl: 'QmU3rPaA3MdMWit9veveC2XUiUmTQD5MTZEYWsFDsEDaCA',
+    ipfsUrl: 'QmWU4TZMNk4QDEX3LoD5vnw6FfkdpEW3Jp9TCbMEZ68RnK',
     attributes: [
       {
         trait_type: 'back',
@@ -24120,7 +24656,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdiVY3a6ULytLMEDGDdd3n6RP1DG5HDxj3QC9N8HMZJKX',
+    previewUrl: 'Qmd3PgWcMigXk3e5kHp2nrdXj4vknqGgmPNssTggXjofDT',
+    ipfsUrl: 'QmdiVY3a6ULytLMEDGDdd3n6RP1DG5HDxj3QC9N8HMZJKX',
     attributes: [
       {
         trait_type: 'back',
@@ -24165,7 +24702,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTC2tfSjrnFNDmxEQYPJcinXoZQHpXRvCQ3T7YRYh41w5',
+    previewUrl: 'QmQXCuG1jPogdpDfv9vsxDucmRY6s2bbXcwV9qwXYKHhpt',
+    ipfsUrl: 'QmTC2tfSjrnFNDmxEQYPJcinXoZQHpXRvCQ3T7YRYh41w5',
     attributes: [
       {
         trait_type: 'back',
@@ -24210,7 +24748,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaN5EjKRaDmyK3gL37ThiZoUFDjXxZ2f24jgFAHt5Fc2e',
+    previewUrl: 'QmXXnCz1RVMnqq6zXxBjhPGxGs78sTnBPb6Bukudegp6GL',
+    ipfsUrl: 'QmaN5EjKRaDmyK3gL37ThiZoUFDjXxZ2f24jgFAHt5Fc2e',
     attributes: [
       {
         trait_type: 'back',
@@ -24255,7 +24794,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUapNUCDCou746eHQbSMb8ebx2UJ1vSMjKuTGGgYFMbTU',
+    previewUrl: 'QmUau8TDGQtVUJ6DbzFfJpVWCLVX7NyZHoUqgmVHHuNZHr',
+    ipfsUrl: 'QmUapNUCDCou746eHQbSMb8ebx2UJ1vSMjKuTGGgYFMbTU',
     attributes: [
       {
         trait_type: 'back',
@@ -24300,7 +24840,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmdz46byXu2EpAmtrCqfgVYu8FMag9fA9jWqtDPzcRAWFJ',
+    previewUrl: 'QmQdkx5EUo1mriYSUGqfPSsYdHa3412wXRqMB1f25MMQHB',
+    ipfsUrl: 'Qmdz46byXu2EpAmtrCqfgVYu8FMag9fA9jWqtDPzcRAWFJ',
     attributes: [
       {
         trait_type: 'back',
@@ -24345,7 +24886,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY1AfXajnpajHkCcs8J7WwMREA7wcgRaAQrMXiYCpmv2U',
+    previewUrl: 'QmRFwEPiEAnjzWcx3hJsCYnvff2i1uoF2T9mAhP4Z89Kyh',
+    ipfsUrl: 'QmY1AfXajnpajHkCcs8J7WwMREA7wcgRaAQrMXiYCpmv2U',
     attributes: [
       {
         trait_type: 'back',
@@ -24390,7 +24932,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZdRkYxz9hKFVGL4rUS7FvmyoSJSEvoh7hfJDj8bDQwMX',
+    previewUrl: 'QmZaXyrwtu1d9L3tb4FT27mhrwbXGJ1ssg37JnFjXVAvGh',
+    ipfsUrl: 'QmZdRkYxz9hKFVGL4rUS7FvmyoSJSEvoh7hfJDj8bDQwMX',
     attributes: [
       {
         trait_type: 'back',
@@ -24435,7 +24978,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQWLWWqoA3YevQwpotWGLACesuaon43yjncqoByUx375N',
+    previewUrl: 'QmVJmpmV8WTs94D8p4YqsHaoGFQN4Vek5wxVcoqrE5bW1a',
+    ipfsUrl: 'QmQWLWWqoA3YevQwpotWGLACesuaon43yjncqoByUx375N',
     attributes: [
       {
         trait_type: 'back',
@@ -24480,7 +25024,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQVeHHa9BXcxzP5NVoPycJ2cNWkWMJRZkR1mKHQRTWarf',
+    previewUrl: 'QmfWRvWHoeDMzsYjYBbQFev9qygifuuQDdgsMPj9hgMWjr',
+    ipfsUrl: 'QmQVeHHa9BXcxzP5NVoPycJ2cNWkWMJRZkR1mKHQRTWarf',
     attributes: [
       {
         trait_type: 'back',
@@ -24525,7 +25070,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQJLBGmFaSyAS6xFvPjbPRFQqZemKMhcg3wc5wZjxtQGn',
+    previewUrl: 'QmZ6MLK2jBWXwdPuAzVmFsm7SyzUfvtvA55pyh9hbq1Mtk',
+    ipfsUrl: 'QmQJLBGmFaSyAS6xFvPjbPRFQqZemKMhcg3wc5wZjxtQGn',
     attributes: [
       {
         trait_type: 'back',
@@ -24570,7 +25116,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcCQsVxaqz1XZLXeWGrhm7AcsqZcgdBHnvc5UNpGXzPhu',
+    previewUrl: 'QmW1fczj1dfhFmiktrYYs4hEddhZ2jUbLt6V5akLjAZmmQ',
+    ipfsUrl: 'QmcCQsVxaqz1XZLXeWGrhm7AcsqZcgdBHnvc5UNpGXzPhu',
     attributes: [
       {
         trait_type: 'back',
@@ -24615,7 +25162,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU7ogSyErodhrohg3WwDdHdCnQPRbfdSeSPytVEZ35XiM',
+    previewUrl: 'QmNwC4pfFQUndvqCXs3mwXrnLMfYVME3Bo8g2hKjRTU9qe',
+    ipfsUrl: 'QmU7ogSyErodhrohg3WwDdHdCnQPRbfdSeSPytVEZ35XiM',
     attributes: [
       {
         trait_type: 'back',
@@ -24660,7 +25208,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTJzZnC2qGA9DjuUyNkjYSoU5kSpPaDLEEUDMLLe2ToBK',
+    previewUrl: 'QmRRny4ogjCYR47axjaAR44yG4j6c9TRX5C5vgyGDCAYRB',
+    ipfsUrl: 'QmTJzZnC2qGA9DjuUyNkjYSoU5kSpPaDLEEUDMLLe2ToBK',
     attributes: [
       {
         trait_type: 'back',
@@ -24705,7 +25254,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbqGpPKXU6wzjDR4quVFh3n1GmFA1Ytb5PjgyWrxANk9c',
+    previewUrl: 'QmX8Hqzq3mjXdgxVngeXUTTcRrkHLdguBcW2SB9ffnbMHc',
+    ipfsUrl: 'QmbqGpPKXU6wzjDR4quVFh3n1GmFA1Ytb5PjgyWrxANk9c',
     attributes: [
       {
         trait_type: 'back',
@@ -24750,7 +25300,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmScH3m1HK11FtGM2D2BdgEdxQkqrPnzFSqBogsyqmbKHh',
+    previewUrl: 'QmeFXE2jAtN1XPPtN7hduLceUnLjiHZew8XKnZYdnDBR3K',
+    ipfsUrl: 'QmScH3m1HK11FtGM2D2BdgEdxQkqrPnzFSqBogsyqmbKHh',
     attributes: [
       {
         trait_type: 'back',
@@ -24795,7 +25346,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYjTiamRMjTCyKxM4mt63hrLndJyHPn98qMadf4k21oj4',
+    previewUrl: 'Qmai7oPDsxUQ7a7FSxNEfYoPL86ReD8P9pWr6naGzoB6Pq',
+    ipfsUrl: 'QmYjTiamRMjTCyKxM4mt63hrLndJyHPn98qMadf4k21oj4',
     attributes: [
       {
         trait_type: 'back',
@@ -24840,7 +25392,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWQUbQiuy5yFiRCW3oCaVYZFkh4dASRR4HLfAupELSKZU',
+    previewUrl: 'QmRSxSaiKtei84wEeqvScmqctF5HN6q5y9BbxTaPXfSQTZ',
+    ipfsUrl: 'QmWQUbQiuy5yFiRCW3oCaVYZFkh4dASRR4HLfAupELSKZU',
     attributes: [
       {
         trait_type: 'back',
@@ -24885,7 +25438,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVWEmRagV92hqbFxbRkpHR4fjmiihnF1rcWKkqediZF3b',
+    previewUrl: 'QmdMmEqyetCBcnhxXCMwPVcJ9UbUZzLredxbfqTGmtWKtV',
+    ipfsUrl: 'QmVWEmRagV92hqbFxbRkpHR4fjmiihnF1rcWKkqediZF3b',
     attributes: [
       {
         trait_type: 'back',
@@ -24930,7 +25484,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfJNLXNkJXwAyT5Z1gJKmAuk6izkCacZtpKMNjvfd5QRN',
+    previewUrl: 'QmQ1pDdjaex6reMGUyXZyThmE6AyY12ienQc9Pe6X4Vx8n',
+    ipfsUrl: 'QmfJNLXNkJXwAyT5Z1gJKmAuk6izkCacZtpKMNjvfd5QRN',
     attributes: [
       {
         trait_type: 'back',
@@ -24975,7 +25530,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdxGNcYcnw1Pz56nheSZ1TgLufspngk36FYU2eCwrYhtq',
+    previewUrl: 'QmW8K6peMec1i1v6SqNJhneBoEU5yexQUD1vCZLf7gMrap',
+    ipfsUrl: 'QmdxGNcYcnw1Pz56nheSZ1TgLufspngk36FYU2eCwrYhtq',
     attributes: [
       {
         trait_type: 'back',
@@ -25020,7 +25576,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVW4vCGjbX1BL3mxahw78ssxD8VYtJmMzNqvVo3TFV4Q7',
+    previewUrl: 'QmVjEftiAN6WZC4tBqoPPN72k3Raf1gQf3jgCKpCfR6vJt',
+    ipfsUrl: 'QmVW4vCGjbX1BL3mxahw78ssxD8VYtJmMzNqvVo3TFV4Q7',
     attributes: [
       {
         trait_type: 'back',
@@ -25065,7 +25622,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPiAW24fiym3183kym2mFUGmGRgLB8kTCogpUKqc4kGhG',
+    previewUrl: 'QmTiM6wLCJXntHMCeNn3AkAFi3r5t6kLAPrDg4bmsrtsEL',
+    ipfsUrl: 'QmPiAW24fiym3183kym2mFUGmGRgLB8kTCogpUKqc4kGhG',
     attributes: [
       {
         trait_type: 'back',
@@ -25110,7 +25668,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmamUchftQadrPtsQZvibMYk8t5jufkjUcQ9RBDgDQdLzs',
+    previewUrl: 'QmYbNyAuVD3yoUGJDwQPAS3Tn9ERKKeAXQB9kHPNko86Yi',
+    ipfsUrl: 'QmamUchftQadrPtsQZvibMYk8t5jufkjUcQ9RBDgDQdLzs',
     attributes: [
       {
         trait_type: 'back',
@@ -25155,7 +25714,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT2KNCdjrTffZcoziY5wscCEr3ZVrpFJS8SgahsKce8Eh',
+    previewUrl: 'Qmc9BmrmeKR1nhScVAL1sb3boMEp9eqpwUrg4ZmWFwedac',
+    ipfsUrl: 'QmT2KNCdjrTffZcoziY5wscCEr3ZVrpFJS8SgahsKce8Eh',
     attributes: [
       {
         trait_type: 'back',
@@ -25200,7 +25760,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeYPMkYUKZUeF6tE66nci9nCm9ZNuuVAS6wuh6jMM1eag',
+    previewUrl: 'QmbbNPAvLg9SEzEj4aNw3xvfici8bFVkS34iEiyxHoU3vn',
+    ipfsUrl: 'QmeYPMkYUKZUeF6tE66nci9nCm9ZNuuVAS6wuh6jMM1eag',
     attributes: [
       {
         trait_type: 'back',
@@ -25245,7 +25806,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV7xSPYExkekQGKNAz5EZnUS5qHnPZDtJxSBn27Wtrrvh',
+    previewUrl: 'QmSLScmBBTr6TskAaJQLSiKDoDsGUWjdSdroEXjP1K3HLZ',
+    ipfsUrl: 'QmV7xSPYExkekQGKNAz5EZnUS5qHnPZDtJxSBn27Wtrrvh',
     attributes: [
       {
         trait_type: 'back',
@@ -25290,7 +25852,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcGRA3YM4HoZBQn3BDcNDe9Xq6izSuhxcVuU1mz36kmeL',
+    previewUrl: 'QmUSri4YQjhQGmcx8svT5puiJfgDdcBuyDB3985xcHyZW4',
+    ipfsUrl: 'QmcGRA3YM4HoZBQn3BDcNDe9Xq6izSuhxcVuU1mz36kmeL',
     attributes: [
       {
         trait_type: 'back',
@@ -25335,7 +25898,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPMeCMw6sa5FKjxm7EzEyfnqb2JcrxDb6sQonFoXWKTeS',
+    previewUrl: 'QmaVYc5bVaCnjzXoo6XAARK5Hiha9ZrCr6ZSi4CX8LYcEh',
+    ipfsUrl: 'QmPMeCMw6sa5FKjxm7EzEyfnqb2JcrxDb6sQonFoXWKTeS',
     attributes: [
       {
         trait_type: 'back',
@@ -25380,7 +25944,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYbcAFxPCTXbDNBJ1US2UWfvW7b6GLM5m7cuzmUGDg3NM',
+    previewUrl: 'QmQDVMXomLVneFBCiatLUgtqEjiXHRs92HR9vqtYG2fdC2',
+    ipfsUrl: 'QmYbcAFxPCTXbDNBJ1US2UWfvW7b6GLM5m7cuzmUGDg3NM',
     attributes: [
       {
         trait_type: 'back',
@@ -25425,7 +25990,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNgyouV6r1rbNAMx9DsMGPhf98ebNjGiEycjzXG2HEzpU',
+    previewUrl: 'QmfCuZByhNwLWjLFfDySzvQRG6dgFAeDqmRSpXAiQTNUv7',
+    ipfsUrl: 'QmNgyouV6r1rbNAMx9DsMGPhf98ebNjGiEycjzXG2HEzpU',
     attributes: [
       {
         trait_type: 'back',
@@ -25470,7 +26036,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWz7iSAyXK18fm5LF9pGdQq9Krc676icq1hLxfdRruN2Y',
+    previewUrl: 'QmRBpZ24uAu1wuTmfKVP5ZaTyeetN7VYEyBCth6xrNar8g',
+    ipfsUrl: 'QmWz7iSAyXK18fm5LF9pGdQq9Krc676icq1hLxfdRruN2Y',
     attributes: [
       {
         trait_type: 'back',
@@ -25515,7 +26082,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZrcSjpqpLENYm79SapLwpyA56SgiwTPgjFko9zDCoaMm',
+    previewUrl: 'QmU3utx3JMgJd3qqsqqrRQ8FqHi2fKVAsw8QQjJALvpKAN',
+    ipfsUrl: 'QmZrcSjpqpLENYm79SapLwpyA56SgiwTPgjFko9zDCoaMm',
     attributes: [
       {
         trait_type: 'back',
@@ -25560,7 +26128,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTmSrMXnW3fVSvQZMYsYN34texj4stxQ4WViehBAdHpTz',
+    previewUrl: 'Qmc8m9wGvB5Gqrhm6CGe2pN5YmNJAN4Kzf2qGqi1Sk9GTQ',
+    ipfsUrl: 'QmTmSrMXnW3fVSvQZMYsYN34texj4stxQ4WViehBAdHpTz',
     attributes: [
       {
         trait_type: 'back',
@@ -25605,7 +26174,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ8uhqaLE3owpKYvYEVGc6LzRcjizZipck23kfAa1Hmc5',
+    previewUrl: 'QmUFf2b5PVDXLa9ApTvWpL3rjYE2Z2wH5yv5aKskVZAHuz',
+    ipfsUrl: 'QmZ8uhqaLE3owpKYvYEVGc6LzRcjizZipck23kfAa1Hmc5',
     attributes: [
       {
         trait_type: 'back',
@@ -25650,7 +26220,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmf1UdzP5qMmU35fd7d5w9zzX9RPCHsxqSH7LmH6HxGKP6',
+    previewUrl: 'QmYpngq8ZVE8tR8whYmwfgZLyC3ofSS5nZz218gpcRqaUZ',
+    ipfsUrl: 'Qmf1UdzP5qMmU35fd7d5w9zzX9RPCHsxqSH7LmH6HxGKP6',
     attributes: [
       {
         trait_type: 'back',
@@ -25695,7 +26266,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfCxJYM36vD8feFpDQ9MPkpufqDPgHCNaAWrKD1oMXCXh',
+    previewUrl: 'QmPKikKpj46fLKzAG3FHmCytL4UaVM3UkYHXneJ5pVkTAA',
+    ipfsUrl: 'QmfCxJYM36vD8feFpDQ9MPkpufqDPgHCNaAWrKD1oMXCXh',
     attributes: [
       {
         trait_type: 'back',
@@ -25740,7 +26312,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc9bSGi9mokXNmPE3hWh5moZUxcZujJoWBk3WjDrVWGJU',
+    previewUrl: 'Qmex8925PstouiGyPRUx5SSmt6HYahL4efs9pQQUUcwz8D',
+    ipfsUrl: 'Qmc9bSGi9mokXNmPE3hWh5moZUxcZujJoWBk3WjDrVWGJU',
     attributes: [
       {
         trait_type: 'back',
@@ -25785,7 +26358,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRLEsXsCR28U9uxiryz2XwkzGoDHCkM9yLa9Tpenm6jWb',
+    previewUrl: 'QmRBQTFU27D76Dc84xN1zedHDBxtF6yVKDy6sUz98ZreFC',
+    ipfsUrl: 'QmRLEsXsCR28U9uxiryz2XwkzGoDHCkM9yLa9Tpenm6jWb',
     attributes: [
       {
         trait_type: 'back',
@@ -25830,7 +26404,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYfQXiZSSwkrqFMHX4bTFXJjyrxmtmErk6NUprDzCSdTM',
+    previewUrl: 'QmPZoegfAWbHBue5FzKbeTM8EUaSkmNPPp4ea6Vmvafqx3',
+    ipfsUrl: 'QmYfQXiZSSwkrqFMHX4bTFXJjyrxmtmErk6NUprDzCSdTM',
     attributes: [
       {
         trait_type: 'back',
@@ -25875,7 +26450,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSJWZrzkqBr1FjVYHFQDsqHVt8dzk19pJd3qufkou8L16',
+    previewUrl: 'QmfW6xNtwzwsfhSGebScxoYBaNS6ePKCpHuvg49EcahWA3',
+    ipfsUrl: 'QmSJWZrzkqBr1FjVYHFQDsqHVt8dzk19pJd3qufkou8L16',
     attributes: [
       {
         trait_type: 'back',
@@ -25920,7 +26496,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZEX3WzoGAwcXwRgfdPcpFZ5bfwPjBiT7BeZXYqM3vqxZ',
+    previewUrl: 'QmWfFVrtQfGMUEnH3iKPRRMn67c7E6FLqmEKwMN8STdaq9',
+    ipfsUrl: 'QmZEX3WzoGAwcXwRgfdPcpFZ5bfwPjBiT7BeZXYqM3vqxZ',
     attributes: [
       {
         trait_type: 'back',
@@ -25965,7 +26542,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbPPJWf3WY4fk7s3t1VThSHFXtPTScSGAJQokAiJHzuDT',
+    previewUrl: 'QmTuCpAXs2YNKPSEKUy5usKL49XHL8iHH9EDsPdVaepUb2',
+    ipfsUrl: 'QmbPPJWf3WY4fk7s3t1VThSHFXtPTScSGAJQokAiJHzuDT',
     attributes: [
       {
         trait_type: 'back',
@@ -26010,7 +26588,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY11AGBxW2qoJP3kDKGWaQQu44JpTvkeQyaJztJQJx3e2',
+    previewUrl: 'QmVacZfSvDzVivwsNX6soq64wfej2t5fv4XCLYtFYWtNks',
+    ipfsUrl: 'QmY11AGBxW2qoJP3kDKGWaQQu44JpTvkeQyaJztJQJx3e2',
     attributes: [
       {
         trait_type: 'back',
@@ -26055,7 +26634,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYcGGnNcv8aFQfDk5F8veenXZiCetmPYDSTXRhxZm2ASC',
+    previewUrl: 'QmeffYGiBVc9CFydK5T3bcvanDw5zsG3SGcDCWPCYDpDR4',
+    ipfsUrl: 'QmYcGGnNcv8aFQfDk5F8veenXZiCetmPYDSTXRhxZm2ASC',
     attributes: [
       {
         trait_type: 'back',
@@ -26100,7 +26680,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRK5ewQFdxbuHGLPix4ECuWiTC5Sy9XUNRt547Xjq6YT9',
+    previewUrl: 'QmbU74tRRmMun8GjRrZ8dXo8Pt3owaetjLu6P3rUCQ36gs',
+    ipfsUrl: 'QmRK5ewQFdxbuHGLPix4ECuWiTC5Sy9XUNRt547Xjq6YT9',
     attributes: [
       {
         trait_type: 'back',
@@ -26145,7 +26726,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qme4av7pewEjdQ78MR8hfHgXdBDM3h6qr8U98dpKq9M1Fc',
+    previewUrl: 'QmbmNpc1AAQX4wHqDz482ZyiQH5uFvvX43NQGkXHD9RQoe',
+    ipfsUrl: 'Qme4av7pewEjdQ78MR8hfHgXdBDM3h6qr8U98dpKq9M1Fc',
     attributes: [
       {
         trait_type: 'back',
@@ -26190,7 +26772,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX5PQUViKAyiySwtCgjxgqnFfMk6tCJoCWXCpo7NiXbWB',
+    previewUrl: 'QmYc6p5N9FhK8TM57bZfQqvqjvPbiCb4hFWgsA1VuEv5i9',
+    ipfsUrl: 'QmX5PQUViKAyiySwtCgjxgqnFfMk6tCJoCWXCpo7NiXbWB',
     attributes: [
       {
         trait_type: 'back',
@@ -26235,7 +26818,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZJjbfxZ5vwQZtuRQuCByTyJxC8GsoH1T2CXcfvda5h1L',
+    previewUrl: 'QmW8nNka2K7FCe63gYLUzbY3LCv5J2GPvKpnbDiHHRw7qR',
+    ipfsUrl: 'QmZJjbfxZ5vwQZtuRQuCByTyJxC8GsoH1T2CXcfvda5h1L',
     attributes: [
       {
         trait_type: 'back',
@@ -26280,7 +26864,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQvqC3FzanJnhLUtjozm9rdsimJPpgvPLXhziw66TbSGB',
+    previewUrl: 'QmXYR7YWAJrby6jUenMUd4PchztHLVqwLKpzxQfX9tcDYu',
+    ipfsUrl: 'QmQvqC3FzanJnhLUtjozm9rdsimJPpgvPLXhziw66TbSGB',
     attributes: [
       {
         trait_type: 'back',
@@ -26325,7 +26910,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY1WqHvk8qncipft8uwqP1HAWH4o1r7RejHwKrRLKn32V',
+    previewUrl: 'QmNxXuaKMn4SVo8aWp6aPWtWx8vx8TLwHkfWoHiFXF5e7N',
+    ipfsUrl: 'QmY1WqHvk8qncipft8uwqP1HAWH4o1r7RejHwKrRLKn32V',
     attributes: [
       {
         trait_type: 'back',
@@ -26370,7 +26956,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYAwE6LwAxKJGSAF8j2WcSWeYBnSXbQsmCVRfHzdxZbVU',
+    previewUrl: 'QmPy91K469mAwcmFmN1tfGg8w1smoj3giUYRpS6G9zp3XV',
+    ipfsUrl: 'QmYAwE6LwAxKJGSAF8j2WcSWeYBnSXbQsmCVRfHzdxZbVU',
     attributes: [
       {
         trait_type: 'back',
@@ -26415,7 +27002,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNuq4M57FrXaUrvGzESZpojDzKC4fWzBY3Ug5TNDHg7BB',
+    previewUrl: 'QmU5bcf1hrzy3PL6qoPnwW4DhYQ58pc6kYqEA8T6tLkESa',
+    ipfsUrl: 'QmNuq4M57FrXaUrvGzESZpojDzKC4fWzBY3Ug5TNDHg7BB',
     attributes: [
       {
         trait_type: 'back',
@@ -26460,7 +27048,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdTQZyh3tvPevDJouWVFYDMUei9fXhAGrjxpAQKC8dp9w',
+    previewUrl: 'QmVeySaYW6He9Xu3jq4HMyZVdydpFw6mMWcYVcNW58izdY',
+    ipfsUrl: 'QmdTQZyh3tvPevDJouWVFYDMUei9fXhAGrjxpAQKC8dp9w',
     attributes: [
       {
         trait_type: 'back',
@@ -26505,7 +27094,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaHS3jWZw6Qog4mjfkNFp3h9AHQhLcmM21FkNwp2iW5CL',
+    previewUrl: 'QmVYtk9QBm6QHhUvKdfRgfwtTaFZUPuDYvsBPPXCQnbXWL',
+    ipfsUrl: 'QmaHS3jWZw6Qog4mjfkNFp3h9AHQhLcmM21FkNwp2iW5CL',
     attributes: [
       {
         trait_type: 'back',
@@ -26550,7 +27140,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeZjhFQaFP5eMMgxDMpjwqL5LpUKEiBR4utGRK1gMM8Cn',
+    previewUrl: 'QmUCCaZeU6o2RtNdBx3CfsCmNYysrew7BfU7czEQ3PSy1w',
+    ipfsUrl: 'QmeZjhFQaFP5eMMgxDMpjwqL5LpUKEiBR4utGRK1gMM8Cn',
     attributes: [
       {
         trait_type: 'back',
@@ -26595,7 +27186,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQoFgpEtFTTqMGqDFb1sA3U1SLGy96j3Nr9HLWn4U6Vys',
+    previewUrl: 'QmaRRbGgavy5uqnk5njsNnxG9dv7SvhWUQ7j7yPtGpDAf3',
+    ipfsUrl: 'QmQoFgpEtFTTqMGqDFb1sA3U1SLGy96j3Nr9HLWn4U6Vys',
     attributes: [
       {
         trait_type: 'back',
@@ -26640,7 +27232,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUaGZBAdbTEojSuPMfVaZ8KDnqYu3b7PqHJcxKLjMpkpk',
+    previewUrl: 'Qme149LAcUZDqhEb64o3v9qKyXqGD6UzhXjVWsWAt6bFKq',
+    ipfsUrl: 'QmUaGZBAdbTEojSuPMfVaZ8KDnqYu3b7PqHJcxKLjMpkpk',
     attributes: [
       {
         trait_type: 'back',
@@ -26685,7 +27278,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmatwkai5AP1GKtDYCCrJ93uhsoVuwpbo1PZYGVFPkKB62',
+    previewUrl: 'QmdPSx8Tw27rGBxC8rwTLqL95WGeRDf8ULN3fD5G5Gdsks',
+    ipfsUrl: 'Qmatwkai5AP1GKtDYCCrJ93uhsoVuwpbo1PZYGVFPkKB62',
     attributes: [
       {
         trait_type: 'back',
@@ -26730,7 +27324,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcNTeRZCgAhtcbFY4chrCKvFZxkvrDvZ6pPPYuDdk42h8',
+    previewUrl: 'QmbStwxZQYUUSLN64ZhV2iPf3coz2CsP7ETMp2QtCxZ6Nj',
+    ipfsUrl: 'QmcNTeRZCgAhtcbFY4chrCKvFZxkvrDvZ6pPPYuDdk42h8',
     attributes: [
       {
         trait_type: 'back',
@@ -26775,7 +27370,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPtmDebvoqrYQZR5VievNXAj5xXJWj5serpYC5Hc7YWeN',
+    previewUrl: 'Qmazk2A3t5zBgwkXMjcmNWxFFofCP7zGMcMSCL8myJmfmR',
+    ipfsUrl: 'QmPtmDebvoqrYQZR5VievNXAj5xXJWj5serpYC5Hc7YWeN',
     attributes: [
       {
         trait_type: 'back',
@@ -26820,7 +27416,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeXJ8TBjmML9pzgwB6hWGEmUd1GFmncbMF2mYLKnnjDiz',
+    previewUrl: 'QmU26UsaqSiVqMhaWQbs2DDFtLATUNCJz23GkCY8mk4pLP',
+    ipfsUrl: 'QmeXJ8TBjmML9pzgwB6hWGEmUd1GFmncbMF2mYLKnnjDiz',
     attributes: [
       {
         trait_type: 'back',
@@ -26865,7 +27462,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU39JY8Tn8D8MMmRj1HpR2SZNaMCsQbxveEocrtz6buQw',
+    previewUrl: 'QmeNaSFMKxMbt1SoCdjaCC2X1fdZW5WULtSB9Pq4Yz4aWS',
+    ipfsUrl: 'QmU39JY8Tn8D8MMmRj1HpR2SZNaMCsQbxveEocrtz6buQw',
     attributes: [
       {
         trait_type: 'back',
@@ -26910,7 +27508,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYLaU3HBX5bBV7HRJDw7jUJHVN49dfaP66epBHzVcmC7i',
+    previewUrl: 'QmSDgfWfas7NeGbcvdgpca3EBt2m8VSopUksSAfQGtJ7zC',
+    ipfsUrl: 'QmYLaU3HBX5bBV7HRJDw7jUJHVN49dfaP66epBHzVcmC7i',
     attributes: [
       {
         trait_type: 'back',
@@ -26955,7 +27554,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSy7csYDfMQsp8hDACmY6CujVBdStpNujsn79JiuXsweV',
+    previewUrl: 'QmYFYanJsQMmQiaui8nGgD6tmTaoYSA4hJwFaqQREm9XRB',
+    ipfsUrl: 'QmSy7csYDfMQsp8hDACmY6CujVBdStpNujsn79JiuXsweV',
     attributes: [
       {
         trait_type: 'back',
@@ -27000,7 +27600,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXo6JuB3M1bbF4VL9BneFqfBzAL5JRKyvjqhmqSGH2co9',
+    previewUrl: 'Qmdi37ZgJLF4cqN9kRA58EQLVbxmHvnyBGnJE5jp8tuzHA',
+    ipfsUrl: 'QmXo6JuB3M1bbF4VL9BneFqfBzAL5JRKyvjqhmqSGH2co9',
     attributes: [
       {
         trait_type: 'back',
@@ -27045,7 +27646,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmP6P3fQtT8YUrKyLeKeLB55GLrUE8mjm24pzYMVd5WYbh',
+    previewUrl: 'QmSRuJuEWMGyv1h34iix1JV9VYHKUHVTrYrb6UJSDb2hoD',
+    ipfsUrl: 'QmP6P3fQtT8YUrKyLeKeLB55GLrUE8mjm24pzYMVd5WYbh',
     attributes: [
       {
         trait_type: 'back',
@@ -27090,7 +27692,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQdp6byoRSHFZBJi8JX8aHd7tUs3k798iyzo92vGptpwK',
+    previewUrl: 'QmSMfzKJppj22B6PerZqBDfdTcWyPCxCMyDZtyAHJk8f3p',
+    ipfsUrl: 'QmQdp6byoRSHFZBJi8JX8aHd7tUs3k798iyzo92vGptpwK',
     attributes: [
       {
         trait_type: 'back',
@@ -27135,7 +27738,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcbnBeA3eKJgm6ctGL4kEoHmVPNSe8hKZ8C2YbLPiE16c',
+    previewUrl: 'QmdoQ6SRcRSSWn5CpXwRJXQzFfeWLihNpwqbigDtgBbAyB',
+    ipfsUrl: 'QmcbnBeA3eKJgm6ctGL4kEoHmVPNSe8hKZ8C2YbLPiE16c',
     attributes: [
       {
         trait_type: 'back',
@@ -27180,7 +27784,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSr13qLrQLLVc5cnXv6TjaAsTcGphF6JaoqjhZfPrVeYm',
+    previewUrl: 'QmQdfWyDNfTrDfjeun6YA7MsPy6vf1ujR4cATiT9tqaZjZ',
+    ipfsUrl: 'QmSr13qLrQLLVc5cnXv6TjaAsTcGphF6JaoqjhZfPrVeYm',
     attributes: [
       {
         trait_type: 'back',
@@ -27225,7 +27830,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTMdk7XwC6jwGJebxNki7R29zHQYmqCPV7Fb27JvGDrNB',
+    previewUrl: 'QmbNRKppAsiBHEtnkYFbjBTGLNYH93eSHg8CVuwTqDuZ67',
+    ipfsUrl: 'QmTMdk7XwC6jwGJebxNki7R29zHQYmqCPV7Fb27JvGDrNB',
     attributes: [
       {
         trait_type: 'back',
@@ -27270,7 +27876,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaJPdK82VyZQdCYh1vhMmFsVCmuTzrvWUvY5ZoJEgNB7R',
+    previewUrl: 'QmRsGdT9JEG7Byk5z9r79ZJjUJhf9Rui2yg81r8CUeyiXL',
+    ipfsUrl: 'QmaJPdK82VyZQdCYh1vhMmFsVCmuTzrvWUvY5ZoJEgNB7R',
     attributes: [
       {
         trait_type: 'back',
@@ -27315,7 +27922,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmetdFH3HD94dBhScX6RwT8CT9GMGDprUPme6HoxjkQ5o7',
+    previewUrl: 'QmWM2YaEwUkWv5UW8SAsQvUPf6ikb1xpgN6BHzjnp9ATye',
+    ipfsUrl: 'QmetdFH3HD94dBhScX6RwT8CT9GMGDprUPme6HoxjkQ5o7',
     attributes: [
       {
         trait_type: 'back',
@@ -27360,7 +27968,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX8HLzbH8KiuBVJupDDwe8idNBoaKGz7U3bUQ2w9Jf5tg',
+    previewUrl: 'QmaQVKxHcWp1RC8kxomCV8ey9uWrxhe9UkvY4y3XYn7zb3',
+    ipfsUrl: 'QmX8HLzbH8KiuBVJupDDwe8idNBoaKGz7U3bUQ2w9Jf5tg',
     attributes: [
       {
         trait_type: 'back',
@@ -27405,7 +28014,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVPqpJoab4zMWGkbNzscwfZaHYciAKbdCRAA8M8bYtVwQ',
+    previewUrl: 'QmNnF4UEWkphmmMsiKsZNUR5fCx29Ks79kf7eetZTBXifF',
+    ipfsUrl: 'QmVPqpJoab4zMWGkbNzscwfZaHYciAKbdCRAA8M8bYtVwQ',
     attributes: [
       {
         trait_type: 'back',
@@ -27450,7 +28060,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUWCsfUo7mLRDVDnrF3ZobXNFf6gc4Egby5hLEzXxza8b',
+    previewUrl: 'QmSzje7NuGh6PYxKCMfpTnLEVuZRWBz2rJrd1HXCYaNN4g',
+    ipfsUrl: 'QmUWCsfUo7mLRDVDnrF3ZobXNFf6gc4Egby5hLEzXxza8b',
     attributes: [
       {
         trait_type: 'back',
@@ -27495,7 +28106,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRQSxesaEQuANT2W3vVZFnwt9ZoBgJ7MyBvZHVucaD1fz',
+    previewUrl: 'QmQz1VL3THZaZQG3GZaspPccia6aywwNrbMSri3aUHnUbg',
+    ipfsUrl: 'QmRQSxesaEQuANT2W3vVZFnwt9ZoBgJ7MyBvZHVucaD1fz',
     attributes: [
       {
         trait_type: 'back',
@@ -27540,7 +28152,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW9eCs1EfZarRVZjYNcMW5nmCu6nJX3m3zqZwmchVKpB2',
+    previewUrl: 'QmYBE9uwEAtxe4ZeWEbj2adsvoWgGpAnXnqa7UX7XdKZKv',
+    ipfsUrl: 'QmW9eCs1EfZarRVZjYNcMW5nmCu6nJX3m3zqZwmchVKpB2',
     attributes: [
       {
         trait_type: 'back',
@@ -27585,7 +28198,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQimqD4hBofHCmxZmzYhYpNaYf6edqwpaWoU7323nM1j2',
+    previewUrl: 'QmbiRb2U83kSq1iJyNfWLFmj7eX3kT47AMuhjfG2NQPwsT',
+    ipfsUrl: 'QmQimqD4hBofHCmxZmzYhYpNaYf6edqwpaWoU7323nM1j2',
     attributes: [
       {
         trait_type: 'back',
@@ -27630,7 +28244,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaADiGjLxyRtkvhU2q36u7uuVfYdv3h2hxxvDVQRiFKsY',
+    previewUrl: 'QmUSmw3qky6RbaaUBEVRYpZvc9vaMWipS6o5SmdF2j5phV',
+    ipfsUrl: 'QmaADiGjLxyRtkvhU2q36u7uuVfYdv3h2hxxvDVQRiFKsY',
     attributes: [
       {
         trait_type: 'back',
@@ -27675,7 +28290,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY5grXfCzchHp1dJTGaAnzjyUtt8GmF5XyeE9JW6cnK3Z',
+    previewUrl: 'QmfRumxnn94y1eeMVtqdHyhGSE4CSmwXFYAZz9b2viH4A2',
+    ipfsUrl: 'QmY5grXfCzchHp1dJTGaAnzjyUtt8GmF5XyeE9JW6cnK3Z',
     attributes: [
       {
         trait_type: 'back',
@@ -27720,7 +28336,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQkHvzyyhav4e2eznooTSCXBTEDtDH6S4u4LTmZUsowAf',
+    previewUrl: 'QmQwMLzf4SSpkgqAHtnnh8PstCTSrvMVC982AkSTdQ2rmR',
+    ipfsUrl: 'QmQkHvzyyhav4e2eznooTSCXBTEDtDH6S4u4LTmZUsowAf',
     attributes: [
       {
         trait_type: 'back',
@@ -27765,7 +28382,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTCGWfjfMMLYuJsw25z1wcicKW7eyaRRuetkZR1n5tBBq',
+    previewUrl: 'QmU9j4VQSzPNDZYvKdVqNr6EkP4bLayBR3HcJvSbC779NN',
+    ipfsUrl: 'QmTCGWfjfMMLYuJsw25z1wcicKW7eyaRRuetkZR1n5tBBq',
     attributes: [
       {
         trait_type: 'back',
@@ -27810,7 +28428,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfYfVW25wXTTccdZMPNft5ZVdUBGpQiDCEbXT2Jkzgpfd',
+    previewUrl: 'QmQDo9JdWe9M8CNiUoAhqebCkdCSzz1GpiWnt7C1C3vEVH',
+    ipfsUrl: 'QmfYfVW25wXTTccdZMPNft5ZVdUBGpQiDCEbXT2Jkzgpfd',
     attributes: [
       {
         trait_type: 'back',
@@ -27855,7 +28474,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW5EeZYXKHMK9n1z36kSdTAZCVrgjL5mkkFq9Yj3KEN68',
+    previewUrl: 'QmeUWb59K4HFd1ubWwQqdpDfU4VtRptKXTQhMaVPpW6Mia',
+    ipfsUrl: 'QmW5EeZYXKHMK9n1z36kSdTAZCVrgjL5mkkFq9Yj3KEN68',
     attributes: [
       {
         trait_type: 'back',
@@ -27900,7 +28520,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPTzNbKyJrgx7rEDRmXawHe972MuA5t1xnJhvaTGzYBT9',
+    previewUrl: 'QmTYVq7jGWNZ8wVAUik2R1TK4t1H3gbEBQsKN1LWvBK3GR',
+    ipfsUrl: 'QmPTzNbKyJrgx7rEDRmXawHe972MuA5t1xnJhvaTGzYBT9',
     attributes: [
       {
         trait_type: 'back',
@@ -27945,7 +28566,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZXHNDjYDbBDzpK2RiLygpH1T5Sq1tFjuHrYcu9iz8wkF',
+    previewUrl: 'QmPuh6B4TGnkN2Fk2hf57wy37GEKj3zGxkwiyd4UxN8TYw',
+    ipfsUrl: 'QmZXHNDjYDbBDzpK2RiLygpH1T5Sq1tFjuHrYcu9iz8wkF',
     attributes: [
       {
         trait_type: 'back',
@@ -27990,7 +28612,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTMCJNPKdhwfJqmdcNjxZcAchmBZqFcLLbBnMtHxEonsv',
+    previewUrl: 'QmUeFaTFyjKxWQmvjvAkT86sikTn7yTX36qrWgntsa5A7X',
+    ipfsUrl: 'QmTMCJNPKdhwfJqmdcNjxZcAchmBZqFcLLbBnMtHxEonsv',
     attributes: [
       {
         trait_type: 'back',
@@ -28035,7 +28658,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNdzkqsrmvgsztvA8RGYweyLumwMzjX4pb4ZvUta2k1D7',
+    previewUrl: 'QmVJAfWQ21boAbKYpinkV7kbaVJUNkuZMrn6Mdd6h5hVTu',
+    ipfsUrl: 'QmNdzkqsrmvgsztvA8RGYweyLumwMzjX4pb4ZvUta2k1D7',
     attributes: [
       {
         trait_type: 'back',
@@ -28080,7 +28704,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNyVo2mykCHqwbPeMYkNPigRTVJ5rtXpiz66jJ5JpCcuQ',
+    previewUrl: 'QmQTyr1PSWJFBAwEQRUVRifet1qAAqa6MdhMAZ1FUDqfWj',
+    ipfsUrl: 'QmNyVo2mykCHqwbPeMYkNPigRTVJ5rtXpiz66jJ5JpCcuQ',
     attributes: [
       {
         trait_type: 'back',
@@ -28125,7 +28750,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUwebaoXmSmc2ZXEPGbDiuSViShyqCMfkYbHMKjFsVcwT',
+    previewUrl: 'QmeSaPK2xrzsKdkBNNciqWq5z2EdBVYMYwe2DNSSr3Ka1N',
+    ipfsUrl: 'QmUwebaoXmSmc2ZXEPGbDiuSViShyqCMfkYbHMKjFsVcwT',
     attributes: [
       {
         trait_type: 'back',
@@ -28170,7 +28796,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmenwF4JoQLtwN1MFv3vLXDUkqmuKfA4oGXNvGcobGgFSA',
+    previewUrl: 'QmNNtBNa6UwfM7vgoZWFi2SMYQSKRamaUdSmvz5Jti4Y9s',
+    ipfsUrl: 'QmenwF4JoQLtwN1MFv3vLXDUkqmuKfA4oGXNvGcobGgFSA',
     attributes: [
       {
         trait_type: 'back',
@@ -28215,7 +28842,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXBfCGKZ4x9aTExpGJQzMQz3qZqVCBnFA3uHdmk5F32h4',
+    previewUrl: 'QmXaCVD3WskGCXgDW4qfTvD59J73ZJhCZZic177s2Aupuy',
+    ipfsUrl: 'QmXBfCGKZ4x9aTExpGJQzMQz3qZqVCBnFA3uHdmk5F32h4',
     attributes: [
       {
         trait_type: 'back',
@@ -28260,7 +28888,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWZ4twvizxeUCazu7DQGMm1FWnW4ipRg5vzHfBzYuTsTk',
+    previewUrl: 'QmTjX3SwGz4in2SxRznMcsDNbHQXLXpeV3XGiV53PipMjW',
+    ipfsUrl: 'QmWZ4twvizxeUCazu7DQGMm1FWnW4ipRg5vzHfBzYuTsTk',
     attributes: [
       {
         trait_type: 'back',
@@ -28305,7 +28934,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUSN6JeyU72RfFcuuoqRaguJWFLNTdhaytjRx5CPe3aP1',
+    previewUrl: 'QmcmBLqMwUm6NjhTpkm6sA2ZtzVCAKNpcLDk5LKexW5qa3',
+    ipfsUrl: 'QmUSN6JeyU72RfFcuuoqRaguJWFLNTdhaytjRx5CPe3aP1',
     attributes: [
       {
         trait_type: 'back',
@@ -28350,7 +28980,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmew5sR5nR2aaq1Mr9KuFuarqth9ck9kNg5uLuSfgLDHj6',
+    previewUrl: 'QmWvYXqm6XG3EXR8EQUPrAqL1vweQFSsDdHesq7ZxjdYSW',
+    ipfsUrl: 'Qmew5sR5nR2aaq1Mr9KuFuarqth9ck9kNg5uLuSfgLDHj6',
     attributes: [
       {
         trait_type: 'back',
@@ -28395,7 +29026,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSKeKaxuN6BUoEYgHj6m2Qar55bmJNNqcfVuapacSoA9C',
+    previewUrl: 'QmUTo9vg23cFrRjXsABaLwtjLmfQFmoLFEFqyugoGsGwdb',
+    ipfsUrl: 'QmSKeKaxuN6BUoEYgHj6m2Qar55bmJNNqcfVuapacSoA9C',
     attributes: [
       {
         trait_type: 'back',
@@ -28440,7 +29072,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaD32euDNk1LukcA3HWc4MMQ2iyg8Wj96oAUWochG5ggQ',
+    previewUrl: 'QmPRp2jz1jSFgZ34kYZvrHe3WaTo6Skcun8LovEv3vsvUy',
+    ipfsUrl: 'QmaD32euDNk1LukcA3HWc4MMQ2iyg8Wj96oAUWochG5ggQ',
     attributes: [
       {
         trait_type: 'back',
@@ -28485,7 +29118,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUwhiT5snihkvjRP8BTGwdLYcQYgPC4uZuazsDsXLk8B6',
+    previewUrl: 'QmeNmnZXBPJ756SjzgsCByTKBBiStNmsfdCasqCk2i1uLZ',
+    ipfsUrl: 'QmUwhiT5snihkvjRP8BTGwdLYcQYgPC4uZuazsDsXLk8B6',
     attributes: [
       {
         trait_type: 'back',
@@ -28530,7 +29164,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPY2f7nfPE73KUkM4RAtWi6iXodCDpkoMfFQez5d2x4Fy',
+    previewUrl: 'QmZr8dZaiAxkTAyTje8JVSzipNCMCNvV6fhc9CFoYm3jqz',
+    ipfsUrl: 'QmPY2f7nfPE73KUkM4RAtWi6iXodCDpkoMfFQez5d2x4Fy',
     attributes: [
       {
         trait_type: 'back',
@@ -28575,7 +29210,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdUKafjCkPbD53xsVN21EL2H2pYiwuXYeLThBdVkWfCHp',
+    previewUrl: 'Qmdr7VTrpWzZzxTRDbdbKic1zkgHsxZNoUHtw9Ca3pwaw4',
+    ipfsUrl: 'QmdUKafjCkPbD53xsVN21EL2H2pYiwuXYeLThBdVkWfCHp',
     attributes: [
       {
         trait_type: 'back',
@@ -28620,7 +29256,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTaSpVCXrcnKPGkq7tFHA4wQTGfWKLwL3EzXpD25Q928Z',
+    previewUrl: 'QmW75rUKgVfeULAZcT64s6KHcCGtyrwMHzdsEUvSSHBKhz',
+    ipfsUrl: 'QmTaSpVCXrcnKPGkq7tFHA4wQTGfWKLwL3EzXpD25Q928Z',
     attributes: [
       {
         trait_type: 'back',
@@ -28665,7 +29302,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmdc59oxXy1DTK8hSxg6gbG7vy8JHDFGCqqnRQLp5mMqFB',
+    previewUrl: 'QmRNPM4rLCR4KhGBKRTTBG1NPJCd6oFy7ZAC6GkBji3wgv',
+    ipfsUrl: 'Qmdc59oxXy1DTK8hSxg6gbG7vy8JHDFGCqqnRQLp5mMqFB',
     attributes: [
       {
         trait_type: 'back',
@@ -28710,7 +29348,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdY196hKijc2hcsmff5zgBqMB4FK93Yy6eQwsmkyoHDrY',
+    previewUrl: 'QmeikKvyf4HHsFqZAYSzJLCxGtPcfGNdNyU1UEyoK227ii',
+    ipfsUrl: 'QmdY196hKijc2hcsmff5zgBqMB4FK93Yy6eQwsmkyoHDrY',
     attributes: [
       {
         trait_type: 'back',
@@ -28755,7 +29394,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTmwdVMGuLsXLDDYSoFq9yuvHHgUshuBTgVfgWxLdyf3r',
+    previewUrl: 'QmdqaDRb2eMoPMAoouvwQqZTbmCC5Sk8wVBxqKyaeGFLqa',
+    ipfsUrl: 'QmTmwdVMGuLsXLDDYSoFq9yuvHHgUshuBTgVfgWxLdyf3r',
     attributes: [
       {
         trait_type: 'back',
@@ -28800,7 +29440,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qman9tSYJzqZxFqCtDWB3H8QiBY4JGB1iHxmoAtBSCf8XB',
+    previewUrl: 'QmTuZEykn5zY9LrRSpSrWVUBR3Uwy9yGUq8UxRcysLGimG',
+    ipfsUrl: 'Qman9tSYJzqZxFqCtDWB3H8QiBY4JGB1iHxmoAtBSCf8XB',
     attributes: [
       {
         trait_type: 'back',
@@ -28845,7 +29486,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT9yyGRFPgPBbXRZGEcJ5FYJzaPFGV7WDheabUZkpvKy6',
+    previewUrl: 'QmURTBBLTxPf5QJRb97rmLTp4Gxviwtzk2js8Lwp1cXisZ',
+    ipfsUrl: 'QmT9yyGRFPgPBbXRZGEcJ5FYJzaPFGV7WDheabUZkpvKy6',
     attributes: [
       {
         trait_type: 'back',
@@ -28890,7 +29532,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmembnh9TRLbwfJub199QH3H6iazcMcRBYnvyvUDhTsm6D',
+    previewUrl: 'QmazYtbBqWDerHS8MZTy8x7rxncSDaxMUSy11Zh2jvDYTY',
+    ipfsUrl: 'Qmembnh9TRLbwfJub199QH3H6iazcMcRBYnvyvUDhTsm6D',
     attributes: [
       {
         trait_type: 'back',
@@ -28935,7 +29578,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc7pdu8vyvbuppxQYgPEc3MREjdJW6mqfP9Ee6vwTpMrr',
+    previewUrl: 'QmYEtzxUa7EbAwqbvx9QFpbZGWRQ815xeWHKYWiP2P31Kr',
+    ipfsUrl: 'Qmc7pdu8vyvbuppxQYgPEc3MREjdJW6mqfP9Ee6vwTpMrr',
     attributes: [
       {
         trait_type: 'back',
@@ -28980,7 +29624,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUeRMjYyCRkh6v4ncpbZx8pU4E6q7nbJAqs8W1Ceex61S',
+    previewUrl: 'QmXLZDmcjn1bxi3jQ8ytJ7xZN6k1CVUc11b4UKmour1YNp',
+    ipfsUrl: 'QmUeRMjYyCRkh6v4ncpbZx8pU4E6q7nbJAqs8W1Ceex61S',
     attributes: [
       {
         trait_type: 'back',
@@ -29025,7 +29670,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUQ3522ee6eL8E4Cptx1kgSSMDGGeYWyo1uVnE4yBjmUK',
+    previewUrl: 'Qmbmf9r6Mj6ZJn3vPaHU3zrB3R4JHECYU3oDHyM8fodb9a',
+    ipfsUrl: 'QmUQ3522ee6eL8E4Cptx1kgSSMDGGeYWyo1uVnE4yBjmUK',
     attributes: [
       {
         trait_type: 'back',
@@ -29070,7 +29716,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNT5XhqhLhjwF7TrF8cqieTwCXNTz3usDxPzNcoad1MCk',
+    previewUrl: 'QmWNwYriVSQ3VHVnj5nFyndPmhrAC93HN6ByPmz16fRdWt',
+    ipfsUrl: 'QmNT5XhqhLhjwF7TrF8cqieTwCXNTz3usDxPzNcoad1MCk',
     attributes: [
       {
         trait_type: 'back',
@@ -29115,7 +29762,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUi2yYUW3TiJpTpMXGDQYMZysgSYpBwLsM3J78hvKAfGJ',
+    previewUrl: 'QmSLBi4w5BmhQtuuZAL6ypy3sYNo3vcWdUJiiVuakWGJpq',
+    ipfsUrl: 'QmUi2yYUW3TiJpTpMXGDQYMZysgSYpBwLsM3J78hvKAfGJ',
     attributes: [
       {
         trait_type: 'back',
@@ -29160,7 +29808,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZvRqTt8cZZEj6oYgkKPntiuieDmEnCTtx9vu5tW3kjNH',
+    previewUrl: 'QmQ1qjUASHTeNebfe6xQAARPyD7NsKSZ6b3PwnezUQku2s',
+    ipfsUrl: 'QmZvRqTt8cZZEj6oYgkKPntiuieDmEnCTtx9vu5tW3kjNH',
     attributes: [
       {
         trait_type: 'back',
@@ -29205,7 +29854,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUsSeHjG2kCTeL7ivAaapR5n1Kz3W7nkfMtc9qdArLS3z',
+    previewUrl: 'QmZZ2Gnn3WPRZiR4z661Q8ss6p84tqRxEWrsZZGwKLs88Z',
+    ipfsUrl: 'QmUsSeHjG2kCTeL7ivAaapR5n1Kz3W7nkfMtc9qdArLS3z',
     attributes: [
       {
         trait_type: 'back',
@@ -29250,7 +29900,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdwRPkcaArXPxVDWfFqgeCwhX1ZrtBkjGWDjESW5dPESq',
+    previewUrl: 'QmUNueQ8z3mLnfxaZX6eCEQHM62hJss2LDz39kmFHtkP7o',
+    ipfsUrl: 'QmdwRPkcaArXPxVDWfFqgeCwhX1ZrtBkjGWDjESW5dPESq',
     attributes: [
       {
         trait_type: 'back',
@@ -29295,7 +29946,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbqCpj24QWh7keFkTw4zoe4fAsWcWGmzgZwrh6TBDC3jk',
+    previewUrl: 'QmTEJooxPL3rGSd3eNgFo4pFxw7ajD7S1wcAdADUCrpUhw',
+    ipfsUrl: 'QmbqCpj24QWh7keFkTw4zoe4fAsWcWGmzgZwrh6TBDC3jk',
     attributes: [
       {
         trait_type: 'back',
@@ -29340,7 +29992,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUrD1kHGjGreCzzVXg4dkSdu9QnACCdbzErRAscSHk2xF',
+    previewUrl: 'QmSDkA28Y6n2XQrW7z4WgWWpSPkMqkETUG5AYqonCi4DBk',
+    ipfsUrl: 'QmUrD1kHGjGreCzzVXg4dkSdu9QnACCdbzErRAscSHk2xF',
     attributes: [
       {
         trait_type: 'back',
@@ -29385,7 +30038,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmbsvpn4wFzRrsYdZyWL5pK6MzwN72MFLk73ybzWf5qXpQ',
+    previewUrl: 'QmaE2gtgxdDHS53JQZLBbFzCHhFzUF6CFvWvGHWyja299u',
+    ipfsUrl: 'Qmbsvpn4wFzRrsYdZyWL5pK6MzwN72MFLk73ybzWf5qXpQ',
     attributes: [
       {
         trait_type: 'back',
@@ -29430,7 +30084,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmbm1m7kmGa71nt7XRbNw2ZSptibXCXuer7voh8yn5iP5c',
+    previewUrl: 'QmQXbj8XsnunZ5hy9Hz1gZDXWkK8SYnujKoT7R82QXWZbT',
+    ipfsUrl: 'Qmbm1m7kmGa71nt7XRbNw2ZSptibXCXuer7voh8yn5iP5c',
     attributes: [
       {
         trait_type: 'back',
@@ -29475,7 +30130,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSuTZ9vtHL3qKQBBmm5bfWDjDGxThUAq14JJcuJpvLjtV',
+    previewUrl: 'QmQcSRhFBUr8dvGuyK2H3Z9GeD9BxRaSAxPS1tZw75BLBW',
+    ipfsUrl: 'QmSuTZ9vtHL3qKQBBmm5bfWDjDGxThUAq14JJcuJpvLjtV',
     attributes: [
       {
         trait_type: 'back',
@@ -29520,7 +30176,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcRYvdgi5ge3ofFP7KtBwE9UStToboBSiZUQRo8bJsPLx',
+    previewUrl: 'QmPrLTLa5GVsZD3tarNKbKdec8QS3Psu2xXp7UKv8PcVqY',
+    ipfsUrl: 'QmcRYvdgi5ge3ofFP7KtBwE9UStToboBSiZUQRo8bJsPLx',
     attributes: [
       {
         trait_type: 'back',
@@ -29565,7 +30222,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcrmA1rH4A3R5uniXSPvyRa8xwZRjQYbXXCFSqTxE6kxG',
+    previewUrl: 'QmQejrLbFhZgp3XLiakR77JWSw6WgzVfqqi2Z47bcHT8z6',
+    ipfsUrl: 'QmcrmA1rH4A3R5uniXSPvyRa8xwZRjQYbXXCFSqTxE6kxG',
     attributes: [
       {
         trait_type: 'back',
@@ -29610,7 +30268,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTDRLgEE5ABMKXBcNE8Tw44sMKS66JYNmEf3rJLvRdNX8',
+    previewUrl: 'QmWGr76dXSkVi1FDgcsWR5JcTDyb5kJG1q1cmT6AG8kjzu',
+    ipfsUrl: 'QmTDRLgEE5ABMKXBcNE8Tw44sMKS66JYNmEf3rJLvRdNX8',
     attributes: [
       {
         trait_type: 'back',
@@ -29655,7 +30314,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSVqkvRjKK1yiwffhMunnCoFK9Jq7BgPjwvv8JmuwAQYJ',
+    previewUrl: 'QmS8mtLFaNPMhsVLPJzCgDwdV9Wj5inXbzvB32qfCR1SYq',
+    ipfsUrl: 'QmSVqkvRjKK1yiwffhMunnCoFK9Jq7BgPjwvv8JmuwAQYJ',
     attributes: [
       {
         trait_type: 'back',
@@ -29700,7 +30360,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmcwbx2631PH1wz5tT1UGZEj4xZX8hH1oYSc4yjQ3UE9cM',
+    previewUrl: 'QmRqTTHsZ6pQMTfTboU8THwb8u151m1FNHg8mQsZgJWxA3',
+    ipfsUrl: 'Qmcwbx2631PH1wz5tT1UGZEj4xZX8hH1oYSc4yjQ3UE9cM',
     attributes: [
       {
         trait_type: 'back',
@@ -29745,7 +30406,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmbrtrfoxi9yRL6URWaXfBESArGsnFZVNGejSRRFgPkCt7',
+    previewUrl: 'QmTZWn8W8AMLc49YfbT34K7Ps8PHTHSBGaaHuwGB79XcHq',
+    ipfsUrl: 'Qmbrtrfoxi9yRL6URWaXfBESArGsnFZVNGejSRRFgPkCt7',
     attributes: [
       {
         trait_type: 'back',
@@ -29790,7 +30452,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXSh65rnfftCNUiJ5tQ6SAQeqhexShCxHtcC54dS3dPFn',
+    previewUrl: 'QmZ2XfznSgji1hYm9NdEGE31FkSBXraa8oSxhnmhggWBHj',
+    ipfsUrl: 'QmXSh65rnfftCNUiJ5tQ6SAQeqhexShCxHtcC54dS3dPFn',
     attributes: [
       {
         trait_type: 'back',
@@ -29835,7 +30498,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVxczjqmcQk6DHjJZVtBsDmHbWjqFo6pefHsRHM5Wypfq',
+    previewUrl: 'QmWRDSbMytGN6CoshXSXEHU5uX7r8ufUoqPC2LxCgG4aAP',
+    ipfsUrl: 'QmVxczjqmcQk6DHjJZVtBsDmHbWjqFo6pefHsRHM5Wypfq',
     attributes: [
       {
         trait_type: 'back',
@@ -29880,7 +30544,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNruZjjz6N5GKDTvxt9AHJ6NFF2E5f26xJv6NAZhaqkaZ',
+    previewUrl: 'QmQ3cDdjx3T3uz1omTyK2jszfiq7dGKJaj9hQbiiQg4tKt',
+    ipfsUrl: 'QmNruZjjz6N5GKDTvxt9AHJ6NFF2E5f26xJv6NAZhaqkaZ',
     attributes: [
       {
         trait_type: 'back',
@@ -29925,7 +30590,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVsuu1xxPiBWBDPw8sUAx98J3EmMuci283A4WGcDYUKBp',
+    previewUrl: 'QmbGw8o1N7fhiZSFaL9UZvUso8S1DtPRtY2qC7ZUEFcoXC',
+    ipfsUrl: 'QmVsuu1xxPiBWBDPw8sUAx98J3EmMuci283A4WGcDYUKBp',
     attributes: [
       {
         trait_type: 'back',
@@ -29970,7 +30636,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPf32aUxYhGWV3SqAmN5pbgeWh3qx7ombgMLomPH8oZ8v',
+    previewUrl: 'QmVmJha81ofo6Te9DQcs8gRpbHsY21xALTkfr6xGDZZKbY',
+    ipfsUrl: 'QmPf32aUxYhGWV3SqAmN5pbgeWh3qx7ombgMLomPH8oZ8v',
     attributes: [
       {
         trait_type: 'back',
@@ -30015,7 +30682,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPz76NnvAZN9iL5SNdAZdg6CBbUY5xqwAUXHF42pU8jP8',
+    previewUrl: 'QmV9c5UyACZ5UW1xXMG4r9AnCqF9WmL8ighmAsUiS5V68a',
+    ipfsUrl: 'QmPz76NnvAZN9iL5SNdAZdg6CBbUY5xqwAUXHF42pU8jP8',
     attributes: [
       {
         trait_type: 'back',
@@ -30060,7 +30728,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTZU1TdtAemCB3PyH45yKzZUqZ2emCLcVpkS1zAhVVJ6x',
+    previewUrl: 'QmTCb4VWvyJPHu4mSzihsNLRhNkNHWNmdTLv4Dyjc49NkD',
+    ipfsUrl: 'QmTZU1TdtAemCB3PyH45yKzZUqZ2emCLcVpkS1zAhVVJ6x',
     attributes: [
       {
         trait_type: 'back',
@@ -30105,7 +30774,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNQke5ojqe4eBq2opBf4eBKcXWCJkxMcLyPj5yQSFVDP2',
+    previewUrl: 'Qmcnio6kbNCtCK85Y26gD3xZH4aYvnj66PuHR6pgsQSoQs',
+    ipfsUrl: 'QmNQke5ojqe4eBq2opBf4eBKcXWCJkxMcLyPj5yQSFVDP2',
     attributes: [
       {
         trait_type: 'back',
@@ -30150,7 +30820,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPceACzsBdu1B2ytqqnXQT6j2qpdhDfxZ5w1GvNRPiqbh',
+    previewUrl: 'QmX1hqy9qiCLPawmkdAhwowJ3cVjtAfxa5rj9BQj7JFqr4',
+    ipfsUrl: 'QmPceACzsBdu1B2ytqqnXQT6j2qpdhDfxZ5w1GvNRPiqbh',
     attributes: [
       {
         trait_type: 'back',
@@ -30195,7 +30866,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWS9cVdmhUqxNC7eBUDyN6SamFuN29JCsLZ1kyDfThuGr',
+    previewUrl: 'QmXCa96pKqhNpj5YfZ86sybA3UMcMw6sUvnJkiZVqBg7Gq',
+    ipfsUrl: 'QmWS9cVdmhUqxNC7eBUDyN6SamFuN29JCsLZ1kyDfThuGr',
     attributes: [
       {
         trait_type: 'back',
@@ -30240,7 +30912,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmai8fCGvFKtc44oNgwVLhjfd2dGD9Gf9EJ3SidbpjcsAg',
+    previewUrl: 'Qmay5i53KZQpn7TMCusu2TGcFJKT3EnxRGEUidoagbCgPL',
+    ipfsUrl: 'Qmai8fCGvFKtc44oNgwVLhjfd2dGD9Gf9EJ3SidbpjcsAg',
     attributes: [
       {
         trait_type: 'back',
@@ -30285,7 +30958,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmczPV8VuFbYkxa2Sbpp9v4fyQ7wfmQdAw87mgx79kA5N6',
+    previewUrl: 'Qmbm8BohN1NnPp9NwbbH6PhKA453jpykNhXSHeNmhubtex',
+    ipfsUrl: 'QmczPV8VuFbYkxa2Sbpp9v4fyQ7wfmQdAw87mgx79kA5N6',
     attributes: [
       {
         trait_type: 'back',
@@ -30330,7 +31004,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVdF1JFLKjSnCjMURLWmBVLAZ4FLNNs1tD9etfQrpQt5Q',
+    previewUrl: 'QmSTk3rcrV1Mvb49LeyQrdBb5BKegHeJYPW7x6BCTvydmt',
+    ipfsUrl: 'QmVdF1JFLKjSnCjMURLWmBVLAZ4FLNNs1tD9etfQrpQt5Q',
     attributes: [
       {
         trait_type: 'back',
@@ -30375,7 +31050,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmdxhzwgeprv2K4XX4k1FJNs6mNiNoc6zvjrvAtkbuVqC7',
+    previewUrl: 'QmcHqPQbTqPmDLNo2QGjbxKjBfLzbWrQLdGZ2i6YxGJ2Q6',
+    ipfsUrl: 'Qmdxhzwgeprv2K4XX4k1FJNs6mNiNoc6zvjrvAtkbuVqC7',
     attributes: [
       {
         trait_type: 'back',
@@ -30420,7 +31096,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPbheSHcA1TYxfrt2aVBBTSymEoQuSLSv1yXxDeWYGrFF',
+    previewUrl: 'Qmarf3G8C1UcdZzRCiFqqzjAJSs3NwGom4myvSCbwZoTc7',
+    ipfsUrl: 'QmPbheSHcA1TYxfrt2aVBBTSymEoQuSLSv1yXxDeWYGrFF',
     attributes: [
       {
         trait_type: 'back',
@@ -30465,7 +31142,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVQfE6PxEUHiMYyNBy9q4cauHm5YjmhSKb7pBhs1WCEpt',
+    previewUrl: 'Qme6YuRBGvJn4XhnujFGjF3eCcx87nUGv8K3Tdj8rRSVfC',
+    ipfsUrl: 'QmVQfE6PxEUHiMYyNBy9q4cauHm5YjmhSKb7pBhs1WCEpt',
     attributes: [
       {
         trait_type: 'back',
@@ -30510,7 +31188,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQB87YtsHy7963nQVRUhZTHBSe192Z6CUgskY75r1vPRU',
+    previewUrl: 'QmduRUXzNHuwV9tU413DqcT28FimMEu8Q6hEGKGEwiuyaX',
+    ipfsUrl: 'QmQB87YtsHy7963nQVRUhZTHBSe192Z6CUgskY75r1vPRU',
     attributes: [
       {
         trait_type: 'back',
@@ -30555,7 +31234,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRmEU3yDuPY3Woq7vow1koBpVzV6so6Xr6tbkN7Wm7XyD',
+    previewUrl: 'QmZt82g3hWY4GwPDePr4SQsNXEdzM9oLmYLt2tRSM7KQBi',
+    ipfsUrl: 'QmRmEU3yDuPY3Woq7vow1koBpVzV6so6Xr6tbkN7Wm7XyD',
     attributes: [
       {
         trait_type: 'back',
@@ -30600,7 +31280,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmcpi7VWZJQ5pQwmNxBH9fiK9V3k3rY2JxEwk6cTYgPso3',
+    previewUrl: 'QmWNfHWfgiqrVQzTeCEsjcyG58nVLQpG3NAPVAM24ApmJ5',
+    ipfsUrl: 'Qmcpi7VWZJQ5pQwmNxBH9fiK9V3k3rY2JxEwk6cTYgPso3',
     attributes: [
       {
         trait_type: 'back',
@@ -30645,7 +31326,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPLCqyp9cvwXBq5oxhmiWeHkMnhd6zembqkTZnDrchJ3k',
+    previewUrl: 'Qme3kqTYGQoWb9rzz8xoskCUxC7ZfHfYDibqvfohk7yZXh',
+    ipfsUrl: 'QmPLCqyp9cvwXBq5oxhmiWeHkMnhd6zembqkTZnDrchJ3k',
     attributes: [
       {
         trait_type: 'back',
@@ -30690,7 +31372,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPHVRtocVcMHuJinP5LPVKYi8rTiA9t2kCHo1Rwgsg7oR',
+    previewUrl: 'QmbKMKBYE44WYgX57ykSWjw2y63yGbCkc9bV5jDvbZUwsr',
+    ipfsUrl: 'QmPHVRtocVcMHuJinP5LPVKYi8rTiA9t2kCHo1Rwgsg7oR',
     attributes: [
       {
         trait_type: 'back',
@@ -30735,7 +31418,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTH5jrmrTn2fEiTwKbhDAcm3KfCEMfaZrxxSGrn1YdwDx',
+    previewUrl: 'QmZtniJHXQi3ycuLsB1x3CsVXFcxHgJpY7AY1K41beSBdk',
+    ipfsUrl: 'QmTH5jrmrTn2fEiTwKbhDAcm3KfCEMfaZrxxSGrn1YdwDx',
     attributes: [
       {
         trait_type: 'back',
@@ -30780,7 +31464,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcQhks1gRsbSB9mxHu7cWMDMvkt464dbgbjcFhBeygJKU',
+    previewUrl: 'Qmcv9BwzU2SZjaV28k8FZMKU4yyFYLQ1NyxcNduXF1GKHe',
+    ipfsUrl: 'QmcQhks1gRsbSB9mxHu7cWMDMvkt464dbgbjcFhBeygJKU',
     attributes: [
       {
         trait_type: 'back',
@@ -30825,7 +31510,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTnjYJcQ96XYCpTwVG8yKxus8hT9GtB6QVUHfmfYmtC5A',
+    previewUrl: 'QmVjt8JjJMt57GoFFrrZgB88fneBn6qzqUiKR3WATZzHgx',
+    ipfsUrl: 'QmTnjYJcQ96XYCpTwVG8yKxus8hT9GtB6QVUHfmfYmtC5A',
     attributes: [
       {
         trait_type: 'back',
@@ -30870,7 +31556,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXeqX1PesELPVswbe255CC21s7eN7byDfYkFSUWSDVzTD',
+    previewUrl: 'QmZbth64ACk6TvrBgHhTHcjYqmQBXiCaUrkzU2aTJVUSK6',
+    ipfsUrl: 'QmXeqX1PesELPVswbe255CC21s7eN7byDfYkFSUWSDVzTD',
     attributes: [
       {
         trait_type: 'back',
@@ -30915,7 +31602,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZHq7dm4wbPAKs5L2pfkXuujhspQhFSCfooTPmvNgrn4P',
+    previewUrl: 'QmdgH1uGj2dQ99GiEgSqiiWW7FvJCVX6HoqU1oFatxs7nh',
+    ipfsUrl: 'QmZHq7dm4wbPAKs5L2pfkXuujhspQhFSCfooTPmvNgrn4P',
     attributes: [
       {
         trait_type: 'back',
@@ -30960,7 +31648,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfFbnNQY8fENmWwxtpPaMp1mfeadxJAbizLQxX3ceMsS3',
+    previewUrl: 'QmRuSQxzX2coEHpc6fNx7CFQi6MkBF5Vb2E8DvupYMYfam',
+    ipfsUrl: 'QmfFbnNQY8fENmWwxtpPaMp1mfeadxJAbizLQxX3ceMsS3',
     attributes: [
       {
         trait_type: 'back',
@@ -31005,7 +31694,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNQrTn11oRKNEU2m2EuJG2a2rkCv2eqorf4CDWXvEYuZ3',
+    previewUrl: 'QmcaL9YemsLucjps7LXQ3BBmLBgs1yHckekMPTtetW6zw5',
+    ipfsUrl: 'QmNQrTn11oRKNEU2m2EuJG2a2rkCv2eqorf4CDWXvEYuZ3',
     attributes: [
       {
         trait_type: 'back',
@@ -31050,7 +31740,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT2vwfcsgJ2gbPbFzzrcidk2MyiWhb6ywJjSQ2G2RBNhL',
+    previewUrl: 'QmSEpdemKpWUx9KqrPpxKiyN2zbSTny73ytujW13YEjhEc',
+    ipfsUrl: 'QmT2vwfcsgJ2gbPbFzzrcidk2MyiWhb6ywJjSQ2G2RBNhL',
     attributes: [
       {
         trait_type: 'back',
@@ -31095,7 +31786,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQW5oQM1dzPSg8JcPKUd6h7b3R9VPKLfJzrVWUpDu5yiW',
+    previewUrl: 'QmYmCJjD6b3s1dbAKuk9fzFvMp6VBgHrnUdkocWrHmZGx8',
+    ipfsUrl: 'QmQW5oQM1dzPSg8JcPKUd6h7b3R9VPKLfJzrVWUpDu5yiW',
     attributes: [
       {
         trait_type: 'back',
@@ -31140,7 +31832,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSJhSmdo3D2WHDwnrXFKK18SdPSYUhC4kcRd6yF8AByjq',
+    previewUrl: 'QmfWyW2Cyop8Y4GbRAGdo3scUgDhdjPK7sZEmnqfThJrwS',
+    ipfsUrl: 'QmSJhSmdo3D2WHDwnrXFKK18SdPSYUhC4kcRd6yF8AByjq',
     attributes: [
       {
         trait_type: 'back',
@@ -31185,7 +31878,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXHGWgn94AvoouEVQ7U8fhtA2oKxmGCXRiGi696hUP73Z',
+    previewUrl: 'QmUfXcCBbJndLzom5vwvxQtfjd5zhayZ5eRWa4uJHdLdEc',
+    ipfsUrl: 'QmXHGWgn94AvoouEVQ7U8fhtA2oKxmGCXRiGi696hUP73Z',
     attributes: [
       {
         trait_type: 'back',
@@ -31230,7 +31924,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR9DtKut1NEE1AzpFsi5vKGtUBgiFAoeaNrJzGUbgeQRc',
+    previewUrl: 'QmUMjDhprouK6Gd4EkTicNNjdULKPEHubSLy1QRkJ2LyTX',
+    ipfsUrl: 'QmR9DtKut1NEE1AzpFsi5vKGtUBgiFAoeaNrJzGUbgeQRc',
     attributes: [
       {
         trait_type: 'back',
@@ -31275,7 +31970,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcWnB3VgSbJ3eKd9WMa89zHhBnzMM5ohDt6qkE1VoyP3Y',
+    previewUrl: 'Qmb1pXkrFoRRtWPL7KMVUSP7e6EBV8uMgE6RaR2J7YbByU',
+    ipfsUrl: 'QmcWnB3VgSbJ3eKd9WMa89zHhBnzMM5ohDt6qkE1VoyP3Y',
     attributes: [
       {
         trait_type: 'back',
@@ -31320,7 +32016,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQ47mimJSCJQNVib2wiSaBPRTQj3EmwSEQdV2hwdMAp24',
+    previewUrl: 'QmYcc195QK1WMhzPb47FwbR7KSFkkXGGY6jRmafT6VLUMF',
+    ipfsUrl: 'QmQ47mimJSCJQNVib2wiSaBPRTQj3EmwSEQdV2hwdMAp24',
     attributes: [
       {
         trait_type: 'back',
@@ -31365,7 +32062,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaECaQZjcKhbQHzbs8yEF7fzpWDsqgQ4fbTVsY7brwuJ3',
+    previewUrl: 'QmXp5juo4TcSTbjNw7SZ7Thx2Apat2qn5sY49uUSnntBGu',
+    ipfsUrl: 'QmaECaQZjcKhbQHzbs8yEF7fzpWDsqgQ4fbTVsY7brwuJ3',
     attributes: [
       {
         trait_type: 'back',
@@ -31410,7 +32108,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUU5Es2j8mhSSeP4oxdtxSpcsqrTM1KHVvWjEyxmRk4fF',
+    previewUrl: 'QmTonZcFoJk4Y9VTAoPyCtDa9Jpx2A81VAjAooM7kHpHiB',
+    ipfsUrl: 'QmUU5Es2j8mhSSeP4oxdtxSpcsqrTM1KHVvWjEyxmRk4fF',
     attributes: [
       {
         trait_type: 'back',
@@ -31455,7 +32154,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRrFFvYUizLxCL9sGKzkGaJGovGyxRtfkV4dLP3YhsoME',
+    previewUrl: 'QmSwSZsKXSAKDVrDzdWLCe5Zf9LArHZZAM4ae9jvqhwqmQ',
+    ipfsUrl: 'QmRrFFvYUizLxCL9sGKzkGaJGovGyxRtfkV4dLP3YhsoME',
     attributes: [
       {
         trait_type: 'back',
@@ -31500,7 +32200,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNgUVEv938uKSfrbVH4DXMBemKJWMM8uUaWu9saC27ypZ',
+    previewUrl: 'QmUygbdMqWkKPTDxEvCMJEC8ZqhB69dq2h167BbgWKZZCX',
+    ipfsUrl: 'QmNgUVEv938uKSfrbVH4DXMBemKJWMM8uUaWu9saC27ypZ',
     attributes: [
       {
         trait_type: 'back',
@@ -31545,7 +32246,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfQcz36wd5tF81dFb4biT6zL7tSbmHrfoF5pz5mYqgDC6',
+    previewUrl: 'QmcT2KoD5H1V6gDCBKMiY4d1NNYRTvBLaza3WJffHz8kp4',
+    ipfsUrl: 'QmfQcz36wd5tF81dFb4biT6zL7tSbmHrfoF5pz5mYqgDC6',
     attributes: [
       {
         trait_type: 'back',
@@ -31590,7 +32292,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR4ybLsFT9bFobHpatFbD7qyVRbA8Gi55XvBzUnkjQ2FC',
+    previewUrl: 'QmS3dAxFRfcTcywaVtsZto3rUeKUMCAd55h3LUp4C46uAk',
+    ipfsUrl: 'QmR4ybLsFT9bFobHpatFbD7qyVRbA8Gi55XvBzUnkjQ2FC',
     attributes: [
       {
         trait_type: 'back',
@@ -31635,7 +32338,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVyp96wGVtnGqnpDDuNSXyNgMyRm8YdRzfwBDgCYtwks8',
+    previewUrl: 'QmPCexhpc42mXGrcMnH4RVjcjxdGAtvVgNWWdwiFAyunqb',
+    ipfsUrl: 'QmVyp96wGVtnGqnpDDuNSXyNgMyRm8YdRzfwBDgCYtwks8',
     attributes: [
       {
         trait_type: 'back',
@@ -31680,7 +32384,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVh2qDycMc7pdT54xKcttcX2yNLiL74LXPgmeJGV1SZwZ',
+    previewUrl: 'QmTfvV2JPvykLQhPJeUhQuxcHv8qQwJ7B8DkbT7vTD6pps',
+    ipfsUrl: 'QmVh2qDycMc7pdT54xKcttcX2yNLiL74LXPgmeJGV1SZwZ',
     attributes: [
       {
         trait_type: 'back',
@@ -31725,7 +32430,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV3sLdWPxXp7YwzaAfftPetGeuUJnqjUyHTuzVXmTMFGm',
+    previewUrl: 'QmSvsZAVnDnqSca4SV2Ctu53TJF8NWL3kZmjiFLKyshzGQ',
+    ipfsUrl: 'QmV3sLdWPxXp7YwzaAfftPetGeuUJnqjUyHTuzVXmTMFGm',
     attributes: [
       {
         trait_type: 'back',
@@ -31770,7 +32476,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbKb2EkP3dKrtcHfkAzPdtBEXAhxByZqz16vQ9YWFdcgt',
+    previewUrl: 'QmVd7viazmjvhcQStqBdoaCKqL94TA45p4REJpRSzYDY3R',
+    ipfsUrl: 'QmbKb2EkP3dKrtcHfkAzPdtBEXAhxByZqz16vQ9YWFdcgt',
     attributes: [
       {
         trait_type: 'back',
@@ -31815,7 +32522,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfJETATVmgx7dAY6LXc5PFTiaCCMhrDnWZ8pwewUAtdzU',
+    previewUrl: 'QmNzMxzkGP4mDasLkJYp48pQjiEm3HfSbJ81ieDFUmfku6',
+    ipfsUrl: 'QmfJETATVmgx7dAY6LXc5PFTiaCCMhrDnWZ8pwewUAtdzU',
     attributes: [
       {
         trait_type: 'back',
@@ -31860,7 +32568,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSSn5vH7mG1x8xm77ixbWqg1iumh9YHpjuSivyeCAvcbV',
+    previewUrl: 'QmYYhmDp8RHerxRjeA7VZ2Kt3pqUS5T3XsukGGh8VoKfVX',
+    ipfsUrl: 'QmSSn5vH7mG1x8xm77ixbWqg1iumh9YHpjuSivyeCAvcbV',
     attributes: [
       {
         trait_type: 'back',
@@ -31905,7 +32614,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfRoZzib3cgHYgZvTj2G3Q88KiovDc1FjC9tEASdsY4Do',
+    previewUrl: 'QmQQVfYzmeWXTypzTgpgPpE7q6Em1NDavmoGBJbd9cnBW3',
+    ipfsUrl: 'QmfRoZzib3cgHYgZvTj2G3Q88KiovDc1FjC9tEASdsY4Do',
     attributes: [
       {
         trait_type: 'back',
@@ -31950,7 +32660,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXyvdh1JL7jztszH1eAXpWvHRctGZrpYNL2fXGAEkRuj8',
+    previewUrl: 'QmYDhqvkmzST9SsycwoqqqnpG3a3JjLsprUoog1ZhmUTMQ',
+    ipfsUrl: 'QmXyvdh1JL7jztszH1eAXpWvHRctGZrpYNL2fXGAEkRuj8',
     attributes: [
       {
         trait_type: 'back',
@@ -31995,7 +32706,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVaEbjfSKiTd2eMLSdoiN5XfHFKZZuQNgHBMhFP39P4eU',
+    previewUrl: 'QmT9MjUNLJWFtwzZo7xYiSMD1V3R5RkKYyKzPxRJTGmiR5',
+    ipfsUrl: 'QmVaEbjfSKiTd2eMLSdoiN5XfHFKZZuQNgHBMhFP39P4eU',
     attributes: [
       {
         trait_type: 'back',
@@ -32040,7 +32752,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPHysmE32PHr1UdMGwhHbL53vL6xbsAL7nch5tYgittyP',
+    previewUrl: 'QmQ89dkhY7Dw1iCsnCQrBfSSSA4ykWzhjiZgEmgGeQRhkg',
+    ipfsUrl: 'QmPHysmE32PHr1UdMGwhHbL53vL6xbsAL7nch5tYgittyP',
     attributes: [
       {
         trait_type: 'back',
@@ -32085,7 +32798,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWXuMizDccowsxCXrcQx5fpWDnnWp5dJYsopmifobnB9d',
+    previewUrl: 'QmQGHNyikX6xQGNtfdUCHKe5AiwuGtjVDgaPSoEEqY5uJj',
+    ipfsUrl: 'QmWXuMizDccowsxCXrcQx5fpWDnnWp5dJYsopmifobnB9d',
     attributes: [
       {
         trait_type: 'back',
@@ -32130,7 +32844,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX58qmBAzznZyptG99syudfxePEj5LaXVTpvJ3EkHwhUg',
+    previewUrl: 'QmbLd4hXW74iRBp8hmcoWSpttZL8SikRP6iSBUfg4bd3A8',
+    ipfsUrl: 'QmX58qmBAzznZyptG99syudfxePEj5LaXVTpvJ3EkHwhUg',
     attributes: [
       {
         trait_type: 'back',
@@ -32175,7 +32890,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVNn762vjrADDnaWZKtLbkYd5Ym9WzsWPp9eHWBkPgBC3',
+    previewUrl: 'QmWgTwtLmQE441hpX7oLkD645YnitzDff1SsHfW4ZPGnQP',
+    ipfsUrl: 'QmVNn762vjrADDnaWZKtLbkYd5Ym9WzsWPp9eHWBkPgBC3',
     attributes: [
       {
         trait_type: 'back',
@@ -32220,7 +32936,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWEbGw74YoKUQ7Lg3XG5JizeS6eFymHuoy5UcjGUREJsr',
+    previewUrl: 'QmX4L2NobNUbksbhCHcqzCFTxk1B2FoVE2LvRdfY1tGmhD',
+    ipfsUrl: 'QmWEbGw74YoKUQ7Lg3XG5JizeS6eFymHuoy5UcjGUREJsr',
     attributes: [
       {
         trait_type: 'back',
@@ -32265,7 +32982,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZeCHn9KrqgHvvSNwMWw6UL3GwyCs5xqggkuRU7vtnAya',
+    previewUrl: 'QmfFzkQMhiYFkXmyjJvsHB39pHsLTR3Lg3EREQb1HomT5J',
+    ipfsUrl: 'QmZeCHn9KrqgHvvSNwMWw6UL3GwyCs5xqggkuRU7vtnAya',
     attributes: [
       {
         trait_type: 'back',
@@ -32310,7 +33028,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSFusAdCJwv4hc4rwFUjRQM96aywXhR3ZSZqmfzfkWj5W',
+    previewUrl: 'QmeFaUJdyaiVm6cskzvxbDW5k3UoXopfiGW8LtaEi52mZs',
+    ipfsUrl: 'QmSFusAdCJwv4hc4rwFUjRQM96aywXhR3ZSZqmfzfkWj5W',
     attributes: [
       {
         trait_type: 'back',
@@ -32355,7 +33074,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSjaTGKLZrGfVe6UupwxEoYw2CRUpSbA3byvw2jdz9q37',
+    previewUrl: 'Qmdb2zmiMCQxDBP3cvor72GKodW92ATqesumH67osAuvmf',
+    ipfsUrl: 'QmSjaTGKLZrGfVe6UupwxEoYw2CRUpSbA3byvw2jdz9q37',
     attributes: [
       {
         trait_type: 'back',
@@ -32400,7 +33120,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc1ZCvvYVsSayeDk5oB3dxjGYe2vRdQeHEctms2qQ2QY3',
+    previewUrl: 'QmdQ4mjgU6xHbjCdtk1rF28WPmtVZBSYXFp1qZJosLvDsX',
+    ipfsUrl: 'Qmc1ZCvvYVsSayeDk5oB3dxjGYe2vRdQeHEctms2qQ2QY3',
     attributes: [
       {
         trait_type: 'back',
@@ -32445,7 +33166,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQYwV4keiueGwXin6zVoMnkiZsooQH5Zm94g644VdRAcj',
+    previewUrl: 'QmNZYVtqkvLaFx71vA4Vjkeu9q2ujpUBGu5s6q6jaCrCyB',
+    ipfsUrl: 'QmQYwV4keiueGwXin6zVoMnkiZsooQH5Zm94g644VdRAcj',
     attributes: [
       {
         trait_type: 'back',
@@ -32490,7 +33212,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNr7DimjBPHp8s9gGjv9dmqXHcUskvzVEU3NHxhDk6Si6',
+    previewUrl: 'QmPWourmDfKj7RjakvkQ9Pdod5mPwKXzpFYS6DtpbpPmd6',
+    ipfsUrl: 'QmNr7DimjBPHp8s9gGjv9dmqXHcUskvzVEU3NHxhDk6Si6',
     attributes: [
       {
         trait_type: 'back',
@@ -32535,7 +33258,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVSdaDTw58SQJu3pbS9dUxp9oiEJroaPUrMHg6qhr2kNm',
+    previewUrl: 'Qmae63Vu5CjdcZz2d4JAzsPuZmoPBQ5YokKJMRbJwNF4Vo',
+    ipfsUrl: 'QmVSdaDTw58SQJu3pbS9dUxp9oiEJroaPUrMHg6qhr2kNm',
     attributes: [
       {
         trait_type: 'back',
@@ -32580,7 +33304,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdyoAmCbmeQs8rjrM5RETKE2ST3rDawuZ1R6Jt1avdcEe',
+    previewUrl: 'QmQFFBRAvs9RUNbz81n2QiLLyhB9Fmd85tJyaN36KhknMb',
+    ipfsUrl: 'QmdyoAmCbmeQs8rjrM5RETKE2ST3rDawuZ1R6Jt1avdcEe',
     attributes: [
       {
         trait_type: 'back',
@@ -32625,7 +33350,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW6DYL246RzXC85CPoq8q2jZFRN5X9cLZ7okY6pJU6FHM',
+    previewUrl: 'QmRk8MKoq77uJF2cdm2SJJBu6kQH9DFEiibYpzbw8hZLaT',
+    ipfsUrl: 'QmW6DYL246RzXC85CPoq8q2jZFRN5X9cLZ7okY6pJU6FHM',
     attributes: [
       {
         trait_type: 'back',
@@ -32670,7 +33396,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPsLnSgSrq2CxZxUpDCYWdmBZM22QSKv56TMWjrT8pi6p',
+    previewUrl: 'QmPauJhqDjVKi8vWVTCPhwFU5UhrrvawfnfK69wUrWQvpa',
+    ipfsUrl: 'QmPsLnSgSrq2CxZxUpDCYWdmBZM22QSKv56TMWjrT8pi6p',
     attributes: [
       {
         trait_type: 'back',
@@ -32715,7 +33442,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRjikVkLcA6tRkVPd2F7HRmGoDiAR3PXvB7Q6mr3cVLdJ',
+    previewUrl: 'QmPpE6b1Gwnmq5XvpzSnVzzMQGb4Lhy4sUWEyPoxd9yrRP',
+    ipfsUrl: 'QmRjikVkLcA6tRkVPd2F7HRmGoDiAR3PXvB7Q6mr3cVLdJ',
     attributes: [
       {
         trait_type: 'back',
@@ -32760,7 +33488,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNu1nT4GCrSvUzSPxkKvbRVhd4uczPYsV9rWgEhe9QkQM',
+    previewUrl: 'QmTb7aMgscZxbpYMnGTVgcALspwE2k7ycVXqqJLH1gNS1P',
+    ipfsUrl: 'QmNu1nT4GCrSvUzSPxkKvbRVhd4uczPYsV9rWgEhe9QkQM',
     attributes: [
       {
         trait_type: 'back',
@@ -32805,7 +33534,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeA4osYpMSf7jvJuLLjtBn5ASFVTfbvN9gUsc16GgYa9d',
+    previewUrl: 'QmSDPT7s456rc3dHsjRcgwwfJHuX7fxSNY3B3tNyPCW1VZ',
+    ipfsUrl: 'QmeA4osYpMSf7jvJuLLjtBn5ASFVTfbvN9gUsc16GgYa9d',
     attributes: [
       {
         trait_type: 'back',
@@ -32850,7 +33580,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRHyarfzjT2YraBBSAB5Deu4A4ya8hH1MGNCsEGqKEYxL',
+    previewUrl: 'QmUT1cMQBrrr8teABtZT2DYqrs2STjPM2iCAHrE7FcHQio',
+    ipfsUrl: 'QmRHyarfzjT2YraBBSAB5Deu4A4ya8hH1MGNCsEGqKEYxL',
     attributes: [
       {
         trait_type: 'back',
@@ -32895,7 +33626,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ2aHY1HG3rTfZ817nY54AwPAXzi628MEdsPmqQ2zczEi',
+    previewUrl: 'QmPrHTsRS7APCpFPT6g2BsXmbREwsLYrhXBqCJyXLraoCh',
+    ipfsUrl: 'QmZ2aHY1HG3rTfZ817nY54AwPAXzi628MEdsPmqQ2zczEi',
     attributes: [
       {
         trait_type: 'back',
@@ -32940,7 +33672,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaGLzeJRybvn6eQq2KDpy7aRXhQLsjzwZujn4j6pXJhe3',
+    previewUrl: 'QmNp4cH7g1RwZCAexFPqyRmLHzWCJTG7fhDEDaMaM9gyzW',
+    ipfsUrl: 'QmaGLzeJRybvn6eQq2KDpy7aRXhQLsjzwZujn4j6pXJhe3',
     attributes: [
       {
         trait_type: 'back',
@@ -32985,7 +33718,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNcosqkTdzcWcrQwodLTHvMhbhTQ9eM1QM73HKV4yMERu',
+    previewUrl: 'QmPQ9Tz4dWf6HRXR3osuByCyDTEm11VAbqD2YutKeWK1yg',
+    ipfsUrl: 'QmNcosqkTdzcWcrQwodLTHvMhbhTQ9eM1QM73HKV4yMERu',
     attributes: [
       {
         trait_type: 'back',
@@ -33030,7 +33764,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaGxEYwtEG4MQBAcDVVAwMfZpHPQo61SDAxtwGHSB6Lsq',
+    previewUrl: 'QmZajYQ8xWPE1Ff1jKtm4WeYru5JZPb6nWREeLtDh1LTCq',
+    ipfsUrl: 'QmaGxEYwtEG4MQBAcDVVAwMfZpHPQo61SDAxtwGHSB6Lsq',
     attributes: [
       {
         trait_type: 'back',
@@ -33075,7 +33810,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNfbv2w7dm24AvbxxeTGxSWg58cnuYc9FDt3UTqHNa3bd',
+    previewUrl: 'QmQQCHSyFq9Li2ZahNPxD3c55TB79shibBDbLeVsVECfD4',
+    ipfsUrl: 'QmNfbv2w7dm24AvbxxeTGxSWg58cnuYc9FDt3UTqHNa3bd',
     attributes: [
       {
         trait_type: 'back',
@@ -33120,7 +33856,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZKi4vNwsetsjy3vVZ8Ks43SbRjEdogQHzJULmeK8zKk7',
+    previewUrl: 'QmP4WFUMkmZwgyq6NXuj4X22u4SsNSKYQNZCDJfcmBU49F',
+    ipfsUrl: 'QmZKi4vNwsetsjy3vVZ8Ks43SbRjEdogQHzJULmeK8zKk7',
     attributes: [
       {
         trait_type: 'back',
@@ -33165,7 +33902,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTDkab4toNxpsYLg1UsmNd4tKo7JpVm72nNvLzvhBXT9r',
+    previewUrl: 'QmNeCirtbN47WY5LLmqadBCDvb8y485N86qRFMJr7RUjmB',
+    ipfsUrl: 'QmTDkab4toNxpsYLg1UsmNd4tKo7JpVm72nNvLzvhBXT9r',
     attributes: [
       {
         trait_type: 'back',
@@ -33210,7 +33948,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaHyGBAcWu1jbfk7b5wF5fbUMdiJvxasn8L8s5xe5Mqhf',
+    previewUrl: 'Qmai8UgV4ef36MPSXbmBiG83fYsRV2kkRBJjNGjM8TEPAi',
+    ipfsUrl: 'QmaHyGBAcWu1jbfk7b5wF5fbUMdiJvxasn8L8s5xe5Mqhf',
     attributes: [
       {
         trait_type: 'back',
@@ -33255,7 +33994,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSLyWxC4FSQPL5utdwW9bShDhd9a4UZYKsQCde9phT4Cd',
+    previewUrl: 'QmVrHm6nfDth39ZSgapKh19j64BfiwXsnEEUTnAjBWJe82',
+    ipfsUrl: 'QmSLyWxC4FSQPL5utdwW9bShDhd9a4UZYKsQCde9phT4Cd',
     attributes: [
       {
         trait_type: 'back',
@@ -33300,7 +34040,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTTV8aDxK1osFxCRG4vNFXVzB4fw7ZQtGcgfouykkdZaf',
+    previewUrl: 'QmetFVrEy9pY89zEH9R1zqdnD5Ai1DgxJPbsK6tuxzkNy6',
+    ipfsUrl: 'QmTTV8aDxK1osFxCRG4vNFXVzB4fw7ZQtGcgfouykkdZaf',
     attributes: [
       {
         trait_type: 'back',
@@ -33345,7 +34086,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQt6YYYn1GBAUX9ctU88Z6SsDz9AxGPNqDyrwsSBq8sKf',
+    previewUrl: 'QmWAPHnaSBbFRQvvFBSZEamUXMQw5x53WdkZFddfBTD4Gn',
+    ipfsUrl: 'QmQt6YYYn1GBAUX9ctU88Z6SsDz9AxGPNqDyrwsSBq8sKf',
     attributes: [
       {
         trait_type: 'back',
@@ -33390,7 +34132,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXF5cMAPDBJJ7xuH2NpFpaFdHAAVTg66soihuUnHGJbSV',
+    previewUrl: 'QmPjuGyajtR13HbqAVU2XMGLbiUMXkPXKPv8o1hLRfqohd',
+    ipfsUrl: 'QmXF5cMAPDBJJ7xuH2NpFpaFdHAAVTg66soihuUnHGJbSV',
     attributes: [
       {
         trait_type: 'back',
@@ -33435,7 +34178,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbT8jVmATccgdJCVJNbA9V7M42EMx6etEacgBwxZDWkQh',
+    previewUrl: 'QmQM1YaUeaic5ps63VrHm2rWY3GJXokumLFo1HiDzepRNB',
+    ipfsUrl: 'QmbT8jVmATccgdJCVJNbA9V7M42EMx6etEacgBwxZDWkQh',
     attributes: [
       {
         trait_type: 'back',
@@ -33480,7 +34224,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc2uuGojAkWj5CpoiQGNFodEUdt1XqD4L11EwT5jJ1WoG',
+    previewUrl: 'QmR4DSyusvUQXGPHcFZZXgPZnaScPLprVg58kPKEASUqd7',
+    ipfsUrl: 'Qmc2uuGojAkWj5CpoiQGNFodEUdt1XqD4L11EwT5jJ1WoG',
     attributes: [
       {
         trait_type: 'back',
@@ -33525,7 +34270,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbWYYCKKKSrtdsLeXrigCGk3pBNexLc79ruD81td3XKni',
+    previewUrl: 'QmPPzrG5vmXKi5M91yFFDyawDdBhCENftXDBcRmLAXjcpi',
+    ipfsUrl: 'QmbWYYCKKKSrtdsLeXrigCGk3pBNexLc79ruD81td3XKni',
     attributes: [
       {
         trait_type: 'back',
@@ -33570,7 +34316,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXAZscC4eBrXGZUXWyPabS4NFmTZsRuQg7Wjx8iafMUVr',
+    previewUrl: 'QmeDuULf25cGq6AiMBy1aM5Vqsut5PpzrpuHK2Zzz68wZY',
+    ipfsUrl: 'QmXAZscC4eBrXGZUXWyPabS4NFmTZsRuQg7Wjx8iafMUVr',
     attributes: [
       {
         trait_type: 'back',
@@ -33615,7 +34362,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY47Ta3noyq7t8ojQY17awDDNYiezqJSiLri1H4YT1znk',
+    previewUrl: 'QmUncKWd6irFq3nR1g5LQpybUt6cc8cAZpNsdVWh5RjLn3',
+    ipfsUrl: 'QmY47Ta3noyq7t8ojQY17awDDNYiezqJSiLri1H4YT1znk',
     attributes: [
       {
         trait_type: 'back',
@@ -33660,7 +34408,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmS3eRh6BTRQhj3SrNnCVQTZBM1F9StafSutNUZDoC4cmQ',
+    previewUrl: 'QmPHESG74NaZTswnhFSKorovFAzAgAYjQCL5FSk9TtV1ds',
+    ipfsUrl: 'QmS3eRh6BTRQhj3SrNnCVQTZBM1F9StafSutNUZDoC4cmQ',
     attributes: [
       {
         trait_type: 'back',
@@ -33705,7 +34454,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdbMENfGqkwLY7SHXCqsJ7sS58gy4KDbwDKpNf2RAphmA',
+    previewUrl: 'Qmatuw7RXPeU2MzvfYhbyH8951HTHgfC2TgNkjqT4Kdx9N',
+    ipfsUrl: 'QmdbMENfGqkwLY7SHXCqsJ7sS58gy4KDbwDKpNf2RAphmA',
     attributes: [
       {
         trait_type: 'back',
@@ -33750,7 +34500,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXxrAVE5BgDx1ZKWapMkMwZHqvqTuFTi9B1AWj7fDfFMw',
+    previewUrl: 'QmbycRbtfjEv9exn15pS2jpR3akCcdFyuGkJmFh7daUwxF',
+    ipfsUrl: 'QmXxrAVE5BgDx1ZKWapMkMwZHqvqTuFTi9B1AWj7fDfFMw',
     attributes: [
       {
         trait_type: 'back',
@@ -33795,7 +34546,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU1ZoCrW7y7HDdPj6cRZbyB6VEb139LQi5H845DTDPFQ4',
+    previewUrl: 'QmScACVeQFCnPxgNCsXisEuhPuw5VFb78KmLtkaapHJxfu',
+    ipfsUrl: 'QmU1ZoCrW7y7HDdPj6cRZbyB6VEb139LQi5H845DTDPFQ4',
     attributes: [
       {
         trait_type: 'back',
@@ -33840,7 +34592,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPUcY1uHC49LnMgvHrSpEaxAJqd5QT2ZfofCRt4Yre4uP',
+    previewUrl: 'QmbhXb7Cz6S295hEJSMZkTC38wdLofKnvE3QkrcEbCNhUk',
+    ipfsUrl: 'QmPUcY1uHC49LnMgvHrSpEaxAJqd5QT2ZfofCRt4Yre4uP',
     attributes: [
       {
         trait_type: 'back',
@@ -33885,7 +34638,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRGagG7bEfFrBGDEGhDHnZm8w7mSdwSzDy3EBuFCr8BV4',
+    previewUrl: 'QmQQ2JCPM3EXgcTuaT7sGK9FQSqq4J8wYDLR6N3YJTic19',
+    ipfsUrl: 'QmRGagG7bEfFrBGDEGhDHnZm8w7mSdwSzDy3EBuFCr8BV4',
     attributes: [
       {
         trait_type: 'back',
@@ -33930,7 +34684,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUVv8onDqMhCpsdCXMkXnJne1VpgNznnwwTQcoz2atGRV',
+    previewUrl: 'Qmam3midEoL4sEVxQPhcNaDYBadAdpYNWjmBJDLriZzDcA',
+    ipfsUrl: 'QmUVv8onDqMhCpsdCXMkXnJne1VpgNznnwwTQcoz2atGRV',
     attributes: [
       {
         trait_type: 'back',
@@ -33975,7 +34730,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcyT278TNob1GxcuBk9YCuVbvk47bYBbW52mwDaQQx2s1',
+    previewUrl: 'QmbabyTfYAWwknAhqyGJRanuhx4iGv2pgWy6xmSZZLfBaE',
+    ipfsUrl: 'QmcyT278TNob1GxcuBk9YCuVbvk47bYBbW52mwDaQQx2s1',
     attributes: [
       {
         trait_type: 'back',
@@ -34020,7 +34776,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmb5UT33V861EZy2K6dqENkXF8r2VjEwh7UH8gPEwZvqwU',
+    previewUrl: 'QmXZFru31Vho88JisAf8oUNNzyEM2gXN4TkmfyWxtTgqhx',
+    ipfsUrl: 'Qmb5UT33V861EZy2K6dqENkXF8r2VjEwh7UH8gPEwZvqwU',
     attributes: [
       {
         trait_type: 'back',
@@ -34065,7 +34822,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSNQyTvk5cjscwqdyWpJqjqYL3Up9YnbTe2bqfmSFz1MY',
+    previewUrl: 'QmQp8B5SrUFZhaFFfM6zqJ6z9HCYejUkUp7YECgRSLMmky',
+    ipfsUrl: 'QmSNQyTvk5cjscwqdyWpJqjqYL3Up9YnbTe2bqfmSFz1MY',
     attributes: [
       {
         trait_type: 'back',
@@ -34110,7 +34868,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfM1c4RHq2T1jduPK5uAz9ETnFbmALc1G1HYzd2Fhnsnc',
+    previewUrl: 'QmRJJahszZwnxPUf3nttDUjyQuAY52qd9ohqGDDkws4ZZf',
+    ipfsUrl: 'QmfM1c4RHq2T1jduPK5uAz9ETnFbmALc1G1HYzd2Fhnsnc',
     attributes: [
       {
         trait_type: 'back',
@@ -34155,7 +34914,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSjsLS2JNCBR5wdSrqCBtx1j2XtRqqoTxPaUVhX6Rho2T',
+    previewUrl: 'QmRePwXowURZpNecX2UYCzcAkUHWVPL3en9GRF7WHvtNbA',
+    ipfsUrl: 'QmSjsLS2JNCBR5wdSrqCBtx1j2XtRqqoTxPaUVhX6Rho2T',
     attributes: [
       {
         trait_type: 'back',
@@ -34200,7 +34960,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPuAVYjSzZ7h9soBRKsVcvFdr4HYVzP4hPnPHkNjSPv4w',
+    previewUrl: 'Qmcy376S8G1XKj91jbA9ZmJhzhWsT7BzwJHPk1mcgrsiYY',
+    ipfsUrl: 'QmPuAVYjSzZ7h9soBRKsVcvFdr4HYVzP4hPnPHkNjSPv4w',
     attributes: [
       {
         trait_type: 'back',
@@ -34245,7 +35006,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmcsna5BB896Q4Buzrk2TVoY46PLc9oXUep5vGSTsxDzgY',
+    previewUrl: 'QmUN8bZjbqb6FcX6XHbq4V7FkSaaPWH1yQcjmDTR37U1dd',
+    ipfsUrl: 'Qmcsna5BB896Q4Buzrk2TVoY46PLc9oXUep5vGSTsxDzgY',
     attributes: [
       {
         trait_type: 'back',
@@ -34290,7 +35052,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdQd32VEHz7k8Z4U3P7MbawoBnq5JiAW1pLoMRbvUtdyo',
+    previewUrl: 'QmV5dvwh7jMFGECYvLk8RMZbrsPUQM76hvcnsNF2VBniKY',
+    ipfsUrl: 'QmdQd32VEHz7k8Z4U3P7MbawoBnq5JiAW1pLoMRbvUtdyo',
     attributes: [
       {
         trait_type: 'back',
@@ -34335,7 +35098,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYVFRsuMX13PJHzxCYcWWFcxJq2ZLHPhYcdMtbZvjWrU3',
+    previewUrl: 'Qmcv6v2BiGCh47zXkqa9H3uBDFNGY51KgE2Xp8TnkEG2RQ',
+    ipfsUrl: 'QmYVFRsuMX13PJHzxCYcWWFcxJq2ZLHPhYcdMtbZvjWrU3',
     attributes: [
       {
         trait_type: 'back',
@@ -34380,7 +35144,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZFJY6ZFDcP6d6CcouLe66hfVrUayexGE9LbkWbrhBd28',
+    previewUrl: 'Qma1FGXYiRY1zcCG8rNej64hXaGTVfFXzYUMXdqwnfkM41',
+    ipfsUrl: 'QmZFJY6ZFDcP6d6CcouLe66hfVrUayexGE9LbkWbrhBd28',
     attributes: [
       {
         trait_type: 'back',
@@ -34425,7 +35190,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR5XxtrYqjjL2zgzeRdRwxKBNtQDiGeeg7DCA4ZrK2urW',
+    previewUrl: 'QmdJMZSbNcm8KyzKPzUbgkMEZnSLQ7mnXJsE53UF5KXWyq',
+    ipfsUrl: 'QmR5XxtrYqjjL2zgzeRdRwxKBNtQDiGeeg7DCA4ZrK2urW',
     attributes: [
       {
         trait_type: 'back',
@@ -34470,7 +35236,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc7oykpmBh6LDQgPCytZgCWApXmW4ZpHp2fHsZDkA3eDW',
+    previewUrl: 'QmNQXjYczVdM7hxkb9hMUbiETjiciskGJvbPwLf8Y96fZd',
+    ipfsUrl: 'Qmc7oykpmBh6LDQgPCytZgCWApXmW4ZpHp2fHsZDkA3eDW',
     attributes: [
       {
         trait_type: 'back',
@@ -34515,7 +35282,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZYh71dYtLTauZ6XzQ1NBCCwYcLXA17FvXkzmmJmGyBZK',
+    previewUrl: 'QmPchWZAGFWn17ZV6Pup9J3eV4R5QNk4CNd1Y8gHZJPKW4',
+    ipfsUrl: 'QmZYh71dYtLTauZ6XzQ1NBCCwYcLXA17FvXkzmmJmGyBZK',
     attributes: [
       {
         trait_type: 'back',
@@ -34560,7 +35328,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT2kGq7tYBWarNLWWyaFXwjWcz4ssaRDzHTykZ6YopGHp',
+    previewUrl: 'QmfTEJghEmE5smMELYo3zssjNb6pwyse8gzWPP1YisCCAX',
+    ipfsUrl: 'QmT2kGq7tYBWarNLWWyaFXwjWcz4ssaRDzHTykZ6YopGHp',
     attributes: [
       {
         trait_type: 'back',
@@ -34605,7 +35374,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWnQzw46hBdhkTAQg8TGVP8B53Hv11iJ9yV9N7hjhWsiA',
+    previewUrl: 'QmXqmUepWKXpWmUufJrE6YoVgb3gpqQiQphhJdCJArNpj2',
+    ipfsUrl: 'QmWnQzw46hBdhkTAQg8TGVP8B53Hv11iJ9yV9N7hjhWsiA',
     attributes: [
       {
         trait_type: 'back',
@@ -34650,7 +35420,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVWADcPLTotxbSKK5nrdWVEV9jnWd7uAL3JW9aJ8ETJAS',
+    previewUrl: 'QmNv43z9fj5S5JWYjhAxQ6XUPvAYu9npuMsNA8VAB5xXPA',
+    ipfsUrl: 'QmVWADcPLTotxbSKK5nrdWVEV9jnWd7uAL3JW9aJ8ETJAS',
     attributes: [
       {
         trait_type: 'back',
@@ -34695,7 +35466,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbfgDYq6G7RwLEJ1JNCaR4DBS73hpaLJsh4fD37D93VsD',
+    previewUrl: 'QmbbTwaBBa8xrhhKZ6t9NqUEy6b2VT74dWntCsRsW9W1gV',
+    ipfsUrl: 'QmbfgDYq6G7RwLEJ1JNCaR4DBS73hpaLJsh4fD37D93VsD',
     attributes: [
       {
         trait_type: 'back',
@@ -34740,7 +35512,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSGYAUPU5ZxcbUCLCW8Ntehr4Jw91uj2Kzdh7sqddSXpU',
+    previewUrl: 'QmQ5jrmdRFAgr4hUpFwdgZ1RGogViuVLtNebWQNnaMZnDe',
+    ipfsUrl: 'QmSGYAUPU5ZxcbUCLCW8Ntehr4Jw91uj2Kzdh7sqddSXpU',
     attributes: [
       {
         trait_type: 'back',
@@ -34785,7 +35558,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUTskdnWr7R6EK3ShTm2qFZ8aZ1ic58ypUD27THTrWdDP',
+    previewUrl: 'QmULtyrRnc3Wittvbm7kKXwq5oSapSuPwfGRoDk9eoZkva',
+    ipfsUrl: 'QmUTskdnWr7R6EK3ShTm2qFZ8aZ1ic58ypUD27THTrWdDP',
     attributes: [
       {
         trait_type: 'back',
@@ -34830,7 +35604,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRMnmkyU6vxXp6Jj8ppsYJbdUa9EAL8nDKXK1PmcLrXse',
+    previewUrl: 'Qmb2JDXCevDmVjJLuPfVFcLbRtnebhpqKxKbNj3XS1uT1Q',
+    ipfsUrl: 'QmRMnmkyU6vxXp6Jj8ppsYJbdUa9EAL8nDKXK1PmcLrXse',
     attributes: [
       {
         trait_type: 'back',
@@ -34875,7 +35650,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcFvD4UddCQV3bMSmSmrjndp8uTooKJME5mWA8Cjk8D4w',
+    previewUrl: 'Qmaty5ScDCoFFFGyZQEfaMmNTVs7noRwXvRZX3SUBSjrQN',
+    ipfsUrl: 'QmcFvD4UddCQV3bMSmSmrjndp8uTooKJME5mWA8Cjk8D4w',
     attributes: [
       {
         trait_type: 'back',
@@ -34920,7 +35696,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWf93KDLf5V8dLQU8kUeD7PELZ65ztLWYVuwsjZyYMdaX',
+    previewUrl: 'QmQGykEsoXsPnpQ4Qa7dfyXVdALRn9UwEX4vdjPtuVydvC',
+    ipfsUrl: 'QmWf93KDLf5V8dLQU8kUeD7PELZ65ztLWYVuwsjZyYMdaX',
     attributes: [
       {
         trait_type: 'back',
@@ -34965,7 +35742,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmdf3wS5TM7XRVmct3SMnoEySSSpzMqPLHF7TFcDjJ1hBr',
+    previewUrl: 'QmcvTWknAEVpMHvbVCpPXT9hgTKDBKLKxXpRtiYr5jJada',
+    ipfsUrl: 'Qmdf3wS5TM7XRVmct3SMnoEySSSpzMqPLHF7TFcDjJ1hBr',
     attributes: [
       {
         trait_type: 'back',
@@ -35010,7 +35788,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdZHGFp64KVjwubHuFk4LDLW5HJvhWveyW59XGQixXF7z',
+    previewUrl: 'QmZJiCwUmoEnbyyUdikohv3FPa7P4Zst4TnxD2UqwvyY4D',
+    ipfsUrl: 'QmdZHGFp64KVjwubHuFk4LDLW5HJvhWveyW59XGQixXF7z',
     attributes: [
       {
         trait_type: 'back',
@@ -35055,7 +35834,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPQfECBrFW2N5FqWuh92pWz9YBoQ3LgtW1bYAN2MWU8os',
+    previewUrl: 'QmZ4c9RYJBQiHMtvcV2T3CgyB2v2WTvXRs4dBqUBtbquy4',
+    ipfsUrl: 'QmPQfECBrFW2N5FqWuh92pWz9YBoQ3LgtW1bYAN2MWU8os',
     attributes: [
       {
         trait_type: 'back',
@@ -35100,7 +35880,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWHFJ7rdFTEXSqH5tbuAuG5iJMN5FCr6Wx55RCS4UdKRa',
+    previewUrl: 'QmWyq9oyrEfNQWKEtThgNa3Z8Sd9xKfGSoU3yYNmnBpp28',
+    ipfsUrl: 'QmWHFJ7rdFTEXSqH5tbuAuG5iJMN5FCr6Wx55RCS4UdKRa',
     attributes: [
       {
         trait_type: 'back',
@@ -35145,7 +35926,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeV7KazefZfUr9nH6edTr9aGRk9Q39cu767e5rA6V9wUs',
+    previewUrl: 'Qmba3DPSuBP8dMKWvVUYXgAiksM8osEfv6RjS2uiuya7u3',
+    ipfsUrl: 'QmeV7KazefZfUr9nH6edTr9aGRk9Q39cu767e5rA6V9wUs',
     attributes: [
       {
         trait_type: 'back',
@@ -35190,7 +35972,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmatd4Hq3FV2tau6R1qb7RmqfLnV4VVYvpcGi9Qo7mtbC1',
+    previewUrl: 'Qmc4oXS5qCJymsUVH7YhPKfXgFq8TU5R1MgYW2redyBtgu',
+    ipfsUrl: 'Qmatd4Hq3FV2tau6R1qb7RmqfLnV4VVYvpcGi9Qo7mtbC1',
     attributes: [
       {
         trait_type: 'back',
@@ -35235,7 +36018,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQHrcUwtDVxkES21MUTNFv37SUFzNVCJhnfVAiNcKME6Y',
+    previewUrl: 'QmXPfwn1ePUhA6H7G15VJ1kziypFbDhHFQirH3dsxLG8de',
+    ipfsUrl: 'QmQHrcUwtDVxkES21MUTNFv37SUFzNVCJhnfVAiNcKME6Y',
     attributes: [
       {
         trait_type: 'back',
@@ -35280,7 +36064,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXJBcP98zhzHx3oHCE5xGJKHiVChBhzY3Sr3dpCv9uhE3',
+    previewUrl: 'QmdgnTC17LhYH64nrTzj3CDFjqtUm4abH9e4YPErodEbj7',
+    ipfsUrl: 'QmXJBcP98zhzHx3oHCE5xGJKHiVChBhzY3Sr3dpCv9uhE3',
     attributes: [
       {
         trait_type: 'back',
@@ -35325,7 +36110,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXRUKhrJ2F5RKGYMZ87JRzZyereZLtmonxikYXMYJUXXM',
+    previewUrl: 'QmR5kPrfwXXKArwiSwb9ZToKyiAh85a3gnwq25yWwDsxfD',
+    ipfsUrl: 'QmXRUKhrJ2F5RKGYMZ87JRzZyereZLtmonxikYXMYJUXXM',
     attributes: [
       {
         trait_type: 'back',
@@ -35370,7 +36156,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfSUjX8mmSM52KWUQUm3wa7TWF3xXHKGho5pcdpLKk567',
+    previewUrl: 'QmasHd5uzb7wiF44SwuV7o3EPGqEddHT2rRZAngrmUcvzc',
+    ipfsUrl: 'QmfSUjX8mmSM52KWUQUm3wa7TWF3xXHKGho5pcdpLKk567',
     attributes: [
       {
         trait_type: 'back',
@@ -35415,7 +36202,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUYCjfUvJjAmvJCmmJVzQUFfRBfGq2TPkY84jtYzaVbMM',
+    previewUrl: 'QmVB96mvj5958r7JGGwM6D16tZMfNDNgshsNdXr5J5XoAh',
+    ipfsUrl: 'QmUYCjfUvJjAmvJCmmJVzQUFfRBfGq2TPkY84jtYzaVbMM',
     attributes: [
       {
         trait_type: 'back',
@@ -35460,7 +36248,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQNXD4refTyYvBxUksECa2LC2vKeVbsL9RbQePVBgCt3p',
+    previewUrl: 'QmTKBWx3GDmoJfgZnsC76FYpWSdxZbdsZg21uMd86QTc8T',
+    ipfsUrl: 'QmQNXD4refTyYvBxUksECa2LC2vKeVbsL9RbQePVBgCt3p',
     attributes: [
       {
         trait_type: 'back',
@@ -35505,7 +36294,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeMppXeL83hyEgDqj74MpkhguFYjJdbGaTNGCD8xpXqaE',
+    previewUrl: 'QmRzpHJ7GPcrv78iY9n2jWSDShVsUYe7kPPSiPoxt5jj3N',
+    ipfsUrl: 'QmeMppXeL83hyEgDqj74MpkhguFYjJdbGaTNGCD8xpXqaE',
     attributes: [
       {
         trait_type: 'back',
@@ -35550,7 +36340,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYnTshA3HSWj6ntLgCAX5riEtaPZdEMYvtCEAgGQYL43q',
+    previewUrl: 'QmRUgFS1cmB63P8deKm3qNBLABTJHp411Zfdprmy12tVSf',
+    ipfsUrl: 'QmYnTshA3HSWj6ntLgCAX5riEtaPZdEMYvtCEAgGQYL43q',
     attributes: [
       {
         trait_type: 'back',
@@ -35595,7 +36386,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSefkixSjGfBn8dMyg2Eyvk3XW6aaM444jFgjeWsVVBjG',
+    previewUrl: 'QmVNRV3f1FDDsEgLG4GMfxehY5TRczXKHruPhzWUd476kZ',
+    ipfsUrl: 'QmSefkixSjGfBn8dMyg2Eyvk3XW6aaM444jFgjeWsVVBjG',
     attributes: [
       {
         trait_type: 'back',
@@ -35640,7 +36432,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTX5Y8sLNLWYjgnB23qMUNr8GboCDDqjXx6wJxTQ8R5Sd',
+    previewUrl: 'QmRFRUoh5UscsNswqvb9FPKnJkgRCXvdYYsogvyjYebkpp',
+    ipfsUrl: 'QmTX5Y8sLNLWYjgnB23qMUNr8GboCDDqjXx6wJxTQ8R5Sd',
     attributes: [
       {
         trait_type: 'back',
@@ -35685,7 +36478,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTcFq9TuQ7rAZjnJPP3oq2vWXrhhGv7pffdTtMWQtTjGG',
+    previewUrl: 'QmNukcEhNSUhETGBS4BB7TKj1YPdCjDMv5nQZV8zYc2SYg',
+    ipfsUrl: 'QmTcFq9TuQ7rAZjnJPP3oq2vWXrhhGv7pffdTtMWQtTjGG',
     attributes: [
       {
         trait_type: 'back',
@@ -35730,7 +36524,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSvvaw1KxSWnwyw85PbfY7mEf1NkhnrADEdnD92Db7nsA',
+    previewUrl: 'QmPfCjbKakMbPyZ1ddEURZjWvPtYABM5pVYnxL9VLjgdkH',
+    ipfsUrl: 'QmSvvaw1KxSWnwyw85PbfY7mEf1NkhnrADEdnD92Db7nsA',
     attributes: [
       {
         trait_type: 'back',
@@ -35775,7 +36570,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSVfUqfbXsXpjkDRM7hwxawLUdPn3rvnpWUsqHRHGhUCm',
+    previewUrl: 'QmYkvLfFC1CJruZSWWK2jUWR13UpDUriXG2JrxQR9A2rG9',
+    ipfsUrl: 'QmSVfUqfbXsXpjkDRM7hwxawLUdPn3rvnpWUsqHRHGhUCm',
     attributes: [
       {
         trait_type: 'back',
@@ -35820,7 +36616,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaoAs8hYQcNMNF6EENokSf5FuAKkdUe5cBL8emzB6ixPJ',
+    previewUrl: 'QmSJQzrCgE8TE8ZdhYHaP5e7N7Qw4i2JnVwJHQQoFVoZAq',
+    ipfsUrl: 'QmaoAs8hYQcNMNF6EENokSf5FuAKkdUe5cBL8emzB6ixPJ',
     attributes: [
       {
         trait_type: 'back',
@@ -35865,7 +36662,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPtpxaDb5dRcoTicdAhKrexaKwgAH5dUDMGrXdTkoyeEN',
+    previewUrl: 'QmU6DNVvoyN7gBKCLQjdh4fuQbfLioRuU7bCF63WbMSrms',
+    ipfsUrl: 'QmPtpxaDb5dRcoTicdAhKrexaKwgAH5dUDMGrXdTkoyeEN',
     attributes: [
       {
         trait_type: 'back',
@@ -35910,7 +36708,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVLWpw5b36bA2dpnT1bWGqK2HGbSgvqYz1D8gF1MwtSny',
+    previewUrl: 'QmXZ7pd9AtF1TF8nzFW7yquhdDb9b8GHP9XkK9s3kjiThL',
+    ipfsUrl: 'QmVLWpw5b36bA2dpnT1bWGqK2HGbSgvqYz1D8gF1MwtSny',
     attributes: [
       {
         trait_type: 'back',
@@ -35955,7 +36754,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaZNdPWNBjGK3iWazPF2m9ANzjfcvokistQV2a62e313n',
+    previewUrl: 'QmdTW2kESqQPmyCnNuZ2eabtK7CywNkwn5cswWEjB8RMDc',
+    ipfsUrl: 'QmaZNdPWNBjGK3iWazPF2m9ANzjfcvokistQV2a62e313n',
     attributes: [
       {
         trait_type: 'back',
@@ -36000,7 +36800,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYNcSh85W5vTnJUhhToz9HN1x1bhbtPSTYDEUGpgkBfzy',
+    previewUrl: 'QmWEnNnFyWAPam9J7egBkBAvcnsmzvhQXy39rMJcdjP7ee',
+    ipfsUrl: 'QmYNcSh85W5vTnJUhhToz9HN1x1bhbtPSTYDEUGpgkBfzy',
     attributes: [
       {
         trait_type: 'back',
@@ -36045,7 +36846,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVsBNHSEFa91gnV39QmF9izmsLUdb2qF1PenUAtRm4Nee',
+    previewUrl: 'QmTEkJauaByXd87JtVEuhYmSrY6ELy9KrMnkkqhm3yj41D',
+    ipfsUrl: 'QmVsBNHSEFa91gnV39QmF9izmsLUdb2qF1PenUAtRm4Nee',
     attributes: [
       {
         trait_type: 'back',
@@ -36090,7 +36892,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVXaycfqUF1oic3f3CpuVyad8eZktTi7V96sVC6v9Hgsa',
+    previewUrl: 'QmQzq9qdM6qk7wruEcrfQmSjmC3L9rYRcAkuV4TFpjevA6',
+    ipfsUrl: 'QmVXaycfqUF1oic3f3CpuVyad8eZktTi7V96sVC6v9Hgsa',
     attributes: [
       {
         trait_type: 'back',
@@ -36135,7 +36938,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfTDCUKNzJDfmn6kYnfnABddEuFPNkceZKS5C7Y4r5KVd',
+    previewUrl: 'QmdEmu8o1vJm5wLBYU35FNGkCDPrFT22qbQ8ZauezMa1kn',
+    ipfsUrl: 'QmfTDCUKNzJDfmn6kYnfnABddEuFPNkceZKS5C7Y4r5KVd',
     attributes: [
       {
         trait_type: 'back',
@@ -36180,7 +36984,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUHh4vqY6gYwNmCJvkA7b7fFr5GYJhk8rTuHBhTsDKSK8',
+    previewUrl: 'QmVSXTHVe7x4pRJDbdSJgi3rVBYH3hD5uUzNRsmf8VUu31',
+    ipfsUrl: 'QmUHh4vqY6gYwNmCJvkA7b7fFr5GYJhk8rTuHBhTsDKSK8',
     attributes: [
       {
         trait_type: 'back',
@@ -36225,7 +37030,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPQQNsoxXYVizZq48TvxvDECDDBHXCFoeZM4KpmHkmApt',
+    previewUrl: 'QmeyVAfv6Da9khLiBtZA7X5ie2EUaEX7nFA2mLMaSRX3HN',
+    ipfsUrl: 'QmPQQNsoxXYVizZq48TvxvDECDDBHXCFoeZM4KpmHkmApt',
     attributes: [
       {
         trait_type: 'back',
@@ -36270,7 +37076,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYLydEuCMBNtX152hTu5CPwWeN8nCAkPA3eB5rsjaL5Vn',
+    previewUrl: 'Qma7kG4DLtV39tJKxq9MKQSb5gfHXwXVgqaRYXa49dVDD2',
+    ipfsUrl: 'QmYLydEuCMBNtX152hTu5CPwWeN8nCAkPA3eB5rsjaL5Vn',
     attributes: [
       {
         trait_type: 'back',
@@ -36315,7 +37122,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVeU9orQe3iXZ29i9b7ycaZXz1Qmdpz9k3MbgzKgz8rXy',
+    previewUrl: 'QmPAHjP8skuKpiN7rkz1uD6V9TSyPFV2RBrbmJBQjjADLy',
+    ipfsUrl: 'QmVeU9orQe3iXZ29i9b7ycaZXz1Qmdpz9k3MbgzKgz8rXy',
     attributes: [
       {
         trait_type: 'back',
@@ -36360,7 +37168,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmf9TQuqvvq4jJEs4VkXXFu3MV5mJ8h7iMih874jN4PGao',
+    previewUrl: 'QmQcN42qXdRbDyR6nHkEUbzb9VHf2Xx7pYzqEvkXMXRBBz',
+    ipfsUrl: 'Qmf9TQuqvvq4jJEs4VkXXFu3MV5mJ8h7iMih874jN4PGao',
     attributes: [
       {
         trait_type: 'back',
@@ -36405,7 +37214,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVm1KDbggF3yYC8fx8E41eJSGM85MxrwXiCmT4ADPM3yN',
+    previewUrl: 'QmZx21NqRBYpAZCnRV6HeC2orzj1MSDjF7dYi5wb2PAyhN',
+    ipfsUrl: 'QmVm1KDbggF3yYC8fx8E41eJSGM85MxrwXiCmT4ADPM3yN',
     attributes: [
       {
         trait_type: 'back',
@@ -36450,7 +37260,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPYWJ13kYeDF8MqNM2gsY2zL1ERGmQ9RbLsuEXUr2cixy',
+    previewUrl: 'QmQF84joQV249YWFHW3StJ7fXNrGyQnMiALMrDzCKjpGMd',
+    ipfsUrl: 'QmPYWJ13kYeDF8MqNM2gsY2zL1ERGmQ9RbLsuEXUr2cixy',
     attributes: [
       {
         trait_type: 'back',
@@ -36495,7 +37306,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbN8JGo6guwaFLV3YNFSyxo5av2fDmA8e18KbkpRwxin7',
+    previewUrl: 'QmRiHrkZyVxeievCkSUrYMsx9hUcCbrTThD5BrfaYQEuk6',
+    ipfsUrl: 'QmbN8JGo6guwaFLV3YNFSyxo5av2fDmA8e18KbkpRwxin7',
     attributes: [
       {
         trait_type: 'back',
@@ -36540,7 +37352,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVUA1KDsveqNM9dhwccynRsiAfrEcq6uj6Bbdn71uoRag',
+    previewUrl: 'Qmf91jWr3DQjtm8RUsCpohcL5jhXZx1ZaPk1EcJVUvPov2',
+    ipfsUrl: 'QmVUA1KDsveqNM9dhwccynRsiAfrEcq6uj6Bbdn71uoRag',
     attributes: [
       {
         trait_type: 'back',
@@ -36585,7 +37398,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU8JRG3qxSoCNAZkDFiY6xwLmAMJjzFvc1vmD2jcxKjzf',
+    previewUrl: 'Qme3AZkqcUgm65MEmc2r6WC7WozGCds4EyDZkVWdGfDsh9',
+    ipfsUrl: 'QmU8JRG3qxSoCNAZkDFiY6xwLmAMJjzFvc1vmD2jcxKjzf',
     attributes: [
       {
         trait_type: 'back',
@@ -36630,7 +37444,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVmeknKcuNzpUmJ4LeZB7K4LoMoHr23LGECHbyaqv824m',
+    previewUrl: 'QmSWY1RhrgLg4RaWUE5hnYKpTFSEToyFW7jVqZ5NRyUQJp',
+    ipfsUrl: 'QmVmeknKcuNzpUmJ4LeZB7K4LoMoHr23LGECHbyaqv824m',
     attributes: [
       {
         trait_type: 'back',
@@ -36675,7 +37490,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcJTcuLtJhnyNpdLrv96fwqz1uNi7ZqYCRTG33y2WArXm',
+    previewUrl: 'QmSpgptHR5g6JoCGpYoMPAx27uPSEZFprH6BNJ85VRg2gZ',
+    ipfsUrl: 'QmcJTcuLtJhnyNpdLrv96fwqz1uNi7ZqYCRTG33y2WArXm',
     attributes: [
       {
         trait_type: 'back',
@@ -36720,7 +37536,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeerU9fAhERf4X3qX3JCAX4yoWpwjd2NAivct2cbhGAXY',
+    previewUrl: 'QmfWR93YkffCvQiCdtNCDCvFQZaUcFNm7Z5ntHS8bZYLyL',
+    ipfsUrl: 'QmeerU9fAhERf4X3qX3JCAX4yoWpwjd2NAivct2cbhGAXY',
     attributes: [
       {
         trait_type: 'back',
@@ -36765,7 +37582,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXuxd1cUpBB4tC6QdE7f7cwZjUYMqN8uMp5jv8Mw9eUzJ',
+    previewUrl: 'QmZTqx2erJVBMHymLd84CN63GkW5LkTRxEbCfjFpLfksbi',
+    ipfsUrl: 'QmXuxd1cUpBB4tC6QdE7f7cwZjUYMqN8uMp5jv8Mw9eUzJ',
     attributes: [
       {
         trait_type: 'back',
@@ -36810,7 +37628,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQx7ftTuaqstQXtdjw2eu8DZE53JEQejyGM1FjUpUuh6D',
+    previewUrl: 'QmfSKnVkJhXgcCKD2KGLAq5wTLJXg42RLM1Uw4hfXthekc',
+    ipfsUrl: 'QmQx7ftTuaqstQXtdjw2eu8DZE53JEQejyGM1FjUpUuh6D',
     attributes: [
       {
         trait_type: 'back',
@@ -36855,7 +37674,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSsYNPYC4fRYhY7BoJYHcSqyo1q23FDufawki5g263bdz',
+    previewUrl: 'QmRsG7uKyWmAw4MhgWwF6yAMmt3FKCaVcbKwLgE7NTq3MJ',
+    ipfsUrl: 'QmSsYNPYC4fRYhY7BoJYHcSqyo1q23FDufawki5g263bdz',
     attributes: [
       {
         trait_type: 'back',
@@ -36900,7 +37720,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbN7XU8Q5r7RGCnpYTnnnkEsbM9EhiRViT9pm9eeQzk1n',
+    previewUrl: 'QmejRyzJbtv1JFvBLTpXrxtZRERSqGjQYNJFkVeRadrKt9',
+    ipfsUrl: 'QmbN7XU8Q5r7RGCnpYTnnnkEsbM9EhiRViT9pm9eeQzk1n',
     attributes: [
       {
         trait_type: 'back',
@@ -36945,7 +37766,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmepzSYRgdRZpvdcZq5a7rCe4LKtQnxjVFFnNZHMzrRFyS',
+    previewUrl: 'QmWnbmKvCiEN7i7s1FGjDvvUvoGE52HnLECzWdXibcSA6R',
+    ipfsUrl: 'QmepzSYRgdRZpvdcZq5a7rCe4LKtQnxjVFFnNZHMzrRFyS',
     attributes: [
       {
         trait_type: 'back',
@@ -36990,7 +37812,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNctGuMe2edHdNRyUBcrQzDeYhqBXb4Jg8H4kBBvzEWBb',
+    previewUrl: 'QmTcxUbQWem3aY2NmHVaTQPkprc1HD3L3BLsyaYWMEsCqy',
+    ipfsUrl: 'QmNctGuMe2edHdNRyUBcrQzDeYhqBXb4Jg8H4kBBvzEWBb',
     attributes: [
       {
         trait_type: 'back',
@@ -37035,7 +37858,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQueJVPZuBsY5pqx8jYmKbhgJDx3JzbxS8tdG5BzC6ix1',
+    previewUrl: 'QmcWmRodje3eCdow2x4yt1Sr9QiLs5VVpgvbc6Fi9NFsui',
+    ipfsUrl: 'QmQueJVPZuBsY5pqx8jYmKbhgJDx3JzbxS8tdG5BzC6ix1',
     attributes: [
       {
         trait_type: 'back',
@@ -37080,7 +37904,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc88oj5P9oRfLDioeNV9sNnz8HhFt5uPZiEHnaAgpUjrE',
+    previewUrl: 'QmSxMe22rg4jk2KioR29tSS2CxeTkXzh1SX2jTtxUXYtzH',
+    ipfsUrl: 'Qmc88oj5P9oRfLDioeNV9sNnz8HhFt5uPZiEHnaAgpUjrE',
     attributes: [
       {
         trait_type: 'back',
@@ -37125,7 +37950,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdpmKJCMBj9NH1QHSsXVsb1s7Z7mHYuWs8jhTJq35uBi1',
+    previewUrl: 'QmZ9mRRDmse28xP5Cc5mUhGUUMe7CSRdkavUgsPntaWcFn',
+    ipfsUrl: 'QmdpmKJCMBj9NH1QHSsXVsb1s7Z7mHYuWs8jhTJq35uBi1',
     attributes: [
       {
         trait_type: 'back',
@@ -37170,7 +37996,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcGEnQVQQKxtMhSCMz34Zf2juk8X6yVYv9onig9vx2jki',
+    previewUrl: 'QmQZ4mnZFZmV8aLWf2rFSnvhDekrySWa3vaWoHpq6yGmYh',
+    ipfsUrl: 'QmcGEnQVQQKxtMhSCMz34Zf2juk8X6yVYv9onig9vx2jki',
     attributes: [
       {
         trait_type: 'back',
@@ -37215,7 +38042,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSxBYsxpEm5hjzBwAnzEL66ssVpFQMxr34GrRtri1eXXp',
+    previewUrl: 'QmVpVnnwTPBGt8MJPXPaFy3bVtoUxaXue8A2qeWGXwWHfm',
+    ipfsUrl: 'QmSxBYsxpEm5hjzBwAnzEL66ssVpFQMxr34GrRtri1eXXp',
     attributes: [
       {
         trait_type: 'back',
@@ -37260,7 +38088,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQ3rccNoWB2pv4ZorXpSKZAMwEBf7guqZQBw6x1ZZ5jyu',
+    previewUrl: 'QmXbV7oAWz6Uw3YvcEER6p6QUPHLdQNcZZNE7KwETeFGdA',
+    ipfsUrl: 'QmQ3rccNoWB2pv4ZorXpSKZAMwEBf7guqZQBw6x1ZZ5jyu',
     attributes: [
       {
         trait_type: 'back',
@@ -37305,7 +38134,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSGwgVwy7wvHEurqeQQpmSGQQFaynTwdFUsHG37ytJvs2',
+    previewUrl: 'QmdhHY71UNjQAkxbGZcWy5EUiKdjfrpsiHWq1EgjMoYRwC',
+    ipfsUrl: 'QmSGwgVwy7wvHEurqeQQpmSGQQFaynTwdFUsHG37ytJvs2',
     attributes: [
       {
         trait_type: 'back',
@@ -37350,7 +38180,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQvQ36j2m87imckbchfeRHfqG8GuGp4PA39EWgPHwweKB',
+    previewUrl: 'QmPfYruoHfqcPiuK8bUGoDx9N83ZuR6Tj9ocTpwKkHXkrw',
+    ipfsUrl: 'QmQvQ36j2m87imckbchfeRHfqG8GuGp4PA39EWgPHwweKB',
     attributes: [
       {
         trait_type: 'back',
@@ -37395,7 +38226,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcNuUKDhEf3WdARujVvFdstgxGHmRfLr48NfvPSim42Ko',
+    previewUrl: 'QmQnaTKiqQAcPaHH5A3bgME5YSN8CohLKm6wSdJ9X8Akox',
+    ipfsUrl: 'QmcNuUKDhEf3WdARujVvFdstgxGHmRfLr48NfvPSim42Ko',
     attributes: [
       {
         trait_type: 'back',
@@ -37440,7 +38272,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPDVwQML8YoVSxHKzpFfx2HJat1aVsS6k7qzM9ERHMXUv',
+    previewUrl: 'QmVB8GU1fqnvaxYXKcq1W6ff9wYFCbmuqpPNd9mLr8HDFb',
+    ipfsUrl: 'QmPDVwQML8YoVSxHKzpFfx2HJat1aVsS6k7qzM9ERHMXUv',
     attributes: [
       {
         trait_type: 'back',
@@ -37485,7 +38318,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVJnFtk2X1Y1o2ZeJAtYXC1XPo1qKpbYyNtpbLg4uappY',
+    previewUrl: 'QmXBuDHYy11ziDByHJZcx44AGe9fbFA7TcCV1j5qxQqwRi',
+    ipfsUrl: 'QmVJnFtk2X1Y1o2ZeJAtYXC1XPo1qKpbYyNtpbLg4uappY',
     attributes: [
       {
         trait_type: 'back',
@@ -37530,7 +38364,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYE2N5ERFnRCTxpwPjLL376t4PB9jPcyoC3Kd3fqVpyA7',
+    previewUrl: 'QmaDr6qWsKd18J7xf2TykAoFWG5sawk6dvn9wfJWbqCCsN',
+    ipfsUrl: 'QmYE2N5ERFnRCTxpwPjLL376t4PB9jPcyoC3Kd3fqVpyA7',
     attributes: [
       {
         trait_type: 'back',
@@ -37575,7 +38410,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWzhKaXzjwFobCRfTCfrn37nLgnmJfUmJFi9HXUUc1nR5',
+    previewUrl: 'QmRZxZF6xUBHciwKmDDZHPDfdekdbztzapNqvWj1d7sPL4',
+    ipfsUrl: 'QmWzhKaXzjwFobCRfTCfrn37nLgnmJfUmJFi9HXUUc1nR5',
     attributes: [
       {
         trait_type: 'back',
@@ -37620,7 +38456,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUXZ5ePT4q9JWTxfy4zS9v7zPzVwm3PdsbYoZgJaLk5fo',
+    previewUrl: 'QmQkUsbqfZ93keRPtggbCyeu5EHnynh5Y4PXcVC4sWXfjZ',
+    ipfsUrl: 'QmUXZ5ePT4q9JWTxfy4zS9v7zPzVwm3PdsbYoZgJaLk5fo',
     attributes: [
       {
         trait_type: 'back',
@@ -37665,7 +38502,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYZw5qaL4nv5uofS4n9nUV3m55h948CwqZyupY8UPHudT',
+    previewUrl: 'QmcrJ8muT5WATjMY7qFauxJKJpQPJUKQTNkrroYY95APD1',
+    ipfsUrl: 'QmYZw5qaL4nv5uofS4n9nUV3m55h948CwqZyupY8UPHudT',
     attributes: [
       {
         trait_type: 'back',
@@ -37710,7 +38548,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZoNAxMBnfBESwS6BzNAZmCzTeaMgXU6gPsi8WdmKp6Dw',
+    previewUrl: 'QmSJ4MCxqCXkGYtAMXfgksP9EXjuG9XHU9CvRiL25suuHG',
+    ipfsUrl: 'QmZoNAxMBnfBESwS6BzNAZmCzTeaMgXU6gPsi8WdmKp6Dw',
     attributes: [
       {
         trait_type: 'back',
@@ -37755,7 +38594,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmS4T6Z4991BddMLwcsvsg5f3npfdhaqE5EuF2RheQ5Y5B',
+    previewUrl: 'QmaYQ8xbS6TNQcfbdTruhb4pZ9r8GWX11vuNR34ec4tKNG',
+    ipfsUrl: 'QmS4T6Z4991BddMLwcsvsg5f3npfdhaqE5EuF2RheQ5Y5B',
     attributes: [
       {
         trait_type: 'back',
@@ -37800,7 +38640,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQedPhjSYaN1X8A54C2PQ83WNuV6DWTBy4hBhCnr9s39z',
+    previewUrl: 'QmTXiceq8qy4NXL1dBQUxoaseZCBSi1odqskBxWnBSeHbQ',
+    ipfsUrl: 'QmQedPhjSYaN1X8A54C2PQ83WNuV6DWTBy4hBhCnr9s39z',
     attributes: [
       {
         trait_type: 'back',
@@ -37845,7 +38686,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYpQGAtRssYygaZVoxNQciCrmzmZvb6nXSvMXpfDinxFh',
+    previewUrl: 'QmZZoPHmGWWLyHiLLKdrrbs99EAubUbnnGikEA3A8PoJ5o',
+    ipfsUrl: 'QmYpQGAtRssYygaZVoxNQciCrmzmZvb6nXSvMXpfDinxFh',
     attributes: [
       {
         trait_type: 'back',
@@ -37890,7 +38732,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVxeKzHLf2Gz79z9xPumxxJCarpFBkHiHjCPGhQAEB1PA',
+    previewUrl: 'QmRU1CYfitt9K9B8XbYtfwMDnsJUEdvbqAEEnvaNY1jCQC',
+    ipfsUrl: 'QmVxeKzHLf2Gz79z9xPumxxJCarpFBkHiHjCPGhQAEB1PA',
     attributes: [
       {
         trait_type: 'back',
@@ -37935,7 +38778,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc7ogBGfyJwTBvTzaZWA2iTFFBqUzbCPqZ34FxKfHzDJA',
+    previewUrl: 'QmRvDpLsKZeb2FpHw6PdxoHaWeSUWQFU7YCHTM7Mwb9umY',
+    ipfsUrl: 'Qmc7ogBGfyJwTBvTzaZWA2iTFFBqUzbCPqZ34FxKfHzDJA',
     attributes: [
       {
         trait_type: 'back',
@@ -37980,7 +38824,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRJDnP3zp7DkH8oCPG7gAaMP6kExkjrj1DDzooiDM8RKT',
+    previewUrl: 'QmS5aiBmEKRof4jxG1KFHeVvf1j2tHW5r2JawBCVqDB1qk',
+    ipfsUrl: 'QmRJDnP3zp7DkH8oCPG7gAaMP6kExkjrj1DDzooiDM8RKT',
     attributes: [
       {
         trait_type: 'back',
@@ -38025,7 +38870,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXxU74sbRU5oCBGas79Xxg7s1WJsjhmjcAQV5MDuiWhgn',
+    previewUrl: 'Qmbd4b2XYmwM7uTfjvcKyTLM6MWKwyUDNpMN9vhzJxd2Bz',
+    ipfsUrl: 'QmXxU74sbRU5oCBGas79Xxg7s1WJsjhmjcAQV5MDuiWhgn',
     attributes: [
       {
         trait_type: 'back',
@@ -38070,7 +38916,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUFKHTZAZsqpgsCWfAYiqzZQKXa95NnbJJe81qH542Ftc',
+    previewUrl: 'QmRncWdt1d43HYVBcVSsY1VHDgnATAF9hAwJg3iww5WcUY',
+    ipfsUrl: 'QmUFKHTZAZsqpgsCWfAYiqzZQKXa95NnbJJe81qH542Ftc',
     attributes: [
       {
         trait_type: 'back',
@@ -38115,7 +38962,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcUgiLVETDyC45WCP2Dgynxj7FuppY1VyJswtjS8PcERW',
+    previewUrl: 'QmR1i74BfmfcWV6CxPMdbX1WrFwrE3Je5aiHSynQy9dBvc',
+    ipfsUrl: 'QmcUgiLVETDyC45WCP2Dgynxj7FuppY1VyJswtjS8PcERW',
     attributes: [
       {
         trait_type: 'back',
@@ -38160,7 +39008,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbGkQVoAhLsPZbtLMiQ4jpRiLLKVjmV5LacGGhTKn7drd',
+    previewUrl: 'Qmb6mLTUHRqg9dxhkkkwKpyKiC73zhcEo4FE46uooNUtMR',
+    ipfsUrl: 'QmbGkQVoAhLsPZbtLMiQ4jpRiLLKVjmV5LacGGhTKn7drd',
     attributes: [
       {
         trait_type: 'back',
@@ -38205,7 +39054,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUyKdZj42zmVrSwrhohuzDJ1YDszEkcGy15h51we84p5y',
+    previewUrl: 'QmZuC5wa5pSULsGXCMro5GuSmo4AQZkrxtK8UjjYkJ3wxY',
+    ipfsUrl: 'QmUyKdZj42zmVrSwrhohuzDJ1YDszEkcGy15h51we84p5y',
     attributes: [
       {
         trait_type: 'back',
@@ -38250,7 +39100,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQNxpNfd4hYNFVFNDbcRMpAFQhBR8CmWZub1Rf4EEx8S3',
+    previewUrl: 'QmRwiczWQ4fy1sAJEEyRoUzbjfTt3gCx3PdKvNKRqVxDYZ',
+    ipfsUrl: 'QmQNxpNfd4hYNFVFNDbcRMpAFQhBR8CmWZub1Rf4EEx8S3',
     attributes: [
       {
         trait_type: 'back',
@@ -38295,7 +39146,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeG4MEoDDzhDh9gBwFTLazDvVkA4Kq9WQrJg2HY9xdiDg',
+    previewUrl: 'QmdFVsbx2CrztxWvaA618EBuLYEwcAYxXdXeej2rdsrrhs',
+    ipfsUrl: 'QmeG4MEoDDzhDh9gBwFTLazDvVkA4Kq9WQrJg2HY9xdiDg',
     attributes: [
       {
         trait_type: 'back',
@@ -38340,7 +39192,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQLuW3PEiw2inpqhQP543CURNTEdvLj4kApbqSb4JMceV',
+    previewUrl: 'Qmabs4W5KwEJVTSofHvKxXp7XiC5h49BzwqJfTqgbc86Dj',
+    ipfsUrl: 'QmQLuW3PEiw2inpqhQP543CURNTEdvLj4kApbqSb4JMceV',
     attributes: [
       {
         trait_type: 'back',
@@ -38385,7 +39238,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU5PhSP485cA3Y1EoP1m9eaXiTAWHRdpNckwNL4Qz4bbB',
+    previewUrl: 'Qmc3sYsm2ySqTC5Ttb8caReCCUhJcMfz4xqX2WoTe4p6J4',
+    ipfsUrl: 'QmU5PhSP485cA3Y1EoP1m9eaXiTAWHRdpNckwNL4Qz4bbB',
     attributes: [
       {
         trait_type: 'back',
@@ -38430,7 +39284,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmP2rzjTdYMuGG4F3MiJH4ziB4o4vU1iUdgDHhBRxFffHk',
+    previewUrl: 'QmYQpMZDHKTVibasC4DH2NJGs7WQD9SPE2f3SkYXvrLQR4',
+    ipfsUrl: 'QmP2rzjTdYMuGG4F3MiJH4ziB4o4vU1iUdgDHhBRxFffHk',
     attributes: [
       {
         trait_type: 'back',
@@ -38475,7 +39330,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcTnaLF6XB5QUK5MiNPSRwKtj3F3yjHFyNfQBuLmMRYFX',
+    previewUrl: 'QmPFExQbQ72vcJFwA1uzYcqqgCWHF9juGQBtZFCGqbPxTW',
+    ipfsUrl: 'QmcTnaLF6XB5QUK5MiNPSRwKtj3F3yjHFyNfQBuLmMRYFX',
     attributes: [
       {
         trait_type: 'back',
@@ -38520,7 +39376,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeiGfUnBSHguYdgXnFZSUK3eafq8wkPHfKqT1jGULzKc6',
+    previewUrl: 'QmRt75wF5PvctjLzdojKMbscVer5YbBgntBwHxxnQqv4mz',
+    ipfsUrl: 'QmeiGfUnBSHguYdgXnFZSUK3eafq8wkPHfKqT1jGULzKc6',
     attributes: [
       {
         trait_type: 'back',
@@ -38565,7 +39422,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTAHtxkwyFQvSfy5n16MTaRH8uMnJLHirqizj5SfeFePr',
+    previewUrl: 'QmcAERv6hTh8Xjhhmy3m5zYKPiDB4mn1e1V1Jdg5AStSmA',
+    ipfsUrl: 'QmTAHtxkwyFQvSfy5n16MTaRH8uMnJLHirqizj5SfeFePr',
     attributes: [
       {
         trait_type: 'back',
@@ -38610,7 +39468,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qma2ngq9SDD1jYPGH3MqpARSdvTCeF5KkHJgZ2CwS6R17s',
+    previewUrl: 'QmcLaKFqJ4DL9Qth5DWbeYCQsDLjyDCXU98ha8tvqxfQCF',
+    ipfsUrl: 'Qma2ngq9SDD1jYPGH3MqpARSdvTCeF5KkHJgZ2CwS6R17s',
     attributes: [
       {
         trait_type: 'back',
@@ -38655,7 +39514,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUG4o1Wi3mE7tvTtjUhimmDScScyZubDEgBzfWaT5QtRP',
+    previewUrl: 'QmXEvGjMF8w9pRrcdjYpJhMHx3s4Bhve4wKGfh46chsB6G',
+    ipfsUrl: 'QmUG4o1Wi3mE7tvTtjUhimmDScScyZubDEgBzfWaT5QtRP',
     attributes: [
       {
         trait_type: 'back',
@@ -38700,7 +39560,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNaPKCPnAQM8zvshtD1phynhkhfS72ddZVvxUYdWSroen',
+    previewUrl: 'QmVfbiicwnPPegj31XG74MsR1JR9EnmA5NWS1Cr14W8q8F',
+    ipfsUrl: 'QmNaPKCPnAQM8zvshtD1phynhkhfS72ddZVvxUYdWSroen',
     attributes: [
       {
         trait_type: 'back',
@@ -38745,7 +39606,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYm3qowp8oPkkEsD9acck1McUCGHGLAbdAP2kFtz3gxeq',
+    previewUrl: 'QmR7XppEvuW6U6HUqD2ksJ6zp76dUPX4wiuoUY26ZJG7Zs',
+    ipfsUrl: 'QmYm3qowp8oPkkEsD9acck1McUCGHGLAbdAP2kFtz3gxeq',
     attributes: [
       {
         trait_type: 'back',
@@ -38790,7 +39652,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVWse2aL9NFXxhrCtivPpMb3p4JTxTs3XdikT8L9j9aQ5',
+    previewUrl: 'QmZwdkJP9qqkKELuGEWTUSATg6FhtpCjUgtNnukGkPNCay',
+    ipfsUrl: 'QmVWse2aL9NFXxhrCtivPpMb3p4JTxTs3XdikT8L9j9aQ5',
     attributes: [
       {
         trait_type: 'back',
@@ -38835,7 +39698,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZiX154F2tpFxggnqQ3oankspQG9t1xJAnXvFwFKHRcJy',
+    previewUrl: 'QmRyynQo9evJ3FHWqQo6sNWJ7GyBtF6EjDN64RRQL8tCuN',
+    ipfsUrl: 'QmZiX154F2tpFxggnqQ3oankspQG9t1xJAnXvFwFKHRcJy',
     attributes: [
       {
         trait_type: 'back',
@@ -38880,7 +39744,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeWSpuhGRdLyKf81myJC3m8cp1NHQENXCCkN6xFoCheag',
+    previewUrl: 'QmXrfHLLjgkAqhS5gq1duKo7RAQYp2XMGxbrdHMeAsGZYU',
+    ipfsUrl: 'QmeWSpuhGRdLyKf81myJC3m8cp1NHQENXCCkN6xFoCheag',
     attributes: [
       {
         trait_type: 'back',
@@ -38925,7 +39790,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmScmpQ6WopJYhoQA2opnazWC9hHFG2XJnWh22DkEsvtLd',
+    previewUrl: 'QmQNFruKYMqef4PXN5yuv3Q9NTcVE9mytV7ZDy1dGJg1y8',
+    ipfsUrl: 'QmScmpQ6WopJYhoQA2opnazWC9hHFG2XJnWh22DkEsvtLd',
     attributes: [
       {
         trait_type: 'back',
@@ -38970,7 +39836,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSDHPHNGSDq2wZBMAgoh8qtqLnRqMjtgueaBBGv4P5Av6',
+    previewUrl: 'QmZ8rg3dXFyUMAXwHgaEB5RefA1rrdfqqmRVtp4NWQ8GFD',
+    ipfsUrl: 'QmSDHPHNGSDq2wZBMAgoh8qtqLnRqMjtgueaBBGv4P5Av6',
     attributes: [
       {
         trait_type: 'back',
@@ -39015,7 +39882,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmep6gpJKTodD4fkXyawPs7TmDXX9UabcB7Auuxh7Hq5Q8',
+    previewUrl: 'QmdAKHEusPBN1QD2VBGzFtpEsgkTeKrBRrW28J5H489TPc',
+    ipfsUrl: 'Qmep6gpJKTodD4fkXyawPs7TmDXX9UabcB7Auuxh7Hq5Q8',
     attributes: [
       {
         trait_type: 'back',
@@ -39060,7 +39928,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmavBM91pEXKoUGwogokvDPwDo9FpgLJWUmGMMfwCJ2UWv',
+    previewUrl: 'Qmcher2T9nFWCu3im26RC5BDU5PVd8yqfPwCeZ1RmvPnp5',
+    ipfsUrl: 'QmavBM91pEXKoUGwogokvDPwDo9FpgLJWUmGMMfwCJ2UWv',
     attributes: [
       {
         trait_type: 'back',
@@ -39105,7 +39974,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY5uS1WNMLQwyXkUKaVk2QadESDAKBfQwAzPjKvtDPs3J',
+    previewUrl: 'QmSmKXfN23AA2oszZLd8cmgb2T46X86QzHUttRkTky4hxS',
+    ipfsUrl: 'QmY5uS1WNMLQwyXkUKaVk2QadESDAKBfQwAzPjKvtDPs3J',
     attributes: [
       {
         trait_type: 'back',
@@ -39150,7 +40020,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWdvksXAhTyywSNg21uZAt3fYQNunTKCgyQ26QU6fDKqu',
+    previewUrl: 'Qmcts66CE6pKKubQYhas5qoDbeBw6oDQ636iV6qxwTUY5L',
+    ipfsUrl: 'QmWdvksXAhTyywSNg21uZAt3fYQNunTKCgyQ26QU6fDKqu',
     attributes: [
       {
         trait_type: 'back',
@@ -39195,7 +40066,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNfu3XqetHtzerZWDiPC8BsTeK7aA9c7wzB7JbMPizAKF',
+    previewUrl: 'QmPMV69crAXXe6Hy4tkDVbDjp4LL28HWUcBv3J2BG6LZBC',
+    ipfsUrl: 'QmNfu3XqetHtzerZWDiPC8BsTeK7aA9c7wzB7JbMPizAKF',
     attributes: [
       {
         trait_type: 'back',
@@ -39240,7 +40112,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNnYgzphDXgmP38YFqAnk9hCXaABkYmNS5tW8VHsgD2nN',
+    previewUrl: 'QmWPr3A4jnnWY3Mn5n9RmMLcJ9wqQVUCFNUmA3ZsqjhaZm',
+    ipfsUrl: 'QmNnYgzphDXgmP38YFqAnk9hCXaABkYmNS5tW8VHsgD2nN',
     attributes: [
       {
         trait_type: 'back',
@@ -39285,7 +40158,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW4bNghxpJAWUi8mCpaGWvNnB3s8QinmsDPPTE6U6pKhS',
+    previewUrl: 'QmXLzNTMd3aaEhaFPy2cMwpKTG7B5E6wrSaBGLtwKNg2hq',
+    ipfsUrl: 'QmW4bNghxpJAWUi8mCpaGWvNnB3s8QinmsDPPTE6U6pKhS',
     attributes: [
       {
         trait_type: 'back',
@@ -39330,7 +40204,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYk2wGDcrmB5QmYaEGM17mG6ZT4QCBxqzZSfGdm9zZwEf',
+    previewUrl: 'QmS9kLzqbTJNEetAtz2RGvwwdxBJABLwnt69P1yPcZN3Uc',
+    ipfsUrl: 'QmYk2wGDcrmB5QmYaEGM17mG6ZT4QCBxqzZSfGdm9zZwEf',
     attributes: [
       {
         trait_type: 'back',
@@ -39375,7 +40250,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRExR9zHxS92rD3oj2MiRyVVH3RFUXBJsntp9ySxnbdpA',
+    previewUrl: 'QmUSzAcSjBSkmyLa6AwycaaMGLuP6BP48uA1EMekd3MRHj',
+    ipfsUrl: 'QmRExR9zHxS92rD3oj2MiRyVVH3RFUXBJsntp9ySxnbdpA',
     attributes: [
       {
         trait_type: 'back',
@@ -39420,7 +40296,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaP3mFTVPhGzCbA2Uj1a9pZxw7Lb7PHnkQqr86Guk4bAe',
+    previewUrl: 'QmTtNQcdA42v6pgn4f7VFjBEihQwxrRa1FJniEm5tnJXyP',
+    ipfsUrl: 'QmaP3mFTVPhGzCbA2Uj1a9pZxw7Lb7PHnkQqr86Guk4bAe',
     attributes: [
       {
         trait_type: 'back',
@@ -39465,7 +40342,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPgdQtXsiupZ3F4hVWBgomQPeHukiscHRmhHd6FtMKGyh',
+    previewUrl: 'QmXbbWNAx3zLKYEV8NkKTnq4SJW8JfiHSHMrZVVeN84Vvm',
+    ipfsUrl: 'QmPgdQtXsiupZ3F4hVWBgomQPeHukiscHRmhHd6FtMKGyh',
     attributes: [
       {
         trait_type: 'back',
@@ -39510,7 +40388,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaLQUHx4hBmBnEsoVHXoz7GTcNUuQR8rNTP71wg6dZEe1',
+    previewUrl: 'QmbDzxUXkWU7nbK2eryepncbwAq5CfAszCNdp4ZeDukaXa',
+    ipfsUrl: 'QmaLQUHx4hBmBnEsoVHXoz7GTcNUuQR8rNTP71wg6dZEe1',
     attributes: [
       {
         trait_type: 'back',
@@ -39555,7 +40434,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXsx9FeohXotehDKGeci51m8kCPbZve5UkMQgwC4cNfJT',
+    previewUrl: 'QmYWe1C5gWTiNyLNaEvCxyYeJT1ucwCUDHFKQ8hG75S7zL',
+    ipfsUrl: 'QmXsx9FeohXotehDKGeci51m8kCPbZve5UkMQgwC4cNfJT',
     attributes: [
       {
         trait_type: 'back',
@@ -39600,7 +40480,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTbYhXhHuSa8JYNxHFJh4oxpHfo8YPf5oxqi2S2xQUDsj',
+    previewUrl: 'QmTUcmVhaAESLhXmkqXLPfc8aW4MrYnn6hRstySytZ3M4a',
+    ipfsUrl: 'QmTbYhXhHuSa8JYNxHFJh4oxpHfo8YPf5oxqi2S2xQUDsj',
     attributes: [
       {
         trait_type: 'back',
@@ -39645,7 +40526,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUvm2GAgs76J8yUDShsBq1jW2UAQTWoktub1tfFRHn3q7',
+    previewUrl: 'QmU3WMomJBzsn8LW2vEiR6GEhrJ3oxEYgvvn7raJruTYi4',
+    ipfsUrl: 'QmUvm2GAgs76J8yUDShsBq1jW2UAQTWoktub1tfFRHn3q7',
     attributes: [
       {
         trait_type: 'back',
@@ -39690,7 +40572,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmehrD8FKRtEbfam6sfSgKmthbeaLsry8hw58DynJYCuZv',
+    previewUrl: 'QmRM6wZzpNCZe12nmGe66ErHsHZ47yUJJh3h5oytVdRE4a',
+    ipfsUrl: 'QmehrD8FKRtEbfam6sfSgKmthbeaLsry8hw58DynJYCuZv',
     attributes: [
       {
         trait_type: 'back',
@@ -39735,7 +40618,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRn8i1hbQ89Sg1YoSX2bX356KiYrZGi9mW3ibV6yW1rcs',
+    previewUrl: 'QmNREN5GyUmhz2C8HZowhKX3AiuHtqH1ncps1aTtvqTwU8',
+    ipfsUrl: 'QmRn8i1hbQ89Sg1YoSX2bX356KiYrZGi9mW3ibV6yW1rcs',
     attributes: [
       {
         trait_type: 'back',
@@ -39780,7 +40664,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWFaWkA1vZK4TbjS1baGxdCpFwRiRc9U59DUpQ7RBWM8S',
+    previewUrl: 'QmW4kM5eH4SYoWSo9EzzGNTbVWnwDFyvhR48Wm482mNnSt',
+    ipfsUrl: 'QmWFaWkA1vZK4TbjS1baGxdCpFwRiRc9U59DUpQ7RBWM8S',
     attributes: [
       {
         trait_type: 'back',
@@ -39825,7 +40710,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTty2f4PyVQTvLdrGceFekuM6FhHuZ8vturq7b5NhPhmm',
+    previewUrl: 'QmSPkUkTpp4TrccJZk3anKKtw8mhXx3Rn2fV7P4sQpy9JC',
+    ipfsUrl: 'QmTty2f4PyVQTvLdrGceFekuM6FhHuZ8vturq7b5NhPhmm',
     attributes: [
       {
         trait_type: 'back',
@@ -39870,7 +40756,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSC7XZT52gHwMK6kKj75UjrZ65gAKEF7Ghipm3yad2aXs',
+    previewUrl: 'QmTrWPM8eWv6Xz4cNxjdoQCLvv6M6CFYF4gephThrKBF6H',
+    ipfsUrl: 'QmSC7XZT52gHwMK6kKj75UjrZ65gAKEF7Ghipm3yad2aXs',
     attributes: [
       {
         trait_type: 'back',
@@ -39915,7 +40802,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPK49yuBs5kZkdFCtacHp8wSgHehzn8frTVcDyAUeopCt',
+    previewUrl: 'Qme3w9wuCedASP1spSJgJmZuQWugVSXCvTbqHdYG6X34Bs',
+    ipfsUrl: 'QmPK49yuBs5kZkdFCtacHp8wSgHehzn8frTVcDyAUeopCt',
     attributes: [
       {
         trait_type: 'back',
@@ -39960,7 +40848,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUfM7BphK4x3Pg2WfdPMvPNDeE5vc6NdT5kNs6CeAN2XR',
+    previewUrl: 'QmeWftvwYbgKMN9CQrJqwGAVJHKZVvNXtzw1PmnahwfinW',
+    ipfsUrl: 'QmUfM7BphK4x3Pg2WfdPMvPNDeE5vc6NdT5kNs6CeAN2XR',
     attributes: [
       {
         trait_type: 'back',
@@ -40005,7 +40894,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeU3w48VWPBhc6P2zCzJFWL9xurS3Nuow3cKxEPKBrryg',
+    previewUrl: 'QmWWH6mMB87zgkMWHNXqVU6uDBjo3vcrfkTA6D5kEXswAM',
+    ipfsUrl: 'QmeU3w48VWPBhc6P2zCzJFWL9xurS3Nuow3cKxEPKBrryg',
     attributes: [
       {
         trait_type: 'back',
@@ -40050,7 +40940,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNUcnzc6D2cQHLJ1FMwx9YsJDejzToPz4g3pu6c9DWzNd',
+    previewUrl: 'QmVPACq6r3Hg426WZSmx6oMEMrRir6sqw1RdgPubJCRJag',
+    ipfsUrl: 'QmNUcnzc6D2cQHLJ1FMwx9YsJDejzToPz4g3pu6c9DWzNd',
     attributes: [
       {
         trait_type: 'back',
@@ -40095,7 +40986,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeecXpp32dvoTdJ1GLCo4axnwz7P95jQQqowFPghBchhG',
+    previewUrl: 'QmYJacBrCGU8KhH78YekBdf4EBfG16Tku13yAYspPo7jvo',
+    ipfsUrl: 'QmeecXpp32dvoTdJ1GLCo4axnwz7P95jQQqowFPghBchhG',
     attributes: [
       {
         trait_type: 'back',
@@ -40140,7 +41032,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYBNYPzpdtbxSiESm6gpV69dMQoGGfNaHL8H91fjb2sMB',
+    previewUrl: 'QmNVy3VCFu9qXAkaVaFsD6e2kNmqzqJ1TMfu4jFXcaMU3X',
+    ipfsUrl: 'QmYBNYPzpdtbxSiESm6gpV69dMQoGGfNaHL8H91fjb2sMB',
     attributes: [
       {
         trait_type: 'back',
@@ -40185,7 +41078,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTMRh9g8xhciAaSf6jTVNKja6diH5V8NXNz7bbNXx4f2H',
+    previewUrl: 'Qmas9wacj8BB1muhn3bd94447d5mmuAkHcKr1qPm1MzkjX',
+    ipfsUrl: 'QmTMRh9g8xhciAaSf6jTVNKja6diH5V8NXNz7bbNXx4f2H',
     attributes: [
       {
         trait_type: 'back',
@@ -40230,7 +41124,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUCa69MQP9NdM7dNXQJWSmTx79rUqybobM1DZLLfN6ksi',
+    previewUrl: 'QmPTCBnCB4fQT2pXkktegZjM4FkaTy7AEPc63wq8jsPS2F',
+    ipfsUrl: 'QmUCa69MQP9NdM7dNXQJWSmTx79rUqybobM1DZLLfN6ksi',
     attributes: [
       {
         trait_type: 'back',
@@ -40275,7 +41170,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcfUS5n7uU6uBdcK1LtGzQUPbbT5M56jhLDE3iDu6nQXw',
+    previewUrl: 'QmZ6YSPdef2TfR8Q1DpwHcvbinkqWBJRUtAQ5wxGEP7pAQ',
+    ipfsUrl: 'QmcfUS5n7uU6uBdcK1LtGzQUPbbT5M56jhLDE3iDu6nQXw',
     attributes: [
       {
         trait_type: 'back',
@@ -40320,7 +41216,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXmnkv7eAezJivVHFodeBoJZyKFCwqDKvZ9VuYohULBGK',
+    previewUrl: 'QmRnTa9FbGLiB1xYAUuzfQMomKhuDQT6psC73zFHaUjC9v',
+    ipfsUrl: 'QmXmnkv7eAezJivVHFodeBoJZyKFCwqDKvZ9VuYohULBGK',
     attributes: [
       {
         trait_type: 'back',
@@ -40365,7 +41262,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmd81AzbqpxfQZwV5gRpjaH84tvwTz9RZwytmHBVjDcbYN',
+    previewUrl: 'QmQ5oaSfFNAURqk72kYtxUB2CuczhUQ8j3evKQ9XA1Gg3a',
+    ipfsUrl: 'Qmd81AzbqpxfQZwV5gRpjaH84tvwTz9RZwytmHBVjDcbYN',
     attributes: [
       {
         trait_type: 'back',
@@ -40410,7 +41308,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWgDivGez8zRSBp8TxdibGDkSiT74YPD3c8ND8Zg4beEx',
+    previewUrl: 'QmXKFuJNiut11WTP9YY3JUsRKfjgBWQZT9AFHQ3tK8JTNc',
+    ipfsUrl: 'QmWgDivGez8zRSBp8TxdibGDkSiT74YPD3c8ND8Zg4beEx',
     attributes: [
       {
         trait_type: 'back',
@@ -40455,7 +41354,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmbs1Gbt9mEwWM6qxJJYLXuh8xwfcXz7WdUn5NLYpxi17S',
+    previewUrl: 'Qmdp51BzumaUoZkScyBwVbMwWcoX5JPHNicF28iiP5yv5s',
+    ipfsUrl: 'Qmbs1Gbt9mEwWM6qxJJYLXuh8xwfcXz7WdUn5NLYpxi17S',
     attributes: [
       {
         trait_type: 'back',
@@ -40500,7 +41400,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmcem9AX8cmMysm3d3LBNv4cjPVAhiccXSbJSX4GRN2ASf',
+    previewUrl: 'QmVzyp8EEpQpQEHGWpVuyZNM5RbxZciUbXf3sBhX4xmubo',
+    ipfsUrl: 'Qmcem9AX8cmMysm3d3LBNv4cjPVAhiccXSbJSX4GRN2ASf',
     attributes: [
       {
         trait_type: 'back',
@@ -40545,7 +41446,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmW4dg1nqWf1jUKiAXMB4qsTunCbLgjjtXNM2USM5JH25y',
+    previewUrl: 'QmWaZKtTSdwVTDL1NYt7XqE3yhxS6dRYQnA9gNtej1tVUP',
+    ipfsUrl: 'QmW4dg1nqWf1jUKiAXMB4qsTunCbLgjjtXNM2USM5JH25y',
     attributes: [
       {
         trait_type: 'back',
@@ -40590,7 +41492,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTR3647LrKwMEyGGxzxeRhgunYXF1N831FpbJmADT6Rho',
+    previewUrl: 'QmP5hj9QevWt9u6grr9Sr6HhV7oc47E5yicLRtANNxjNJu',
+    ipfsUrl: 'QmTR3647LrKwMEyGGxzxeRhgunYXF1N831FpbJmADT6Rho',
     attributes: [
       {
         trait_type: 'back',
@@ -40635,7 +41538,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX2MkMxPH6XRLPdhgPGNrKT1j6bWuTPM4NQqf2cCvfTAQ',
+    previewUrl: 'QmQ9G2eMQQXorT97goS1kmHwnMd7HvVUwR4JcdEDZHs9Xu',
+    ipfsUrl: 'QmX2MkMxPH6XRLPdhgPGNrKT1j6bWuTPM4NQqf2cCvfTAQ',
     attributes: [
       {
         trait_type: 'back',
@@ -40680,7 +41584,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQtF4jN7t6VxVZBCxKhpX2EQx1NxDsxJ111Qn5zwYkSXg',
+    previewUrl: 'QmahhohEE6UKhHY7LstytdJvg8WDHAGNWUaspns9R7so5C',
+    ipfsUrl: 'QmQtF4jN7t6VxVZBCxKhpX2EQx1NxDsxJ111Qn5zwYkSXg',
     attributes: [
       {
         trait_type: 'back',
@@ -40725,7 +41630,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmah2s8vgAuxNbfH8vjUhvb7sSHtafTwYY6UdCCYrfVnST',
+    previewUrl: 'QmXnaTudQrkpLKxxrSrvs7YxTXTAqsqy2E5pso6Ead6Gyt',
+    ipfsUrl: 'Qmah2s8vgAuxNbfH8vjUhvb7sSHtafTwYY6UdCCYrfVnST',
     attributes: [
       {
         trait_type: 'back',
@@ -40770,7 +41676,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRoLjMWEb2ZbU6J1e2sYMTCTcSALDpEmpxikLPxV2a2q2',
+    previewUrl: 'QmYA5fvyxqDTVeLXfkmAt4qmYkJbLXKzyxzjnbDfahjZSZ',
+    ipfsUrl: 'QmRoLjMWEb2ZbU6J1e2sYMTCTcSALDpEmpxikLPxV2a2q2',
     attributes: [
       {
         trait_type: 'back',
@@ -40815,7 +41722,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYKEAN1LYENtysfWdfiftdMCpoXbufkrdQGo25cULcE6d',
+    previewUrl: 'QmZ5CwbCrQhtxYiVeR7cmVbG8B6Fmu9sXcNCtfjCBG8G49',
+    ipfsUrl: 'QmYKEAN1LYENtysfWdfiftdMCpoXbufkrdQGo25cULcE6d',
     attributes: [
       {
         trait_type: 'back',
@@ -40860,7 +41768,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTMnN214SNjwtXMqEM8UDCMVg1uyhH2UD4mF1jEyUJEB6',
+    previewUrl: 'QmTEjJJjyzr7htpFuDqmg785uSNznP7J6hLmFLxPuoNzgY',
+    ipfsUrl: 'QmTMnN214SNjwtXMqEM8UDCMVg1uyhH2UD4mF1jEyUJEB6',
     attributes: [
       {
         trait_type: 'back',
@@ -40905,7 +41814,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeFnFnEyZk7gqDRw9K2AwAQjKj4JRiF9Exvt9VntF7pq8',
+    previewUrl: 'QmPGpi1pyLfZhr7MCbg1okyFtscXuRURs5hEvirC8d5hmq',
+    ipfsUrl: 'QmeFnFnEyZk7gqDRw9K2AwAQjKj4JRiF9Exvt9VntF7pq8',
     attributes: [
       {
         trait_type: 'back',
@@ -40950,7 +41860,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbszGAQkujrmWmaNyMRrmh51t4dHVUjRxNihmxN8VzvWe',
+    previewUrl: 'QmU18ro2yiqRvyVANLS5PfWAah3QaWyx8yjd1KKUGUCWKr',
+    ipfsUrl: 'QmbszGAQkujrmWmaNyMRrmh51t4dHVUjRxNihmxN8VzvWe',
     attributes: [
       {
         trait_type: 'back',
@@ -40995,7 +41906,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXyLpXumThfpZPLG57ViBcHsMPG3VvSyuB61CRwPy5Nfb',
+    previewUrl: 'QmNnwkEN2EJduf1vxivUWNYhkYwNTpg9GFPpWxBrsC8Emz',
+    ipfsUrl: 'QmXyLpXumThfpZPLG57ViBcHsMPG3VvSyuB61CRwPy5Nfb',
     attributes: [
       {
         trait_type: 'back',
@@ -41040,7 +41952,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXGHJakTeo6bAXQm7dqi5jk6YACfdoLUDAUjikFnQzWnC',
+    previewUrl: 'QmbrM68agJaMCwxM92Hqmt328JFCd6B8HQBRhASU4v49K1',
+    ipfsUrl: 'QmXGHJakTeo6bAXQm7dqi5jk6YACfdoLUDAUjikFnQzWnC',
     attributes: [
       {
         trait_type: 'back',
@@ -41085,7 +41998,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUoyoMtY9QvjvThs4W3gGy39YeWmuKDNEatXUH5JjgHaW',
+    previewUrl: 'QmdmdAfPe5tm7cwDFuQDR6QttpzWrrkvDbUNCUUGk617QY',
+    ipfsUrl: 'QmUoyoMtY9QvjvThs4W3gGy39YeWmuKDNEatXUH5JjgHaW',
     attributes: [
       {
         trait_type: 'back',
@@ -41130,7 +42044,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaMMZT9bNknD6Un5JsevhpYa5UCXRbqRJfbWRszAXKLze',
+    previewUrl: 'QmSfd44UoUeSi5McfZTtnFSKiWw4CFdNoEyhUdnXjDoxkH',
+    ipfsUrl: 'QmaMMZT9bNknD6Un5JsevhpYa5UCXRbqRJfbWRszAXKLze',
     attributes: [
       {
         trait_type: 'back',
@@ -41175,7 +42090,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeHosWpU5LSf6ZtcVpmWLa3vHPaWZy5kq8ahz4cWb8EQA',
+    previewUrl: 'QmeMfh29HKTWgkFresixNkrkrhawsYg4BL3mF6x8E3nLyq',
+    ipfsUrl: 'QmeHosWpU5LSf6ZtcVpmWLa3vHPaWZy5kq8ahz4cWb8EQA',
     attributes: [
       {
         trait_type: 'back',
@@ -41220,7 +42136,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmToBtaoLbP1Xfjy3cXU5uMnwUFyxwirEcGaNFVXkTH9Qy',
+    previewUrl: 'QmbbsHaHBgj9pBbr7nL8bwvoRjvkj6Djfg5qGhPfmzRmHa',
+    ipfsUrl: 'QmToBtaoLbP1Xfjy3cXU5uMnwUFyxwirEcGaNFVXkTH9Qy',
     attributes: [
       {
         trait_type: 'back',
@@ -41265,7 +42182,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYWZKnCfLkXFQCoWGbsTv5n1gNLDF2gn4n82v4DDCT5iF',
+    previewUrl: 'QmUn7bqDWoVqL4jZBn5wRkuGPDqboFg5ZvE5RciTqLPwyc',
+    ipfsUrl: 'QmYWZKnCfLkXFQCoWGbsTv5n1gNLDF2gn4n82v4DDCT5iF',
     attributes: [
       {
         trait_type: 'back',
@@ -41310,7 +42228,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmeg7fahNdTJ5tSKtPVuGU85S2RktWPs4oC2GwPzNfTxFK',
+    previewUrl: 'QmdqSpYVk7KJVXvNrRmPQA7n3fpJGPTRXosvwg48F8GJZw',
+    ipfsUrl: 'Qmeg7fahNdTJ5tSKtPVuGU85S2RktWPs4oC2GwPzNfTxFK',
     attributes: [
       {
         trait_type: 'back',
@@ -41355,7 +42274,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUxhJaWCiWioAZd5hjtukqYbUdDEyDEsJy9Qj43aG5WEK',
+    previewUrl: 'QmamsGdR3RoJbovjCedf6SCgNRqBpzoyiWW4Qd2WemsrdH',
+    ipfsUrl: 'QmUxhJaWCiWioAZd5hjtukqYbUdDEyDEsJy9Qj43aG5WEK',
     attributes: [
       {
         trait_type: 'back',
@@ -41400,7 +42320,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTicTaHjTJ6SYcfAKodUsN6hMXFebtNQLuovTudczj7MC',
+    previewUrl: 'QmbRqZVTQbFTBDiaqCXvj39QsXGAQR4a6VJBGd6Nc4jzGA',
+    ipfsUrl: 'QmTicTaHjTJ6SYcfAKodUsN6hMXFebtNQLuovTudczj7MC',
     attributes: [
       {
         trait_type: 'back',
@@ -41445,7 +42366,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWYDqV61NhhLr6cBzuHyHEyBHAEGkinLmMFjLhe94nvbA',
+    previewUrl: 'QmP8anXaptjFeTRbCn9NhtnHJjZyUdNT35GNXMq57dGFhr',
+    ipfsUrl: 'QmWYDqV61NhhLr6cBzuHyHEyBHAEGkinLmMFjLhe94nvbA',
     attributes: [
       {
         trait_type: 'back',
@@ -41490,7 +42412,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfHuGN9K5b1eVyZEeYS8RZbSd9vBYznp57mnH2kK9UDZM',
+    previewUrl: 'Qmf9WX29RQR9BjDjjq9Mvz7YWZSV6sVSDX2QKvLRDB98nq',
+    ipfsUrl: 'QmfHuGN9K5b1eVyZEeYS8RZbSd9vBYznp57mnH2kK9UDZM',
     attributes: [
       {
         trait_type: 'back',
@@ -41535,7 +42458,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaTwambe8TpDBRoMrgGEeSkZGFyFJzCqJj1weQo4JDfiC',
+    previewUrl: 'QmbLg5N2JaadzhobJX2sDHzkzZqyL6WhUMHPYCNmpyeGmd',
+    ipfsUrl: 'QmaTwambe8TpDBRoMrgGEeSkZGFyFJzCqJj1weQo4JDfiC',
     attributes: [
       {
         trait_type: 'back',
@@ -41580,7 +42504,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSJw7iAyimgpTohHUcBa8fGpwN5uUoaKmAMPZHMU3o9Yg',
+    previewUrl: 'QmdCPCjPmQmM1nAt1m1sGdeyiEi85Brm9VRHuNDZhoVo1t',
+    ipfsUrl: 'QmSJw7iAyimgpTohHUcBa8fGpwN5uUoaKmAMPZHMU3o9Yg',
     attributes: [
       {
         trait_type: 'back',
@@ -41625,7 +42550,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWh3WNFCDoZXN4ivcMcTqKFX4KVccbHYo5X37YNkcHjwQ',
+    previewUrl: 'QmY5wGt4JgBg55NixUmC37pf6SVvxqG8uEjiyBxNTWJn98',
+    ipfsUrl: 'QmWh3WNFCDoZXN4ivcMcTqKFX4KVccbHYo5X37YNkcHjwQ',
     attributes: [
       {
         trait_type: 'back',
@@ -41670,7 +42596,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWxBfd3nXsk66iMi3Hg2aKA529ghFApYMh3aHzBXcV4VA',
+    previewUrl: 'QmSopgzRfqrPpQXfg7osJrq8qTRbTb8nHsbMcT93MVt3No',
+    ipfsUrl: 'QmWxBfd3nXsk66iMi3Hg2aKA529ghFApYMh3aHzBXcV4VA',
     attributes: [
       {
         trait_type: 'back',
@@ -41715,7 +42642,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYwde9fRJGLBwUpste7rtT1f23pR9ghYoEYgK2fuyvRdJ',
+    previewUrl: 'Qma1AnmTvidMDJniHXg1kYNSxJB85bM5FNWjYod2r6usCM',
+    ipfsUrl: 'QmYwde9fRJGLBwUpste7rtT1f23pR9ghYoEYgK2fuyvRdJ',
     attributes: [
       {
         trait_type: 'back',
@@ -41760,7 +42688,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmcz4Jin9kXn3yxF6zXzqZ8zejjESWB7WdR63CcuRgMtrm',
+    previewUrl: 'QmajVG1ELt4r3HBrZE3hi6YsWoS41C2k3QjuN6svARf2BQ',
+    ipfsUrl: 'Qmcz4Jin9kXn3yxF6zXzqZ8zejjESWB7WdR63CcuRgMtrm',
     attributes: [
       {
         trait_type: 'back',
@@ -41805,7 +42734,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcHwZXvEiJZ5zAxNxu76rMmZ3EEW8h7HJBXyNGT7hFNtU',
+    previewUrl: 'QmTPJV9qoXfjQBCgBsHmRs4Ug6ecmMgqBxqbfuiL5UXYHf',
+    ipfsUrl: 'QmcHwZXvEiJZ5zAxNxu76rMmZ3EEW8h7HJBXyNGT7hFNtU',
     attributes: [
       {
         trait_type: 'back',
@@ -41850,7 +42780,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQgRAicVsAgGt97k6ihQVGzEx17oF8JdR7vhkU1yrLag6',
+    previewUrl: 'QmaDCjm29bqR4ZoWGxTXbB9hFqiUvmNSzCKfyRyUBFFK3A',
+    ipfsUrl: 'QmQgRAicVsAgGt97k6ihQVGzEx17oF8JdR7vhkU1yrLag6',
     attributes: [
       {
         trait_type: 'back',
@@ -41895,7 +42826,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQFFPMePxoSXkWQN3ojJqpmebm4LhiEpvDeLDBwiaLQH1',
+    previewUrl: 'QmVHp54Ax8jyuU6dkRwYU7YCKrNsxpqaxwraixTs6b4JfP',
+    ipfsUrl: 'QmQFFPMePxoSXkWQN3ojJqpmebm4LhiEpvDeLDBwiaLQH1',
     attributes: [
       {
         trait_type: 'back',
@@ -41940,7 +42872,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaoRo5qC7b1p2jm2qZYXgfR5RswwMpmvRHPqJ2jvG4KSL',
+    previewUrl: 'QmNVJdtmGvircwf7Avb3ueaKGPp5Y2S2DXmUXkN79HtroL',
+    ipfsUrl: 'QmaoRo5qC7b1p2jm2qZYXgfR5RswwMpmvRHPqJ2jvG4KSL',
     attributes: [
       {
         trait_type: 'back',
@@ -41985,7 +42918,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQ36iieEmwKnYxxB6qEookvAWTqTub5Nx241W9ZfWhSpV',
+    previewUrl: 'Qmdu3iJ2ZEw2QJ98drVMJm3xULXb19hJ9vq2gie4Cf3EdU',
+    ipfsUrl: 'QmQ36iieEmwKnYxxB6qEookvAWTqTub5Nx241W9ZfWhSpV',
     attributes: [
       {
         trait_type: 'back',
@@ -42030,7 +42964,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfDv1GkmCGocevjDGxubWJj4y5dWKQSAV74ASviszPTc9',
+    previewUrl: 'Qmam5x99Jxy52ENEpcfmHkPGNLkVpVQYWgXvPKYTnjjrzP',
+    ipfsUrl: 'QmfDv1GkmCGocevjDGxubWJj4y5dWKQSAV74ASviszPTc9',
     attributes: [
       {
         trait_type: 'back',
@@ -42075,7 +43010,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRHzFv1L5AePwNwD6aQ6cXjHtt3ziy8K8VP7VCBZxppWz',
+    previewUrl: 'Qmf3EGVPWqKeVmrhrDWuDFXSotyikf5FhqMaWAL6z8qtym',
+    ipfsUrl: 'QmRHzFv1L5AePwNwD6aQ6cXjHtt3ziy8K8VP7VCBZxppWz',
     attributes: [
       {
         trait_type: 'back',
@@ -42120,7 +43056,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmcp3ELirhLsMoAnnikmXNcMtmYZ8ay96puxrUdqnrbCT9',
+    previewUrl: 'QmeifWBPsttS54YyMGoxzTawoGyN5VuAwrBtLrVb1iKTuM',
+    ipfsUrl: 'Qmcp3ELirhLsMoAnnikmXNcMtmYZ8ay96puxrUdqnrbCT9',
     attributes: [
       {
         trait_type: 'back',
@@ -42165,7 +43102,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSxqXpV3M7h9yC7422t2QB8TEsVxDEWUNM89uryZzyraR',
+    previewUrl: 'QmS1zRrB7LWAJuGcZgYasua6Gf7a98kTjkr4XSrj6wYMuv',
+    ipfsUrl: 'QmSxqXpV3M7h9yC7422t2QB8TEsVxDEWUNM89uryZzyraR',
     attributes: [
       {
         trait_type: 'back',
@@ -42210,7 +43148,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfPo3Wg1P2mZCNcfhZaCbWzJMHXCGTjYvDfyQ8xo4bszK',
+    previewUrl: 'QmQ3VBeAp4xo3DhA1nGDNDBwgg21FS4QgYrzAsa1WBojH1',
+    ipfsUrl: 'QmfPo3Wg1P2mZCNcfhZaCbWzJMHXCGTjYvDfyQ8xo4bszK',
     attributes: [
       {
         trait_type: 'back',
@@ -42255,7 +43194,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTfB6Q3qZUAFFc4JnSUmPxbAhPqTLVG4n358D7BUAmYLA',
+    previewUrl: 'QmfYDKjU4LXoaydW26DEKJpvr6QT2it8mfazUq11xGxSFY',
+    ipfsUrl: 'QmTfB6Q3qZUAFFc4JnSUmPxbAhPqTLVG4n358D7BUAmYLA',
     attributes: [
       {
         trait_type: 'back',
@@ -42300,7 +43240,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTfB6Q3qZUAFFc4JnSUmPxbAhPqTLVG4n358D7BUAmYLA',
+    previewUrl: 'QmZtarmpnEFZyn1PHgJCx6HX3HWDPgMVW8rCbCq9BdnDHY',
+    ipfsUrl: 'QmTfB6Q3qZUAFFc4JnSUmPxbAhPqTLVG4n358D7BUAmYLA',
     attributes: [
       {
         trait_type: 'back',
@@ -42345,7 +43286,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcR6EXJYjmbNNp4hwHWWyHY18Ab53QC7dMFvwtRCj6RjT',
+    previewUrl: 'QmVBpt1gd6CxHad67bA7eUzrmiAW5Q47hRRHf1FWKs4jsZ',
+    ipfsUrl: 'QmcR6EXJYjmbNNp4hwHWWyHY18Ab53QC7dMFvwtRCj6RjT',
     attributes: [
       {
         trait_type: 'back',
@@ -42390,7 +43332,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPNTxVPHjSmf8wDD1vFk6CTcckZWwtKt1aGT5kdkMU9ac',
+    previewUrl: 'QmaUU1VFfKESEGD2E3gRr6ombKAu8r6mBZQ7c4F26RBgUL',
+    ipfsUrl: 'QmPNTxVPHjSmf8wDD1vFk6CTcckZWwtKt1aGT5kdkMU9ac',
     attributes: [
       {
         trait_type: 'back',
@@ -42435,7 +43378,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbMGvpbUncfCVLQGwkySH5AfEHvL5FreFV7YCH3eenDZv',
+    previewUrl: 'QmRWAoLZa69oYjadaz6riNENvUnCzng3VxQFTXzSpTdntb',
+    ipfsUrl: 'QmbMGvpbUncfCVLQGwkySH5AfEHvL5FreFV7YCH3eenDZv',
     attributes: [
       {
         trait_type: 'back',
@@ -42480,7 +43424,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTvGULU7XcF41YmF3eZgCGi7r3CwoqKjRvEH3BNpqWv5m',
+    previewUrl: 'QmUEQkbmQWpdZSuA6bS4xVWhRaicWgwcZjrvmvm2eW3s2Z',
+    ipfsUrl: 'QmTvGULU7XcF41YmF3eZgCGi7r3CwoqKjRvEH3BNpqWv5m',
     attributes: [
       {
         trait_type: 'back',
@@ -42525,7 +43470,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdFYFZyxWirx1uYL4mTt2BMeeBJidxXcUCWGQTY1wzFdU',
+    previewUrl: 'QmbVTPhDzLWbMsUDBucV4xc9UXQFjP1Ara7ukbSNLsmWVH',
+    ipfsUrl: 'QmdFYFZyxWirx1uYL4mTt2BMeeBJidxXcUCWGQTY1wzFdU',
     attributes: [
       {
         trait_type: 'back',
@@ -42570,7 +43516,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR4mkiQrgEFjMfWhM9CBoY2Z1MAU5zNNjDh9VJR5r7tGz',
+    previewUrl: 'QmRexiWzMA115A1Mb1VakyKARcSSbv2oqNTY9ePPYR7jbs',
+    ipfsUrl: 'QmR4mkiQrgEFjMfWhM9CBoY2Z1MAU5zNNjDh9VJR5r7tGz',
     attributes: [
       {
         trait_type: 'back',
@@ -42615,7 +43562,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc15FZ2fT9561XZXjEeGMscqKE1PYxS53EVRs1UFMTVU8',
+    previewUrl: 'QmYUuMsysteWuB8w6gaDQstHLVX3TvpSB3qLTTCm2vmS9W',
+    ipfsUrl: 'Qmc15FZ2fT9561XZXjEeGMscqKE1PYxS53EVRs1UFMTVU8',
     attributes: [
       {
         trait_type: 'back',
@@ -42660,7 +43608,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaShFgoVy9rZ2XqeviNLHiduGjoiSLK1KX2mfx83kKPY9',
+    previewUrl: 'QmULjpysY4D5hPPZTiTYD4M6bmyhEoaiFq4G6Po1qGsxg3',
+    ipfsUrl: 'QmaShFgoVy9rZ2XqeviNLHiduGjoiSLK1KX2mfx83kKPY9',
     attributes: [
       {
         trait_type: 'back',
@@ -42705,7 +43654,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUJbMBfCBjU7xn3RkLDGxB331amTRm6Vo6Mxj4Y7agd3v',
+    previewUrl: 'QmbCnueeNBKdkq7JUqAMd7Zxjwfwz3W472HPfyGDpyZVAH',
+    ipfsUrl: 'QmUJbMBfCBjU7xn3RkLDGxB331amTRm6Vo6Mxj4Y7agd3v',
     attributes: [
       {
         trait_type: 'back',
@@ -42750,7 +43700,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT1K8unpYNrHR3eeSGdtPmD9qHV19BoZv86yFboF1zJXy',
+    previewUrl: 'Qmdh1eNzga1GoAA7CTqjkwuvxZoS7Z7pEsHruLgKgATuA8',
+    ipfsUrl: 'QmT1K8unpYNrHR3eeSGdtPmD9qHV19BoZv86yFboF1zJXy',
     attributes: [
       {
         trait_type: 'back',
@@ -42795,7 +43746,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRrvM3NQXp887r4juinE7iT7EPZSpBXirJLjX22Ber71k',
+    previewUrl: 'QmSdfZfFL5sBb7tpnPsEcpJmZBnnJFwUsFCua312MsqjgL',
+    ipfsUrl: 'QmRrvM3NQXp887r4juinE7iT7EPZSpBXirJLjX22Ber71k',
     attributes: [
       {
         trait_type: 'back',
@@ -42840,7 +43792,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRum8b4Vi49rwDQsrRKBy8XKgtiLxExYDmE4rwKNb2Ja3',
+    previewUrl: 'QmYCnoDYfYPR1cWYRY4HiyshQ9WxjWBapHVRMeewPWXRhb',
+    ipfsUrl: 'QmRum8b4Vi49rwDQsrRKBy8XKgtiLxExYDmE4rwKNb2Ja3',
     attributes: [
       {
         trait_type: 'back',
@@ -42885,7 +43838,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXBCQsjMS2jkVmwjUhbGRa2kG4TSy9CmMyW4EkU1K7pZ3',
+    previewUrl: 'QmRuDXWHxSh7mYFGSiWizmyVnEaNhCxbZxuxxn3psD3VF7',
+    ipfsUrl: 'QmXBCQsjMS2jkVmwjUhbGRa2kG4TSy9CmMyW4EkU1K7pZ3',
     attributes: [
       {
         trait_type: 'back',
@@ -42930,7 +43884,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSzQSfTpfAJxtPjB3FHC1npmEzNaaRmjtgV5fFbHdDSSV',
+    previewUrl: 'QmeytH9a5oECTHJVKYKVNYLDQup8q7penQjJjZKbSA22Uw',
+    ipfsUrl: 'QmSzQSfTpfAJxtPjB3FHC1npmEzNaaRmjtgV5fFbHdDSSV',
     attributes: [
       {
         trait_type: 'back',
@@ -42975,7 +43930,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVu4fxBJh458WTdespsFwqBxUJ2SMPyKfbpHf6PhsPJT7',
+    previewUrl: 'QmarrFQRYbaJepC7Wz7Hnjow6oStZM7xgHMoup75LptRPu',
+    ipfsUrl: 'QmVu4fxBJh458WTdespsFwqBxUJ2SMPyKfbpHf6PhsPJT7',
     attributes: [
       {
         trait_type: 'back',
@@ -43020,7 +43976,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVDKYDeY1U2nv9MEKdMmtTWVVnWp7np7ALZFGApzGDiMG',
+    previewUrl: 'QmenCZGcWP5pm4w5XYj7RCh3KZxdfHjNBD3zUcQDMwvsyM',
+    ipfsUrl: 'QmVDKYDeY1U2nv9MEKdMmtTWVVnWp7np7ALZFGApzGDiMG',
     attributes: [
       {
         trait_type: 'back',
@@ -43065,7 +44022,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU4faHmV8dLq9Jw8Dac8i1LSUeW6R3KSjehyvCcEP8Gbn',
+    previewUrl: 'QmVG1d9BuNAAwz94wrPrQSyVKbSikffbp1voBmeZVviyGv',
+    ipfsUrl: 'QmU4faHmV8dLq9Jw8Dac8i1LSUeW6R3KSjehyvCcEP8Gbn',
     attributes: [
       {
         trait_type: 'back',
@@ -43110,7 +44068,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQxp4yjmQm2eerGu51gKeJP2dWcNbP2KpDMCXu4e4UN9L',
+    previewUrl: 'QmQ2JT941f7eEzLUhoi6GbzDgjbd6DD5jjGAqK2ZBWVWrx',
+    ipfsUrl: 'QmQxp4yjmQm2eerGu51gKeJP2dWcNbP2KpDMCXu4e4UN9L',
     attributes: [
       {
         trait_type: 'back',
@@ -43155,7 +44114,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTyVpjM6vc7aGusfq576kw79aY4hsJYnFBZWRYDGS5jhB',
+    previewUrl: 'QmR3b4ua68WEX4TYqgwk3ieVcm6wLUMpWTWR7nmNSWvjxK',
+    ipfsUrl: 'QmTyVpjM6vc7aGusfq576kw79aY4hsJYnFBZWRYDGS5jhB',
     attributes: [
       {
         trait_type: 'back',
@@ -43200,7 +44160,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVje5AoA4TkQrDvmYzLnmrvhTUCG7Ms1vZBsm7JxWhQCz',
+    previewUrl: 'QmX1F7vkHMSSVNJMZ5QjFVVDFL6vfgjtZrdu14MJdCS4zQ',
+    ipfsUrl: 'QmVje5AoA4TkQrDvmYzLnmrvhTUCG7Ms1vZBsm7JxWhQCz',
     attributes: [
       {
         trait_type: 'back',
@@ -43245,7 +44206,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVwC5K9v1pqWi2eP84kDxDWZ3cgmprB4kV1Cnt5Nfjcp9',
+    previewUrl: 'QmXyNKzUnWiWDysk1iCW44raCV3LVmxHwCnx5uxqZV31Ly',
+    ipfsUrl: 'QmVwC5K9v1pqWi2eP84kDxDWZ3cgmprB4kV1Cnt5Nfjcp9',
     attributes: [
       {
         trait_type: 'back',
@@ -43290,7 +44252,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR5GGFXuikXf3SbTMB4S9pceNs8XE5A2Bo6GbgZGUDYtz',
+    previewUrl: 'QmYApxk871jM1zwZecZ7n5fHgx8N6NitW6nMwPWQFanhCk',
+    ipfsUrl: 'QmR5GGFXuikXf3SbTMB4S9pceNs8XE5A2Bo6GbgZGUDYtz',
     attributes: [
       {
         trait_type: 'back',
@@ -43335,7 +44298,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcziX9RYeSFRDuxTRa6UH4SSLQYq8jfBJwuxbrvA4t22F',
+    previewUrl: 'QmPeiCw89QrniFQryMqeErALApHo8uqyQhT63Wk19Nyjj7',
+    ipfsUrl: 'QmcziX9RYeSFRDuxTRa6UH4SSLQYq8jfBJwuxbrvA4t22F',
     attributes: [
       {
         trait_type: 'back',
@@ -43380,7 +44344,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU5oHHzNfD4FUsEkN4Tdh7tFCb6smo6ke7Ecw2NbyCrBW',
+    previewUrl: 'QmTMnwZbgrTTVLE9fjCE895kvBxCNQ4fW84sS2H3YWPo6b',
+    ipfsUrl: 'QmU5oHHzNfD4FUsEkN4Tdh7tFCb6smo6ke7Ecw2NbyCrBW',
     attributes: [
       {
         trait_type: 'back',
@@ -43425,7 +44390,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSDB7MAtQY3ZZHCnU1AeBG87bPm3zz5hVbZESnGdSri4m',
+    previewUrl: 'Qmd9Z41dSNm8Nx7Wx6462yHd3cNVwvUMua9hc3iYjGdojU',
+    ipfsUrl: 'QmSDB7MAtQY3ZZHCnU1AeBG87bPm3zz5hVbZESnGdSri4m',
     attributes: [
       {
         trait_type: 'back',
@@ -43470,7 +44436,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWWFD8MMbpq2EHzrdzewS9EWzDnrCsHWrmZ61g9JbnQNM',
+    previewUrl: 'QmQJZh8bAfSDfrCqzgnwQ6FrWQFvzuAtL8G8oSpviq2m36',
+    ipfsUrl: 'QmWWFD8MMbpq2EHzrdzewS9EWzDnrCsHWrmZ61g9JbnQNM',
     attributes: [
       {
         trait_type: 'back',
@@ -43515,7 +44482,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmehYnz3dGNsxp8PLrm98pcaFbuo4sERv3NN4JopVCAf2g',
+    previewUrl: 'QmRiE2DGZS1HeVkYGzV1ZsPVqqDWo1RSkFEFSpKTKS9Y2h',
+    ipfsUrl: 'QmehYnz3dGNsxp8PLrm98pcaFbuo4sERv3NN4JopVCAf2g',
     attributes: [
       {
         trait_type: 'back',
@@ -43560,7 +44528,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRta9GqR4eym1SuRamhaRMJjVXSpYAB6sq4ehBfjWG1tZ',
+    previewUrl: 'QmbqDxpky51hxDgdsUvd31PawyP7k2yafAmJEjHKwCmjDD',
+    ipfsUrl: 'QmRta9GqR4eym1SuRamhaRMJjVXSpYAB6sq4ehBfjWG1tZ',
     attributes: [
       {
         trait_type: 'back',
@@ -43605,7 +44574,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmS6qiwRNAcw1YMB3Q5i914BUmKABUzfNjuHF2MJf1Swec',
+    previewUrl: 'QmTsGYyyHbFemUyDM2FiexD69Zdf2h7d7vh1HEBzEhArdC',
+    ipfsUrl: 'QmS6qiwRNAcw1YMB3Q5i914BUmKABUzfNjuHF2MJf1Swec',
     attributes: [
       {
         trait_type: 'back',
@@ -43650,7 +44620,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVmtxh5JjK98KPZbk8XBxJNxwHGbgRAgXLSsFiHFx6pg9',
+    previewUrl: 'QmZ9Cxt7RyEmZoifYbeGEwngZhVwBiXFGUErr7Bbbhm26V',
+    ipfsUrl: 'QmVmtxh5JjK98KPZbk8XBxJNxwHGbgRAgXLSsFiHFx6pg9',
     attributes: [
       {
         trait_type: 'back',
@@ -43695,7 +44666,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdAfHfd2CgRYXDD2naw7pRu7F8xgFWDVU4wweR7BVBqP3',
+    previewUrl: 'QmSA8d3fpdnh5SDG6bxGV2EhcbSSECoaQ5pSwtczoTEpn4',
+    ipfsUrl: 'QmdAfHfd2CgRYXDD2naw7pRu7F8xgFWDVU4wweR7BVBqP3',
     attributes: [
       {
         trait_type: 'back',
@@ -43740,7 +44712,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmduwfKeLStDniVppST2qmmFjYnmRJizGUbt9RspCvoA8P',
+    previewUrl: 'Qme4g6H1nv7HvhsnWA2f3e8WBuocyWvvkbDQWRXDtndhTd',
+    ipfsUrl: 'QmduwfKeLStDniVppST2qmmFjYnmRJizGUbt9RspCvoA8P',
     attributes: [
       {
         trait_type: 'back',
@@ -43785,7 +44758,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmbrguqm3FzEZJtxzzNioQbM4HFQySK3J6jjVSCXo6s39c',
+    previewUrl: 'QmSiCgqRuGcgpSswHW6vx1svWAVg2jRy3RixdzNMFQ5Kd1',
+    ipfsUrl: 'Qmbrguqm3FzEZJtxzzNioQbM4HFQySK3J6jjVSCXo6s39c',
     attributes: [
       {
         trait_type: 'back',
@@ -43830,7 +44804,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ94LwLHkzhY3r2mXanMGdCG9Mjd8S5MmuwAiiDudyztJ',
+    previewUrl: 'QmVum6sG1zbbn2riuxzhunk2mJiYuf5z8XanyDTehysxae',
+    ipfsUrl: 'QmZ94LwLHkzhY3r2mXanMGdCG9Mjd8S5MmuwAiiDudyztJ',
     attributes: [
       {
         trait_type: 'back',
@@ -43875,7 +44850,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPHirkvuqUVzFfCoTQ6KgkB9KRn71W4T4GRCSZvBNeyJ5',
+    previewUrl: 'QmaefrC8GbZqmqvMgSdqK6db9C1Q7vsVrcH6R2Wjzy4nZK',
+    ipfsUrl: 'QmPHirkvuqUVzFfCoTQ6KgkB9KRn71W4T4GRCSZvBNeyJ5',
     attributes: [
       {
         trait_type: 'back',
@@ -43920,7 +44896,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVi4pBFhiMxLQSC6i9Pjj8ybEfgfWU8wVEdS4YiJXSTtZ',
+    previewUrl: 'QmZY9bMwhLS48PK6XCmmTPzs5pA5Sbi5U1KUqyC91Upr9r',
+    ipfsUrl: 'QmVi4pBFhiMxLQSC6i9Pjj8ybEfgfWU8wVEdS4YiJXSTtZ',
     attributes: [
       {
         trait_type: 'back',
@@ -43965,7 +44942,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmetAtqLY3GgJKfN98qBsKTRFtp1bJojRSWxxL4dCzoQux',
+    previewUrl: 'Qmc6jCEMBcSX7WoCutFBh5emcEWgsNhfYQrFaH9VdzG5gU',
+    ipfsUrl: 'QmetAtqLY3GgJKfN98qBsKTRFtp1bJojRSWxxL4dCzoQux',
     attributes: [
       {
         trait_type: 'back',
@@ -44010,7 +44988,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZiqYkMjtfzbTQLDpLE9QUqjyuejEdp6uhPQAUBhfBwYD',
+    previewUrl: 'QmXdx4cDo6eUz3vWnepwbQiJAdAhdx7E7Vbcv6bckAQt2x',
+    ipfsUrl: 'QmZiqYkMjtfzbTQLDpLE9QUqjyuejEdp6uhPQAUBhfBwYD',
     attributes: [
       {
         trait_type: 'back',
@@ -44055,7 +45034,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPpskQDA4jcvikyPqvNosEJ1SQB5rP2kbsSLNJo4D8Dsm',
+    previewUrl: 'QmaDgZpYRBx2YM8qx4LwA98vCLe3WWjMCjoHXG4gah2QnX',
+    ipfsUrl: 'QmPpskQDA4jcvikyPqvNosEJ1SQB5rP2kbsSLNJo4D8Dsm',
     attributes: [
       {
         trait_type: 'back',
@@ -44100,7 +45080,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNgAFCTqVDPBCA3M3WtNGTMKfNF3dTHnN3UbWYzTNi4Zh',
+    previewUrl: 'QmTCxKWaJ5KKChhj9DzvLtbQc9JBv35tWdMkpphrrheLgZ',
+    ipfsUrl: 'QmNgAFCTqVDPBCA3M3WtNGTMKfNF3dTHnN3UbWYzTNi4Zh',
     attributes: [
       {
         trait_type: 'back',
@@ -44145,7 +45126,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmP2rzjTdYMuGG4F3MiJH4ziB4o4vU1iUdgDHhBRxFffHk',
+    previewUrl: 'Qmdb7usUCKqCtu5i5Wsu6n3E4zLA8Lj9UjP1vSRkvoZpx2',
+    ipfsUrl: 'QmP2rzjTdYMuGG4F3MiJH4ziB4o4vU1iUdgDHhBRxFffHk',
     attributes: [
       {
         trait_type: 'back',
@@ -44190,7 +45172,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWKStDEhUdQk3MxdW7TCWiY3Y6JZf4PwCcmbK2tggfmw5',
+    previewUrl: 'QmQJ71hFiGfeUdpQDf1qUBvsBpDwwWYaz6eseEAubWiNDS',
+    ipfsUrl: 'QmWKStDEhUdQk3MxdW7TCWiY3Y6JZf4PwCcmbK2tggfmw5',
     attributes: [
       {
         trait_type: 'back',
@@ -44235,7 +45218,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPHvAc4Kjj1Z8HphGgyn5hm67SRBYjdj1wcHYvEsNtzz8',
+    previewUrl: 'QmTjCgyCCaJDMpc5f91fHBGAMCp4e5vrifQRr39WCC8gV2',
+    ipfsUrl: 'QmPHvAc4Kjj1Z8HphGgyn5hm67SRBYjdj1wcHYvEsNtzz8',
     attributes: [
       {
         trait_type: 'back',
@@ -44280,7 +45264,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPAttMs6EBk3nnjuFcbL5StxKVPiLvyLy5aWkZdQfCYup',
+    previewUrl: 'Qme1d5kYLSstFk8YVJJPzNHJ4VFhLdb2EFXAUhzqKpebQP',
+    ipfsUrl: 'QmPAttMs6EBk3nnjuFcbL5StxKVPiLvyLy5aWkZdQfCYup',
     attributes: [
       {
         trait_type: 'back',
@@ -44325,7 +45310,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVTqU8kt14QyK5DxHb5dhqNH9gGUyka4WZQ6NMxu1nBhG',
+    previewUrl: 'QmdNfQsvkiBEtUfrQP7hbwvearGo3ZK7Nf6JbNGDiuiHrn',
+    ipfsUrl: 'QmVTqU8kt14QyK5DxHb5dhqNH9gGUyka4WZQ6NMxu1nBhG',
     attributes: [
       {
         trait_type: 'back',
@@ -44370,7 +45356,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmS5JadUpHLQqmoYudBcTD76QGVa3ZEu6qzCnoeDkLdBBQ',
+    previewUrl: 'QmSq8ZxQKDtV2V7YrjkB7o9BGitCvYc2dpGt4P5jef2kRU',
+    ipfsUrl: 'QmS5JadUpHLQqmoYudBcTD76QGVa3ZEu6qzCnoeDkLdBBQ',
     attributes: [
       {
         trait_type: 'back',
@@ -44415,7 +45402,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTEZZFB2973Sq5jsuRbahs1JanMjkbtc7sGfu2ARmAW7i',
+    previewUrl: 'QmNz7zR2C9vWAokNrYcghCSzWYcAaHhovXvuwwgLYC4bAS',
+    ipfsUrl: 'QmTEZZFB2973Sq5jsuRbahs1JanMjkbtc7sGfu2ARmAW7i',
     attributes: [
       {
         trait_type: 'back',
@@ -44460,7 +45448,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdwsYTLHuCNG7CVJs296mLxrGvxtJMJfVEVqph43EFp9a',
+    previewUrl: 'QmNV9gUdxYQH6XwNbX2d7LBFoca9ZGwx9McPf45YfSXFvL',
+    ipfsUrl: 'QmdwsYTLHuCNG7CVJs296mLxrGvxtJMJfVEVqph43EFp9a',
     attributes: [
       {
         trait_type: 'back',
@@ -44505,7 +45494,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmagJf6PrhxNhTgFmrAyfg3VvEYoeH6yPaCvX7FpRioJR3',
+    previewUrl: 'QmbGHeHpW5Fv2x7q42mHWJFpD6veX5AvPLQngM9oyRqPQc',
+    ipfsUrl: 'QmagJf6PrhxNhTgFmrAyfg3VvEYoeH6yPaCvX7FpRioJR3',
     attributes: [
       {
         trait_type: 'back',
@@ -44550,7 +45540,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSaALoCRXjqdx791GZEDop4dSgtVCAfVUKgKqWBFHvE8i',
+    previewUrl: 'QmSHUWTvzb8UKRJ2SFpKKjXgAixe3P66GbWv1puwH8RP7R',
+    ipfsUrl: 'QmSaALoCRXjqdx791GZEDop4dSgtVCAfVUKgKqWBFHvE8i',
     attributes: [
       {
         trait_type: 'back',
@@ -44595,7 +45586,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVcNhpSLtPSHHbL7Qm2WVUYRBynomZ3SPLyoCXVMv229H',
+    previewUrl: 'QmYbUkZd7ChLqgbGnNgivSxaV5QZunA2XqN1VvywcxwMgQ',
+    ipfsUrl: 'QmVcNhpSLtPSHHbL7Qm2WVUYRBynomZ3SPLyoCXVMv229H',
     attributes: [
       {
         trait_type: 'back',
@@ -44640,7 +45632,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQaa9aPemaL5GsSDpYVTx9z5AmrB4cstMjZaiGJ4koein',
+    previewUrl: 'QmVuKeRAoUn38j8dGVbCRPwgdn1PGLLtJSDm4EkMAYo6n8',
+    ipfsUrl: 'QmQaa9aPemaL5GsSDpYVTx9z5AmrB4cstMjZaiGJ4koein',
     attributes: [
       {
         trait_type: 'back',
@@ -44685,7 +45678,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYvRi1UM5WHFS2sJjG1BYhkqzvSrFiR3ysJPdL7ZP2pFd',
+    previewUrl: 'QmYwJkxj9y6AvMaS3muwfaazi4SPxc2zLiZshBqF8S6uaT',
+    ipfsUrl: 'QmYvRi1UM5WHFS2sJjG1BYhkqzvSrFiR3ysJPdL7ZP2pFd',
     attributes: [
       {
         trait_type: 'back',
@@ -44730,7 +45724,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUh9o8vq7MCJG2fuP8fkCymDjy9hqXXqUqQrwWJ2rPPmt',
+    previewUrl: 'Qmf4N6uHGnxP5Koib2hYFifRG5nNuTBrgPB2m7PeqRQLgU',
+    ipfsUrl: 'QmUh9o8vq7MCJG2fuP8fkCymDjy9hqXXqUqQrwWJ2rPPmt',
     attributes: [
       {
         trait_type: 'back',
@@ -44775,7 +45770,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmayHYtLi6tDuBF4HZAfoiNQXhoPbi1pM8XbjEdwcRicTs',
+    previewUrl: 'QmNxQdmBdAATKvEaZ3Tr3EXi57SebJ2LDYmm7v2Wnoca95',
+    ipfsUrl: 'QmayHYtLi6tDuBF4HZAfoiNQXhoPbi1pM8XbjEdwcRicTs',
     attributes: [
       {
         trait_type: 'back',
@@ -44820,7 +45816,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmP3GekKxuyFYi9hEACsJwxBWPaw7ywFWvUVQVVvSVCS9K',
+    previewUrl: 'QmP74vCg6WpRKwJMYc2Y4LmQNaoiEt8Jq116DF62yEqnGM',
+    ipfsUrl: 'QmP3GekKxuyFYi9hEACsJwxBWPaw7ywFWvUVQVVvSVCS9K',
     attributes: [
       {
         trait_type: 'back',
@@ -44865,7 +45862,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTBuzPuANPrE1oHHcAEiiZpjvJZZpUCU4wduxdYqzbsAs',
+    previewUrl: 'QmayrWW6hiRAQCakeKUqMGP4bw6qUGAo1Y8q2Ps56J6M66',
+    ipfsUrl: 'QmTBuzPuANPrE1oHHcAEiiZpjvJZZpUCU4wduxdYqzbsAs',
     attributes: [
       {
         trait_type: 'back',
@@ -44910,7 +45908,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQjKfKHCRF6DJbdxYdug6FDVL8v5dxv1QHss8YfLaQ7dM',
+    previewUrl: 'QmV6baRnkpVwvVABJJzAn7cJSz4DHEN9Rbw4exKXafWLoL',
+    ipfsUrl: 'QmQjKfKHCRF6DJbdxYdug6FDVL8v5dxv1QHss8YfLaQ7dM',
     attributes: [
       {
         trait_type: 'back',
@@ -44955,7 +45954,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTr3wQxgDxHdZKAy1rmUtaTbiryLT847FJRuJFzUMDkLo',
+    previewUrl: 'Qmf6javhhc6vomyB7tckFKrdwdwXSfFw7Y1QwV5xuiYyYk',
+    ipfsUrl: 'QmTr3wQxgDxHdZKAy1rmUtaTbiryLT847FJRuJFzUMDkLo',
     attributes: [
       {
         trait_type: 'back',
@@ -45000,7 +46000,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc2xvpgJGpJvNjioo8UeAJnPL1eMrwL1nesNqQ7hxaox2',
+    previewUrl: 'QmRLq8yT19NNAmRhjmfAJzcXTcfDvEtp7ziKztp5AFiW4v',
+    ipfsUrl: 'Qmc2xvpgJGpJvNjioo8UeAJnPL1eMrwL1nesNqQ7hxaox2',
     attributes: [
       {
         trait_type: 'back',
@@ -45045,7 +46046,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc9q4XWRQ1rxMVj2dC1V9b1qt1zii1U3yhKAYv6n1vLdy',
+    previewUrl: 'Qma98A4rhq91WjFyPbENfrQr3vePQem5nYt6N7CxuC7kJU',
+    ipfsUrl: 'Qmc9q4XWRQ1rxMVj2dC1V9b1qt1zii1U3yhKAYv6n1vLdy',
     attributes: [
       {
         trait_type: 'back',
@@ -45090,7 +46092,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRxZou9kWjpnc4bnV6ZQmCS1GuhR4B72NmEEpZhbhPiRA',
+    previewUrl: 'QmU5KhHhWHtEdfKexSJp9u8EU9A3wmoVNvJyEqk5odyM6x',
+    ipfsUrl: 'QmRxZou9kWjpnc4bnV6ZQmCS1GuhR4B72NmEEpZhbhPiRA',
     attributes: [
       {
         trait_type: 'back',
@@ -45135,7 +46138,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmP17DV61URLcnK1vQs39z3nCd89kQw6j3waBpeLfKuiQT',
+    previewUrl: 'QmPW3iZx3qSnpuq7qnzczrZ51SbhCjASEzdpWUvZwEuZ9C',
+    ipfsUrl: 'QmP17DV61URLcnK1vQs39z3nCd89kQw6j3waBpeLfKuiQT',
     attributes: [
       {
         trait_type: 'back',
@@ -45180,7 +46184,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRqCBqF91aNu4M6mPbJDmyaZRm9MrDmEzuDABXih4Yjai',
+    previewUrl: 'QmT38L8fbmFNuCYhbUKBiGJUQ2uq5CSSu9rzARjWr42dCQ',
+    ipfsUrl: 'QmRqCBqF91aNu4M6mPbJDmyaZRm9MrDmEzuDABXih4Yjai',
     attributes: [
       {
         trait_type: 'back',
@@ -45225,7 +46230,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qme1HA3cTHsUmk2PwmiJid4d1SK4hd7qq8UHa2oKqew5uy',
+    previewUrl: 'QmNQvai9YKH3ACzh4P53FMs6RRg2UBh493Sz3jjjhiMgm7',
+    ipfsUrl: 'Qme1HA3cTHsUmk2PwmiJid4d1SK4hd7qq8UHa2oKqew5uy',
     attributes: [
       {
         trait_type: 'back',
@@ -45270,7 +46276,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSEufAeDgpKuUaWre6h6ntv55LcUx2z9DWDvjBXawqCC8',
+    previewUrl: 'QmXBfKddfnZSq3pxigEBFsPGpwu6SZdaLseA4E4WGHLdu9',
+    ipfsUrl: 'QmSEufAeDgpKuUaWre6h6ntv55LcUx2z9DWDvjBXawqCC8',
     attributes: [
       {
         trait_type: 'back',
@@ -45315,7 +46322,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaeTLyx59jkvkhEJ4wnkhcLSpgwd2vFRT1zQThqFgh3V7',
+    previewUrl: 'QmcU2ckR8Cy4Uio6G32TWsSfuBtCuhxwCitLw76BAe1ewC',
+    ipfsUrl: 'QmaeTLyx59jkvkhEJ4wnkhcLSpgwd2vFRT1zQThqFgh3V7',
     attributes: [
       {
         trait_type: 'back',
@@ -45360,7 +46368,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWSGEhffTgY2hqx1kzNkXa5sH94WP2v4RJezGupjWN1Tu',
+    previewUrl: 'QmdirKGF1dnYgbS5QbhR3MRVEfQAZ5bpk9FStzMDTzX65m',
+    ipfsUrl: 'QmWSGEhffTgY2hqx1kzNkXa5sH94WP2v4RJezGupjWN1Tu',
     attributes: [
       {
         trait_type: 'back',
@@ -45405,7 +46414,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRHyZmvSfsXmk2N8AmxPL2FoHKgXjn41qopdbAwAhdjNe',
+    previewUrl: 'Qmc35Myz7MUfsdboyq5u3SAFrN1cFjPb3kWEBEX96HJLyv',
+    ipfsUrl: 'QmRHyZmvSfsXmk2N8AmxPL2FoHKgXjn41qopdbAwAhdjNe',
     attributes: [
       {
         trait_type: 'back',
@@ -45450,7 +46460,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRCDVf6Kjx5VdtHuSM8Dp49m2w2bWtCp1mKmP38pzEZXk',
+    previewUrl: 'Qmd9vJVAFvZcjdAfgBKdnz7cAozLpfxn4mqH6CGu4oZzez',
+    ipfsUrl: 'QmRCDVf6Kjx5VdtHuSM8Dp49m2w2bWtCp1mKmP38pzEZXk',
     attributes: [
       {
         trait_type: 'back',
@@ -45495,7 +46506,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdJhLF1rUWipf98UNngKv2AJSAD5d5Y8U1WQau9QZdeyv',
+    previewUrl: 'QmaBTr6ZSsbPhb4NNWnQaPrNMqtPmAFenFvgCLWTdMGV4U',
+    ipfsUrl: 'QmdJhLF1rUWipf98UNngKv2AJSAD5d5Y8U1WQau9QZdeyv',
     attributes: [
       {
         trait_type: 'back',
@@ -45540,7 +46552,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qma5qfUDgn247Qvzu3QuJKWf5cftuKbRYSqbtyR1NMhxMf',
+    previewUrl: 'QmU6yuU32kWTtYPowPYXyWBMJm3JBxwTUTwTUEz7WaXSNF',
+    ipfsUrl: 'Qma5qfUDgn247Qvzu3QuJKWf5cftuKbRYSqbtyR1NMhxMf',
     attributes: [
       {
         trait_type: 'back',
@@ -45585,7 +46598,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQ6S3osvnNb5CGgZrkTK386ZguDm7piGsszz3byUF3mHs',
+    previewUrl: 'QmdTYDH22KKENF2NaSEWqpgrfAcmq3Kk79YJ6g1sfjj1ez',
+    ipfsUrl: 'QmQ6S3osvnNb5CGgZrkTK386ZguDm7piGsszz3byUF3mHs',
     attributes: [
       {
         trait_type: 'back',
@@ -45630,7 +46644,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPRt9XGUuFpz6rVFTg7TM39WfB6xPS3jhy1n24PCFywFS',
+    previewUrl: 'QmWPcrEnsTZG1jtpxBf17SSSFkickkKGoHy9krHh8m95ST',
+    ipfsUrl: 'QmPRt9XGUuFpz6rVFTg7TM39WfB6xPS3jhy1n24PCFywFS',
     attributes: [
       {
         trait_type: 'back',
@@ -45675,7 +46690,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcMdujYvBwyPi8AnZFBNfNcUjHWBqjNV9xaH59Xd4FHSX',
+    previewUrl: 'QmVMDveCDnWrkXsKjqz2DTZ9uh8qThD1Y6zwg1z8pwHPcf',
+    ipfsUrl: 'QmcMdujYvBwyPi8AnZFBNfNcUjHWBqjNV9xaH59Xd4FHSX',
     attributes: [
       {
         trait_type: 'back',
@@ -45720,7 +46736,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWfrazaMsAm74J3VcSPM18PuiV8AGDdPogzphHrU6pFqK',
+    previewUrl: 'QmVayysCcJiBoSHMjLwvSHBsZF6SVAfGiZya3aakgrx5Sw',
+    ipfsUrl: 'QmWfrazaMsAm74J3VcSPM18PuiV8AGDdPogzphHrU6pFqK',
     attributes: [
       {
         trait_type: 'back',
@@ -45765,7 +46782,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQoo6snrG3yedLQhDVmbhP9bmun2qN8c8Lsq2JY9Lmgh2',
+    previewUrl: 'Qmb9WGcMin7CVqQb9uXEsRtnjdCZQWvjBxPwCFsWniwV8e',
+    ipfsUrl: 'QmQoo6snrG3yedLQhDVmbhP9bmun2qN8c8Lsq2JY9Lmgh2',
     attributes: [
       {
         trait_type: 'back',
@@ -45810,7 +46828,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRutfq6gCYrGu2N9yBWfW8Q8ocx3t39kQpNbGskmqUhov',
+    previewUrl: 'QmUYNPZSHMtk6MjeCjHgSmQWYXzzCmVMHSUD1GtQ5Rxpf1',
+    ipfsUrl: 'QmRutfq6gCYrGu2N9yBWfW8Q8ocx3t39kQpNbGskmqUhov',
     attributes: [
       {
         trait_type: 'back',
@@ -45855,7 +46874,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZRzPeQijfVYsykZGaGg4mAT3Y7zozbdt7ZrEGCcAdVFK',
+    previewUrl: 'QmbqnZHkKf7vCrzB6wLsezjKPgz8s82mZ8mabUCdcNdM6S',
+    ipfsUrl: 'QmZRzPeQijfVYsykZGaGg4mAT3Y7zozbdt7ZrEGCcAdVFK',
     attributes: [
       {
         trait_type: 'back',
@@ -45900,7 +46920,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQtkvfn13fe93zNYyv61Bif3Lyuk8pPffvixGWBdPsEmo',
+    previewUrl: 'QmWS5H88tKWgv9DKQnUWGTzgzmHgLnijcYUVHfGXpU8SDH',
+    ipfsUrl: 'QmQtkvfn13fe93zNYyv61Bif3Lyuk8pPffvixGWBdPsEmo',
     attributes: [
       {
         trait_type: 'back',
@@ -45945,7 +46966,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNxq9JkuWR3pQ3YCs6bdDMqqYeE9nrxNaU98bsqT5ef8x',
+    previewUrl: 'QmZp5837B4ExQrQhpqvHEprr1JWTh1shn56uwieqSKWfNp',
+    ipfsUrl: 'QmNxq9JkuWR3pQ3YCs6bdDMqqYeE9nrxNaU98bsqT5ef8x',
     attributes: [
       {
         trait_type: 'back',
@@ -45990,7 +47012,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNT7GRwRGtn4fh2vC9GDQEA7ER6FavYGYACKT5zwoat4n',
+    previewUrl: 'QmRh1Z7Gd7PADGvkNgp7ZJVWW3ccwZNkFg789U1p2N3CCX',
+    ipfsUrl: 'QmNT7GRwRGtn4fh2vC9GDQEA7ER6FavYGYACKT5zwoat4n',
     attributes: [
       {
         trait_type: 'back',
@@ -46035,7 +47058,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeY2svKbhmZuqVSvedxcggqHSb6ngDqGGmJa41pyhwSNs',
+    previewUrl: 'QmdXo8VzYopqa2q9KYZ7arsgUL3nJTaMMNYQR67HVyhJsV',
+    ipfsUrl: 'QmeY2svKbhmZuqVSvedxcggqHSb6ngDqGGmJa41pyhwSNs',
     attributes: [
       {
         trait_type: 'back',
@@ -46080,7 +47104,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmamrXobDdrBeSLAbM7tr3kAUFT75cLnSWVtKDPD78yFHj',
+    previewUrl: 'QmUGuHS8JGFsqsnV3M9TGk5iw2Js4yZouSQLsd3i8mkJwd',
+    ipfsUrl: 'QmamrXobDdrBeSLAbM7tr3kAUFT75cLnSWVtKDPD78yFHj',
     attributes: [
       {
         trait_type: 'back',
@@ -46125,7 +47150,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSckyf5j9wzW58Esb7SR6oKzAb9uvgLpHxWv7rkjfs3LT',
+    previewUrl: 'QmNNUdaDffZFR7YVrQZJsrCDi5zzobFMzb3fFYshnbnKMa',
+    ipfsUrl: 'QmSckyf5j9wzW58Esb7SR6oKzAb9uvgLpHxWv7rkjfs3LT',
     attributes: [
       {
         trait_type: 'back',
@@ -46170,7 +47196,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcjbrxNJdEcWje42hy76ap5BkkEBxEDYDkxDxGYVvecFy',
+    previewUrl: 'QmcXYk4U3fr3dyQgzDK44jnLHDTeKCbBqRUo2an9BknKgd',
+    ipfsUrl: 'QmcjbrxNJdEcWje42hy76ap5BkkEBxEDYDkxDxGYVvecFy',
     attributes: [
       {
         trait_type: 'back',
@@ -46215,7 +47242,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYHJ6ukc6kCPjMVLCCB3yLs4AjXDaJ9VCjyQqPfv3Qydr',
+    previewUrl: 'QmWXkzo4Rc4cKdxfGEtuURCtpbdt2SQTUtBP6ep7URCn1A',
+    ipfsUrl: 'QmYHJ6ukc6kCPjMVLCCB3yLs4AjXDaJ9VCjyQqPfv3Qydr',
     attributes: [
       {
         trait_type: 'back',
@@ -46260,7 +47288,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXzsGxYPebkL5ieQvQ8wmMYM9FBXSc1N2fhb66rTXnik2',
+    previewUrl: 'QmUFRm4SBzUvvBaDkdQfn5NUx5rsXLauJgfAB4mDVHJ2ep',
+    ipfsUrl: 'QmXzsGxYPebkL5ieQvQ8wmMYM9FBXSc1N2fhb66rTXnik2',
     attributes: [
       {
         trait_type: 'back',
@@ -46305,7 +47334,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmePQhbyBkeRyUAgcDy35Un2PvAyFi8ATBkxLrLPvpq1jy',
+    previewUrl: 'QmPVd6AisjXNTGowXVZQfHy2i3hku5Tij3wi9jLWQcrCHC',
+    ipfsUrl: 'QmePQhbyBkeRyUAgcDy35Un2PvAyFi8ATBkxLrLPvpq1jy',
     attributes: [
       {
         trait_type: 'back',
@@ -46350,7 +47380,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUDCwDtNi8AYcwMWgh4ycUXudGrShYcuL8VRphTg8LpQ5',
+    previewUrl: 'QmStBYr2vEUGqE41CsSbZA2Ey4BxuxWWbF6daeiQR8WsgW',
+    ipfsUrl: 'QmUDCwDtNi8AYcwMWgh4ycUXudGrShYcuL8VRphTg8LpQ5',
     attributes: [
       {
         trait_type: 'back',
@@ -46395,7 +47426,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSxksKZmymuujAHSvL4M2Wk4dt6DmqgCbPLdfYLy8vqSM',
+    previewUrl: 'QmRhgmWg9NJdM3THX5PTSiPzybpWXPqV9imrhucgwKduaN',
+    ipfsUrl: 'QmSxksKZmymuujAHSvL4M2Wk4dt6DmqgCbPLdfYLy8vqSM',
     attributes: [
       {
         trait_type: 'back',
@@ -46440,7 +47472,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQQJmYkA1S4bX78PY3eDUgVT5mBENs1nooMDN8M76YBJc',
+    previewUrl: 'Qmf4dqUYmjL6f5ztSGufbVHjb48hWtiqxVGLDKkp4UWQDF',
+    ipfsUrl: 'QmQQJmYkA1S4bX78PY3eDUgVT5mBENs1nooMDN8M76YBJc',
     attributes: [
       {
         trait_type: 'back',
@@ -46485,7 +47518,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmea8KcWL2EkqAQXTbWN6QWWVrEzew743GiGz8oHdNSLLA',
+    previewUrl: 'QmNmfyh9HQmk5tLGsByf6Gk1TVqMMGB8Zo65np1xBgQ5Qg',
+    ipfsUrl: 'Qmea8KcWL2EkqAQXTbWN6QWWVrEzew743GiGz8oHdNSLLA',
     attributes: [
       {
         trait_type: 'back',
@@ -46530,7 +47564,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTvu3qu424jebParGvaxip7jUBfmk8LWFK7daA9XPQkN1',
+    previewUrl: 'QmeYHQxewwwkKL2HskX5DNkyMb6fNMhCSau9LT277U3AfL',
+    ipfsUrl: 'QmTvu3qu424jebParGvaxip7jUBfmk8LWFK7daA9XPQkN1',
     attributes: [
       {
         trait_type: 'back',
@@ -46575,7 +47610,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmexZx7iseLqUubT9ARnwacKmXGxtKpuj1bbN6ZYQ6oTK5',
+    previewUrl: 'QmckWpzefz9kr1EbVpc1UAQZRCNYhoZNpa9mvWRnb4Vv2v',
+    ipfsUrl: 'QmexZx7iseLqUubT9ARnwacKmXGxtKpuj1bbN6ZYQ6oTK5',
     attributes: [
       {
         trait_type: 'back',
@@ -46620,7 +47656,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRLBsTUptxuWsgkNkfoY7TT9xCsVwGfi9CKpp3cvfRgd3',
+    previewUrl: 'QmWF3UcHZBJCQhcvUz162C3cjEeK9ZjyZceD69tszvryMF',
+    ipfsUrl: 'QmRLBsTUptxuWsgkNkfoY7TT9xCsVwGfi9CKpp3cvfRgd3',
     attributes: [
       {
         trait_type: 'back',
@@ -46665,7 +47702,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmb6AGfwGyViqYqQ3TAnUndLGJMFNWRaQAJaHN7dfCQ6zs',
+    previewUrl: 'QmYmcy4En8c4PcEPDvp2Q5Q9piw4Za6KZ6oZoYy1fsCTMn',
+    ipfsUrl: 'Qmb6AGfwGyViqYqQ3TAnUndLGJMFNWRaQAJaHN7dfCQ6zs',
     attributes: [
       {
         trait_type: 'back',
@@ -46710,7 +47748,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRTeSFV5Stxe5pZEmNNKEtGfsB52UintJXhhPtEjKeAS6',
+    previewUrl: 'Qmb6UjmJrYH72W9ECuNmuKSRbzczTYj3y5zicSGaTj34AW',
+    ipfsUrl: 'QmRTeSFV5Stxe5pZEmNNKEtGfsB52UintJXhhPtEjKeAS6',
     attributes: [
       {
         trait_type: 'back',
@@ -46755,7 +47794,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR1RkKVR31QykuafYMQwrcNchT2TGgoRXFS2eY5XHhFtC',
+    previewUrl: 'QmaNFVM8ihUdGgagYGBE3yE5ZUEG7aGRqCVAHyqiJRNnAP',
+    ipfsUrl: 'QmR1RkKVR31QykuafYMQwrcNchT2TGgoRXFS2eY5XHhFtC',
     attributes: [
       {
         trait_type: 'back',
@@ -46800,7 +47840,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR4dzkCQtUSjrMD639hFCbDRqevnRUs4V69vV6vJaCRc2',
+    previewUrl: 'QmdHgGpJA3paTF8nohSkpUTyuQgmYnTRf2pas52SH5Q37r',
+    ipfsUrl: 'QmR4dzkCQtUSjrMD639hFCbDRqevnRUs4V69vV6vJaCRc2',
     attributes: [
       {
         trait_type: 'back',
@@ -46845,7 +47886,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdLW8NA5JNFSRC9SrwCtVfYfBHQ3mrY9PSurp7LHbz7Ya',
+    previewUrl: 'QmU3pLmp9itx7rW1fJ52Po7yGmMKuoGXD2QkaNRPdnFSJT',
+    ipfsUrl: 'QmdLW8NA5JNFSRC9SrwCtVfYfBHQ3mrY9PSurp7LHbz7Ya',
     attributes: [
       {
         trait_type: 'back',
@@ -46890,7 +47932,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTewU927WPC5ER74awWnLdzoQM2HaedxW4FdnUnoHhtRb',
+    previewUrl: 'QmNdwteFzxQsxcyHVsbuvsZc173iyLiqcsAameggaj7q1P',
+    ipfsUrl: 'QmTewU927WPC5ER74awWnLdzoQM2HaedxW4FdnUnoHhtRb',
     attributes: [
       {
         trait_type: 'back',
@@ -46935,7 +47978,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPzBAPfkJqjNkKmGHTKvGH3eucZnxcZsktsoeugmffmAH',
+    previewUrl: 'QmQJHFJYDpnngXKfVsNHYDv4U86mdaM2oTfQ8XVZiDeqXT',
+    ipfsUrl: 'QmPzBAPfkJqjNkKmGHTKvGH3eucZnxcZsktsoeugmffmAH',
     attributes: [
       {
         trait_type: 'back',
@@ -46980,7 +48024,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdsmjDxGaNvdoWqoMZwDX5WgbuNeyNJYNiKK3E1RzTT2X',
+    previewUrl: 'QmeioAkMfJqKLdFpohbAW2avWFpRssTJJYQdtxRrNmStf1',
+    ipfsUrl: 'QmdsmjDxGaNvdoWqoMZwDX5WgbuNeyNJYNiKK3E1RzTT2X',
     attributes: [
       {
         trait_type: 'back',
@@ -47025,7 +48070,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWxihVSAPmY4juSd1zBD2kgMRSgaYNqsqymQi1PVnjAYU',
+    previewUrl: 'QmUc3hD98jX5q1hmH3ReSjU2vFikVdkkhp3gtm2dqDxDdq',
+    ipfsUrl: 'QmWxihVSAPmY4juSd1zBD2kgMRSgaYNqsqymQi1PVnjAYU',
     attributes: [
       {
         trait_type: 'back',
@@ -47070,7 +48116,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY7YC9oh5z2wnivqC9nU6XYwrE8wrq324PkFTKHgoBJG4',
+    previewUrl: 'QmVZRkg5PLcuj6XvLkZMZJdPfSMWsuMUGGM99cPrPqKKx7',
+    ipfsUrl: 'QmY7YC9oh5z2wnivqC9nU6XYwrE8wrq324PkFTKHgoBJG4',
     attributes: [
       {
         trait_type: 'back',
@@ -47115,7 +48162,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdRZoaNbiKvf6aKQwavC3edirPCdJYQjAgjHXwMAfetYw',
+    previewUrl: 'QmSQ29VJar9N3kXCvKvug2gLvqKn358yGN615XTrLHnXvb',
+    ipfsUrl: 'QmdRZoaNbiKvf6aKQwavC3edirPCdJYQjAgjHXwMAfetYw',
     attributes: [
       {
         trait_type: 'back',
@@ -47160,7 +48208,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaRCNoTVrHWwFezJi6uwRNM32sqQbZ5NT2GMe3BfZgEHt',
+    previewUrl: 'QmTUSXgz9zkVnaFK7ge2CjNXGTiLn4EZYYUhh9nWD97uZS',
+    ipfsUrl: 'QmaRCNoTVrHWwFezJi6uwRNM32sqQbZ5NT2GMe3BfZgEHt',
     attributes: [
       {
         trait_type: 'back',
@@ -47205,7 +48254,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWpgitWe5VDiRjp1SfYHphKdHyJdwTbjNgdtKWJAQ2a8m',
+    previewUrl: 'QmbNSb5Ux8WQ8uWLmPojrx8JKb7xAHVWqEQtmNvZ7EWFfs',
+    ipfsUrl: 'QmWpgitWe5VDiRjp1SfYHphKdHyJdwTbjNgdtKWJAQ2a8m',
     attributes: [
       {
         trait_type: 'back',
@@ -47250,7 +48300,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmecGZofc6ui7KGkrbeaXof1o1CPNdmBMqYpVXTU7MSsgW',
+    previewUrl: 'QmT52giiA3N9W9yfDaK9vfoxX6maZQV5SxoqiVxDc7UpWM',
+    ipfsUrl: 'QmecGZofc6ui7KGkrbeaXof1o1CPNdmBMqYpVXTU7MSsgW',
     attributes: [
       {
         trait_type: 'back',
@@ -47295,7 +48346,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV49jdoSHu1L9hwRBn2hXUNiTazHz31mv1kpRqTERVKuZ',
+    previewUrl: 'QmRsQCUUpEFF3ieRZiGySxgc8tbkhL4TTGPdJ4DQwBauTH',
+    ipfsUrl: 'QmV49jdoSHu1L9hwRBn2hXUNiTazHz31mv1kpRqTERVKuZ',
     attributes: [
       {
         trait_type: 'back',
@@ -47340,7 +48392,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmS9x7z3QrsERNbbtbM8zbDkjN1Xa5UBZYeJkdBHoaGziE',
+    previewUrl: 'QmPNDEGdpf94eJigWyeioRbG2jHK9V67huEMxLBzqpJuiF',
+    ipfsUrl: 'QmS9x7z3QrsERNbbtbM8zbDkjN1Xa5UBZYeJkdBHoaGziE',
     attributes: [
       {
         trait_type: 'back',
@@ -47385,7 +48438,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXuBazpa7xk72HL9aTqmHRhkcuUCXnVfLmvSevcZHf9vk',
+    previewUrl: 'QmVnpWDb4r1U3fm3G5RzkmF4mwDHd7isKtkgBdvW4jS8AP',
+    ipfsUrl: 'QmXuBazpa7xk72HL9aTqmHRhkcuUCXnVfLmvSevcZHf9vk',
     attributes: [
       {
         trait_type: 'back',
@@ -47430,7 +48484,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV1XjYEq48ChjMAspSWjjSnRgx6dnZbqgukotJZ8m5UBk',
+    previewUrl: 'QmQ4KjUAuoKd4WxCNGYYBFLasYFCJqgjgJ3FjrWUFyUzjY',
+    ipfsUrl: 'QmV1XjYEq48ChjMAspSWjjSnRgx6dnZbqgukotJZ8m5UBk',
     attributes: [
       {
         trait_type: 'back',
@@ -47475,7 +48530,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPXJdNDApsZWYX2aGfpnCgvB3w73jKDQFLEXdd5K6VSb9',
+    previewUrl: 'QmNXVtubZY28PVYNCmGZpW3JGShseFGKWqGNHToEuG4EYm',
+    ipfsUrl: 'QmPXJdNDApsZWYX2aGfpnCgvB3w73jKDQFLEXdd5K6VSb9',
     attributes: [
       {
         trait_type: 'back',
@@ -47520,7 +48576,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfKvDUk8AHxVrTdQiKavE5AxyhzR2FBYv3NTHfmqEjSvn',
+    previewUrl: 'QmW3r9BvEwJEmQxV2uTWiyEcoFgkEgbddofd3xigD357fz',
+    ipfsUrl: 'QmfKvDUk8AHxVrTdQiKavE5AxyhzR2FBYv3NTHfmqEjSvn',
     attributes: [
       {
         trait_type: 'back',
@@ -47565,7 +48622,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNeKtbd1v5EbCR5L9KZnrRog3zUFXmxtHtQKySdaQoC8i',
+    previewUrl: 'QmaJYr3HHA6MLh4ZhVd6KtzY55HzzmsP1oGze7kw1dhej5',
+    ipfsUrl: 'QmNeKtbd1v5EbCR5L9KZnrRog3zUFXmxtHtQKySdaQoC8i',
     attributes: [
       {
         trait_type: 'back',
@@ -47610,7 +48668,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZusMMyuh1tEwxdpQiufQfHag9rP4ETaeZu5KCvHcoCAV',
+    previewUrl: 'QmQJKW9SFYzj4prntfaRdgjtjwabJ3rvZTNXwB7Gyg3Ep1',
+    ipfsUrl: 'QmZusMMyuh1tEwxdpQiufQfHag9rP4ETaeZu5KCvHcoCAV',
     attributes: [
       {
         trait_type: 'back',
@@ -47655,7 +48714,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQpW1mdH3MUbaX5zRCqZojFFz8DRQRpkC49QqKdgr4Vx8',
+    previewUrl: 'QmdGUxtTEXrZvWh1ojAiMoQ7xrkwkH5Hw93eUUxrjcCb9E',
+    ipfsUrl: 'QmQpW1mdH3MUbaX5zRCqZojFFz8DRQRpkC49QqKdgr4Vx8',
     attributes: [
       {
         trait_type: 'back',
@@ -47700,7 +48760,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVBFqj6bvQ4UNWpAu9Sq6NHNkV7KpRdALnCmS2zHTcnpj',
+    previewUrl: 'QmYwE84nHWhXwb6CDSdkXCFrCH3Eso2WeREPcNmAPP4epo',
+    ipfsUrl: 'QmVBFqj6bvQ4UNWpAu9Sq6NHNkV7KpRdALnCmS2zHTcnpj',
     attributes: [
       {
         trait_type: 'back',
@@ -47745,7 +48806,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPMVKvUcQJ7kyrv1WDvJLigXvK9pWRKpjrpjVJtM6H7yp',
+    previewUrl: 'QmeGihYJVGWZGofzqZZgEhREKAY7sYUGkE4TvNNC19k8bo',
+    ipfsUrl: 'QmPMVKvUcQJ7kyrv1WDvJLigXvK9pWRKpjrpjVJtM6H7yp',
     attributes: [
       {
         trait_type: 'back',
@@ -47790,7 +48852,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdEGmjJgfxJKKUqcEQzdPfijL2odnUKfU8HiaRDwcYgzu',
+    previewUrl: 'QmZLJyv81QPKvs9Pp4jKf7LJB5Xee4oSdwopvSDP9qxYhw',
+    ipfsUrl: 'QmdEGmjJgfxJKKUqcEQzdPfijL2odnUKfU8HiaRDwcYgzu',
     attributes: [
       {
         trait_type: 'back',
@@ -47835,7 +48898,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVxa3KX4SJaYczYkXQJVWzSELruHLw9w1P5gw5q7XvdJM',
+    previewUrl: 'QmbZppKiwWwCNykHMSyEwvyTM2Sbsn8A7LhgikVMDKKhyY',
+    ipfsUrl: 'QmVxa3KX4SJaYczYkXQJVWzSELruHLw9w1P5gw5q7XvdJM',
     attributes: [
       {
         trait_type: 'back',
@@ -47880,7 +48944,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQqSo2jcqK95crL1b8MNQkk1y2JaB1QJsc7rqbssEGSAN',
+    previewUrl: 'QmekpspMdTbQ1aup6gC5swpyFgiFLTyMy7M3AYSLyj7fpz',
+    ipfsUrl: 'QmQqSo2jcqK95crL1b8MNQkk1y2JaB1QJsc7rqbssEGSAN',
     attributes: [
       {
         trait_type: 'back',
@@ -47925,7 +48990,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc1cpiBdubpHrmhwUtAj41JzvnHhWRCUcDjoaxi6sdtri',
+    previewUrl: 'QmQMbDVxaPxr5csHNhWB8ThfG56mMf7GP1A3g6DbcWqSjZ',
+    ipfsUrl: 'Qmc1cpiBdubpHrmhwUtAj41JzvnHhWRCUcDjoaxi6sdtri',
     attributes: [
       {
         trait_type: 'back',
@@ -47970,7 +49036,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYKAxnkiGrittmwxbYUs9fkJKY7wknkP3GZzVXkwsek8m',
+    previewUrl: 'QmaaHpZakc8JtD2ziR8Ykz5QBG5SWRjCJdvnxvvvgNPQX8',
+    ipfsUrl: 'QmYKAxnkiGrittmwxbYUs9fkJKY7wknkP3GZzVXkwsek8m',
     attributes: [
       {
         trait_type: 'back',
@@ -48015,7 +49082,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfJ4hHmjCwDeL7EWun1epYD5tTfiZ1b9dmMbZybQogo4L',
+    previewUrl: 'QmNv7efEThpUwWEARYygjwmpHspVmXn7RFkRSGjUaHzL7L',
+    ipfsUrl: 'QmfJ4hHmjCwDeL7EWun1epYD5tTfiZ1b9dmMbZybQogo4L',
     attributes: [
       {
         trait_type: 'back',
@@ -48060,7 +49128,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUz88za9zLSnLWJxeBSJv8TN7zGByUURW3d44jr5T72bM',
+    previewUrl: 'QmPwdXS4dq4Yu3qxFUAjwByks9x7LnNU5EUBinLxL7tgm2',
+    ipfsUrl: 'QmUz88za9zLSnLWJxeBSJv8TN7zGByUURW3d44jr5T72bM',
     attributes: [
       {
         trait_type: 'back',
@@ -48105,7 +49174,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWx44QJ9h7X9LU4oocVbiHZ33SEaZPWuh8e1gdBNMS3sC',
+    previewUrl: 'QmPdLtW3TweAAqc6UUWMCAVTsFHBqriJXiVBdaW9CFDbS6',
+    ipfsUrl: 'QmWx44QJ9h7X9LU4oocVbiHZ33SEaZPWuh8e1gdBNMS3sC',
     attributes: [
       {
         trait_type: 'back',
@@ -48150,7 +49220,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmbus8fyahv2yqkA64UgSmQCbqDdeUQxFBeJGejAZo151e',
+    previewUrl: 'QmZypo5KSjRRUGgaeurSSbCLVmWWabYuduR1v7tXoesWJq',
+    ipfsUrl: 'Qmbus8fyahv2yqkA64UgSmQCbqDdeUQxFBeJGejAZo151e',
     attributes: [
       {
         trait_type: 'back',
@@ -48195,7 +49266,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYSk7QQYNZnq6QqNHcUV8bDWBQbnAxxT6bJF3pC6Typ5A',
+    previewUrl: 'QmaqLbLPtKNxXCSyNAEs4m3XpQD7JwHS4spbn1MNsgWZAB',
+    ipfsUrl: 'QmYSk7QQYNZnq6QqNHcUV8bDWBQbnAxxT6bJF3pC6Typ5A',
     attributes: [
       {
         trait_type: 'back',
@@ -48240,7 +49312,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXXbcmZuNFc95h9DkgAZAi2EwrhM2PNVkjWqpXC2468fo',
+    previewUrl: 'Qmcbm4uaYBeb1SwaNtexmSd381aVt8294W4B5bngcfGmiT',
+    ipfsUrl: 'QmXXbcmZuNFc95h9DkgAZAi2EwrhM2PNVkjWqpXC2468fo',
     attributes: [
       {
         trait_type: 'back',
@@ -48285,7 +49358,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTEBATVFhdxT2f6Di3YrZL4b7KV7YU5bgYZqy9ywqrNaA',
+    previewUrl: 'QmNjjEPtYMPfiKKxTfVtSS5ECJYu7xeq29pxKMAgWwWkbE',
+    ipfsUrl: 'QmTEBATVFhdxT2f6Di3YrZL4b7KV7YU5bgYZqy9ywqrNaA',
     attributes: [
       {
         trait_type: 'back',
@@ -48330,7 +49404,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYApycnXkmesEjL2qr5aHUqBy128D3E8Y2kbpPDYNZFyc',
+    previewUrl: 'QmW7GkWxahwfuCdDKpKcRa2V2ywhMbmZmJVrboRmh4KVRf',
+    ipfsUrl: 'QmYApycnXkmesEjL2qr5aHUqBy128D3E8Y2kbpPDYNZFyc',
     attributes: [
       {
         trait_type: 'back',
@@ -48375,7 +49450,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWvh6y3mV6tVZbYRh6nWSNrYPZj13D3PrvYUkG1L14UwU',
+    previewUrl: 'QmfZEHC9aLYyYMwH3ZWmpdVDJUVDvVcTVjL2zNKvLpoAn5',
+    ipfsUrl: 'QmWvh6y3mV6tVZbYRh6nWSNrYPZj13D3PrvYUkG1L14UwU',
     attributes: [
       {
         trait_type: 'back',
@@ -48420,7 +49496,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUPcjdSFLDrTWa4s9ub7aEMLccLX9ZhosSGu6cgAFkX7L',
+    previewUrl: 'QmavCCQSWndiAL9gfJ4dgg3tDqRgAstor8VMVPBCXMpPvE',
+    ipfsUrl: 'QmUPcjdSFLDrTWa4s9ub7aEMLccLX9ZhosSGu6cgAFkX7L',
     attributes: [
       {
         trait_type: 'back',
@@ -48465,7 +49542,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVmaVxVuAzxDQcymZHKpnc7TWeEqpyoyJuMsQDkrQMNSb',
+    previewUrl: 'QmYuPGFKfMrrUkbSjGwmDavWVbAvo6uS1kB9n9S9PUezbr',
+    ipfsUrl: 'QmVmaVxVuAzxDQcymZHKpnc7TWeEqpyoyJuMsQDkrQMNSb',
     attributes: [
       {
         trait_type: 'back',
@@ -48510,7 +49588,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdTRx55Q1E9KrPY8xepNc5mDMnHjzdazmsXGKfXohKnwp',
+    previewUrl: 'QmTbRhgm7MWkYVMFnMXxoydPbbtg383fKtTgJV1QvMyX3r',
+    ipfsUrl: 'QmdTRx55Q1E9KrPY8xepNc5mDMnHjzdazmsXGKfXohKnwp',
     attributes: [
       {
         trait_type: 'back',
@@ -48555,7 +49634,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTBesHi7yDdy88AcaBPBudvVmbgy1CzPjMaBNVuUYdyf1',
+    previewUrl: 'QmRniukdD17HFKf4tkfXdj74Zx1nfkh2ndpEnibbVcpSbn',
+    ipfsUrl: 'QmTBesHi7yDdy88AcaBPBudvVmbgy1CzPjMaBNVuUYdyf1',
     attributes: [
       {
         trait_type: 'back',
@@ -48600,7 +49680,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPHTigj6ypVNpTrpt9RzYaUknzSys5y8Qiq8vBmuEyQE5',
+    previewUrl: 'QmYzt6jQREfywnuQUXiMZZN3LaPs7xHyiuAPXB2GUpghQK',
+    ipfsUrl: 'QmPHTigj6ypVNpTrpt9RzYaUknzSys5y8Qiq8vBmuEyQE5',
     attributes: [
       {
         trait_type: 'back',
@@ -48645,7 +49726,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWGmFnxKiasrF81jpLZC6htb134LKJ6zbNW1jsRBeEBaY',
+    previewUrl: 'QmYpyZfcqA6VMgzgAi5WXx12xBWRVKQYHo9sCnwZD2hEUh',
+    ipfsUrl: 'QmWGmFnxKiasrF81jpLZC6htb134LKJ6zbNW1jsRBeEBaY',
     attributes: [
       {
         trait_type: 'back',
@@ -48690,7 +49772,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYD8DxkgJAZFtaEFBWR2yT1dhvrbRN5ML3BL1dsNLMrLV',
+    previewUrl: 'Qmf8D8FsAUn8EMuN5qUfFaHDjky9NGM67MDFXP8BeeKiEY',
+    ipfsUrl: 'QmYD8DxkgJAZFtaEFBWR2yT1dhvrbRN5ML3BL1dsNLMrLV',
     attributes: [
       {
         trait_type: 'back',
@@ -48735,7 +49818,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUdDT2JbRu7QgqBXT7FvRbyScqJT1dmtvmfvFBty1Qtrv',
+    previewUrl: 'Qmb8CejNZuMyCmNNFqzDNbicTkW52We9Afy5HiHEbiSgFT',
+    ipfsUrl: 'QmUdDT2JbRu7QgqBXT7FvRbyScqJT1dmtvmfvFBty1Qtrv',
     attributes: [
       {
         trait_type: 'back',
@@ -48780,7 +49864,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmReeAjQwCc4ojEqqMhHdo1qbW9EmawL1mJ7atJnbmMxUS',
+    previewUrl: 'QmSMbYfkwWcYpBtvzjtNVYFbDHoHqSgbH8Rvwo3iWyZGWn',
+    ipfsUrl: 'QmReeAjQwCc4ojEqqMhHdo1qbW9EmawL1mJ7atJnbmMxUS',
     attributes: [
       {
         trait_type: 'back',
@@ -48825,7 +49910,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcKdS5jwaPgTGnDD4GwWhWJKPy56r5zmoe7SkMebjYUB6',
+    previewUrl: 'QmaMP9ArhrBhSRhPRay6Ro7pGPjJmZe1MLpK9x3R91cmsj',
+    ipfsUrl: 'QmcKdS5jwaPgTGnDD4GwWhWJKPy56r5zmoe7SkMebjYUB6',
     attributes: [
       {
         trait_type: 'back',
@@ -48870,7 +49956,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXT6ciBkEw1TUSD8dHzKnvMSX3nvbaYSFajb7yRP2r1sC',
+    previewUrl: 'QmbsCwBkm3HFgwFFqo4CXmXAhSLqAJqhtEXwEAgTkL5hzZ',
+    ipfsUrl: 'QmXT6ciBkEw1TUSD8dHzKnvMSX3nvbaYSFajb7yRP2r1sC',
     attributes: [
       {
         trait_type: 'back',
@@ -48915,7 +50002,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQsczVjV6PtzquRgm4dZrF2UenkHyTpsjtUkhrN2rULut',
+    previewUrl: 'QmfF5KsAUXDngZLxhLAdTEr8KYq9BVJmqcMrptdL27rNJL',
+    ipfsUrl: 'QmQsczVjV6PtzquRgm4dZrF2UenkHyTpsjtUkhrN2rULut',
     attributes: [
       {
         trait_type: 'back',
@@ -48960,7 +50048,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSW4qv1qh4Jq5hsS5vkqVhJuzGecCMXkiRHTMWqoJMfXJ',
+    previewUrl: 'Qmdci3pun3UwoMLeutorqysKCyvyiQjnf6bLdkrpAy8hEm',
+    ipfsUrl: 'QmSW4qv1qh4Jq5hsS5vkqVhJuzGecCMXkiRHTMWqoJMfXJ',
     attributes: [
       {
         trait_type: 'back',
@@ -49005,7 +50094,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRaV8FSgUKZiABEwGyB4n8KGbUBsdXBTcCehM4H8LdTCW',
+    previewUrl: 'QmZnehRcGh2WhzS3d3RYGJwPT7pUeKV8ZfSLR6Fo3KgCqB',
+    ipfsUrl: 'QmRaV8FSgUKZiABEwGyB4n8KGbUBsdXBTcCehM4H8LdTCW',
     attributes: [
       {
         trait_type: 'back',
@@ -49050,7 +50140,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWT3T6yoFSUqXTUQZkJUwqQ7p7GCZ73G9pCBoS1Fzu4cC',
+    previewUrl: 'QmQWn5Xzxg42pkq8ELQEPBQ9mnpRStbQvAkR46qtE9PGA8',
+    ipfsUrl: 'QmWT3T6yoFSUqXTUQZkJUwqQ7p7GCZ73G9pCBoS1Fzu4cC',
     attributes: [
       {
         trait_type: 'back',
@@ -49095,7 +50186,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeZUPKxx7zaFzFA2iNoHiLuphk7NchXDtDmGGsFW7LMDE',
+    previewUrl: 'QmQTa9tFe6KtTwwVC8N7jgUJaJcoJ1dvz6raM3rnyNUsMM',
+    ipfsUrl: 'QmeZUPKxx7zaFzFA2iNoHiLuphk7NchXDtDmGGsFW7LMDE',
     attributes: [
       {
         trait_type: 'back',
@@ -49140,7 +50232,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXkAwjZqxeS2ECJErrxGnFbqCMfCBshjE6CXuibx8YoCT',
+    previewUrl: 'QmS8FiSN23tNrQXcUHMnoHNwT8c818QpVjU5BQUmq6Vsmp',
+    ipfsUrl: 'QmXkAwjZqxeS2ECJErrxGnFbqCMfCBshjE6CXuibx8YoCT',
     attributes: [
       {
         trait_type: 'back',
@@ -49185,7 +50278,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZUCZyFg7qcbVmB2ri59yS7XHv69PhtC9vtZUo1CoidCW',
+    previewUrl: 'QmRQFRhN6Fpj3PVGNE4QWwxEsdaMEPxgq6gnEaPz9vhNE6',
+    ipfsUrl: 'QmZUCZyFg7qcbVmB2ri59yS7XHv69PhtC9vtZUo1CoidCW',
     attributes: [
       {
         trait_type: 'back',
@@ -49230,7 +50324,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmdwd6cw1328omMgTMcvuqazW93tTznp4vpQBvPsw7Tsjz',
+    previewUrl: 'QmSZcM1dn83CQqKvurgAia86zcpwKTTf95qEsXWeaF2EQ1',
+    ipfsUrl: 'Qmdwd6cw1328omMgTMcvuqazW93tTznp4vpQBvPsw7Tsjz',
     attributes: [
       {
         trait_type: 'back',
@@ -49275,7 +50370,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSuMdeSbbJJex8PvDER6SPQ92aVJricbfD12ki5KVkBzv',
+    previewUrl: 'QmaQZooPkzjzbEbq7gvZZe5FATjTs4kwELxfvef8Pq4JQQ',
+    ipfsUrl: 'QmSuMdeSbbJJex8PvDER6SPQ92aVJricbfD12ki5KVkBzv',
     attributes: [
       {
         trait_type: 'back',
@@ -49320,7 +50416,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmemJizD1XA1AG8FPUx4guCUuZSs1NFUpwjEEKvuikbtwj',
+    previewUrl: 'QmYmbvrgGH19hZxzkrsqti1HWu5XuiM47EHmM7dKcqRU1v',
+    ipfsUrl: 'QmemJizD1XA1AG8FPUx4guCUuZSs1NFUpwjEEKvuikbtwj',
     attributes: [
       {
         trait_type: 'back',
@@ -49365,7 +50462,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX6TGnwEGcZRvJrViqBWzAbVtrtLkPLPwiTNoVPx3MJjx',
+    previewUrl: 'QmPfAWhfBkQxrYWvaRgYYHXM2aTbqiffAm3z8BkuVvZuAQ',
+    ipfsUrl: 'QmX6TGnwEGcZRvJrViqBWzAbVtrtLkPLPwiTNoVPx3MJjx',
     attributes: [
       {
         trait_type: 'back',
@@ -49410,7 +50508,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmf8hr952rfb2Wnsghbw4uU2n7ugN2C8Gu7RVs3L3FYEzv',
+    previewUrl: 'QmWLg2yJvhdhaSj1DeTmaN958TXGyDAsHJw2FKDEgzkow9',
+    ipfsUrl: 'Qmf8hr952rfb2Wnsghbw4uU2n7ugN2C8Gu7RVs3L3FYEzv',
     attributes: [
       {
         trait_type: 'back',
@@ -49455,7 +50554,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR1QBhnTUSdXfu9jU8i7BZtCYmVLtdSRy5K1qkNpaej51',
+    previewUrl: 'QmPVYKY4w9piFBsKLz56AVfjxyxNBAn8zADkdHJ18r2rYh',
+    ipfsUrl: 'QmR1QBhnTUSdXfu9jU8i7BZtCYmVLtdSRy5K1qkNpaej51',
     attributes: [
       {
         trait_type: 'back',
@@ -49500,7 +50600,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeFEYEg7p4BiL147gSbUrt7sSFQCrzxcNA6m9f4VPiSvZ',
+    previewUrl: 'QmVRsQczxqYAtmp3yrvJWJfoiLw19cuCoY23cch649f7hU',
+    ipfsUrl: 'QmeFEYEg7p4BiL147gSbUrt7sSFQCrzxcNA6m9f4VPiSvZ',
     attributes: [
       {
         trait_type: 'back',
@@ -49545,7 +50646,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNqeMZJ8yDhxUhmPKdyPfGwLYf5wMpSh8d2fAA3yWx2DB',
+    previewUrl: 'Qmb1K2oTUT2uxUM51WNW6uVA95KKqexkteKUggYdFN36mD',
+    ipfsUrl: 'QmNqeMZJ8yDhxUhmPKdyPfGwLYf5wMpSh8d2fAA3yWx2DB',
     attributes: [
       {
         trait_type: 'back',
@@ -49590,7 +50692,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTzy5HNHwzJzBTuU738NsAX584QjMgB8EQ5ZhM1HdQfCa',
+    previewUrl: 'Qma9PtGW9dcRHeu6RQHth7TJVocv2rc1B9EA4P5pZCywYx',
+    ipfsUrl: 'QmTzy5HNHwzJzBTuU738NsAX584QjMgB8EQ5ZhM1HdQfCa',
     attributes: [
       {
         trait_type: 'back',
@@ -49635,7 +50738,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdNiexCC2xji44PSKcYsCZ2Bt8pWgi3Qy5kTjs9nfYaLJ',
+    previewUrl: 'QmedfVd5rDkbXCooEg72NEvjesD2XMu8PVFLyV5ayU7TeG',
+    ipfsUrl: 'QmdNiexCC2xji44PSKcYsCZ2Bt8pWgi3Qy5kTjs9nfYaLJ',
     attributes: [
       {
         trait_type: 'back',
@@ -49680,7 +50784,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbH1zSkJUuh8YGD7WvFH168SqKLauBgQT9eUb2JnGFcpb',
+    previewUrl: 'Qmar8FDLxEvZ51o1EAwbntBCzrYXadetmevGK6VS1CaeJu',
+    ipfsUrl: 'QmbH1zSkJUuh8YGD7WvFH168SqKLauBgQT9eUb2JnGFcpb',
     attributes: [
       {
         trait_type: 'back',
@@ -49725,7 +50830,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT5kmnzBQA5K6bBbmgCrFnfWUDjqzgmAqXWB664XQ3FB9',
+    previewUrl: 'QmcfWR6gaCSLr5KzK4dbJERbtYfeQb7cgEUZW81cFx9iBg',
+    ipfsUrl: 'QmT5kmnzBQA5K6bBbmgCrFnfWUDjqzgmAqXWB664XQ3FB9',
     attributes: [
       {
         trait_type: 'back',
@@ -49770,7 +50876,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbZptFJuTVzz5bKZadvHF485RV9gAL17SmA7Xpk6dnSfc',
+    previewUrl: 'QmeH9ziWhbG7YScy75JURL5e9DfyLS2h4B1HuWnBchRVy2',
+    ipfsUrl: 'QmbZptFJuTVzz5bKZadvHF485RV9gAL17SmA7Xpk6dnSfc',
     attributes: [
       {
         trait_type: 'back',
@@ -49815,7 +50922,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbU2tqxALpdKa7BcevaBrMjMDtPZ2TwDfXcgxxCzctzge',
+    previewUrl: 'QmVffcFzFCkJhiUtLe6V876om82B8ABSByWYNaninDCGRe',
+    ipfsUrl: 'QmbU2tqxALpdKa7BcevaBrMjMDtPZ2TwDfXcgxxCzctzge',
     attributes: [
       {
         trait_type: 'back',
@@ -49860,7 +50968,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQV5jxrMBuvHDC2goXYoZPm1phrJZbTCtPawx8wUit4K8',
+    previewUrl: 'QmbFCTPUnoUJHv9VCVSc6BRx4J8H46bC8pHSMKLuQuP6jm',
+    ipfsUrl: 'QmQV5jxrMBuvHDC2goXYoZPm1phrJZbTCtPawx8wUit4K8',
     attributes: [
       {
         trait_type: 'back',
@@ -49905,7 +51014,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQCo2X7EY77NUw1LuB2nGPJbPoAaiXCerv9DDY4tp9xwb',
+    previewUrl: 'QmeVCC3qoxT8DNQPTGEbUhiehtEqAJc3w3EUZ6Ca8fno5c',
+    ipfsUrl: 'QmQCo2X7EY77NUw1LuB2nGPJbPoAaiXCerv9DDY4tp9xwb',
     attributes: [
       {
         trait_type: 'back',
@@ -49950,7 +51060,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNc1tkx3SV3u8ggn9uatFVGQ1sS36c36dUYSQ6HED4Joi',
+    previewUrl: 'QmNNDZYLjHVW5Kp86NZw8CfCzvq2bj6WiyQuqHRY4dGrpL',
+    ipfsUrl: 'QmNc1tkx3SV3u8ggn9uatFVGQ1sS36c36dUYSQ6HED4Joi',
     attributes: [
       {
         trait_type: 'back',
@@ -49995,7 +51106,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcsjVVMKiGXTwHUaJ3S5639s7UeNEkxrWUYfX3RwiGuem',
+    previewUrl: 'QmbAnP3nCwYr98YsViSsogyyoJ4YFp8ybzDL5kWjHNs7Uh',
+    ipfsUrl: 'QmcsjVVMKiGXTwHUaJ3S5639s7UeNEkxrWUYfX3RwiGuem',
     attributes: [
       {
         trait_type: 'back',
@@ -50040,7 +51152,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXmnPvRBCynitRdaEdrqjidaABm5xaCAPk9Z2y1oicjQN',
+    previewUrl: 'QmdGjxvqYACVdvATXkuDv53V6V9NwhodYSBTZR2PgFZQXb',
+    ipfsUrl: 'QmXmnPvRBCynitRdaEdrqjidaABm5xaCAPk9Z2y1oicjQN',
     attributes: [
       {
         trait_type: 'back',
@@ -50085,7 +51198,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcF5mp3Fgk1rwX3zE2Gnd1ZVk5frgmW34ForDoam97Ldk',
+    previewUrl: 'QmWbJnmDkupwu35zf8jxFbqV2iPXuCeKVXKso8yZwnEFD5',
+    ipfsUrl: 'QmcF5mp3Fgk1rwX3zE2Gnd1ZVk5frgmW34ForDoam97Ldk',
     attributes: [
       {
         trait_type: 'back',
@@ -50130,7 +51244,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPoTxEKqyNtnmqPXR9mfVRJtFnUsTg547Q7aKWjanLkTS',
+    previewUrl: 'QmVgfXVhwB5sQ2iSRbLGN7vbQxD4N6bJShBmAwaMed7grh',
+    ipfsUrl: 'QmPoTxEKqyNtnmqPXR9mfVRJtFnUsTg547Q7aKWjanLkTS',
     attributes: [
       {
         trait_type: 'back',
@@ -50175,7 +51290,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV1dbuwvMN6rsLTA6C1WwfU16GDr7PujShtFyWGkEivkz',
+    previewUrl: 'Qmf4A3qP2gMDUejaruj9ZEbdqKMsx8sUwc7gZhVzLJUJzW',
+    ipfsUrl: 'QmV1dbuwvMN6rsLTA6C1WwfU16GDr7PujShtFyWGkEivkz',
     attributes: [
       {
         trait_type: 'back',
@@ -50220,7 +51336,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmb1NJTMUtwssapY7tiFt7K9kVGvxE9n456rRceYUJGXkw',
+    previewUrl: 'QmRfDVqySyoBmukuhewJFf2Nfdw7TAMmA1UEHkZ3GY9PNk',
+    ipfsUrl: 'Qmb1NJTMUtwssapY7tiFt7K9kVGvxE9n456rRceYUJGXkw',
     attributes: [
       {
         trait_type: 'back',
@@ -50265,7 +51382,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXFQimHoSteCraCaLDhfinFis6aup53TWhpmFBjKz41xJ',
+    previewUrl: 'QmNzeV52K3KavhJKrzUJJhrs5ZNK4GGe42oGnHTUvnBwmU',
+    ipfsUrl: 'QmXFQimHoSteCraCaLDhfinFis6aup53TWhpmFBjKz41xJ',
     attributes: [
       {
         trait_type: 'back',
@@ -50310,7 +51428,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUuEsnCXtbtzyA3QeTh3pftSkaKCz8e55EZzEHeweqfve',
+    previewUrl: 'QmZzWCoHk8sdaVqB1nLxYD9zvHLmdiKzubKut85dpCF4Xs',
+    ipfsUrl: 'QmUuEsnCXtbtzyA3QeTh3pftSkaKCz8e55EZzEHeweqfve',
     attributes: [
       {
         trait_type: 'back',
@@ -50355,7 +51474,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTVx52YQbgm1C89SucnytmCAf1z91JRnAikvLPAMg2LBg',
+    previewUrl: 'QmWhuYarALenNj6vy7DqomBc8jgc3M2Aob8txunz2PNjVE',
+    ipfsUrl: 'QmTVx52YQbgm1C89SucnytmCAf1z91JRnAikvLPAMg2LBg',
     attributes: [
       {
         trait_type: 'back',
@@ -50400,7 +51520,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNnpfmFYPHwNe7CAuHSrd5HFnF48nXsZeneWNzR3VNwKk',
+    previewUrl: 'Qmaw74dpwLz2FFJDKtmjTJSAXe57ZfryxhHdRCnDnU2UvG',
+    ipfsUrl: 'QmNnpfmFYPHwNe7CAuHSrd5HFnF48nXsZeneWNzR3VNwKk',
     attributes: [
       {
         trait_type: 'back',
@@ -50445,7 +51566,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUFkpYcxqzjQgNvBVgkuCCuSYimK2pBfKfBeERKU3yGrq',
+    previewUrl: 'Qmb69Kbe2od2pShkbW7Ps1hepDQCgtvXdBytUFiLLyFzug',
+    ipfsUrl: 'QmUFkpYcxqzjQgNvBVgkuCCuSYimK2pBfKfBeERKU3yGrq',
     attributes: [
       {
         trait_type: 'back',
@@ -50490,7 +51612,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT4fN7fxwZruoRaPxnXKyFUgyJ5LQmARDUmpH8FYkgKLU',
+    previewUrl: 'QmcwBKBCBk1Sb7aaKCrFSD6MkSu498iP724qGp7ut89bQa',
+    ipfsUrl: 'QmT4fN7fxwZruoRaPxnXKyFUgyJ5LQmARDUmpH8FYkgKLU',
     attributes: [
       {
         trait_type: 'back',
@@ -50535,7 +51658,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeawDLUZhh4UGCEgK4A7epeLLqwtKpUWSSrJmQVvo4x95',
+    previewUrl: 'QmS5fsdtNZSn83UNG7xhTRpWdxmWBMVaXzUzAZQWuxCAVZ',
+    ipfsUrl: 'QmeawDLUZhh4UGCEgK4A7epeLLqwtKpUWSSrJmQVvo4x95',
     attributes: [
       {
         trait_type: 'back',
@@ -50580,7 +51704,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPGMg3rGVwY1L54CULzEhtN5NcdEs1RfLdAtPUXDVctYm',
+    previewUrl: 'QmY128xXfpfSw2vasm7dRYpHTDtLk8kcdKiFXaWu8t5fwR',
+    ipfsUrl: 'QmPGMg3rGVwY1L54CULzEhtN5NcdEs1RfLdAtPUXDVctYm',
     attributes: [
       {
         trait_type: 'back',
@@ -50625,7 +51750,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYbHVVYhK2GUit2aNwZCdhzWRkhQFwHeb2TEanu2fXceJ',
+    previewUrl: 'QmWkp9d2r1q5f5QtFvYiKDigBgVHiakKPEffz9BTJnYYpT',
+    ipfsUrl: 'QmYbHVVYhK2GUit2aNwZCdhzWRkhQFwHeb2TEanu2fXceJ',
     attributes: [
       {
         trait_type: 'back',
@@ -50670,7 +51796,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXfkgbgthB8mmM1StcMEbMWEnXbqTn1PwQdZMKCaLMGkp',
+    previewUrl: 'QmXieZuq3yS6E1FgsMornjDegytHr8bPqJsBZAJow6Ecxt',
+    ipfsUrl: 'QmXfkgbgthB8mmM1StcMEbMWEnXbqTn1PwQdZMKCaLMGkp',
     attributes: [
       {
         trait_type: 'back',
@@ -50715,7 +51842,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVUQwkhip9Nq3aBujv3hfwBeMb3uXtkZpeAPKht1vezsc',
+    previewUrl: 'QmSUfjvasMbXZJow6WzbLXczHpM85M17qpbxteeX1hGsxc',
+    ipfsUrl: 'QmVUQwkhip9Nq3aBujv3hfwBeMb3uXtkZpeAPKht1vezsc',
     attributes: [
       {
         trait_type: 'back',
@@ -50760,7 +51888,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTkuL9tsJbwgP2K2c5cG6rgiE453VrcMGudUH8RWmfbd2',
+    previewUrl: 'QmeT4ZQrr6ttkpL72udyLqVJ5pMuJ1PvkkdEnSmEwVrUR7',
+    ipfsUrl: 'QmTkuL9tsJbwgP2K2c5cG6rgiE453VrcMGudUH8RWmfbd2',
     attributes: [
       {
         trait_type: 'back',
@@ -50805,7 +51934,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVgKZQCdPmkyVqSEQteAb5v3jyL8wCgUge5Ku3GDMpoTP',
+    previewUrl: 'QmUE7inMtDGk92RALHrosXHv3j1Ck9C6K4npdBVxdHHVek',
+    ipfsUrl: 'QmVgKZQCdPmkyVqSEQteAb5v3jyL8wCgUge5Ku3GDMpoTP',
     attributes: [
       {
         trait_type: 'back',
@@ -50850,7 +51980,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qma2hVfHD7QP6gBSzyveySZy9dbjCxSBkRdXvuePKVj5tv',
+    previewUrl: 'QmSCjEepdcfHPZHdqGmnwhAvH57A6UTmbnXKBfXbPi1UAW',
+    ipfsUrl: 'Qma2hVfHD7QP6gBSzyveySZy9dbjCxSBkRdXvuePKVj5tv',
     attributes: [
       {
         trait_type: 'back',
@@ -50895,7 +52026,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNheJUQaUXaGJtTbcV5cPzGg5PD7TJcqZhyHfDyq3cxTa',
+    previewUrl: 'Qmef96cavArieLxW8treEh9pCyDLeYAvxKjgcEzJAchFYo',
+    ipfsUrl: 'QmNheJUQaUXaGJtTbcV5cPzGg5PD7TJcqZhyHfDyq3cxTa',
     attributes: [
       {
         trait_type: 'back',
@@ -50940,7 +52072,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfZqDPXMqxifp9osW696x8n6cJdyG4jig2tvXHkWgVnrA',
+    previewUrl: 'QmYG98HKcdDLPDaHKYNASiYME2kHJ1zZd9zw1vyYAaVFkB',
+    ipfsUrl: 'QmfZqDPXMqxifp9osW696x8n6cJdyG4jig2tvXHkWgVnrA',
     attributes: [
       {
         trait_type: 'back',
@@ -50985,7 +52118,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRPShhJgHGsPADTurFCBf21gL3j68tTPwAKMMkkfsnVqp',
+    previewUrl: 'QmbYXM3p4exFSK4KzC9ocsdiUkhXXay2BZHDDWwCBFwC8B',
+    ipfsUrl: 'QmRPShhJgHGsPADTurFCBf21gL3j68tTPwAKMMkkfsnVqp',
     attributes: [
       {
         trait_type: 'back',
@@ -51030,7 +52164,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfKxFjn1thuku1da3n61FAZfbpj117syp6EQHAgSHDqoH',
+    previewUrl: 'QmPvGUbnB7m3F9vFufscZGmfdmnvDZbbv2B2jxBfwGu7Ai',
+    ipfsUrl: 'QmfKxFjn1thuku1da3n61FAZfbpj117syp6EQHAgSHDqoH',
     attributes: [
       {
         trait_type: 'back',
@@ -51075,7 +52210,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbqLsxuekpwa1A52vim5BkzkMqWAF5UcgVJPS5naLnZt9',
+    previewUrl: 'Qmd2LwhaxHAzhmURVS2AoiYBbZWaCptRPBbXLC19svvkW8',
+    ipfsUrl: 'QmbqLsxuekpwa1A52vim5BkzkMqWAF5UcgVJPS5naLnZt9',
     attributes: [
       {
         trait_type: 'back',
@@ -51120,7 +52256,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfF2oh3VF9r5Y2SJxadbrfPmDVNwkjyDCwrjxGphuh7t6',
+    previewUrl: 'QmcY3yNJmhEQtPcgqR3jYeKMHMtb7KPWMUfp2N19DQa27k',
+    ipfsUrl: 'QmfF2oh3VF9r5Y2SJxadbrfPmDVNwkjyDCwrjxGphuh7t6',
     attributes: [
       {
         trait_type: 'back',
@@ -51165,7 +52302,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT4dAvo38nZfeDUqkGobrYaQ6XTbhJPAViEd2QNKxf1LT',
+    previewUrl: 'QmXFH97keZqFJA9nS6KrfCs25evM5sSuLDZ5dz7Y5mExed',
+    ipfsUrl: 'QmT4dAvo38nZfeDUqkGobrYaQ6XTbhJPAViEd2QNKxf1LT',
     attributes: [
       {
         trait_type: 'back',
@@ -51210,7 +52348,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmeqmg3Z2pzpj4RTkVdr9T4tqymfAEevZh1nsYmfwWR47L',
+    previewUrl: 'QmNnLiHT9YjQGZFddLogbYc7umKe7YJKtfRd5wS8GFiUoT',
+    ipfsUrl: 'Qmeqmg3Z2pzpj4RTkVdr9T4tqymfAEevZh1nsYmfwWR47L',
     attributes: [
       {
         trait_type: 'back',
@@ -51255,7 +52394,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmP16txPz25PWkGYrsktJbDNZVJAqwx7CykP5Za4RkMTEb',
+    previewUrl: 'QmWEn6dey7BDiwhtnpVuB18MsQmwGU8jDEy4rwbCMZgtuB',
+    ipfsUrl: 'QmP16txPz25PWkGYrsktJbDNZVJAqwx7CykP5Za4RkMTEb',
     attributes: [
       {
         trait_type: 'back',
@@ -51300,7 +52440,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmShvV2P5SeMzXYEDPxcjqdTdfHRLyk5HnCgXFq1EMUd4J',
+    previewUrl: 'QmcWCmCTqakP6btYkUsC3FcLjUWMxmcgFyQCHtgRrESYh9',
+    ipfsUrl: 'QmShvV2P5SeMzXYEDPxcjqdTdfHRLyk5HnCgXFq1EMUd4J',
     attributes: [
       {
         trait_type: 'back',
@@ -51345,7 +52486,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRF4zxonjKgsTjfQUB5BGyWvHzxHLkAqVX6bekBo5ZsEA',
+    previewUrl: 'QmP9kp7cTeXAd1nYZxForBueKdhwZ3W1yXQBq9KSt4GJRj',
+    ipfsUrl: 'QmRF4zxonjKgsTjfQUB5BGyWvHzxHLkAqVX6bekBo5ZsEA',
     attributes: [
       {
         trait_type: 'back',
@@ -51390,7 +52532,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUqjiQLWRPeXXKeMe83NK6D51qQfn1bYJNRuypyRxsu3G',
+    previewUrl: 'Qmcutj4nD94UhmN32PhpnjVZBx6dbsGk1WDxVhVtfJ8voE',
+    ipfsUrl: 'QmUqjiQLWRPeXXKeMe83NK6D51qQfn1bYJNRuypyRxsu3G',
     attributes: [
       {
         trait_type: 'back',
@@ -51435,7 +52578,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX1smFKNaqdEyAKAoM8V1J3wZm1fVtDowRmVsw8JJScxz',
+    previewUrl: 'QmdxvGqhbJxfMHq4RbMKaPtnhAz88m2zqkd2LHhXEtqVj4',
+    ipfsUrl: 'QmX1smFKNaqdEyAKAoM8V1J3wZm1fVtDowRmVsw8JJScxz',
     attributes: [
       {
         trait_type: 'back',
@@ -51480,7 +52624,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVcD19KBtV32ZkncKd37NRH3oJixGVvdHkoWS12e3QW5C',
+    previewUrl: 'QmWTTSmawW4pvHUbAENDV6XvaRUpsjuv44sGJD34kmZuht',
+    ipfsUrl: 'QmVcD19KBtV32ZkncKd37NRH3oJixGVvdHkoWS12e3QW5C',
     attributes: [
       {
         trait_type: 'back',
@@ -51525,7 +52670,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZ3a7hveb9hv22dVZkiTEqsTw3SCwDzv6Az2RXSifTMgN',
+    previewUrl: 'QmZAPG2yBDwkuubYEguZGqJYK3X44yXWYQysNeYFm2wzrm',
+    ipfsUrl: 'QmZ3a7hveb9hv22dVZkiTEqsTw3SCwDzv6Az2RXSifTMgN',
     attributes: [
       {
         trait_type: 'back',
@@ -51570,7 +52716,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSLiPjBD7JmSqytYuXY8rUZror3Wk7rzcjQ3MyD7AUgVT',
+    previewUrl: 'QmZe2Jqjzbz77MR8mexrwEpjLeNqEQanioDCmij1MjukWB',
+    ipfsUrl: 'QmSLiPjBD7JmSqytYuXY8rUZror3Wk7rzcjQ3MyD7AUgVT',
     attributes: [
       {
         trait_type: 'back',
@@ -51615,7 +52762,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmSQz65ZNaet5CVo4r9gfhqLTa8xguBWBPofMG1Tf8xYza',
+    previewUrl: 'QmQLrio2PJi4RqvGyc7rJnvkcw7YoDb3bNdBCnsu8uLF2Y',
+    ipfsUrl: 'QmSQz65ZNaet5CVo4r9gfhqLTa8xguBWBPofMG1Tf8xYza',
     attributes: [
       {
         trait_type: 'back',
@@ -51660,7 +52808,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWsMBLGc5efnqqys81jiUH4ni6d8DZLmReJLh6tEtakjK',
+    previewUrl: 'Qma7NGkp9yBVqvg5t6sTHbp9TPPmNQUudVVEeVscgeGWR2',
+    ipfsUrl: 'QmWsMBLGc5efnqqys81jiUH4ni6d8DZLmReJLh6tEtakjK',
     attributes: [
       {
         trait_type: 'back',
@@ -51705,7 +52854,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbJsyJXoYguzhNuYRpwHwbAqz42vgNJdkNSd3r8gawXZ4',
+    previewUrl: 'QmZnbCg6hUm7VEipfbph2qutUn9wSwJqMnF5DwfeAqJ4HV',
+    ipfsUrl: 'QmbJsyJXoYguzhNuYRpwHwbAqz42vgNJdkNSd3r8gawXZ4',
     attributes: [
       {
         trait_type: 'back',
@@ -51750,7 +52900,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWsS6A8Jd15qUF5ftauhUmyfjKBtEdHVVdBdQrqm6paro',
+    previewUrl: 'QmdNCYYmTYmoYjakSaE1s5BD6f3WHqTckK9rFCNwzf8KUT',
+    ipfsUrl: 'QmWsS6A8Jd15qUF5ftauhUmyfjKBtEdHVVdBdQrqm6paro',
     attributes: [
       {
         trait_type: 'back',
@@ -51795,7 +52946,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmafuVYA2jSZHsD1uKqja7uWuuEsRqWdJEArPAufGvsN39',
+    previewUrl: 'QmQxeizZ6LZzk8GivbaX6E7ynwFA1VZxMog7Ko3FFN9vik',
+    ipfsUrl: 'QmafuVYA2jSZHsD1uKqja7uWuuEsRqWdJEArPAufGvsN39',
     attributes: [
       {
         trait_type: 'back',
@@ -51840,7 +52992,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdvjzC5AkrcVdPwSWC9zUto6ED7jwmkhGw9c6VranaEMM',
+    previewUrl: 'QmUxEwFubVPzuYfoVt8WU24h2gv4R4M5VrVJ4HCRAMZprv',
+    ipfsUrl: 'QmdvjzC5AkrcVdPwSWC9zUto6ED7jwmkhGw9c6VranaEMM',
     attributes: [
       {
         trait_type: 'back',
@@ -51885,7 +53038,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWJUpdE1LS3hYewxTphHc9g8HgpKMUGxjVUqr2HW454Qv',
+    previewUrl: 'Qmavkinrkjq1eSu3PvKejC2LLiYahnfkTt1TyZX81Ee7vN',
+    ipfsUrl: 'QmWJUpdE1LS3hYewxTphHc9g8HgpKMUGxjVUqr2HW454Qv',
     attributes: [
       {
         trait_type: 'back',
@@ -51930,7 +53084,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXjkLefAf5VqBE3VPaZozuNbi5QXk8mxPLrrS1eUW3jhJ',
+    previewUrl: 'QmS1ucJnMrWkKYqyWMAy7kgUhSoWySnjdPXhjGpfBptESA',
+    ipfsUrl: 'QmXjkLefAf5VqBE3VPaZozuNbi5QXk8mxPLrrS1eUW3jhJ',
     attributes: [
       {
         trait_type: 'back',
@@ -51975,7 +53130,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV2XuFiGoDnTsDCpnohPdVK7q9PBcXXac6qQaNXsR1Eiw',
+    previewUrl: 'QmbDoc1Y3vFnJ2vzUur7uoq2XvC28YfzUpPUawv8Ngfm2F',
+    ipfsUrl: 'QmV2XuFiGoDnTsDCpnohPdVK7q9PBcXXac6qQaNXsR1Eiw',
     attributes: [
       {
         trait_type: 'back',
@@ -52020,7 +53176,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU8jjrCDnHndeWxafd9i3iRMA329JGVoEc7GNfywSWvd7',
+    previewUrl: 'QmdnH4CXRaYGBrCCEHhDRFdHJr48juUWmrpmk6ZZaHUYRA',
+    ipfsUrl: 'QmU8jjrCDnHndeWxafd9i3iRMA329JGVoEc7GNfywSWvd7',
     attributes: [
       {
         trait_type: 'back',
@@ -52065,7 +53222,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmRdpXqbtsZjpJu6mmKuNYL5XMU7L1JjWsviK5WM9WWGBr',
+    previewUrl: 'QmR6DaRV2jk6jKZSBWKtWLqJVKKHaFumfTPJjzw4hVShga',
+    ipfsUrl: 'QmRdpXqbtsZjpJu6mmKuNYL5XMU7L1JjWsviK5WM9WWGBr',
     attributes: [
       {
         trait_type: 'back',
@@ -52110,7 +53268,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQFwoYUfCAbSBYog5Ec2HJDcLdCEx13qhYbGJshg9eXmb',
+    previewUrl: 'QmaqWyTCX2Ts4qvzpqeGWS8S4RBZ3VQR7GjyH7iFEqxJEB',
+    ipfsUrl: 'QmQFwoYUfCAbSBYog5Ec2HJDcLdCEx13qhYbGJshg9eXmb',
     attributes: [
       {
         trait_type: 'back',
@@ -52155,7 +53314,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTH8aGYcvkpgfCRk4mQNeqnw8mX15jWHGvUkvvatYyHD4',
+    previewUrl: 'QmXTzikmKLYJi658WWPrAGEPUiRS6dejbUWUiLG29VTDHA',
+    ipfsUrl: 'QmTH8aGYcvkpgfCRk4mQNeqnw8mX15jWHGvUkvvatYyHD4',
     attributes: [
       {
         trait_type: 'back',
@@ -52200,7 +53360,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXvfwiXjvFkvchi6qJNbQqyQMaHUtAQyEkJXrzJ7dfzhs',
+    previewUrl: 'QmRvFF6VBbAvL9uRT6QxbwwDCZeDdvDqYoqS8WcBBSG8PC',
+    ipfsUrl: 'QmXvfwiXjvFkvchi6qJNbQqyQMaHUtAQyEkJXrzJ7dfzhs',
     attributes: [
       {
         trait_type: 'back',
@@ -52245,7 +53406,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmY9UBosajAgtNrnzc1YcDWoFMgQrYzAuVYHan4apqTZuv',
+    previewUrl: 'QmPTAjwH5mBr5xHgp43MJ6QtXNJ6H97vncxkhsMamTSYY1',
+    ipfsUrl: 'QmY9UBosajAgtNrnzc1YcDWoFMgQrYzAuVYHan4apqTZuv',
     attributes: [
       {
         trait_type: 'back',
@@ -52290,7 +53452,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfN1uLLQWTwcHWLmD9TNp3HpusLKSsPVDz2swcHbp8Skd',
+    previewUrl: 'QmQ7UP4wc3qQR7pJHaNDCy4bFjCrxtCn22hJwoD9dp9AZ4',
+    ipfsUrl: 'QmfN1uLLQWTwcHWLmD9TNp3HpusLKSsPVDz2swcHbp8Skd',
     attributes: [
       {
         trait_type: 'back',
@@ -52335,7 +53498,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUfDyZ4pegLqcxbpd6HQFTdxhbtQZdsNqXrJYWbHGdFEP',
+    previewUrl: 'QmR2BNWv8NqxAbsrJXMm2RGu7Ejes5FhxyhVvHSurWMzMA',
+    ipfsUrl: 'QmUfDyZ4pegLqcxbpd6HQFTdxhbtQZdsNqXrJYWbHGdFEP',
     attributes: [
       {
         trait_type: 'back',
@@ -52380,7 +53544,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmdijGueNU75SAHASNvpcSknrFv2aQoSECmNtSFTyFj1VK',
+    previewUrl: 'QmbvPAHk7aSsZkGhfk2HX9Y44nZPjP2bBeqGJ1iuKsxmoM',
+    ipfsUrl: 'QmdijGueNU75SAHASNvpcSknrFv2aQoSECmNtSFTyFj1VK',
     attributes: [
       {
         trait_type: 'back',
@@ -52425,7 +53590,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUDWEgvuwAVnpYf6GP1pPZZjaVyrFR8NWUHexhoLFAvTW',
+    previewUrl: 'QmUz9p4rDafbutNVri4PvB6UunZQeQbuAsdpKC4UdCziGG',
+    ipfsUrl: 'QmUDWEgvuwAVnpYf6GP1pPZZjaVyrFR8NWUHexhoLFAvTW',
     attributes: [
       {
         trait_type: 'back',
@@ -52470,7 +53636,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmam9QPy6U5ThLiQbAvRLqydLeAD5V4Ez3sqJs9sXBLZiq',
+    previewUrl: 'QmSkHSsLaTvigJmHt9npckinR6UkKn8g7G3zaToehs6uAt',
+    ipfsUrl: 'Qmam9QPy6U5ThLiQbAvRLqydLeAD5V4Ez3sqJs9sXBLZiq',
     attributes: [
       {
         trait_type: 'back',
@@ -52515,7 +53682,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWpsGETiPhWg4Zmm5kQZMqhYetRvFDSv8VuPJMSiqEdzo',
+    previewUrl: 'QmRQTFeHqncV762c4D972Va18ATyk4enedPkxmndcknrZt',
+    ipfsUrl: 'QmWpsGETiPhWg4Zmm5kQZMqhYetRvFDSv8VuPJMSiqEdzo',
     attributes: [
       {
         trait_type: 'back',
@@ -52560,7 +53728,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVPMbyG2Hv3hWxFkBcuA2juzsnvemuHZYaSDs5t6N69hq',
+    previewUrl: 'QmbtbYjpYjGPV1VHTBrra5PR7PmA74JaruSz9nrPgNbayL',
+    ipfsUrl: 'QmVPMbyG2Hv3hWxFkBcuA2juzsnvemuHZYaSDs5t6N69hq',
     attributes: [
       {
         trait_type: 'back',
@@ -52605,7 +53774,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPtnDeMNMSs75FrWb164Nq13gPLsGuBubr4fG1DPnxC3H',
+    previewUrl: 'QmWH6nQVUfmFxfgA2P2ZF29XqY4kf9wrdfzXhPNegBpNqR',
+    ipfsUrl: 'QmPtnDeMNMSs75FrWb164Nq13gPLsGuBubr4fG1DPnxC3H',
     attributes: [
       {
         trait_type: 'back',
@@ -52650,7 +53820,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmc2Ff8gGL6Bk8wNsRwJMd2DGJpBaWA4nssBQwYU6Z88w3',
+    previewUrl: 'QmQbiXLo6TUuq8VNydgm8RQnE9WvbHSzrnonDQXLooKSv5',
+    ipfsUrl: 'Qmc2Ff8gGL6Bk8wNsRwJMd2DGJpBaWA4nssBQwYU6Z88w3',
     attributes: [
       {
         trait_type: 'back',
@@ -52695,7 +53866,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmfVwtCmTK3aUzv8F9nvAp3ohDRe8dccFPGw93w137n2sg',
+    previewUrl: 'QmQupe5hfxhMW4q7sPjkRv5ZHpoVW9aNnKaG4PC2KKjEAi',
+    ipfsUrl: 'QmfVwtCmTK3aUzv8F9nvAp3ohDRe8dccFPGw93w137n2sg',
     attributes: [
       {
         trait_type: 'back',
@@ -52740,7 +53912,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXrJMpMxGRNf1K1PeEKgPPWJN87wz9eDtGXGWbnPUCPZr',
+    previewUrl: 'QmWDoWTLJXfYvdRTZ1qnsuP4bjaTDo5rhr4MZA5cueGjNk',
+    ipfsUrl: 'QmXrJMpMxGRNf1K1PeEKgPPWJN87wz9eDtGXGWbnPUCPZr',
     attributes: [
       {
         trait_type: 'back',
@@ -52785,7 +53958,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmXhyvaD3NrcV2MMWhJrgw2PuWTVzyBa19z34SuT97tnSS',
+    previewUrl: 'QmfHFeBDLv5kihyyB4kom3zQNb1hnyEj5SMZr8Dwk3HmEE',
+    ipfsUrl: 'QmXhyvaD3NrcV2MMWhJrgw2PuWTVzyBa19z34SuT97tnSS',
     attributes: [
       {
         trait_type: 'back',
@@ -52830,7 +54004,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmWaiTqqtPBxZjGB8NW6PZKVHw3TsEaxDJ9krc4jUqoL8h',
+    previewUrl: 'QmdBTv18gcAK5dM99E7uSkK9mf2NrSkXAE8DP6CKKsMEfi',
+    ipfsUrl: 'QmWaiTqqtPBxZjGB8NW6PZKVHw3TsEaxDJ9krc4jUqoL8h',
     attributes: [
       {
         trait_type: 'back',
@@ -52875,7 +54050,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcAPCzsKMozpmk1zc6LdnC5UDojb5mNk3nDe1h9bzjU47',
+    previewUrl: 'QmdTiLHYr8VCnw7DCy8BUrmp316oaabdZYnZYwiTLGBRcs',
+    ipfsUrl: 'QmcAPCzsKMozpmk1zc6LdnC5UDojb5mNk3nDe1h9bzjU47',
     attributes: [
       {
         trait_type: 'back',
@@ -52920,7 +54096,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaiuWUjBjDsYwGiBtCX4aryuKgm2Lky2MdZQWkqmMusYE',
+    previewUrl: 'QmWqss9tMEodub7NTzTNBwXBzZRz7rSBfVpuciFETKhjFX',
+    ipfsUrl: 'QmaiuWUjBjDsYwGiBtCX4aryuKgm2Lky2MdZQWkqmMusYE',
     attributes: [
       {
         trait_type: 'back',
@@ -52965,7 +54142,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcaQpTXaCAmo28bNMmSVutk19m75xGxPCjsQv2W454ctk',
+    previewUrl: 'QmWZFqErvNKecPCh3F8znvqRWF7gNkbuManzGRWSpXbZgD',
+    ipfsUrl: 'QmcaQpTXaCAmo28bNMmSVutk19m75xGxPCjsQv2W454ctk',
     attributes: [
       {
         trait_type: 'back',
@@ -53010,7 +54188,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcM1xXREmnBsAxUmWRdWaVBQKb7NgMaXD5U6VPA7DmLLw',
+    previewUrl: 'QmNrmvrzbGvQ74i9P6P7TahiMdFJpXkqTe6LhSi44f7N58',
+    ipfsUrl: 'QmcM1xXREmnBsAxUmWRdWaVBQKb7NgMaXD5U6VPA7DmLLw',
     attributes: [
       {
         trait_type: 'back',
@@ -53055,7 +54234,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNYbqP1EFud6vMJGX3B4BAvuNkWPF51s4rDoVmN26WtiC',
+    previewUrl: 'QmV177JZxqZRzNe8b3H6MZGESDX198zwRfdVnuMKe2FCFz',
+    ipfsUrl: 'QmNYbqP1EFud6vMJGX3B4BAvuNkWPF51s4rDoVmN26WtiC',
     attributes: [
       {
         trait_type: 'back',
@@ -53100,7 +54280,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmarr53xwZPty8MnhnwBaKEJBHVbpFjJbap2Er4j2jAaXB',
+    previewUrl: 'QmTK2uDWiB5ZpZmHsDgkamFu5VUxLGcjLEcw3JFjEqFV7g',
+    ipfsUrl: 'Qmarr53xwZPty8MnhnwBaKEJBHVbpFjJbap2Er4j2jAaXB',
     attributes: [
       {
         trait_type: 'back',
@@ -53145,7 +54326,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZJi4YViqJGm9pDsPMBRcuPpLu1Ups7B2YN7xaR2gUyq1',
+    previewUrl: 'QmVA8kAV92XxHp3NQsMZMX1fU53bD7pE6WfeHSfKNWhYr1',
+    ipfsUrl: 'QmZJi4YViqJGm9pDsPMBRcuPpLu1Ups7B2YN7xaR2gUyq1',
     attributes: [
       {
         trait_type: 'back',
@@ -53190,7 +54372,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZd4UcytS6mJzzLPAwJUmjb1cADdMbMiFiSfcrCWwW7gf',
+    previewUrl: 'QmXhHAAN69SyCwmz8GPdqtiBJaGwB3hqdLRPW4J7Rmvjzx',
+    ipfsUrl: 'QmZd4UcytS6mJzzLPAwJUmjb1cADdMbMiFiSfcrCWwW7gf',
     attributes: [
       {
         trait_type: 'back',
@@ -53235,7 +54418,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTUVPsho153iTXDYkgBdj1V5awQHBmsA4NRFDrVpCnec1',
+    previewUrl: 'QmcaL6BZouncWGUr5ZCnEff7LUzDotzNfo3vDazwvjdZFf',
+    ipfsUrl: 'QmTUVPsho153iTXDYkgBdj1V5awQHBmsA4NRFDrVpCnec1',
     attributes: [
       {
         trait_type: 'back',
@@ -53280,7 +54464,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNbpeAskjkmUQ9yuB3pFsVdW8AhzttNQ6uXKtXxySXtH4',
+    previewUrl: 'QmdRoEKpywHsfCQcR5WUxiLHrntbeKUKRjqzEkQ7JJExda',
+    ipfsUrl: 'QmNbpeAskjkmUQ9yuB3pFsVdW8AhzttNQ6uXKtXxySXtH4',
     attributes: [
       {
         trait_type: 'back',
@@ -53325,7 +54510,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQMTQqCc2ngMV4kCbqQMXaAXeYLPJ9DxewHDkrHq4bbM1',
+    previewUrl: 'QmYPpvm2zJ9TUGxdhVGjVzUVfnCMTnRpovXbUyB9TXkux6',
+    ipfsUrl: 'QmQMTQqCc2ngMV4kCbqQMXaAXeYLPJ9DxewHDkrHq4bbM1',
     attributes: [
       {
         trait_type: 'back',
@@ -53370,7 +54556,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmU1nEA5tDJ5ELJdiCEWGML98AMEWE3WsqGhs9Bb66PvCH',
+    previewUrl: 'QmYUPpvkP7cQTp11TytUoqJsoyFaPWDnYS6wXq1rXC56FR',
+    ipfsUrl: 'QmU1nEA5tDJ5ELJdiCEWGML98AMEWE3WsqGhs9Bb66PvCH',
     attributes: [
       {
         trait_type: 'back',
@@ -53415,7 +54602,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qma4qnMyovxm4TgJXiZrTXnG7wRay9FgF7Ae3bSabrSE6G',
+    previewUrl: 'QmY6QbgZgJnRfTsXVDoh1YukNStxyfNnxnbpLysjVnzHxU',
+    ipfsUrl: 'Qma4qnMyovxm4TgJXiZrTXnG7wRay9FgF7Ae3bSabrSE6G',
     attributes: [
       {
         trait_type: 'back',
@@ -53460,7 +54648,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbwaGue5UdmhHWFxJFWSqeFd6WFXLeewFjQnqATEnz2Dr',
+    previewUrl: 'QmaazHQu6GQvR4RqpT7AJTRx4x8J2VaftmxzFxgM7Zwja6',
+    ipfsUrl: 'QmbwaGue5UdmhHWFxJFWSqeFd6WFXLeewFjQnqATEnz2Dr',
     attributes: [
       {
         trait_type: 'back',
@@ -53505,7 +54694,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmVtyyYwkP5nwfYDBJfquH6pYUkxEyQnJCjoSSLnANV4qT',
+    previewUrl: 'QmPxM3qKdGSKLB3PhZMCfu8rKCQHhqezZ3798VvQz3PSpG',
+    ipfsUrl: 'QmVtyyYwkP5nwfYDBJfquH6pYUkxEyQnJCjoSSLnANV4qT',
     attributes: [
       {
         trait_type: 'back',
@@ -53550,7 +54740,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeFxhvu2VtYPPvTaVNxSDcwKjjHAzsPiMg1WPvjxsV8sA',
+    previewUrl: 'QmUVWcVN4iYTHgWMJo7jsg5j4AtCfiFfDr1NS89MwBU7RA',
+    ipfsUrl: 'QmeFxhvu2VtYPPvTaVNxSDcwKjjHAzsPiMg1WPvjxsV8sA',
     attributes: [
       {
         trait_type: 'back',
@@ -53595,7 +54786,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmaw7qzES4ivgLSNL8FtrsWRaxiuom6PekdmQ84ncgz49k',
+    previewUrl: 'QmdAH8rnnBWNLTRG8CkDUTKVQcb4UTu8p87cCYDATzqUDS',
+    ipfsUrl: 'Qmaw7qzES4ivgLSNL8FtrsWRaxiuom6PekdmQ84ncgz49k',
     attributes: [
       {
         trait_type: 'back',
@@ -53640,7 +54832,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPajSLRNv95zoDAnHUMvDwyn2v1gCKRbmfAvSASs1D32A',
+    previewUrl: 'Qmb163WCDuH9Aj6gn9NXnFHLS37BLfWNf58WjCgkitkHhc',
+    ipfsUrl: 'QmPajSLRNv95zoDAnHUMvDwyn2v1gCKRbmfAvSASs1D32A',
     attributes: [
       {
         trait_type: 'back',
@@ -53685,7 +54878,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPAJJXoku4NQos57FBEH5F84vnHPxYesj7hmPn7zP36Hf',
+    previewUrl: 'QmarYiEgkFfaUtg1B5iUV8TWCsQKbRK89xJMtkqqvwyJqS',
+    ipfsUrl: 'QmPAJJXoku4NQos57FBEH5F84vnHPxYesj7hmPn7zP36Hf',
     attributes: [
       {
         trait_type: 'back',
@@ -53730,7 +54924,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTDmcpiQBBREabPh4e1UCxQ59gLxX8XACxnP8rCpGKu23',
+    previewUrl: 'QmUkyxRm6DgpZW4mnFTzFPM6i6eYxvP7KunSk4Mmajj6d7',
+    ipfsUrl: 'QmTDmcpiQBBREabPh4e1UCxQ59gLxX8XACxnP8rCpGKu23',
     attributes: [
       {
         trait_type: 'back',
@@ -53775,7 +54970,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmceTcz9bPENRas6Bpu7nXwqHunEzQYRaV614srK8uhRnM',
+    previewUrl: 'QmRTaMk4iFv6ro2fVjt4UkhiR8SafeDpMvpTYiJr4XQm7Q',
+    ipfsUrl: 'QmceTcz9bPENRas6Bpu7nXwqHunEzQYRaV614srK8uhRnM',
     attributes: [
       {
         trait_type: 'back',
@@ -53820,7 +55016,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZjMgRXPDnsP7cBKQTb61QuCT76rAjf3fEFJVypWFdsHg',
+    previewUrl: 'QmZdJptpQHoeG1WxamsLJH4jmEoTucAeJd4kkmkPiimgY6',
+    ipfsUrl: 'QmZjMgRXPDnsP7cBKQTb61QuCT76rAjf3fEFJVypWFdsHg',
     attributes: [
       {
         trait_type: 'back',
@@ -53865,7 +55062,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaZct3VY9qdRXQ6eo3ezwUF4DLPGVPPGxhMCvxe17fUiL',
+    previewUrl: 'QmSTrLMhqJtHh1AjVFJRau1LfXS1xK6mXnGV112xMdSC4E',
+    ipfsUrl: 'QmaZct3VY9qdRXQ6eo3ezwUF4DLPGVPPGxhMCvxe17fUiL',
     attributes: [
       {
         trait_type: 'back',
@@ -53910,7 +55108,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmavUN3Tc666r1te2wYi7qdrWcswkYPv2Ms2w7mJJTtFuS',
+    previewUrl: 'QmRvEHfhq38Ry6rhGEbyz1VMCYY33SKfiLLgggSPGY1tFb',
+    ipfsUrl: 'QmavUN3Tc666r1te2wYi7qdrWcswkYPv2Ms2w7mJJTtFuS',
     attributes: [
       {
         trait_type: 'back',
@@ -53955,7 +55154,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmQkjCLUwHDav7N2939rU9kBpn6k1UUiF8X5JWcRgd8SRD',
+    previewUrl: 'QmcnYRRW9mKQmCvFSYtHc9oyz322wwKDgagUFGay2fDxMx',
+    ipfsUrl: 'QmQkjCLUwHDav7N2939rU9kBpn6k1UUiF8X5JWcRgd8SRD',
     attributes: [
       {
         trait_type: 'back',
@@ -54000,7 +55200,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmcUHQtjgXzKcZNpQGFknD1regnmjSBkAydrmtr5H4Mfca',
+    previewUrl: 'QmYnQnC2MqxFBiFEZ7rjsMLreJ8opARTc2QooC54AtBXBg',
+    ipfsUrl: 'QmcUHQtjgXzKcZNpQGFknD1regnmjSBkAydrmtr5H4Mfca',
     attributes: [
       {
         trait_type: 'back',
@@ -54045,7 +55246,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmYaufVUGC7Bi4HVasr3YLBQq4ywCxfM144gdedxGeqLib',
+    previewUrl: 'QmNgPhJQoDeRZyNKPozPyH686foT25uTuuYMWnCmGcJiVc',
+    ipfsUrl: 'QmYaufVUGC7Bi4HVasr3YLBQq4ywCxfM144gdedxGeqLib',
     attributes: [
       {
         trait_type: 'back',
@@ -54090,7 +55292,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmScWmosSnGSNFaxC3iJWJbYaypwpFhmtWEHxmEQSMTFWo',
+    previewUrl: 'QmUNRKWeATxqC8Wc7jydcHgDdis4S16H8NnTNGJBqxH5on',
+    ipfsUrl: 'QmScWmosSnGSNFaxC3iJWJbYaypwpFhmtWEHxmEQSMTFWo',
     attributes: [
       {
         trait_type: 'back',
@@ -54135,7 +55338,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qma9JGKCEvjBbk6BGHa8v5Mn93Gom29aTgN9NWQ6yN8m5F',
+    previewUrl: 'QmW5zZ5yge2gjMDQMmWNnAAFiwQa5YC51PbgGbP6Y7v4tW',
+    ipfsUrl: 'Qma9JGKCEvjBbk6BGHa8v5Mn93Gom29aTgN9NWQ6yN8m5F',
     attributes: [
       {
         trait_type: 'back',
@@ -54180,7 +55384,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmStpkbrjAYok8HpTPvtuP17TEB5hwG4ZtQDaTax8Fr1rC',
+    previewUrl: 'Qmd7bn4NePWyZYdvAMkzCn2j9HKyjkKdEZnJwLzDfanvQJ',
+    ipfsUrl: 'QmStpkbrjAYok8HpTPvtuP17TEB5hwG4ZtQDaTax8Fr1rC',
     attributes: [
       {
         trait_type: 'back',
@@ -54225,7 +55430,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeHGhdYSUuwFNVdDp3LR736pKn3VsPAXfAbf9AB1XU4xx',
+    previewUrl: 'Qma4f8HkYm8EnZvTcrTtjGMorKbdHz1kYs1C8HsTZveBX7',
+    ipfsUrl: 'QmeHGhdYSUuwFNVdDp3LR736pKn3VsPAXfAbf9AB1XU4xx',
     attributes: [
       {
         trait_type: 'back',
@@ -54270,7 +55476,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmaFt4bpzNfUMaMgkZyBtgnb9usihWopWgKN4zJQiyxY8x',
+    previewUrl: 'QmSqYRKcLgLfxiCJtWbuhdSritah6bFVEZao3VXc8xfmbx',
+    ipfsUrl: 'QmaFt4bpzNfUMaMgkZyBtgnb9usihWopWgKN4zJQiyxY8x',
     attributes: [
       {
         trait_type: 'back',
@@ -54315,7 +55522,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmT4cjNukZSjBDc8h77ABctJA6HPSfEEBqqm6kheSi19Q5',
+    previewUrl: 'QmQjPnXn7ggDd4s1j9SWSdYd68cpEUdUZ1yK75hsBbgCur',
+    ipfsUrl: 'QmT4cjNukZSjBDc8h77ABctJA6HPSfEEBqqm6kheSi19Q5',
     attributes: [
       {
         trait_type: 'back',
@@ -54360,7 +55568,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmNkks8etgyMxbZJkRd9MyaANwDrDyKHSUojP2RA6DnG1K',
+    previewUrl: 'QmZFksVAccyPtmhdTE3zUjA1xfWLVo6B2XzK4Hn2NtTaPc',
+    ipfsUrl: 'QmNkks8etgyMxbZJkRd9MyaANwDrDyKHSUojP2RA6DnG1K',
     attributes: [
       {
         trait_type: 'back',
@@ -54405,7 +55614,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUhpZjSxmJ63XhCWShMhgq2881oqzRE2MdUkXwhNBhHq5',
+    previewUrl: 'QmfCV1KJjX9L9zFXmA5xpYU5v1oJBsWBmU6VHKKqGcb1pX',
+    ipfsUrl: 'QmUhpZjSxmJ63XhCWShMhgq2881oqzRE2MdUkXwhNBhHq5',
     attributes: [
       {
         trait_type: 'back',
@@ -54450,7 +55660,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmZCKzkSdkg8ZBg1p1BGP6Tfi45z6uFNomZFvPk5wB35r8',
+    previewUrl: 'QmY2PxW8GFHpwhzwgqV1L8BGRgvMJnGix96NavQo4eXquZ',
+    ipfsUrl: 'QmZCKzkSdkg8ZBg1p1BGP6Tfi45z6uFNomZFvPk5wB35r8',
     attributes: [
       {
         trait_type: 'back',
@@ -54495,7 +55706,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'Qmae6MuUGEYo7jPTk5pusC2XthEKrktHHspj2PLs5zT2dA',
+    previewUrl: 'QmUBEVBtg1qvCZx91E3nVVdhP1JjL49fYLhNVHKqt5Y9mG',
+    ipfsUrl: 'Qmae6MuUGEYo7jPTk5pusC2XthEKrktHHspj2PLs5zT2dA',
     attributes: [
       {
         trait_type: 'back',
@@ -54540,7 +55752,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmeDrGJbxUnSXDnzLLYUApPzexkuxb6z91DEsLH3djmzXJ',
+    previewUrl: 'QmUBaheDv8rnRTtn6TnGoMkz66ak9YPjqVvSscqDnJXToG',
+    ipfsUrl: 'QmeDrGJbxUnSXDnzLLYUApPzexkuxb6z91DEsLH3djmzXJ',
     attributes: [
       {
         trait_type: 'back',
@@ -54585,7 +55798,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmX143v2yeeT9wWairSgStG3RNRqA8jTWTS3FnaEaZuXjW',
+    previewUrl: 'QmXSLQi5qT4s1y86XhK3Uyhj1G9f1pmzFNerGnr6udAtCy',
+    ipfsUrl: 'QmX143v2yeeT9wWairSgStG3RNRqA8jTWTS3FnaEaZuXjW',
     attributes: [
       {
         trait_type: 'back',
@@ -54630,7 +55844,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmTMx65B3VsuyXexj4H9q7CugSyR5KdbbmwMSZoyLHfTuD',
+    previewUrl: 'Qmeb9R5rHw4YFYDkLApi2F5xep9rdesU13yCEb7LEf6P8g',
+    ipfsUrl: 'QmTMx65B3VsuyXexj4H9q7CugSyR5KdbbmwMSZoyLHfTuD',
     attributes: [
       {
         trait_type: 'back',
@@ -54675,7 +55890,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmR2kFA2oq4ShtUXiiGFewxmqsW37X1ZwRJHdvwhqLbs2A',
+    previewUrl: 'Qmagdhjs5VzYbBVPGijGLJa9CEsQZbDTmDS8DyMTbjCdtc',
+    ipfsUrl: 'QmR2kFA2oq4ShtUXiiGFewxmqsW37X1ZwRJHdvwhqLbs2A',
     attributes: [
       {
         trait_type: 'back',
@@ -54720,7 +55936,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmetyXJVGbsmRmYL2XmrHZkQmhc8cWS6aiSMYVJYZ1ESXj',
+    previewUrl: 'QmYwsrrdgFTSQUUxk3Y9u1vtM6QDRykp9khmZ8HimjWBdJ',
+    ipfsUrl: 'QmetyXJVGbsmRmYL2XmrHZkQmhc8cWS6aiSMYVJYZ1ESXj',
     attributes: [
       {
         trait_type: 'back',
@@ -54765,7 +55982,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmV3qqCS4yzHdFjGQnmarPcL4ciYNnNXsTraX1y3wZfM39',
+    previewUrl: 'QmaiWk9ScqKVsYyzD4WtURNpi1XdFCiUKAakP5FwpmKewX',
+    ipfsUrl: 'QmV3qqCS4yzHdFjGQnmarPcL4ciYNnNXsTraX1y3wZfM39',
     attributes: [
       {
         trait_type: 'back',
@@ -54810,7 +56028,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmPL387T86dCkBSTdtrGEUi9VhqGHeu7ggNbZtMpfiUb5B',
+    previewUrl: 'Qma41v38eopkzjzwPRGBfTMvjBy3Pz63RPaF2udKyvcjrG',
+    ipfsUrl: 'QmPL387T86dCkBSTdtrGEUi9VhqGHeu7ggNbZtMpfiUb5B',
     attributes: [
       {
         trait_type: 'back',
@@ -54855,7 +56074,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmUecawKzvN5fXLuU2rvmtLaZwR3uRtsF9CsRoTQbACoJ1',
+    previewUrl: 'QmckZYasL43pEn21hW1yQYtsy1m1FgzAsjM4TRo3LXJMMM',
+    ipfsUrl: 'QmUecawKzvN5fXLuU2rvmtLaZwR3uRtsF9CsRoTQbACoJ1',
     attributes: [
       {
         trait_type: 'back',
@@ -54900,7 +56120,8 @@ export const broxieCollection = [
     ],
   },
   {
-    url: 'QmbWqboFrogJci4DNJWkT4NWJ3di9YUAp2uZeZEE2QMf5J',
+    previewUrl: 'QmR97sMhidrnn3A4CooQTFApf6iRVtRvxoqpXZNXFt6Lea',
+    ipfsUrl: 'QmbWqboFrogJci4DNJWkT4NWJ3di9YUAp2uZeZEE2QMf5J',
     attributes: [
       {
         trait_type: 'back',

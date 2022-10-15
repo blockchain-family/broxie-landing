@@ -1,14 +1,17 @@
+import BroxieRoutes from 'routes';
 import Button from 'components/core/button';
 import NoEverWallet from './no-ever-wallet';
 import SaleState from './sale-state';
 import AccountState from './account-state';
 import EverWallet from './ever-wallet';
 import MetamaskWallet from './metamask-wallet';
+
 import { observer } from 'mobx-react-lite';
 import { useIntl } from 'react-intl';
+import { useNavigate } from 'react-router-dom';
 import { ReactComponent as UserSvg } from 'assets/images/my-wallet/user.svg';
 import { useLayoutStore } from 'providers/LayoutStoreProvider';
-import { useEffect, useMemo } from 'react';
+import { useCallback, useEffect, useMemo } from 'react';
 import { useBuyBroxieStore } from 'providers/BuyBroxieStoreProvider';
 import { useEverWallet } from 'providers/EverWalletProvider';
 import { useBroxieStore } from 'providers/BroxieStoreProvider';
@@ -20,6 +23,7 @@ const MyWallet = observer(({ onClose }: { onClose: () => void }) => {
   const buyBroxieStore = useBuyBroxieStore();
   const layoutStore = useLayoutStore();
   const everWallet = useEverWallet();
+  const navigate = useNavigate();
 
   const buyButtonDisabled = useMemo(
     () =>
@@ -36,6 +40,11 @@ const MyWallet = observer(({ onClose }: { onClose: () => void }) => {
   useEffect(() => {
     buyBroxieStore.refresh();
   }, [buyBroxieStore]);
+
+  const goToGallery = useCallback(() => {
+    onClose();
+    navigate(BroxieRoutes.gallery.path);
+  }, [navigate, onClose]);
 
   return (
     <div className='flex flex-col text-black space-y-4'>
@@ -57,21 +66,32 @@ const MyWallet = observer(({ onClose }: { onClose: () => void }) => {
       <div className='flex flex-col space-y-4'>
         <SaleState />
 
-        {(!everWallet.extensionInstalled || !everWallet.account) && (
-          <NoEverWallet />
-        )}
-
         {everWallet.account && <AccountState />}
 
         {broxieStore.marketState === MarketState.Active && (
-          <Button
-            variant='primary'
-            onClick={() => layoutStore.showBuyBroxie()}
-            disabled={buyButtonDisabled}
-          >
+          <>
+            {(!everWallet.extensionInstalled || !everWallet.account) && (
+              <NoEverWallet />
+            )}
+
+            <Button
+              variant='primary'
+              onClick={() => layoutStore.showBuyBroxie()}
+              disabled={buyButtonDisabled}
+            >
+              {intl.formatMessage({
+                id: 'landing.navbar.my_wallet.buy_broxie',
+                defaultMessage: 'Buy Broxie',
+              })}
+            </Button>
+          </>
+        )}
+
+        {broxieStore.marketState > MarketState.Active && (
+          <Button variant='primary' size='sm' onClick={goToGallery}>
             {intl.formatMessage({
-              id: 'landing.navbar.my_wallet.buy_broxie',
-              defaultMessage: 'Buy Broxie',
+              id: 'landing.navbar.my_wallet.go_to_gallery',
+              defaultMessage: 'Go to gallery',
             })}
           </Button>
         )}

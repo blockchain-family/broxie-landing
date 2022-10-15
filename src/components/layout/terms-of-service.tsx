@@ -17,7 +17,7 @@ const TermsOfService = observer(() => {
     >
       <div className='min-h-[90vh] w-full flex flex-col items-stretch text-black space-y-4'>
         <div className='flex items-center justify-center py-2 space-x-2'>
-          <BsFileEarmarkText className='text-2xl' />
+          <BsFileEarmarkText className='text-xl' />
           <span className='text-lg'>
             {intl.formatMessage({
               id: 'landing.terms_of_service',

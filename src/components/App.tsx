@@ -14,6 +14,8 @@ import { ProvideBuyBroxieStore } from 'providers/BuyBroxieStoreProvider';
 import { ProvideEverWallet } from 'providers/EverWalletProvider';
 import { ProvideMetaMask } from 'providers/MetaMaskProvider';
 
+const GalleryPage = React.lazy(() => import('modules/gallery'));
+
 const ProvenanceRecordPage = React.lazy(
   () => import('modules/provenance-record')
 );
@@ -62,6 +64,14 @@ const App = () => {
           element={
             <Suspense>
               <ProvenanceRecordPage />
+            </Suspense>
+          }
+        />
+        <Route
+          path={BroxieRoutes.gallery.path}
+          element={
+            <Suspense>
+              <GalleryPage />
             </Suspense>
           }
         />

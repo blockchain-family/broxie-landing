@@ -71,7 +71,7 @@ const Navbar = () => {
               />
 
               <Route
-                path={BroxieRoutes.provenance_record.path}
+                path='*'
                 element={
                   <Link to={BroxieRoutes.index.path}>
                     <Button variant='transparent' className='!px-4 sm:!px-6'>
@@ -85,9 +85,18 @@ const Navbar = () => {
                   </Link>
                 }
               />
-
-              <Route path='*' element={<></>} />
             </Routes>
+
+            <Link to={BroxieRoutes.gallery.path}>
+              <Button variant='transparent' className='!px-4'>
+                <span>
+                  {intl.formatMessage({
+                    id: 'gallery.title',
+                    defaultMessage: 'Gallery',
+                  })}
+                </span>
+              </Button>
+            </Link>
           </div>
 
           <WalletButton />

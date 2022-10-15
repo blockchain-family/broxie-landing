@@ -9,6 +9,9 @@ const BroxieRoutes = {
   provenance_record: {
     path: 'provenance-record',
   },
+  gallery: {
+    path: 'gallery',
+  },
 };
 
 export default BroxieRoutes;
