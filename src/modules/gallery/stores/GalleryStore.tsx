@@ -1,6 +1,5 @@
 import { makeAutoObservable, runInAction } from 'mobx';
 import { broxieCollection } from 'config/collection';
-import { provenanceConfig } from 'config/provenance';
 import { BroxieStore } from 'stores/BroxieStore';
 import { BuyBroxieStore } from 'stores/BuyBroxieStore';
 import { SingleSelectValue } from 'components/core/select/single-select';
@@ -18,6 +17,7 @@ export type BroxieNft = {
     trait_type: string;
     value: string;
   }[];
+  address: string;
 };
 
 export class GalleryStore {
@@ -103,13 +103,7 @@ export class GalleryStore {
     );
   }
 
-  private _collection = broxieCollection.map((x, i) => ({
-    id: i,
-    name: `Broxie #${i}`,
-    previewUrl: `${provenanceConfig.ipfsUrl}/${x.previewUrl}`,
-    ipfsUrl: `${provenanceConfig.ipfsUrl}/${x.ipfsUrl}`,
-    attributes: x.attributes,
-  }));
+  private _collection = broxieCollection;
 
   private get _ownedNfts(): BroxieNft[] {
     const totalNft = this.broxieStore.marketInfo.nftTotal;
@@ -118,13 +112,7 @@ export class GalleryStore {
     return this.buyBroxieStore.currentBalance.ownedNfts.map((id) => {
       const shiftedIndex = getNftShiftedIndex(id, totalNft, startIndex) ?? id;
 
-      return {
-        id: shiftedIndex,
-        name: `Broxie #${shiftedIndex}`,
-        previewUrl: `${provenanceConfig.ipfsUrl}/${broxieCollection[shiftedIndex].previewUrl}`,
-        ipfsUrl: `${provenanceConfig.ipfsUrl}/${broxieCollection[shiftedIndex].ipfsUrl}`,
-        attributes: broxieCollection[shiftedIndex].attributes,
-      };
+      return broxieCollection[shiftedIndex];
     });
   }
 }

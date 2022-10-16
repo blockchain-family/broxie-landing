@@ -142,7 +142,7 @@ const ProvenanceRecord = observer(() => {
             </div>
             <span>{x.hash}</span>
             <ExternalLink
-              href={`${provenanceStore.ipfsUrl}/${x.url}`}
+              href={`${staticData.urls.ipfs}/${x.url}`}
               className='max-w-xs overflow-hidden text-ellipsis'
             >
               <span>{x.url}</span>

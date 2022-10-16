@@ -1,7 +1,7 @@
 {
-  "gallery.collection.load": "Load more...",
   "gallery.filter.reset": "Reset filter",
   "gallery.filter.summary": "{nftCount} Broxies with these filters",
+  "gallery.nft.image_ipfs": "Image IPFS link",
   "gallery.title": "Gallery",
   "landing.body.become_part": "Become part of Broxus",
   "landing.body.become_part.description.part1": "Hey man, I’ve heard some interesting rumors about these Broxies. People are saying that Broxie owners may get special privileges in the Everscale ecosystem and on Broxus platforms. I can’t say for sure, so just keep this between us, alright?",
