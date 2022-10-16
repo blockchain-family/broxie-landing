@@ -67,8 +67,4 @@ export class ProvenanceRecordStore {
   get provenanceHash() {
     return provenanceConfig.provenanceHash;
   }
-
-  get ipfsUrl() {
-    return provenanceConfig.ipfsUrl;
-  }
 }

@@ -1,7 +1,7 @@
 export const broxieCollection = [
   {
-    previewUrl: 'QmdqY7hD8WeHyW6mBVSf3WMJptptVaqRG5XaCmo56brmPk',
-    ipfsUrl: 'QmZoceTedMxetx3vEDVJRNwEA5Gcdf1YhMsAGWP1gGQAdg',
+    id: 0,
+    name: 'Broxie #0',
     attributes: [
       {
         trait_type: 'back',
@@ -44,10 +44,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZoceTedMxetx3vEDVJRNwEA5Gcdf1YhMsAGWP1gGQAdg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdqY7hD8WeHyW6mBVSf3WMJptptVaqRG5XaCmo56brmPk',
+    address:
+      '0:0122a8dfb3cf7ff0b8cff44c9b3ba372214bbf5573aa26573a7c7eb965630947',
   },
   {
-    previewUrl: 'QmXp2DwiNqznGdpVgVPBc9ruJifEiLwBxk17hrEDA88fv5',
-    ipfsUrl: 'QmZHYf1TGvAS7aZxAqu9xLfPqRVjdpZDWRoiqKNtUvaRDq',
+    id: 1,
+    name: 'Broxie #1',
     attributes: [
       {
         trait_type: 'back',
@@ -90,10 +96,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZHYf1TGvAS7aZxAqu9xLfPqRVjdpZDWRoiqKNtUvaRDq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXp2DwiNqznGdpVgVPBc9ruJifEiLwBxk17hrEDA88fv5',
+    address:
+      '0:fec3dd7ff80f3e0637af0a1508aff174555567f42312f5917865eff59d20c16a',
   },
   {
-    previewUrl: 'QmVdJRaigvnYnEP35pEpTva4hW262MtDyvf6sdW8g853AJ',
-    ipfsUrl: 'QmZ1KnLDLphh9ZPR3WQ92AW4MSQJYVGeB13LdoF94YKYWT',
+    id: 2,
+    name: 'Broxie #2',
     attributes: [
       {
         trait_type: 'back',
@@ -136,10 +148,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ1KnLDLphh9ZPR3WQ92AW4MSQJYVGeB13LdoF94YKYWT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVdJRaigvnYnEP35pEpTva4hW262MtDyvf6sdW8g853AJ',
+    address:
+      '0:0c954e109a682053d5ea66eb4bf77ad58c680afecb53c3bbcb27cf9acd7165d1',
   },
   {
-    previewUrl: 'QmQMcZ2ktPFTcXiqbchUibHQ3wMfbY3yv9hZQxrMvYoYsk',
-    ipfsUrl: 'QmfXAEXPgA2XiNkMkiSwSX2WtgkKXjkz3sGeqUdZ7sXouM',
+    id: 3,
+    name: 'Broxie #3',
     attributes: [
       {
         trait_type: 'back',
@@ -182,10 +200,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfXAEXPgA2XiNkMkiSwSX2WtgkKXjkz3sGeqUdZ7sXouM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQMcZ2ktPFTcXiqbchUibHQ3wMfbY3yv9hZQxrMvYoYsk',
+    address:
+      '0:fbbf12d94b5111c67407028c47f1c07fc3391bb0388a3bb6d84ce0453091cd0c',
   },
   {
-    previewUrl: 'QmQy8KGPg9WSW48omA4XqR3hiUN9TLo6bRgFS8SzcXYFya',
-    ipfsUrl: 'QmR38K8RW9mT1xTn5CG4hfemLnF8ya7wqbGuAyQtksYcMF',
+    id: 4,
+    name: 'Broxie #4',
     attributes: [
       {
         trait_type: 'back',
@@ -228,10 +252,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR38K8RW9mT1xTn5CG4hfemLnF8ya7wqbGuAyQtksYcMF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQy8KGPg9WSW48omA4XqR3hiUN9TLo6bRgFS8SzcXYFya',
+    address:
+      '0:c22dad76190b5f3175d02e54380ab5c8b26ece9ad529579a82e42f285c370ecc',
   },
   {
-    previewUrl: 'QmSLhwdsonGXkixmES1fiU5sZbL6vTdkueXqbKhpTF9MuC',
-    ipfsUrl: 'QmeVFUUXYyyXjwiexKoSHrLinar4ZYRbtWkPiCSteBADRQ',
+    id: 5,
+    name: 'Broxie #5',
     attributes: [
       {
         trait_type: 'back',
@@ -274,10 +304,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeVFUUXYyyXjwiexKoSHrLinar4ZYRbtWkPiCSteBADRQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSLhwdsonGXkixmES1fiU5sZbL6vTdkueXqbKhpTF9MuC',
+    address:
+      '0:151fc27be7c1e12a2e1a5b5ab102e67fa663e396d781323fc5c684b14f4e982b',
   },
   {
-    previewUrl: 'QmQRrt6tox4ej9DQqk4BxVSF9r3eG5BH5N5aR7tfM8CsJ6',
-    ipfsUrl: 'QmeBpjEJ7wkr1XE6eRgdc5mzjy7SaadPJF8Liry5Qx6BjL',
+    id: 6,
+    name: 'Broxie #6',
     attributes: [
       {
         trait_type: 'back',
@@ -320,10 +356,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeBpjEJ7wkr1XE6eRgdc5mzjy7SaadPJF8Liry5Qx6BjL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQRrt6tox4ej9DQqk4BxVSF9r3eG5BH5N5aR7tfM8CsJ6',
+    address:
+      '0:8580a0cdd3c7e5bc2f4570d93e7a40c504b7547d8cbd044a23a15dbbb5b19918',
   },
   {
-    previewUrl: 'QmdRDx9JZwmKuewqjzt8N5RJ1bqa1SmNZbvuJfrH7nHGDP',
-    ipfsUrl: 'Qmdi54Cfb2sAePDiBUeWFB4eWjLW1L484Arsj7pbKxVrVz',
+    id: 7,
+    name: 'Broxie #7',
     attributes: [
       {
         trait_type: 'back',
@@ -366,10 +408,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdi54Cfb2sAePDiBUeWFB4eWjLW1L484Arsj7pbKxVrVz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdRDx9JZwmKuewqjzt8N5RJ1bqa1SmNZbvuJfrH7nHGDP',
+    address:
+      '0:d0e4e82b4df6684bc118f6ac3344ca8bf14d48ded3dd878524d313975aae6f36',
   },
   {
-    previewUrl: 'QmeRXebnHjYC98zk6fNVCwmU1snByNSiPHuKZZosZm2otQ',
-    ipfsUrl: 'QmUvxBN39VM6CnseTyut6WPFv6QEv13QRpVMpuWZL4CvdS',
+    id: 8,
+    name: 'Broxie #8',
     attributes: [
       {
         trait_type: 'back',
@@ -412,10 +460,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUvxBN39VM6CnseTyut6WPFv6QEv13QRpVMpuWZL4CvdS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeRXebnHjYC98zk6fNVCwmU1snByNSiPHuKZZosZm2otQ',
+    address:
+      '0:4e2eb57bb7fdb33fee1fff3c4946a639f2addd193a226798be1bc47fdf704bd3',
   },
   {
-    previewUrl: 'QmZQtwjgWpeev8dtBotNHrcgAvJQpRUJLP2CWVhn92U3hZ',
-    ipfsUrl: 'QmPdMbiShSfwpiTx1QSwwpdz9rss1nC6KbK6aAeTveBKW5',
+    id: 9,
+    name: 'Broxie #9',
     attributes: [
       {
         trait_type: 'back',
@@ -458,10 +512,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPdMbiShSfwpiTx1QSwwpdz9rss1nC6KbK6aAeTveBKW5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZQtwjgWpeev8dtBotNHrcgAvJQpRUJLP2CWVhn92U3hZ',
+    address:
+      '0:596816607c390492778256e8364066e72819bdc468b2e00f6bd2b172882b82c3',
   },
   {
-    previewUrl: 'QmbYsAQ9xnykUyF54nBBxftMWLYeMBadtFnXaHRemNY1Dg',
-    ipfsUrl: 'QmU3Xc3ZfkinSsGKCNTmnmNqM44zJVDFMveSiX9oUVygQQ',
+    id: 10,
+    name: 'Broxie #10',
     attributes: [
       {
         trait_type: 'back',
@@ -504,10 +564,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU3Xc3ZfkinSsGKCNTmnmNqM44zJVDFMveSiX9oUVygQQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbYsAQ9xnykUyF54nBBxftMWLYeMBadtFnXaHRemNY1Dg',
+    address:
+      '0:b49416b5b8923c018e110670955137a53556a0fdc004c611cdd13d8c005ba467',
   },
   {
-    previewUrl: 'QmNzqtKdMvXngtyJiSWLZh8rqqbeuVFxJBns8YVfT8BBfX',
-    ipfsUrl: 'QmeZWMazzGBrQokKr1ky3xiRAxzV4tchwB7c8EePm36zrJ',
+    id: 11,
+    name: 'Broxie #11',
     attributes: [
       {
         trait_type: 'back',
@@ -550,10 +616,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeZWMazzGBrQokKr1ky3xiRAxzV4tchwB7c8EePm36zrJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNzqtKdMvXngtyJiSWLZh8rqqbeuVFxJBns8YVfT8BBfX',
+    address:
+      '0:9512322203e60764d5417232685fcf6250080c6797907f181374dfc3d74bc96c',
   },
   {
-    previewUrl: 'QmcyLskXphun7sbqqZMpARfaGFyKneoMcNmPaFNcrprFQw',
-    ipfsUrl: 'QmfCxJYM36vD8feFpDQ9MPkpufqDPgHCNaAWrKD1oMXCXh',
+    id: 12,
+    name: 'Broxie #12',
     attributes: [
       {
         trait_type: 'back',
@@ -596,10 +668,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfCxJYM36vD8feFpDQ9MPkpufqDPgHCNaAWrKD1oMXCXh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcyLskXphun7sbqqZMpARfaGFyKneoMcNmPaFNcrprFQw',
+    address:
+      '0:2072883d26a8a872423f9964a1b2d7c2434cc21f5f12cc0a5a564230c363a611',
   },
   {
-    previewUrl: 'QmQJ1qqDnhnLdbyirs9UtH9LcR8cjbLyqhKotjLVLeSq8d',
-    ipfsUrl: 'QmfEfdFk6J3X4XeGqR14wX2cQiNQwhiH1JhjBf7mJjSiTz',
+    id: 13,
+    name: 'Broxie #13',
     attributes: [
       {
         trait_type: 'back',
@@ -642,10 +720,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfEfdFk6J3X4XeGqR14wX2cQiNQwhiH1JhjBf7mJjSiTz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQJ1qqDnhnLdbyirs9UtH9LcR8cjbLyqhKotjLVLeSq8d',
+    address:
+      '0:b82ae1e671c8e380e6946f21a5b087511784569527e86a63234f1835a9301b73',
   },
   {
-    previewUrl: 'QmVk7WuzioHhJEPGaKzyUEM8gdtTHhzZScPEWbzqbyrret',
-    ipfsUrl: 'QmPJhtpkxL9bydawggUvMPBkFvj26urDcbN7NhDva5cY7p',
+    id: 14,
+    name: 'Broxie #14',
     attributes: [
       {
         trait_type: 'back',
@@ -688,10 +772,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPJhtpkxL9bydawggUvMPBkFvj26urDcbN7NhDva5cY7p',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVk7WuzioHhJEPGaKzyUEM8gdtTHhzZScPEWbzqbyrret',
+    address:
+      '0:b6c9dc74cb4abcfca803b000b22c5562900ffc0dc28e7b46b3d35b66a2ac1a1e',
   },
   {
-    previewUrl: 'QmRaJPS272DVFfBnMfZSUM2qdy23bYurcmqshSADq925QK',
-    ipfsUrl: 'QmVCNvE6xJXUj4ntgdsWtQexTzeL4RSSVo9cqN56QK9q9H',
+    id: 15,
+    name: 'Broxie #15',
     attributes: [
       {
         trait_type: 'back',
@@ -734,10 +824,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVCNvE6xJXUj4ntgdsWtQexTzeL4RSSVo9cqN56QK9q9H',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRaJPS272DVFfBnMfZSUM2qdy23bYurcmqshSADq925QK',
+    address:
+      '0:b041da18d9e38fb3fcfc8f9e6e220720a6f426226b0ff936cfaa2c431c5e3be7',
   },
   {
-    previewUrl: 'QmUuYkMw7yt8eH5UU7EBoEf3zMV8FjXCuGLcvFAorsqoFF',
-    ipfsUrl: 'QmRVdGTxGozjBaLN2hgfKFfHd9dRGTHmYHq6V9VJRQdVrU',
+    id: 16,
+    name: 'Broxie #16',
     attributes: [
       {
         trait_type: 'back',
@@ -780,10 +876,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRVdGTxGozjBaLN2hgfKFfHd9dRGTHmYHq6V9VJRQdVrU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUuYkMw7yt8eH5UU7EBoEf3zMV8FjXCuGLcvFAorsqoFF',
+    address:
+      '0:55683578fc45d232cbed4348b836ec61d1472d0869881fcfd671b2ce9158788a',
   },
   {
-    previewUrl: 'QmRpBNYXYsDgKgU4Q5DGVJBiAwcuCRBDqBC7r3yKuNKihF',
-    ipfsUrl: 'QmdL9qFkkGyrJUHPqLx7TB5EYFFtSEhwhCbS5zFoMXNDV9',
+    id: 17,
+    name: 'Broxie #17',
     attributes: [
       {
         trait_type: 'back',
@@ -826,10 +928,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdL9qFkkGyrJUHPqLx7TB5EYFFtSEhwhCbS5zFoMXNDV9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRpBNYXYsDgKgU4Q5DGVJBiAwcuCRBDqBC7r3yKuNKihF',
+    address:
+      '0:2dbbe75b7591b2de370fa0a01e83afce32e66bec34d400a8382030a3992ce88b',
   },
   {
-    previewUrl: 'QmYapbNqGAmTMtg4WFn69BveCe2f5jin2T8yqnSp2gB86G',
-    ipfsUrl: 'QmUgV9QkU4L6a393EZ6zbrnJ4HtZPLKReCVBhqeA4B9g29',
+    id: 18,
+    name: 'Broxie #18',
     attributes: [
       {
         trait_type: 'back',
@@ -872,10 +980,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUgV9QkU4L6a393EZ6zbrnJ4HtZPLKReCVBhqeA4B9g29',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYapbNqGAmTMtg4WFn69BveCe2f5jin2T8yqnSp2gB86G',
+    address:
+      '0:1809585cddd42a448560cebebb432ca453e588cf14c4f253a3dd59a2bfce2d1f',
   },
   {
-    previewUrl: 'QmSxFrLtur6zjciYHZ3yEJHRgPaR4CZHiNRGjk3Ayo7xbC',
-    ipfsUrl: 'Qmf3hyJRNZMFThYy1JUKQUmxaWpAo8L5VnbZKc9XcUM9MX',
+    id: 19,
+    name: 'Broxie #19',
     attributes: [
       {
         trait_type: 'back',
@@ -918,10 +1032,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf3hyJRNZMFThYy1JUKQUmxaWpAo8L5VnbZKc9XcUM9MX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSxFrLtur6zjciYHZ3yEJHRgPaR4CZHiNRGjk3Ayo7xbC',
+    address:
+      '0:dc63a0dbeb8aa3de8ef4407da3aa648e70aed8c38e5a6cc21d35228b1a2805c0',
   },
   {
-    previewUrl: 'QmQThbL3GQPo9HRn4qAaHT687pTcA1hXLmwayGNYgAUCFS',
-    ipfsUrl: 'QmTw2ANQh3V2SkQL2EeBCv5ss1JSnDTjgPifJEaQKGBVVE',
+    id: 20,
+    name: 'Broxie #20',
     attributes: [
       {
         trait_type: 'back',
@@ -964,10 +1084,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTw2ANQh3V2SkQL2EeBCv5ss1JSnDTjgPifJEaQKGBVVE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQThbL3GQPo9HRn4qAaHT687pTcA1hXLmwayGNYgAUCFS',
+    address:
+      '0:73d9ec3574ec0d988d00f9d74967c718e61a77897d0f03cef4235f4c221bf881',
   },
   {
-    previewUrl: 'QmXCafzhDgvFep6gCDdY97faygrWtjex9ZWmSjnYhSFBfk',
-    ipfsUrl: 'QmZ57PkdA4NM77RWRhDQXWBc6iTyrkwg2m8VkXTKJQZxyA',
+    id: 21,
+    name: 'Broxie #21',
     attributes: [
       {
         trait_type: 'back',
@@ -1010,10 +1136,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ57PkdA4NM77RWRhDQXWBc6iTyrkwg2m8VkXTKJQZxyA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXCafzhDgvFep6gCDdY97faygrWtjex9ZWmSjnYhSFBfk',
+    address:
+      '0:dad72877e30374f06718fe9c68ff8fffcc4f7d57b7364bd88519c41786a7e1c3',
   },
   {
-    previewUrl: 'QmSuSXxVJBg9EXH6bZi4q8jweCMPBBqnUFiQuHUi5eVdF3',
-    ipfsUrl: 'QmWtZpFgw8ZLbZcxA3s6qywkRLcJnbsVnbQiWYbJuxZrU8',
+    id: 22,
+    name: 'Broxie #22',
     attributes: [
       {
         trait_type: 'back',
@@ -1056,10 +1188,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWtZpFgw8ZLbZcxA3s6qywkRLcJnbsVnbQiWYbJuxZrU8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSuSXxVJBg9EXH6bZi4q8jweCMPBBqnUFiQuHUi5eVdF3',
+    address:
+      '0:f679777a98ee0088933b086873ceece6502e7c8838655fe61b13fa9f5a998532',
   },
   {
-    previewUrl: 'QmV7px4Y1A5hD7Qe9hksjZoJ1STh6KywZHqRTfTZzQuM6P',
-    ipfsUrl: 'QmWzDCZkWJSxCfBzGx9jcfhDzTHPQgz1EeKPWPCnwGXCSp',
+    id: 23,
+    name: 'Broxie #23',
     attributes: [
       {
         trait_type: 'back',
@@ -1102,10 +1240,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWzDCZkWJSxCfBzGx9jcfhDzTHPQgz1EeKPWPCnwGXCSp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV7px4Y1A5hD7Qe9hksjZoJ1STh6KywZHqRTfTZzQuM6P',
+    address:
+      '0:f3193a43ca58ce50a02c71cfa02759b5c6464d41479ddfe4bd662571c408dd03',
   },
   {
-    previewUrl: 'Qmf1ZVuJFCqs1LW8VdJsNpTrYFiVo1QH44E9vXRTzrdrsT',
-    ipfsUrl: 'QmWznyit95CQMaJidUyrjpPQkFLZbnVDasHkorVbdVq2gr',
+    id: 24,
+    name: 'Broxie #24',
     attributes: [
       {
         trait_type: 'back',
@@ -1148,10 +1292,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWznyit95CQMaJidUyrjpPQkFLZbnVDasHkorVbdVq2gr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf1ZVuJFCqs1LW8VdJsNpTrYFiVo1QH44E9vXRTzrdrsT',
+    address:
+      '0:ce2222b9d956717102ddfbdaa0cdd114aa0928fd0f242ab302d54d9e6ce49a2d',
   },
   {
-    previewUrl: 'Qmer8Png7JyRyZrU2C7T2hwNng4MhRdHR6TevdxykJdFKH',
-    ipfsUrl: 'QmR1HMYYd7jdxVnHaKDXbr5a8f6Y88MetUbD9hY8GoarTQ',
+    id: 25,
+    name: 'Broxie #25',
     attributes: [
       {
         trait_type: 'back',
@@ -1194,10 +1344,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR1HMYYd7jdxVnHaKDXbr5a8f6Y88MetUbD9hY8GoarTQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmer8Png7JyRyZrU2C7T2hwNng4MhRdHR6TevdxykJdFKH',
+    address:
+      '0:f9aabbdf5c6f8928ca1bb99bdca4027eacb53760a72a536ea77a032c1d0e06c3',
   },
   {
-    previewUrl: 'Qma2jMSnhcSRWx4vYfLapajm3iu9sD1kc17ycJqPDaNLbZ',
-    ipfsUrl: 'QmSEqkY69DPGuG5pyoC7i2pXFGeKfnKvuPjFF9S6RmZn9F',
+    id: 26,
+    name: 'Broxie #26',
     attributes: [
       {
         trait_type: 'back',
@@ -1240,10 +1396,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSEqkY69DPGuG5pyoC7i2pXFGeKfnKvuPjFF9S6RmZn9F',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma2jMSnhcSRWx4vYfLapajm3iu9sD1kc17ycJqPDaNLbZ',
+    address:
+      '0:143739d26b5906de81d9d74a409151aff42e85f1a0b27189f2e348b90ac64d99',
   },
   {
-    previewUrl: 'QmUzm1ryKqJ1fmWF7z37wdFcyGn5sFQCC7yTkhieaQ1G5p',
-    ipfsUrl: 'QmPzxmct749wykEZ5ezZqRUWMXSnDNkrW8a2tpTLw6TjMk',
+    id: 27,
+    name: 'Broxie #27',
     attributes: [
       {
         trait_type: 'back',
@@ -1286,10 +1448,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPzxmct749wykEZ5ezZqRUWMXSnDNkrW8a2tpTLw6TjMk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUzm1ryKqJ1fmWF7z37wdFcyGn5sFQCC7yTkhieaQ1G5p',
+    address:
+      '0:d549e5d7b41495b08d7ab3f172104b0522919202148feda84acbaac444f9c7b9',
   },
   {
-    previewUrl: 'QmRYrjp5gWd8SJRcFDPcEMrPPKebLd39JqyEjAeDCte59B',
-    ipfsUrl: 'QmRyEgqUWCeQtjJLmZ3YNSNSiAGzeRLFaM19MbiJZ6d2hD',
+    id: 28,
+    name: 'Broxie #28',
     attributes: [
       {
         trait_type: 'back',
@@ -1332,10 +1500,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRyEgqUWCeQtjJLmZ3YNSNSiAGzeRLFaM19MbiJZ6d2hD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRYrjp5gWd8SJRcFDPcEMrPPKebLd39JqyEjAeDCte59B',
+    address:
+      '0:1aad0b65f2f9401eae41f1468a4a49bdc7a587b557ec2b25b7c21b3cd2a1092e',
   },
   {
-    previewUrl: 'QmcQ7buhSjQeRSrK9PG1i25zoHs6SWFW72TnhX2zEAXyhk',
-    ipfsUrl: 'QmdcGu7Q7An8gjPwh6iyykLuB6KqvqnvexkEpv6dKkiDpq',
+    id: 29,
+    name: 'Broxie #29',
     attributes: [
       {
         trait_type: 'back',
@@ -1378,10 +1552,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdcGu7Q7An8gjPwh6iyykLuB6KqvqnvexkEpv6dKkiDpq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcQ7buhSjQeRSrK9PG1i25zoHs6SWFW72TnhX2zEAXyhk',
+    address:
+      '0:cf8dcbe43d34ded3d0f86f1b5f8dae36641ca9ab1414e8d8e2499854f259afd6',
   },
   {
-    previewUrl: 'QmRtMWHU1CxWMj8VVAQfUdXa2FzygXeB1JTULZYBZyQcEU',
-    ipfsUrl: 'QmPjrei9zpdbrSrU5qULusYLGh2j9aftPgDJfpa1WB13yB',
+    id: 30,
+    name: 'Broxie #30',
     attributes: [
       {
         trait_type: 'back',
@@ -1424,10 +1604,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPjrei9zpdbrSrU5qULusYLGh2j9aftPgDJfpa1WB13yB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRtMWHU1CxWMj8VVAQfUdXa2FzygXeB1JTULZYBZyQcEU',
+    address:
+      '0:7362c46af3a7ffa03efa0eca1553b6242ced36f822a533982ee1345c8f260cab',
   },
   {
-    previewUrl: 'QmbUiAM4S4zRDg9DBtaCF3H4wFxjJif9Y5A8Xv6x1z9EB4',
-    ipfsUrl: 'QmawJQbDhwwaMWvfk4mEtAwtd8Tt1JNpf9zpi6BVoWyNDP',
+    id: 31,
+    name: 'Broxie #31',
     attributes: [
       {
         trait_type: 'back',
@@ -1470,10 +1656,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmawJQbDhwwaMWvfk4mEtAwtd8Tt1JNpf9zpi6BVoWyNDP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbUiAM4S4zRDg9DBtaCF3H4wFxjJif9Y5A8Xv6x1z9EB4',
+    address:
+      '0:5af3817d013b89900e7105d81300f2eab3333a7b5550c89da97d07f46a14104f',
   },
   {
-    previewUrl: 'QmXPxnqKT6L3jSaJn6rtGRxvyNYgXQ8CBqx8gH5Wof6Fi9',
-    ipfsUrl: 'QmZQgskmCwPjDVaHHC5mpE5Kjk7xNjNA9MGj2oKyEwPhda',
+    id: 32,
+    name: 'Broxie #32',
     attributes: [
       {
         trait_type: 'back',
@@ -1516,10 +1708,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZQgskmCwPjDVaHHC5mpE5Kjk7xNjNA9MGj2oKyEwPhda',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXPxnqKT6L3jSaJn6rtGRxvyNYgXQ8CBqx8gH5Wof6Fi9',
+    address:
+      '0:6ecfecf66ef3d1bd4b31c45ef291b28dfaf4c22124668813f8edab2705a8bb2e',
   },
   {
-    previewUrl: 'QmdsA7ceDDHjLRYnMLK2quF9jJFhs8axxkBWWmeC7sARtM',
-    ipfsUrl: 'QmZB6bF7wzSDD4ZSFJ5wfPrREAbYE1t81CeiZo51o6wxPs',
+    id: 33,
+    name: 'Broxie #33',
     attributes: [
       {
         trait_type: 'back',
@@ -1562,10 +1760,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZB6bF7wzSDD4ZSFJ5wfPrREAbYE1t81CeiZo51o6wxPs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdsA7ceDDHjLRYnMLK2quF9jJFhs8axxkBWWmeC7sARtM',
+    address:
+      '0:cd9e0358432df579445a2a345414691eafba7bbea4d2d9d36799b04de1f42f66',
   },
   {
-    previewUrl: 'QmSAKYBGw9ubhYLpYYY8p6dwfGnHh5Ntv1ASVhNfoyg4ir',
-    ipfsUrl: 'QmRv7pQspCvFoSwuLeu4w22zMiFgYVy57GXD86iD4YWiSx',
+    id: 34,
+    name: 'Broxie #34',
     attributes: [
       {
         trait_type: 'back',
@@ -1608,10 +1812,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRv7pQspCvFoSwuLeu4w22zMiFgYVy57GXD86iD4YWiSx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSAKYBGw9ubhYLpYYY8p6dwfGnHh5Ntv1ASVhNfoyg4ir',
+    address:
+      '0:1e785d54310ce2f96a3d465cfa3a349fb6ee860ab69e2e901447e8708cbd95a7',
   },
   {
-    previewUrl: 'QmYyCrk8XjB8jpoyzjngvYv9bZaiNDYk8uns25E8aX1TgR',
-    ipfsUrl: 'QmTR4PCx6CWRc82GaKJ2ZKDaoQFXfTZzEpUDQbA6fbm2ib',
+    id: 35,
+    name: 'Broxie #35',
     attributes: [
       {
         trait_type: 'back',
@@ -1654,10 +1864,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTR4PCx6CWRc82GaKJ2ZKDaoQFXfTZzEpUDQbA6fbm2ib',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYyCrk8XjB8jpoyzjngvYv9bZaiNDYk8uns25E8aX1TgR',
+    address:
+      '0:a0c434ee47c249949abd7f2439d5c9c69b33a8e4bbed6e59364d1fd6c1f3d41e',
   },
   {
-    previewUrl: 'QmTxamXPiw2m2SidaWHBGA3CDurA7KP4z88nPaavzKXYPS',
-    ipfsUrl: 'QmWH8Y8NA4uAsuvZkViKsBbodnyW2bU8MBBN5bbLEMK4s6',
+    id: 36,
+    name: 'Broxie #36',
     attributes: [
       {
         trait_type: 'back',
@@ -1700,10 +1916,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWH8Y8NA4uAsuvZkViKsBbodnyW2bU8MBBN5bbLEMK4s6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTxamXPiw2m2SidaWHBGA3CDurA7KP4z88nPaavzKXYPS',
+    address:
+      '0:70c16ad296db1dc4870f9cb731b6fe2297196bca0398b612d9a95f7b9f219a48',
   },
   {
-    previewUrl: 'QmSo4ndYynmwqC4queez7HB56g8NSRtUxLhW9jgwKkKLNX',
-    ipfsUrl: 'QmPWtYWNYL6GGrLaWRjS5GEoeoW2qacVC7Pue9JC1DYHeZ',
+    id: 37,
+    name: 'Broxie #37',
     attributes: [
       {
         trait_type: 'back',
@@ -1746,10 +1968,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPWtYWNYL6GGrLaWRjS5GEoeoW2qacVC7Pue9JC1DYHeZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSo4ndYynmwqC4queez7HB56g8NSRtUxLhW9jgwKkKLNX',
+    address:
+      '0:53a94653bd4fea8c4275c6e8a21b88c4e2f6382c038c5f9335e650f09c89c353',
   },
   {
-    previewUrl: 'QmVjcALGxt6e158F7ZGejBpKG9Pkg7drJe6wTkBqC2d6Jy',
-    ipfsUrl: 'QmQP2FCgscvjoVxJAixv5GJA86PaBbPJthtjs33uthRgea',
+    id: 38,
+    name: 'Broxie #38',
     attributes: [
       {
         trait_type: 'back',
@@ -1792,10 +2020,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQP2FCgscvjoVxJAixv5GJA86PaBbPJthtjs33uthRgea',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVjcALGxt6e158F7ZGejBpKG9Pkg7drJe6wTkBqC2d6Jy',
+    address:
+      '0:da41f3f50d745e1558fe74124251985c9146de8c50ec3390d77b12e6ab055562',
   },
   {
-    previewUrl: 'QmczmP7r1ozVGhruMsdyDkYjSkNgS7HDwGozgmx3inzBAp',
-    ipfsUrl: 'QmdW2eYGHtm33pL9ZMeFcuULeHx8N4j3Jh1zkCDawBh6hV',
+    id: 39,
+    name: 'Broxie #39',
     attributes: [
       {
         trait_type: 'back',
@@ -1838,10 +2072,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdW2eYGHtm33pL9ZMeFcuULeHx8N4j3Jh1zkCDawBh6hV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmczmP7r1ozVGhruMsdyDkYjSkNgS7HDwGozgmx3inzBAp',
+    address:
+      '0:4cc18ac4c24838b42839e93fc1b37b6d731bdc3d6d9add3157f9d260d9006c3d',
   },
   {
-    previewUrl: 'QmYxVmK1a36mQpvFxBUhTRafaAkTZurXMQpErRtXTDqihg',
-    ipfsUrl: 'QmQ9AnZEWrTz9LoZEzcSNnmUQ6kcR8R8sbRPwzNETnyAS9',
+    id: 40,
+    name: 'Broxie #40',
     attributes: [
       {
         trait_type: 'back',
@@ -1884,10 +2124,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ9AnZEWrTz9LoZEzcSNnmUQ6kcR8R8sbRPwzNETnyAS9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYxVmK1a36mQpvFxBUhTRafaAkTZurXMQpErRtXTDqihg',
+    address:
+      '0:91fd559953eec9519c06fb084350eb2f794cec3fa8de9cf2c561d9de50c026aa',
   },
   {
-    previewUrl: 'QmeXN6h6ENA9AKUDyvSZ9kDwq22Ejab5XTaUmVwUSEnsG9',
-    ipfsUrl: 'QmcMZxv2sboyHzSHVt4Tbsxu2zZVaDHCmZpiGvc3Jjx2GS',
+    id: 41,
+    name: 'Broxie #41',
     attributes: [
       {
         trait_type: 'back',
@@ -1930,10 +2176,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcMZxv2sboyHzSHVt4Tbsxu2zZVaDHCmZpiGvc3Jjx2GS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeXN6h6ENA9AKUDyvSZ9kDwq22Ejab5XTaUmVwUSEnsG9',
+    address:
+      '0:44ef7e60885c4993a98e068d7879f00b0ff898aee77a8a41795394222cf322cd',
   },
   {
-    previewUrl: 'QmR5Vbqvp3u3bRiFAVtvKUDGY3ngDBDmhkByKucJqi9fo7',
-    ipfsUrl: 'QmfTEPyBiEBUy3d7hVE1w7dHQz5o9NJoSzyHY83VuYAvFV',
+    id: 42,
+    name: 'Broxie #42',
     attributes: [
       {
         trait_type: 'back',
@@ -1976,10 +2228,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfTEPyBiEBUy3d7hVE1w7dHQz5o9NJoSzyHY83VuYAvFV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR5Vbqvp3u3bRiFAVtvKUDGY3ngDBDmhkByKucJqi9fo7',
+    address:
+      '0:d22da29ad710368161665df0f463eeba4c283eecf613f66452245a3a2421f28e',
   },
   {
-    previewUrl: 'QmPJ7BX5GWf3dkxucPSLAmSWcfLtorUe8Hn7FLnLEyVepn',
-    ipfsUrl: 'QmWGjP6xnoSS2pogzkBfnxDKWAYA3v4jL2Zo9qhTYjdu3W',
+    id: 43,
+    name: 'Broxie #43',
     attributes: [
       {
         trait_type: 'back',
@@ -2022,10 +2280,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWGjP6xnoSS2pogzkBfnxDKWAYA3v4jL2Zo9qhTYjdu3W',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPJ7BX5GWf3dkxucPSLAmSWcfLtorUe8Hn7FLnLEyVepn',
+    address:
+      '0:81868742e29d339ec864262d0787803282202ee04e3e404684bdd49731e53882',
   },
   {
-    previewUrl: 'QmeeA6fAj9QohbsGb3o9QKEwQqAEXAJ17hNyMWQCkS67uC',
-    ipfsUrl: 'QmZNsQWDDxK3tSqbw2WsQA3nVfuu6LyVLMJ6moKkxD6vX5',
+    id: 44,
+    name: 'Broxie #44',
     attributes: [
       {
         trait_type: 'back',
@@ -2068,10 +2332,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZNsQWDDxK3tSqbw2WsQA3nVfuu6LyVLMJ6moKkxD6vX5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeeA6fAj9QohbsGb3o9QKEwQqAEXAJ17hNyMWQCkS67uC',
+    address:
+      '0:3deb48902ca46219fce2c872356ec51d753a9353ca39d293e6c3a375a3c043e5',
   },
   {
-    previewUrl: 'QmNetm6JEQLDEhdtnWNxB7Squm5XTzXLVKJKEoNdURtnp1',
-    ipfsUrl: 'QmUnpzhtmpjuaf4N9mCimJKH3y1EYh65JjwdkJTbVJDyNq',
+    id: 45,
+    name: 'Broxie #45',
     attributes: [
       {
         trait_type: 'back',
@@ -2114,10 +2384,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUnpzhtmpjuaf4N9mCimJKH3y1EYh65JjwdkJTbVJDyNq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNetm6JEQLDEhdtnWNxB7Squm5XTzXLVKJKEoNdURtnp1',
+    address:
+      '0:5c0661c804d6acb154faa3c0ff9ce4adf38b08ad608bd7524fc721ad6e96c088',
   },
   {
-    previewUrl: 'QmbPnYDT9agapCaSNjVPUHtM8H8wJyzZxX4VFbPNYMeNgX',
-    ipfsUrl: 'QmVLnYvgtEYcryFnLama1aYf26Cojg6HWCoXpa3Y8rassX',
+    id: 46,
+    name: 'Broxie #46',
     attributes: [
       {
         trait_type: 'back',
@@ -2160,10 +2436,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVLnYvgtEYcryFnLama1aYf26Cojg6HWCoXpa3Y8rassX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbPnYDT9agapCaSNjVPUHtM8H8wJyzZxX4VFbPNYMeNgX',
+    address:
+      '0:2751e7a28403e0da40d23d3340875c080a7d845aae0be586d0174cb6d687264d',
   },
   {
-    previewUrl: 'QmPhKGyAkpZEwHTkWGpevM8f29hWTv3yRupjFXuKAp8TKS',
-    ipfsUrl: 'QmWKfJuUCzo5Lm5BudB6miB7pKu3sF2zhuxjGLE9TjN6Xt',
+    id: 47,
+    name: 'Broxie #47',
     attributes: [
       {
         trait_type: 'back',
@@ -2206,10 +2488,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWKfJuUCzo5Lm5BudB6miB7pKu3sF2zhuxjGLE9TjN6Xt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPhKGyAkpZEwHTkWGpevM8f29hWTv3yRupjFXuKAp8TKS',
+    address:
+      '0:b0cb7d0a5a27754e9091d3cc4325f8d383f2168ffbf0934156962337bc18de20',
   },
   {
-    previewUrl: 'QmPXN3FVPAfLTfGCyLPE47otqM3QiLCch5fkorbN7kWhAW',
-    ipfsUrl: 'QmX9ZnxEsp9QT8baMiTnJmhec2qKDvGZRRoveqaZxCiM6f',
+    id: 48,
+    name: 'Broxie #48',
     attributes: [
       {
         trait_type: 'back',
@@ -2252,10 +2540,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX9ZnxEsp9QT8baMiTnJmhec2qKDvGZRRoveqaZxCiM6f',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPXN3FVPAfLTfGCyLPE47otqM3QiLCch5fkorbN7kWhAW',
+    address:
+      '0:999e351c173795eddc8cab56fbe7865bc364615c479332f65c127ffbcc6ecd79',
   },
   {
-    previewUrl: 'QmT2Cig6jQYQW9Wy77SYBqFMFWJx99UUKtNQmzDs8kpvTZ',
-    ipfsUrl: 'QmNhWSX3daXpsbV45jCjn6saXq4Epq8gEVKqYUcQt6n1Q7',
+    id: 49,
+    name: 'Broxie #49',
     attributes: [
       {
         trait_type: 'back',
@@ -2298,10 +2592,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNhWSX3daXpsbV45jCjn6saXq4Epq8gEVKqYUcQt6n1Q7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmT2Cig6jQYQW9Wy77SYBqFMFWJx99UUKtNQmzDs8kpvTZ',
+    address:
+      '0:2c742b8716e930cad8361c04ce3a1244a96362168f51f7575e1f9c486a41169c',
   },
   {
-    previewUrl: 'QmbrzfJQrpw8t75mrC8vcbCVvPRh96BHWbfVQ9gYZSMSXk',
-    ipfsUrl: 'QmT2CbSAVaz2kys92pwNMhXpsmNhxGoetwAZFyt2X4f1tj',
+    id: 50,
+    name: 'Broxie #50',
     attributes: [
       {
         trait_type: 'back',
@@ -2344,10 +2644,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT2CbSAVaz2kys92pwNMhXpsmNhxGoetwAZFyt2X4f1tj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbrzfJQrpw8t75mrC8vcbCVvPRh96BHWbfVQ9gYZSMSXk',
+    address:
+      '0:6577ac8fd8ad51a5031f347f3c82a06df0ed2286a57f25af6cda01551cea47ef',
   },
   {
-    previewUrl: 'QmSipGeXBh2tFkbWcjmBPrjgbUFvJsqgFUFXJHyoxbkad7',
-    ipfsUrl: 'QmdDUQwea7QG6LeiAAFXkVnhTQQxeDjaHzCiNAnLU3SNRf',
+    id: 51,
+    name: 'Broxie #51',
     attributes: [
       {
         trait_type: 'back',
@@ -2390,10 +2696,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdDUQwea7QG6LeiAAFXkVnhTQQxeDjaHzCiNAnLU3SNRf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSipGeXBh2tFkbWcjmBPrjgbUFvJsqgFUFXJHyoxbkad7',
+    address:
+      '0:79bdba3cbdc1b39cc5f0dd587a850942d99862a1e105bcfdd0bdb92eeb5819f7',
   },
   {
-    previewUrl: 'QmPU84eBtAG6phJKexXNH6ndExcouRk1ARBNxhwCHZD45b',
-    ipfsUrl: 'QmR3o7p858exfotnhcgLCVTGV5S8Fk15ChRTVwaJYC5SWV',
+    id: 52,
+    name: 'Broxie #52',
     attributes: [
       {
         trait_type: 'back',
@@ -2436,10 +2748,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR3o7p858exfotnhcgLCVTGV5S8Fk15ChRTVwaJYC5SWV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPU84eBtAG6phJKexXNH6ndExcouRk1ARBNxhwCHZD45b',
+    address:
+      '0:3ca28df9bc53231b0f75d501eb906f012d13f6e70bccc5d1df09fa576fdcdf05',
   },
   {
-    previewUrl: 'QmZkQkPz5mWUGfBTiZsdusrCBuTohxMr4pFYT3iHyvznNV',
-    ipfsUrl: 'QmWrFgJ4X1WFbPso7p36q7VDXxPFbY3noWhC8Rp3CHPNvt',
+    id: 53,
+    name: 'Broxie #53',
     attributes: [
       {
         trait_type: 'back',
@@ -2482,10 +2800,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWrFgJ4X1WFbPso7p36q7VDXxPFbY3noWhC8Rp3CHPNvt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZkQkPz5mWUGfBTiZsdusrCBuTohxMr4pFYT3iHyvznNV',
+    address:
+      '0:0c590570bdebba1dc1aa8e0ff375a4facbecbe4f6e7ffbe0fa40275278bdfc19',
   },
   {
-    previewUrl: 'QmbBoZDcAKo8pXogPHn3HaCKfm5YZAiykghZ5gp9z6rKho',
-    ipfsUrl: 'QmYZbDo4xxL46FWyYne2StsL4f2UcCx7KN7h71bWABjqfa',
+    id: 54,
+    name: 'Broxie #54',
     attributes: [
       {
         trait_type: 'back',
@@ -2528,10 +2852,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYZbDo4xxL46FWyYne2StsL4f2UcCx7KN7h71bWABjqfa',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbBoZDcAKo8pXogPHn3HaCKfm5YZAiykghZ5gp9z6rKho',
+    address:
+      '0:90e399b2f785984676bbd0544d565460aa484c71609e60f8da04ebffc7cc2197',
   },
   {
-    previewUrl: 'QmSDrb7w7YZstbzzDED12Yzw3eJsqHNS8C7CWtom5BAm64',
-    ipfsUrl: 'QmaB2Km3uaGWRndv3V2fYXkbUjExm5jm7f9Lt6womRJ6Z8',
+    id: 55,
+    name: 'Broxie #55',
     attributes: [
       {
         trait_type: 'back',
@@ -2574,10 +2904,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaB2Km3uaGWRndv3V2fYXkbUjExm5jm7f9Lt6womRJ6Z8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSDrb7w7YZstbzzDED12Yzw3eJsqHNS8C7CWtom5BAm64',
+    address:
+      '0:310999a3d0d505221df40496d0e2ee9731151461c20f65c00838fd73bd1ff3a1',
   },
   {
-    previewUrl: 'QmczpoDrmUtrkXfUKJjsf5zudkbTWdfzGT6dTnxgFCLHX2',
-    ipfsUrl: 'QmdkTbSh3HrCiW1Sb2vw6y4m5EzZ2oTCJ8vf5wii2H4nem',
+    id: 56,
+    name: 'Broxie #56',
     attributes: [
       {
         trait_type: 'back',
@@ -2620,10 +2956,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdkTbSh3HrCiW1Sb2vw6y4m5EzZ2oTCJ8vf5wii2H4nem',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmczpoDrmUtrkXfUKJjsf5zudkbTWdfzGT6dTnxgFCLHX2',
+    address:
+      '0:b6c29863688272362e2d5ca7512d3caf2a4eb2fd5238b146cecbed4f71557391',
   },
   {
-    previewUrl: 'QmXXxMWsQtsZiJqQrZFHUC8eua1m2Nu8Kh781YJDjcWk7A',
-    ipfsUrl: 'QmciPzmGXZ3XTGLZyzzfZtXYH5ZMZFgrnZCQADjQHj7reL',
+    id: 57,
+    name: 'Broxie #57',
     attributes: [
       {
         trait_type: 'back',
@@ -2666,10 +3008,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmciPzmGXZ3XTGLZyzzfZtXYH5ZMZFgrnZCQADjQHj7reL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXXxMWsQtsZiJqQrZFHUC8eua1m2Nu8Kh781YJDjcWk7A',
+    address:
+      '0:1a9a8c0b777c7072cd1175ff0931d08918c0f44a94f2e8671692fb7e5494773a',
   },
   {
-    previewUrl: 'QmUqr7ZRWUM2fTdPUEw7C1DYK3yscWD6874EBFSMo7F596',
-    ipfsUrl: 'QmXpcfjzhWoCQCSfFRFwzammBcPhxuMyDxPy8ScpSa3sHB',
+    id: 58,
+    name: 'Broxie #58',
     attributes: [
       {
         trait_type: 'back',
@@ -2712,10 +3060,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXpcfjzhWoCQCSfFRFwzammBcPhxuMyDxPy8ScpSa3sHB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUqr7ZRWUM2fTdPUEw7C1DYK3yscWD6874EBFSMo7F596',
+    address:
+      '0:a29e71ea918870e62f492cab23732883c0b96ecf707215e629f650c070b295b3',
   },
   {
-    previewUrl: 'QmZ2xPBupt4V8mwy3SHrHrb3xfnG3tnR2fKipfdmyipGfm',
-    ipfsUrl: 'QmVraDdZ1yRfnxeiP4641HpWsHbBpKAphSXS67MVsciUdY',
+    id: 59,
+    name: 'Broxie #59',
     attributes: [
       {
         trait_type: 'back',
@@ -2758,10 +3112,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVraDdZ1yRfnxeiP4641HpWsHbBpKAphSXS67MVsciUdY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ2xPBupt4V8mwy3SHrHrb3xfnG3tnR2fKipfdmyipGfm',
+    address:
+      '0:31c7260498a4fa195a183ac28051224604764177aa5822268a909351f9a1972b',
   },
   {
-    previewUrl: 'QmYJZukKmCGLpgofNhKa8CXDZsjGJLewDexohgjDZA9DWS',
-    ipfsUrl: 'QmVrUrk7DMFUESCR1aHtCPq4CXq2W9JP46Ze5UNMpT1ZTS',
+    id: 60,
+    name: 'Broxie #60',
     attributes: [
       {
         trait_type: 'back',
@@ -2804,10 +3164,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVrUrk7DMFUESCR1aHtCPq4CXq2W9JP46Ze5UNMpT1ZTS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYJZukKmCGLpgofNhKa8CXDZsjGJLewDexohgjDZA9DWS',
+    address:
+      '0:e724c0c65f44ebb73137a85ebc52386dc71ba1fbdce88b8b8829591afa1f69dc',
   },
   {
-    previewUrl: 'QmYSqwQmCuqqjLTPu7HBym3ybUECYnrEPk4i8EafyKPQpS',
-    ipfsUrl: 'QmZNcomVUo17qxhVZ4jVBvYLrb5SJa4e6Fojb271e9kP7F',
+    id: 61,
+    name: 'Broxie #61',
     attributes: [
       {
         trait_type: 'back',
@@ -2850,10 +3216,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZNcomVUo17qxhVZ4jVBvYLrb5SJa4e6Fojb271e9kP7F',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYSqwQmCuqqjLTPu7HBym3ybUECYnrEPk4i8EafyKPQpS',
+    address:
+      '0:d4379b33cdfa492fff5f1cc6f9d79eef03189828a17b771d1c3cc4b7cdd500f6',
   },
   {
-    previewUrl: 'QmdfmvsFGkFwJ1yyha3afz9sPuQGdjQ3mPiepywziw9geN',
-    ipfsUrl: 'QmNTVMMUrnY1vNmT6mkm6B3EyozXAXZqrrSF6iZ8MCwZem',
+    id: 62,
+    name: 'Broxie #62',
     attributes: [
       {
         trait_type: 'back',
@@ -2896,10 +3268,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNTVMMUrnY1vNmT6mkm6B3EyozXAXZqrrSF6iZ8MCwZem',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdfmvsFGkFwJ1yyha3afz9sPuQGdjQ3mPiepywziw9geN',
+    address:
+      '0:85f524a554be7ad46df10996a6aa2fd0c9b1c80197cf597a0064370a3f1eeffe',
   },
   {
-    previewUrl: 'QmZcB4TVcHAdyJjyNiTSQiMvcQ9r1cu9xWW2R2yhDADVo8',
-    ipfsUrl: 'QmXJJ82t3XqYxeEBr6HsdqjPSZdSi1CdkqSjVcCL7rWiEQ',
+    id: 63,
+    name: 'Broxie #63',
     attributes: [
       {
         trait_type: 'back',
@@ -2942,10 +3320,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXJJ82t3XqYxeEBr6HsdqjPSZdSi1CdkqSjVcCL7rWiEQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZcB4TVcHAdyJjyNiTSQiMvcQ9r1cu9xWW2R2yhDADVo8',
+    address:
+      '0:18cc6937380ffa95bec64223e4867b01882b31cc3921a0830d994dd9af8871ef',
   },
   {
-    previewUrl: 'QmcwdHA5M6mPL5sf1mxisnwJkAQig26UFuuwwMmx7XBbPV',
-    ipfsUrl: 'QmQibtu4dnXFB2NsrrP9BRHETFHis52jWUK1rSpuNtMwHu',
+    id: 64,
+    name: 'Broxie #64',
     attributes: [
       {
         trait_type: 'back',
@@ -2988,10 +3372,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQibtu4dnXFB2NsrrP9BRHETFHis52jWUK1rSpuNtMwHu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcwdHA5M6mPL5sf1mxisnwJkAQig26UFuuwwMmx7XBbPV',
+    address:
+      '0:42ca39457866b1d8caa97dd063cb2f1b0f624daa069842a4fc0debcc528a6dca',
   },
   {
-    previewUrl: 'QmWpR9bc4GkZNVNAKFaWY4p6ProEuKzt526PWRKAYPbW3q',
-    ipfsUrl: 'Qma328AmwZEfsZuKJtoRrfq4hLA2E1FtffoDE2mrGwBL3A',
+    id: 65,
+    name: 'Broxie #65',
     attributes: [
       {
         trait_type: 'back',
@@ -3034,10 +3424,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qma328AmwZEfsZuKJtoRrfq4hLA2E1FtffoDE2mrGwBL3A',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWpR9bc4GkZNVNAKFaWY4p6ProEuKzt526PWRKAYPbW3q',
+    address:
+      '0:d2dbfd47aa0e3b8d20bbc3cadb8119002e1b22b7b5fa36d6a7eeceeec091462e',
   },
   {
-    previewUrl: 'QmQFicSGckG6xutNLTj88RTSNoM1bSUk8CUr6p27fCUey1',
-    ipfsUrl: 'QmZnXKLZozkh4n9x1Tgw5cWX4oZirqFzGs5xzf5jmsXFEn',
+    id: 66,
+    name: 'Broxie #66',
     attributes: [
       {
         trait_type: 'back',
@@ -3080,10 +3476,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZnXKLZozkh4n9x1Tgw5cWX4oZirqFzGs5xzf5jmsXFEn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQFicSGckG6xutNLTj88RTSNoM1bSUk8CUr6p27fCUey1',
+    address:
+      '0:549e6f882b8c366e6f9dcef8dd8d5c70a6e8319bc826ff7d060bafea70057d80',
   },
   {
-    previewUrl: 'QmV3iY9tDGVafJ1rdrLB8KMp4feByDtCFuEydVSbKvqGXe',
-    ipfsUrl: 'QmT8hXTHzJSX7P3RPJDfWxDuPkzF2usZwSLuPkhCGPrXFz',
+    id: 67,
+    name: 'Broxie #67',
     attributes: [
       {
         trait_type: 'back',
@@ -3126,10 +3528,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT8hXTHzJSX7P3RPJDfWxDuPkzF2usZwSLuPkhCGPrXFz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV3iY9tDGVafJ1rdrLB8KMp4feByDtCFuEydVSbKvqGXe',
+    address:
+      '0:7d519b6ec0099f99673cb946b78190d6529099783dbd2ed2dafdc0cc405ccaed',
   },
   {
-    previewUrl: 'QmQLoqAkCbGNARbPx2WaHVeotofRjeekS55g3UhrF1Ncyw',
-    ipfsUrl: 'QmVrybaqyY2Tqo1H6mYM3kP2k6xgJpvd3rPWf8KGpEPjem',
+    id: 68,
+    name: 'Broxie #68',
     attributes: [
       {
         trait_type: 'back',
@@ -3172,10 +3580,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVrybaqyY2Tqo1H6mYM3kP2k6xgJpvd3rPWf8KGpEPjem',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQLoqAkCbGNARbPx2WaHVeotofRjeekS55g3UhrF1Ncyw',
+    address:
+      '0:30087660b2283142dbf66cd28166ae50083f2cb76aaad81b4ab5ae0d01d8fda2',
   },
   {
-    previewUrl: 'QmThh6W84hnqxGX9KSqCdbnsUXKsxTsg7j3QVxhKV5fdcp',
-    ipfsUrl: 'QmZx6CfY84gKyQcYDDm8NquSzwKixDrbjV7Wp8bzaAE2fH',
+    id: 69,
+    name: 'Broxie #69',
     attributes: [
       {
         trait_type: 'back',
@@ -3218,10 +3632,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZx6CfY84gKyQcYDDm8NquSzwKixDrbjV7Wp8bzaAE2fH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmThh6W84hnqxGX9KSqCdbnsUXKsxTsg7j3QVxhKV5fdcp',
+    address:
+      '0:d5c833b9e616091c43ee39be766ce9d1a5e2029b83685c1f704072003e8328a7',
   },
   {
-    previewUrl: 'QmUzeSGRrbPjyhHybGSRtAbo5qTHAvCMTsUj9FdVS9D2ZM',
-    ipfsUrl: 'QmeeZENbQj2djzGp54cBn7hKGTqbQbNc9jeSXnL74R1X2C',
+    id: 70,
+    name: 'Broxie #70',
     attributes: [
       {
         trait_type: 'back',
@@ -3264,10 +3684,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeeZENbQj2djzGp54cBn7hKGTqbQbNc9jeSXnL74R1X2C',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUzeSGRrbPjyhHybGSRtAbo5qTHAvCMTsUj9FdVS9D2ZM',
+    address:
+      '0:8a4150e28f4ca7ee5cd078bb31cdb3da7f94cd2023ad83a1635f577996292ee8',
   },
   {
-    previewUrl: 'QmWDpn7p9v4ncZUc74caxuixgQoB6vjgKTr8FA2zRpLBNn',
-    ipfsUrl: 'QmRvDV3WCC5aEy7JLv7X1BPFvCv2QC7sVmsLEFgf3rn5Rp',
+    id: 71,
+    name: 'Broxie #71',
     attributes: [
       {
         trait_type: 'back',
@@ -3310,10 +3736,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRvDV3WCC5aEy7JLv7X1BPFvCv2QC7sVmsLEFgf3rn5Rp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWDpn7p9v4ncZUc74caxuixgQoB6vjgKTr8FA2zRpLBNn',
+    address:
+      '0:c6d39c59c76aab160e737ca1471a81d6d090406524cca63544fef643f1fdd9d8',
   },
   {
-    previewUrl: 'QmXR6TMUgCZewcaxex3fUDbJKc2A1EcbHiphkTzb7T6fRY',
-    ipfsUrl: 'QmarDWF1kmHSRZRYfp6F64NjG4rTqJ91oP14QDVsJpL1gx',
+    id: 72,
+    name: 'Broxie #72',
     attributes: [
       {
         trait_type: 'back',
@@ -3356,10 +3788,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmarDWF1kmHSRZRYfp6F64NjG4rTqJ91oP14QDVsJpL1gx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXR6TMUgCZewcaxex3fUDbJKc2A1EcbHiphkTzb7T6fRY',
+    address:
+      '0:c4c19eac77b57cf6d43f29a087316002d2044dec12812d824827fcd973afa34d',
   },
   {
-    previewUrl: 'QmazYCmfGVKk3PaZ2FE2Nvertqk8oSYvVWo27cfM8fq7rg',
-    ipfsUrl: 'QmeiA7Skfb74YZ8qN18hfdMtBCBkJw32PSPHRWyEauFDdZ',
+    id: 73,
+    name: 'Broxie #73',
     attributes: [
       {
         trait_type: 'back',
@@ -3402,10 +3840,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeiA7Skfb74YZ8qN18hfdMtBCBkJw32PSPHRWyEauFDdZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmazYCmfGVKk3PaZ2FE2Nvertqk8oSYvVWo27cfM8fq7rg',
+    address:
+      '0:6aa97d43dc68053dc8d08d98e1e7b8313726c9509b050fc1e0e1ca254b4a45e4',
   },
   {
-    previewUrl: 'QmYpySL441szXXe81VnAMv1N1XzPZqN9iEzY3B1czphmtm',
-    ipfsUrl: 'QmVSP623P5Xo8NKSYH1yMYDQoxr8ecHNmBm7FR6XZu4345',
+    id: 74,
+    name: 'Broxie #74',
     attributes: [
       {
         trait_type: 'back',
@@ -3448,10 +3892,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVSP623P5Xo8NKSYH1yMYDQoxr8ecHNmBm7FR6XZu4345',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYpySL441szXXe81VnAMv1N1XzPZqN9iEzY3B1czphmtm',
+    address:
+      '0:a96013b3e0163336aed7488adcefeedf2de0523301e4c05d2b9a494ec52b06f4',
   },
   {
-    previewUrl: 'QmUkyqZKkNwGuNfxURNRWfZfke5juE8uCwcAcQDMCUMerq',
-    ipfsUrl: 'QmSP6GGvuZpp8EmeYyH2fqCbLwe4CRPsQQkdqDGzdUjoun',
+    id: 75,
+    name: 'Broxie #75',
     attributes: [
       {
         trait_type: 'back',
@@ -3494,10 +3944,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSP6GGvuZpp8EmeYyH2fqCbLwe4CRPsQQkdqDGzdUjoun',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUkyqZKkNwGuNfxURNRWfZfke5juE8uCwcAcQDMCUMerq',
+    address:
+      '0:f0daec3794beb0767e0f2b5da43f89398d8ef4fc1863f1e4fbfe4493f43c4009',
   },
   {
-    previewUrl: 'QmUQnsDv9HVQB3qAfsivdDuFCJU4upuoWwQZWx34cHiKzd',
-    ipfsUrl: 'QmSbkNsR3RzUXRewdZ27nWFNVf73sLG6WTbgRmn8dhyzjA',
+    id: 76,
+    name: 'Broxie #76',
     attributes: [
       {
         trait_type: 'back',
@@ -3540,10 +3996,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSbkNsR3RzUXRewdZ27nWFNVf73sLG6WTbgRmn8dhyzjA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUQnsDv9HVQB3qAfsivdDuFCJU4upuoWwQZWx34cHiKzd',
+    address:
+      '0:f0a8aefc7e6ad1fa47f541d92f2e320221ad83d78a6d3aa05b21953d5656d3cb',
   },
   {
-    previewUrl: 'QmRST4mMJiezGeTM7kFrVETndvkTqFoXGgPVjKr3t9UqWb',
-    ipfsUrl: 'QmW8BBtAH7CcVTmUgZVUVEWzj4F6nvhm4Msk3n8aGkZfPN',
+    id: 77,
+    name: 'Broxie #77',
     attributes: [
       {
         trait_type: 'back',
@@ -3586,10 +4048,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW8BBtAH7CcVTmUgZVUVEWzj4F6nvhm4Msk3n8aGkZfPN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRST4mMJiezGeTM7kFrVETndvkTqFoXGgPVjKr3t9UqWb',
+    address:
+      '0:74b18ce2315124032b1046e438b4dcc4ea199f3f243cac8261880e2651c74f0d',
   },
   {
-    previewUrl: 'QmVg4nk5PXzws4AB74tn9DmxWHoU7Y3HKY8ky1aNFBfJao',
-    ipfsUrl: 'QmcpNwuptbij1hZG4AxYPfTwuwCg1xRi4kMEEHcvSkzHeM',
+    id: 78,
+    name: 'Broxie #78',
     attributes: [
       {
         trait_type: 'back',
@@ -3632,10 +4100,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcpNwuptbij1hZG4AxYPfTwuwCg1xRi4kMEEHcvSkzHeM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVg4nk5PXzws4AB74tn9DmxWHoU7Y3HKY8ky1aNFBfJao',
+    address:
+      '0:df554a348813c0234e4dab1c61fea62c6890a9510558199d7ca3b6a2c3417c63',
   },
   {
-    previewUrl: 'QmUBCQZcXgGa4Fj8KEtzkMdoPJRTcN6JbBNYKwhhRvPxHp',
-    ipfsUrl: 'QmR9WUM4DVf8U2GixsTvuzTvANSijb7RX51f1wrYogSiaS',
+    id: 79,
+    name: 'Broxie #79',
     attributes: [
       {
         trait_type: 'back',
@@ -3678,10 +4152,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR9WUM4DVf8U2GixsTvuzTvANSijb7RX51f1wrYogSiaS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUBCQZcXgGa4Fj8KEtzkMdoPJRTcN6JbBNYKwhhRvPxHp',
+    address:
+      '0:52bc934a1070a4f0e362d2d67cf976d24931e090ee9d3676ab332a80492530f4',
   },
   {
-    previewUrl: 'QmPy7ZVSbhAHS2kMJqsgdWbgtWnnZjhKBnA1ykcGK7KqiJ',
-    ipfsUrl: 'Qma5HkvGFBuRmLCthXrQ3geuf2wu9aA9oLNg6RHqdMuuhy',
+    id: 80,
+    name: 'Broxie #80',
     attributes: [
       {
         trait_type: 'back',
@@ -3724,10 +4204,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qma5HkvGFBuRmLCthXrQ3geuf2wu9aA9oLNg6RHqdMuuhy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPy7ZVSbhAHS2kMJqsgdWbgtWnnZjhKBnA1ykcGK7KqiJ',
+    address:
+      '0:74f71e7836518b621b5a324c74a4c5233d273baf8196c1f1fd6424244daf341e',
   },
   {
-    previewUrl: 'Qmb6xKnTx8ZfeMNVg66yKyUu7w4KpBo53XCZgUC39Tn9No',
-    ipfsUrl: 'QmYTLZW7RWsRc9oEYfy8WjzqujZHhFgcY88S5ojwbgbrkK',
+    id: 81,
+    name: 'Broxie #81',
     attributes: [
       {
         trait_type: 'back',
@@ -3770,10 +4256,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYTLZW7RWsRc9oEYfy8WjzqujZHhFgcY88S5ojwbgbrkK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb6xKnTx8ZfeMNVg66yKyUu7w4KpBo53XCZgUC39Tn9No',
+    address:
+      '0:df2fb3131bac9075cda240e3d8254471ad73f12de3f63cdd1d7e9f3027e1d2e1',
   },
   {
-    previewUrl: 'QmNdxMrV3DCVcsnGg87och1keQHmzdMx4rMxEnkS6X1jV9',
-    ipfsUrl: 'QmZAj91Mn918o4ciySppVeDh8VT5fADJ7Cun3KqVWNNcap',
+    id: 82,
+    name: 'Broxie #82',
     attributes: [
       {
         trait_type: 'back',
@@ -3816,10 +4308,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZAj91Mn918o4ciySppVeDh8VT5fADJ7Cun3KqVWNNcap',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNdxMrV3DCVcsnGg87och1keQHmzdMx4rMxEnkS6X1jV9',
+    address:
+      '0:c5ffed80b3440c32b63385a9f211fc93ce5d2c464e1bf3afd7089d7686e3c266',
   },
   {
-    previewUrl: 'QmYaG16Ahf47YGteucx37vxPpR3Bps7xXwkHY51fJZMYpG',
-    ipfsUrl: 'QmWp3RjoezmQzLS9U5Hzhi6vT7DchCeHqrNp4juwVkMvns',
+    id: 83,
+    name: 'Broxie #83',
     attributes: [
       {
         trait_type: 'back',
@@ -3862,10 +4360,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWp3RjoezmQzLS9U5Hzhi6vT7DchCeHqrNp4juwVkMvns',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYaG16Ahf47YGteucx37vxPpR3Bps7xXwkHY51fJZMYpG',
+    address:
+      '0:c1bc8a6e415ee73cdb34ddf592aa8fad7c85cc803465868fba759bc967892890',
   },
   {
-    previewUrl: 'Qme28JQ8BVmSFWXwzjEeFadTod67u2MhvPFMxvcdJkGCMb',
-    ipfsUrl: 'QmUKqeiRJGuaivgds5J37bvCZoauPb2kiwcKTgWJtzKRDu',
+    id: 84,
+    name: 'Broxie #84',
     attributes: [
       {
         trait_type: 'back',
@@ -3908,10 +4412,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUKqeiRJGuaivgds5J37bvCZoauPb2kiwcKTgWJtzKRDu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme28JQ8BVmSFWXwzjEeFadTod67u2MhvPFMxvcdJkGCMb',
+    address:
+      '0:032f73f417286e3422e020b82d7b59479d467765643793ac696b23c63eddc908',
   },
   {
-    previewUrl: 'QmQFeRjmcxe8F3QuUBtti9uZKRs8XCs3S5UjyFNnJnEems',
-    ipfsUrl: 'QmT3s574844XuHuoqSsnKChPxD9zYCvYEjmRsoEDXvAqLd',
+    id: 85,
+    name: 'Broxie #85',
     attributes: [
       {
         trait_type: 'back',
@@ -3954,10 +4464,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT3s574844XuHuoqSsnKChPxD9zYCvYEjmRsoEDXvAqLd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQFeRjmcxe8F3QuUBtti9uZKRs8XCs3S5UjyFNnJnEems',
+    address:
+      '0:d4be0b9da2ad10108438b109e1a2e4dba618cedea4505e74016bfde22272a3a8',
   },
   {
-    previewUrl: 'QmTXgEkW3FgHqLnRap6tdPwH5Gb3EZuxh3fyEee9EAtXvc',
-    ipfsUrl: 'QmeGbcsmBZW2GAS4A3aukKSLdUqhRxhCgcEbKZV1os6Cha',
+    id: 86,
+    name: 'Broxie #86',
     attributes: [
       {
         trait_type: 'back',
@@ -4000,10 +4516,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeGbcsmBZW2GAS4A3aukKSLdUqhRxhCgcEbKZV1os6Cha',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTXgEkW3FgHqLnRap6tdPwH5Gb3EZuxh3fyEee9EAtXvc',
+    address:
+      '0:6cc6263825f13a4a4046e155f5cbe62749b576fcdc12d3892fb16f2313e46860',
   },
   {
-    previewUrl: 'QmXH1bdKgyeWZFAUdjCuu8DnS9QeAFNx9Vc5aKJRYEPM4A',
-    ipfsUrl: 'QmSBXnXzaqNfEv2qYdpEbt9YRPeqnueuv8ecLuvKE6w5Bi',
+    id: 87,
+    name: 'Broxie #87',
     attributes: [
       {
         trait_type: 'back',
@@ -4046,10 +4568,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSBXnXzaqNfEv2qYdpEbt9YRPeqnueuv8ecLuvKE6w5Bi',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXH1bdKgyeWZFAUdjCuu8DnS9QeAFNx9Vc5aKJRYEPM4A',
+    address:
+      '0:930c07a533d7a91f68964e17e5602a3e9ccdc23522dd4f10ab423a63fe8eac7f',
   },
   {
-    previewUrl: 'QmQpnuBUHLUg1pk384E2WNgVCvk3XZfv1SYwHaDrtgymCy',
-    ipfsUrl: 'QmfNKW67JB8PvBdr7tFZfrFzUWkNBCaAvZu35FxuLZUUZB',
+    id: 88,
+    name: 'Broxie #88',
     attributes: [
       {
         trait_type: 'back',
@@ -4092,10 +4620,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfNKW67JB8PvBdr7tFZfrFzUWkNBCaAvZu35FxuLZUUZB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQpnuBUHLUg1pk384E2WNgVCvk3XZfv1SYwHaDrtgymCy',
+    address:
+      '0:4eb5cd628621038f4d1eef804b5985991a8603c06bf97239f8211882aab24fde',
   },
   {
-    previewUrl: 'QmQFxawNYF4rQ8n6sPnmLSEzD9hjHhzRA2CBkjdhvDJMcn',
-    ipfsUrl: 'QmdQesgMbyU4cWkao9pgFK7rY8PJYGuVkUCijRcAqA68Kz',
+    id: 89,
+    name: 'Broxie #89',
     attributes: [
       {
         trait_type: 'back',
@@ -4138,10 +4672,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdQesgMbyU4cWkao9pgFK7rY8PJYGuVkUCijRcAqA68Kz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQFxawNYF4rQ8n6sPnmLSEzD9hjHhzRA2CBkjdhvDJMcn',
+    address:
+      '0:d62549222fa76b29730410c9928e80b091d8cc85e5721c03ad33cebc1d3bdcaf',
   },
   {
-    previewUrl: 'QmUcg1iyZRwa9umV9bWHUFd3pcKPse4yGAHvj1h69vQX6J',
-    ipfsUrl: 'QmVhEXwPrjpKVmHZhZTGBgzhneuzmLYH8ERPrGVQ188qD2',
+    id: 90,
+    name: 'Broxie #90',
     attributes: [
       {
         trait_type: 'back',
@@ -4184,10 +4724,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVhEXwPrjpKVmHZhZTGBgzhneuzmLYH8ERPrGVQ188qD2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUcg1iyZRwa9umV9bWHUFd3pcKPse4yGAHvj1h69vQX6J',
+    address:
+      '0:a877a07565a30fc297fea386e331284081cb19d81339437a0f314b9da38f2a6f',
   },
   {
-    previewUrl: 'QmbGxmr2QMdpjGqNjpeSEBd7Mf9C1cZDL8ubBcQuGWzvhg',
-    ipfsUrl: 'QmQPttEAntXbCGNnWNz89j5whMWZzeFAMvGdTAB1drC7gf',
+    id: 91,
+    name: 'Broxie #91',
     attributes: [
       {
         trait_type: 'back',
@@ -4230,10 +4776,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQPttEAntXbCGNnWNz89j5whMWZzeFAMvGdTAB1drC7gf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbGxmr2QMdpjGqNjpeSEBd7Mf9C1cZDL8ubBcQuGWzvhg',
+    address:
+      '0:c69718ff76be0684441d130dbd1194a9908fee8a75e6837745b2e4ca8098a36e',
   },
   {
-    previewUrl: 'QmaxWewxRbcLvt8q7LYG4bWkmNhL7hFHFMsSML4jHrCGZX',
-    ipfsUrl: 'QmUWbSejDf7ka9ge2Nu1JgGtU97TxwcEbjfv1nMaQs32fo',
+    id: 92,
+    name: 'Broxie #92',
     attributes: [
       {
         trait_type: 'back',
@@ -4276,10 +4828,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUWbSejDf7ka9ge2Nu1JgGtU97TxwcEbjfv1nMaQs32fo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaxWewxRbcLvt8q7LYG4bWkmNhL7hFHFMsSML4jHrCGZX',
+    address:
+      '0:35a0697b07c6d7053ce17435c21ebd3b90018420247e278f22e178540eb4ccb5',
   },
   {
-    previewUrl: 'QmZFVQSzCFa23UnnMThN9FSQ7Q3Z3ZXiH1ShBxMMguw3Qr',
-    ipfsUrl: 'QmcxejJMYUsuyETTx6WHRg6khFrkwKY4TkRRK5jkaDgCmN',
+    id: 93,
+    name: 'Broxie #93',
     attributes: [
       {
         trait_type: 'back',
@@ -4322,10 +4880,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcxejJMYUsuyETTx6WHRg6khFrkwKY4TkRRK5jkaDgCmN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZFVQSzCFa23UnnMThN9FSQ7Q3Z3ZXiH1ShBxMMguw3Qr',
+    address:
+      '0:8ef8b511030b0739939ce4b5fc14ff2ec0f407cd8c8c814275a793713b2a7392',
   },
   {
-    previewUrl: 'QmYEg4TdvzHJ79wsGMWsMfb1ENCgFEZZbVnMWCajUoUiFi',
-    ipfsUrl: 'QmcVofviGxd7JQVSR3cX7uJfTXSyMDe7sBGuy8FX8eyXVW',
+    id: 94,
+    name: 'Broxie #94',
     attributes: [
       {
         trait_type: 'back',
@@ -4368,10 +4932,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcVofviGxd7JQVSR3cX7uJfTXSyMDe7sBGuy8FX8eyXVW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYEg4TdvzHJ79wsGMWsMfb1ENCgFEZZbVnMWCajUoUiFi',
+    address:
+      '0:5e002b874300b2d385334e7d9649418e099582f3d73d99ba423cfa71eaca420f',
   },
   {
-    previewUrl: 'QmaxwnAiVeXf6Fzoayw1Jb5afoKY7mQrKUEr4UW8bK1nYU',
-    ipfsUrl: 'QmdJNH6UZrsF7oF7Xaqn8oeUwKh36HwAFTTbuMYogkp8Pb',
+    id: 95,
+    name: 'Broxie #95',
     attributes: [
       {
         trait_type: 'back',
@@ -4414,10 +4984,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdJNH6UZrsF7oF7Xaqn8oeUwKh36HwAFTTbuMYogkp8Pb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaxwnAiVeXf6Fzoayw1Jb5afoKY7mQrKUEr4UW8bK1nYU',
+    address:
+      '0:cfe5af301373b4efde0643088234d03d6460281ac0d408972a8424d5eab3a9e7',
   },
   {
-    previewUrl: 'QmTK3igf6L4wotSa7M9X1Hw5cSKoU6WhxZDemK5ZDpvcTz',
-    ipfsUrl: 'QmPeEoVGRTm81kHHfZY5VXR5dKqEdrXPBGf1xfLFypQuyc',
+    id: 96,
+    name: 'Broxie #96',
     attributes: [
       {
         trait_type: 'back',
@@ -4460,10 +5036,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPeEoVGRTm81kHHfZY5VXR5dKqEdrXPBGf1xfLFypQuyc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTK3igf6L4wotSa7M9X1Hw5cSKoU6WhxZDemK5ZDpvcTz',
+    address:
+      '0:ed9030b577c3b8d31776e82a5c972ba83f03bbf130bb23d7359dabe40c07ee9b',
   },
   {
-    previewUrl: 'Qme1wFEqNs7dh1G4iTGCpPbi48eCquwniPaXNFu9Ej3Rmp',
-    ipfsUrl: 'QmWbGHB8MuzjfPUkjueAP8HGXYbEceEnF47hV3yKF8edM3',
+    id: 97,
+    name: 'Broxie #97',
     attributes: [
       {
         trait_type: 'back',
@@ -4506,10 +5088,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWbGHB8MuzjfPUkjueAP8HGXYbEceEnF47hV3yKF8edM3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme1wFEqNs7dh1G4iTGCpPbi48eCquwniPaXNFu9Ej3Rmp',
+    address:
+      '0:ffffb2fcb03c95baef337d77d95a6dc59513c38350f4086f018ab2c0a3970883',
   },
   {
-    previewUrl: 'QmeZp9FZoPAyLS536L89AnQxV8FProUC8oWK8MTqf26mEv',
-    ipfsUrl: 'QmRRGytg7QTJxR9S1tnKHjg5Y5KSBz9w3PsL43Z9waHzDr',
+    id: 98,
+    name: 'Broxie #98',
     attributes: [
       {
         trait_type: 'back',
@@ -4552,10 +5140,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRRGytg7QTJxR9S1tnKHjg5Y5KSBz9w3PsL43Z9waHzDr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeZp9FZoPAyLS536L89AnQxV8FProUC8oWK8MTqf26mEv',
+    address:
+      '0:6637582665d00b1f303e08d9c0979b6f0268a78597a8026bd81ea6fa944d2be1',
   },
   {
-    previewUrl: 'QmRSvQ8XGpAN8kk642aTJr4NpBfmyamrihsgULbRLeAD8r',
-    ipfsUrl: 'QmTa4pjRboMj5qgeokPovpGqRx3wzRFMWaRRYFmjAWaqsz',
+    id: 99,
+    name: 'Broxie #99',
     attributes: [
       {
         trait_type: 'back',
@@ -4598,10 +5192,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTa4pjRboMj5qgeokPovpGqRx3wzRFMWaRRYFmjAWaqsz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRSvQ8XGpAN8kk642aTJr4NpBfmyamrihsgULbRLeAD8r',
+    address:
+      '0:9b0066aeef0cb2547a601a753cae4355cb98ba028781e69726bf4d3b8784e9ce',
   },
   {
-    previewUrl: 'QmVgtoApYi3y9WUoArLvo4BRrRhzc5xehUzmtX8iTT7yRT',
-    ipfsUrl: 'QmS8KnWDTWAqzSC3XbfBDo48Q5HKAKJk6o8bF22rYHFcrf',
+    id: 100,
+    name: 'Broxie #100',
     attributes: [
       {
         trait_type: 'back',
@@ -4644,10 +5244,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmS8KnWDTWAqzSC3XbfBDo48Q5HKAKJk6o8bF22rYHFcrf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVgtoApYi3y9WUoArLvo4BRrRhzc5xehUzmtX8iTT7yRT',
+    address:
+      '0:45d193c7d55f6c65c0143a7d33f5a422f5a48adf916e400bb9da01282502bfaf',
   },
   {
-    previewUrl: 'QmehAjjpK5cMrC2BJDGRiJkFip7bNZApnFoHZhGkSQcYmw',
-    ipfsUrl: 'QmWYpH4ydW7QfPFtChyx7zb1LtmNBDSKNw6s7KqhwS7UfC',
+    id: 101,
+    name: 'Broxie #101',
     attributes: [
       {
         trait_type: 'back',
@@ -4690,10 +5296,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWYpH4ydW7QfPFtChyx7zb1LtmNBDSKNw6s7KqhwS7UfC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmehAjjpK5cMrC2BJDGRiJkFip7bNZApnFoHZhGkSQcYmw',
+    address:
+      '0:d7ad604065c1d185d733f25d7d3fd058ff82f5873eedd0e053caa801899d843c',
   },
   {
-    previewUrl: 'QmaLGN4SYXLSpRfPbd1tHcanWnME85TcDW3X6xN1v4FE2B',
-    ipfsUrl: 'QmZKcQ3p95RSGA4YmVFQMkbrv8SPg2SifFyif8wvyVY3bd',
+    id: 102,
+    name: 'Broxie #102',
     attributes: [
       {
         trait_type: 'back',
@@ -4736,10 +5348,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZKcQ3p95RSGA4YmVFQMkbrv8SPg2SifFyif8wvyVY3bd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaLGN4SYXLSpRfPbd1tHcanWnME85TcDW3X6xN1v4FE2B',
+    address:
+      '0:1d04515d9992ebc4e696f72abfa86b523259483718e856c2e677a2ddc8f2a9af',
   },
   {
-    previewUrl: 'QmcnjGWNRRAVK7xjRmxwaShY9ibYDBdSjTQv6a9mBivhhS',
-    ipfsUrl: 'QmPX1sTrp9fgJNSPjcEoSWE11zouC8wYvVYkBLSijwzSNR',
+    id: 103,
+    name: 'Broxie #103',
     attributes: [
       {
         trait_type: 'back',
@@ -4782,10 +5400,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPX1sTrp9fgJNSPjcEoSWE11zouC8wYvVYkBLSijwzSNR',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcnjGWNRRAVK7xjRmxwaShY9ibYDBdSjTQv6a9mBivhhS',
+    address:
+      '0:b734f4650e94b12789658628a2ba4bcde4426ae014ec0436dc5f5bdfe0fa4af4',
   },
   {
-    previewUrl: 'QmdmHSGqLXkiPG9m9gxoKTF7dnRRxeXcEPbUtdgrYXAj3A',
-    ipfsUrl: 'QmcPYKoZ1KfagmA4c4Lq3dBwxDLorHmrGiDKLgMnt6nLKE',
+    id: 104,
+    name: 'Broxie #104',
     attributes: [
       {
         trait_type: 'back',
@@ -4828,10 +5452,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcPYKoZ1KfagmA4c4Lq3dBwxDLorHmrGiDKLgMnt6nLKE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdmHSGqLXkiPG9m9gxoKTF7dnRRxeXcEPbUtdgrYXAj3A',
+    address:
+      '0:1b48f211015791c373a3f0be145be988e9775d882727d1316c395a13bd79c66b',
   },
   {
-    previewUrl: 'QmQMnSqCyEDU8RyvXqKCAdmxhdWvtZ8H354pE3Za5cSNgy',
-    ipfsUrl: 'QmNh1RM6Ho4KtA9rwVz7jmF428ajGrmPcKEqBFJuPxBuQv',
+    id: 105,
+    name: 'Broxie #105',
     attributes: [
       {
         trait_type: 'back',
@@ -4874,10 +5504,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNh1RM6Ho4KtA9rwVz7jmF428ajGrmPcKEqBFJuPxBuQv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQMnSqCyEDU8RyvXqKCAdmxhdWvtZ8H354pE3Za5cSNgy',
+    address:
+      '0:c5effc21032c4344d09e72a4c9d37b326a90d1b1852e61d36d416e75b9b6ca2d',
   },
   {
-    previewUrl: 'QmYwq7TfE8wwv5jDpHT5m1VHUtcDy1RejhoQXo4aWDmabc',
-    ipfsUrl: 'QmfE56iG2YKPrm73u5xaTAuSSEVDNSTdvgJkmUL22STi7E',
+    id: 106,
+    name: 'Broxie #106',
     attributes: [
       {
         trait_type: 'back',
@@ -4920,10 +5556,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfE56iG2YKPrm73u5xaTAuSSEVDNSTdvgJkmUL22STi7E',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYwq7TfE8wwv5jDpHT5m1VHUtcDy1RejhoQXo4aWDmabc',
+    address:
+      '0:7bbc33021262e076962bc24350a472d01163aab0398855117127b71f662766e4',
   },
   {
-    previewUrl: 'QmXmFiqjoPBUDPj8Q3t5BryBH7y5Va1gQLzNezZoS66Krp',
-    ipfsUrl: 'QmZeMLGVtV5xLkEAAN6PCt6obi5NvGrNQUy2sCm1j8HBMg',
+    id: 107,
+    name: 'Broxie #107',
     attributes: [
       {
         trait_type: 'back',
@@ -4966,10 +5608,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZeMLGVtV5xLkEAAN6PCt6obi5NvGrNQUy2sCm1j8HBMg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXmFiqjoPBUDPj8Q3t5BryBH7y5Va1gQLzNezZoS66Krp',
+    address:
+      '0:52dbd32cc7f7d1a50e779a84e3359e4b2685452e8d75880be30c0d0e0c9082c2',
   },
   {
-    previewUrl: 'Qme9xmfW6YRcfZRk1XvXXPb5TAsLwB7z74XWjdZ6MVeQJU',
-    ipfsUrl: 'QmYEtyJGpJLynFxcNoeBc58ZjU7p6tBnP9hHSkEqcwv1UB',
+    id: 108,
+    name: 'Broxie #108',
     attributes: [
       {
         trait_type: 'back',
@@ -5012,10 +5660,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYEtyJGpJLynFxcNoeBc58ZjU7p6tBnP9hHSkEqcwv1UB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme9xmfW6YRcfZRk1XvXXPb5TAsLwB7z74XWjdZ6MVeQJU',
+    address:
+      '0:0e81a5c2ba6986106a9dab1a0c010ae90a918200a6000eb1a0fd7970fda871d1',
   },
   {
-    previewUrl: 'QmX7oaewEYU6mJKdYSyK8WdEeqh4KHsxieuwXnhPykBuZG',
-    ipfsUrl: 'QmVRw8jReHiX95NppHZtpVCY2GZ4xtzHsVrJqEN5UyUsaF',
+    id: 109,
+    name: 'Broxie #109',
     attributes: [
       {
         trait_type: 'back',
@@ -5058,10 +5712,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVRw8jReHiX95NppHZtpVCY2GZ4xtzHsVrJqEN5UyUsaF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmX7oaewEYU6mJKdYSyK8WdEeqh4KHsxieuwXnhPykBuZG',
+    address:
+      '0:45464eddac81963ca5268f80e1455facb9c70db8179b043ec408b5e2385a0e49',
   },
   {
-    previewUrl: 'QmPqsg5z7Wh6SATAFbWx7wLmqrocJVsimvzArxt3EHfAyF',
-    ipfsUrl: 'QmNdk3egndYdBZVBRT2pVfAejrQ6SW5i4HPoFXEENePdzo',
+    id: 110,
+    name: 'Broxie #110',
     attributes: [
       {
         trait_type: 'back',
@@ -5104,10 +5764,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNdk3egndYdBZVBRT2pVfAejrQ6SW5i4HPoFXEENePdzo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPqsg5z7Wh6SATAFbWx7wLmqrocJVsimvzArxt3EHfAyF',
+    address:
+      '0:07956e08b78058781d1996d93534bcc6bb1e326df88bf763e9c699e7c618b484',
   },
   {
-    previewUrl: 'QmdyzfzRdmc9cSbn9Gui4eXccU6tu1KPDherqjPLQPEH8b',
-    ipfsUrl: 'QmdZ7wdmeyqr2uR1XND8qQTj4MrfRLVZxCG7oyU5KuQQHT',
+    id: 111,
+    name: 'Broxie #111',
     attributes: [
       {
         trait_type: 'back',
@@ -5150,10 +5816,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdZ7wdmeyqr2uR1XND8qQTj4MrfRLVZxCG7oyU5KuQQHT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdyzfzRdmc9cSbn9Gui4eXccU6tu1KPDherqjPLQPEH8b',
+    address:
+      '0:931b635a62372123e8a9a2c3a5d77c24dbb282a9c1706d14ebf149e537023209',
   },
   {
-    previewUrl: 'QmdzmWfFigjZgswvFFWuN5sKmz6h3Bdk7tMXb6nE4edCKt',
-    ipfsUrl: 'QmZ8zywHibSbijubv3uN2y7hrKVv2RvHvQgeHbAuhNh6Hq',
+    id: 112,
+    name: 'Broxie #112',
     attributes: [
       {
         trait_type: 'back',
@@ -5196,10 +5868,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ8zywHibSbijubv3uN2y7hrKVv2RvHvQgeHbAuhNh6Hq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdzmWfFigjZgswvFFWuN5sKmz6h3Bdk7tMXb6nE4edCKt',
+    address:
+      '0:c4274f7cb75cfc520c3edf6fe70bc06b8f7c6a19d0e7fae516e8b52ab5a68fbb',
   },
   {
-    previewUrl: 'QmaAo5B25U3q2k95CEPzTHfrv4Voi3kPfDFpVDaj4Jhb5W',
-    ipfsUrl: 'QmfEGanC2soe5zyXorLhg5MS6YHxXQF451FskrNHewL23F',
+    id: 113,
+    name: 'Broxie #113',
     attributes: [
       {
         trait_type: 'back',
@@ -5242,10 +5920,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfEGanC2soe5zyXorLhg5MS6YHxXQF451FskrNHewL23F',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaAo5B25U3q2k95CEPzTHfrv4Voi3kPfDFpVDaj4Jhb5W',
+    address:
+      '0:8c022f234d05fedfbeafa211be5bd1560beae46a9b1e644f3832066d5ee8d52b',
   },
   {
-    previewUrl: 'Qme3teC5mewKj7TKtHYCPY3XAd8RepBPzxmfsg6WsMDjMu',
-    ipfsUrl: 'QmZE8mbicL7URMBjeh8PtBxXjSHcncYWv2ssTMoWfVHLgb',
+    id: 114,
+    name: 'Broxie #114',
     attributes: [
       {
         trait_type: 'back',
@@ -5288,10 +5972,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZE8mbicL7URMBjeh8PtBxXjSHcncYWv2ssTMoWfVHLgb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme3teC5mewKj7TKtHYCPY3XAd8RepBPzxmfsg6WsMDjMu',
+    address:
+      '0:e0628ae61413a3018aa2761d79108d578b8df18a5c8f978995d054f82cc54a34',
   },
   {
-    previewUrl: 'QmWcgxRLvDVBGKK8JWG3juStqCBMwSfbouyF3er5Uwxx4i',
-    ipfsUrl: 'QmU8QE9hsvDypxxE7hpfWCGEKtg1aE5QVoEtoCSKTtuzCz',
+    id: 115,
+    name: 'Broxie #115',
     attributes: [
       {
         trait_type: 'back',
@@ -5334,10 +6024,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU8QE9hsvDypxxE7hpfWCGEKtg1aE5QVoEtoCSKTtuzCz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWcgxRLvDVBGKK8JWG3juStqCBMwSfbouyF3er5Uwxx4i',
+    address:
+      '0:445250f72021b67a14ecb1adfdd4b7674a4408e5a29954000db9c80820c4f44a',
   },
   {
-    previewUrl: 'QmRnzFPiLnKC45wJP7nG6qW3WtduXgkjdQGdJP8GGXiVLX',
-    ipfsUrl: 'QmZRzhfVJ7GBSq8scuYrty6x3z6oPhryEctWgkLecDFzDH',
+    id: 116,
+    name: 'Broxie #116',
     attributes: [
       {
         trait_type: 'back',
@@ -5380,10 +6076,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZRzhfVJ7GBSq8scuYrty6x3z6oPhryEctWgkLecDFzDH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRnzFPiLnKC45wJP7nG6qW3WtduXgkjdQGdJP8GGXiVLX',
+    address:
+      '0:9cf7ea0c5d9adeef02ae5c4e97a0cd4f7a2ee52168e656756fbc23e6e19abcdb',
   },
   {
-    previewUrl: 'QmZaB1qghWVZri4cyPyoxhWuSZqW19GciULNiHoCrECoL8',
-    ipfsUrl: 'QmUDuSKFymkQzMkuJh1ZZC9CKLgkH7BTzYqoZtCQ9neWkT',
+    id: 117,
+    name: 'Broxie #117',
     attributes: [
       {
         trait_type: 'back',
@@ -5426,10 +6128,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUDuSKFymkQzMkuJh1ZZC9CKLgkH7BTzYqoZtCQ9neWkT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZaB1qghWVZri4cyPyoxhWuSZqW19GciULNiHoCrECoL8',
+    address:
+      '0:33bf112a36980f6bef1d0ef6ce528485b04632e95948d11df88289cec021dd46',
   },
   {
-    previewUrl: 'QmRq95G1vTADzb5fnn73Zg2w3ThjRtTcUG1915gEBCrNhJ',
-    ipfsUrl: 'QmXGmN5CnBdzHcridH5uJ4pFv6zudy9cUxJyiQtn7S1Pzj',
+    id: 118,
+    name: 'Broxie #118',
     attributes: [
       {
         trait_type: 'back',
@@ -5472,10 +6180,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXGmN5CnBdzHcridH5uJ4pFv6zudy9cUxJyiQtn7S1Pzj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRq95G1vTADzb5fnn73Zg2w3ThjRtTcUG1915gEBCrNhJ',
+    address:
+      '0:d3f8f139c60e6cd8bdd61f63336bf2e7a1789d4f940b9c5f75379354e210e9df',
   },
   {
-    previewUrl: 'QmYyCLpJCSnR85MK8WnQ8sj55AEp5bmGnHMnJLRHYw54sM',
-    ipfsUrl: 'QmcHwz8Yqnj2es9HQENGx4xmTj7EUnQ6t2Fyj4h9KM78rR',
+    id: 119,
+    name: 'Broxie #119',
     attributes: [
       {
         trait_type: 'back',
@@ -5518,10 +6232,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcHwz8Yqnj2es9HQENGx4xmTj7EUnQ6t2Fyj4h9KM78rR',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYyCLpJCSnR85MK8WnQ8sj55AEp5bmGnHMnJLRHYw54sM',
+    address:
+      '0:54b9a9954237bfdbdaf81ba0c14ca501938659ccfaf5df4babf91609a3618fe6',
   },
   {
-    previewUrl: 'QmPPKaD3pzNWiVMzQJ7wpsKSpSq2ypqmfk3hckJw6teQqH',
-    ipfsUrl: 'QmbUqK5jds5SjuXjHHR6LM8jSR5t9imwg6FAH4HEvoS4f5',
+    id: 120,
+    name: 'Broxie #120',
     attributes: [
       {
         trait_type: 'back',
@@ -5564,10 +6284,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbUqK5jds5SjuXjHHR6LM8jSR5t9imwg6FAH4HEvoS4f5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPPKaD3pzNWiVMzQJ7wpsKSpSq2ypqmfk3hckJw6teQqH',
+    address:
+      '0:39def9eed07e80262797ea6aedef968f525137f3ff4ec55f9d86df77d51e6ba5',
   },
   {
-    previewUrl: 'QmPCaMfYtUExiap8BXdFg9pEWNTWPx3oZqyEDRKWCNKfxk',
-    ipfsUrl: 'QmdnwYfobW8taWqyFi2hYrSbkC4tBdg5e5LMCJJbaWtRm3',
+    id: 121,
+    name: 'Broxie #121',
     attributes: [
       {
         trait_type: 'back',
@@ -5610,10 +6336,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdnwYfobW8taWqyFi2hYrSbkC4tBdg5e5LMCJJbaWtRm3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPCaMfYtUExiap8BXdFg9pEWNTWPx3oZqyEDRKWCNKfxk',
+    address:
+      '0:20ede61fcf2e5de212851da9b3d60387113bb8f04c50fb75dd4f027f3aea4348',
   },
   {
-    previewUrl: 'QmZPRxGJm8Z2bDAauH7LzpgeKr8XsGv5oZW41XCVfbvs12',
-    ipfsUrl: 'QmVB5Z98dRQ4QL67SauGWkURbGy1keP5mLMRyuvnL9YhCr',
+    id: 122,
+    name: 'Broxie #122',
     attributes: [
       {
         trait_type: 'back',
@@ -5656,10 +6388,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVB5Z98dRQ4QL67SauGWkURbGy1keP5mLMRyuvnL9YhCr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZPRxGJm8Z2bDAauH7LzpgeKr8XsGv5oZW41XCVfbvs12',
+    address:
+      '0:d07808eb9e75ef310bf226a3dc4f98912ca43cd8e8f91964edb1c6f387a241f6',
   },
   {
-    previewUrl: 'QmS3nySFeJ5ZX2o4FscHjNCL6YEGCzJ9dTnGgX54sdqZre',
-    ipfsUrl: 'QmfN3By2vekzLjsNqkb2a8AabFp5a6TLNNmkBpCUUctTxc',
+    id: 123,
+    name: 'Broxie #123',
     attributes: [
       {
         trait_type: 'back',
@@ -5702,10 +6440,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfN3By2vekzLjsNqkb2a8AabFp5a6TLNNmkBpCUUctTxc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS3nySFeJ5ZX2o4FscHjNCL6YEGCzJ9dTnGgX54sdqZre',
+    address:
+      '0:9247278b2c287a4562c57c5899a085d6a69477e6698e7f8a90627a055c5ed644',
   },
   {
-    previewUrl: 'QmVo93JE7WHEMPQsKbjoQQxybSAWLg7s1jmDCT9hkHTZJ7',
-    ipfsUrl: 'Qmbf7REpvWXQnhoVdbHp4bdVATZQDHDS8kNi2VQmsii972',
+    id: 124,
+    name: 'Broxie #124',
     attributes: [
       {
         trait_type: 'back',
@@ -5748,10 +6492,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbf7REpvWXQnhoVdbHp4bdVATZQDHDS8kNi2VQmsii972',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVo93JE7WHEMPQsKbjoQQxybSAWLg7s1jmDCT9hkHTZJ7',
+    address:
+      '0:2e8f2ad42af71929e8b08e69d3a663d15aeca0d29acb870d74a9662d3cf8aa9a',
   },
   {
-    previewUrl: 'QmWq7wigsseNhBw6vXz8RPF4S8tRn2DRfoNEepTkBJdW3k',
-    ipfsUrl: 'QmVVwFGb3XVvpzvdFdAmhTsQLx19CcCrmQ6Hx5ZFrRML1d',
+    id: 125,
+    name: 'Broxie #125',
     attributes: [
       {
         trait_type: 'back',
@@ -5794,10 +6544,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVVwFGb3XVvpzvdFdAmhTsQLx19CcCrmQ6Hx5ZFrRML1d',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWq7wigsseNhBw6vXz8RPF4S8tRn2DRfoNEepTkBJdW3k',
+    address:
+      '0:0c41678f2ed9aaa37547dee18e784d9a1726b57687709c850308f333f8872a40',
   },
   {
-    previewUrl: 'QmWNFFw1xNL2wDPbaRkLHFN1cqtntThhRfniiB1W4Kzowf',
-    ipfsUrl: 'QmY7siAdem2QUJssnz5wTSzrmoAKG168ZUTmEeuU7jVcnW',
+    id: 126,
+    name: 'Broxie #126',
     attributes: [
       {
         trait_type: 'back',
@@ -5840,10 +6596,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY7siAdem2QUJssnz5wTSzrmoAKG168ZUTmEeuU7jVcnW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWNFFw1xNL2wDPbaRkLHFN1cqtntThhRfniiB1W4Kzowf',
+    address:
+      '0:1debaf99e6ae81aff343246f1f6d90fe527dbba9a2a53bcb88083d5c2eddfce5',
   },
   {
-    previewUrl: 'QmaadFTv8gFA9DYr68d8Ti42S2Gd3LZBrVcEjmC7QsjzQk',
-    ipfsUrl: 'QmaWD2TDv3uN8kCdeuh6cH4kxvauBVrcZGiauJLCuozLQw',
+    id: 127,
+    name: 'Broxie #127',
     attributes: [
       {
         trait_type: 'back',
@@ -5886,10 +6648,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaWD2TDv3uN8kCdeuh6cH4kxvauBVrcZGiauJLCuozLQw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaadFTv8gFA9DYr68d8Ti42S2Gd3LZBrVcEjmC7QsjzQk',
+    address:
+      '0:91980df5002ba36a83d3e72756f61f585eabbdd4b703661ebd2e6b9d7e46b3c2',
   },
   {
-    previewUrl: 'QmNLurU69CEU5qkush8KfVFzs5uQg2tusshv4iNS1arKik',
-    ipfsUrl: 'QmeHsUdPuza9XcNsYGbnLKN3yxbT9f2jQHTp3e5jceyZPk',
+    id: 128,
+    name: 'Broxie #128',
     attributes: [
       {
         trait_type: 'back',
@@ -5932,10 +6700,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeHsUdPuza9XcNsYGbnLKN3yxbT9f2jQHTp3e5jceyZPk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNLurU69CEU5qkush8KfVFzs5uQg2tusshv4iNS1arKik',
+    address:
+      '0:c6f418dea9f3f745f73d8f403a3f026f53ef99bd12e2bb8004c828bd48d1cc7d',
   },
   {
-    previewUrl: 'QmQxz6TJcBbtgvS3ZN8hM1rauJCyd3XxsyWCmgf54EsQ5n',
-    ipfsUrl: 'QmRRiDvRtasZkZQGPL3vQ9AY4Yof99cTGQ6Y8h52FpMERb',
+    id: 129,
+    name: 'Broxie #129',
     attributes: [
       {
         trait_type: 'back',
@@ -5978,10 +6752,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRRiDvRtasZkZQGPL3vQ9AY4Yof99cTGQ6Y8h52FpMERb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQxz6TJcBbtgvS3ZN8hM1rauJCyd3XxsyWCmgf54EsQ5n',
+    address:
+      '0:56be47ee33b601387951a8ab362f9ce1a6eeb4cfa0cbd2df35b30692d5d04a0d',
   },
   {
-    previewUrl: 'QmY5vVad8q6jKZ98wCWMDhL9BziKFb3vn8fNEYAJtdd9oo',
-    ipfsUrl: 'QmTCH48fgizmAAZN6iFVS8mcFqVrB5LgZ61JSZanbS32sE',
+    id: 130,
+    name: 'Broxie #130',
     attributes: [
       {
         trait_type: 'back',
@@ -6024,10 +6804,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTCH48fgizmAAZN6iFVS8mcFqVrB5LgZ61JSZanbS32sE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmY5vVad8q6jKZ98wCWMDhL9BziKFb3vn8fNEYAJtdd9oo',
+    address:
+      '0:e69b68c5de8b1bf6f1ff39c71f6332dd98178466b56fd2bf92d2fa4a1c036a3b',
   },
   {
-    previewUrl: 'QmcLa73Zt5bjXGjoPEwBGHqZMEPhsWHzJnUgMLyGRAJHBF',
-    ipfsUrl: 'QmQzULYENe3zw37mRaMPnPky5FzaFhFtnTjNLhLEozQJfU',
+    id: 131,
+    name: 'Broxie #131',
     attributes: [
       {
         trait_type: 'back',
@@ -6070,10 +6856,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQzULYENe3zw37mRaMPnPky5FzaFhFtnTjNLhLEozQJfU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcLa73Zt5bjXGjoPEwBGHqZMEPhsWHzJnUgMLyGRAJHBF',
+    address:
+      '0:0aa3581f61d67c6f3e3d986ce0c5e4ed4034abbb2eee3e5151eaab28b7fa02d8',
   },
   {
-    previewUrl: 'QmRovnp29VZZcuPUCjNvkRtxnbD8vuU1RJkP7i4NCMVxBv',
-    ipfsUrl: 'QmcwRmsJW9dtKfARkcH5bF9r9Hz9iX4wp4SJ3a3NXyJn93',
+    id: 132,
+    name: 'Broxie #132',
     attributes: [
       {
         trait_type: 'back',
@@ -6116,10 +6908,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcwRmsJW9dtKfARkcH5bF9r9Hz9iX4wp4SJ3a3NXyJn93',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRovnp29VZZcuPUCjNvkRtxnbD8vuU1RJkP7i4NCMVxBv',
+    address:
+      '0:c19503d3f4bb9440471618a0528f8ab467de2ac4c81f25d82560e8382b4a394f',
   },
   {
-    previewUrl: 'QmUNiXa1a7mNa4WXcmpTBNdUpyxwt2CSQ4rCL17gW9MmVH',
-    ipfsUrl: 'QmXcb9MRUiHC8cWYm88RHfzMxx4DvDdCzvCJwLFbfyKVrQ',
+    id: 133,
+    name: 'Broxie #133',
     attributes: [
       {
         trait_type: 'back',
@@ -6162,10 +6960,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXcb9MRUiHC8cWYm88RHfzMxx4DvDdCzvCJwLFbfyKVrQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUNiXa1a7mNa4WXcmpTBNdUpyxwt2CSQ4rCL17gW9MmVH',
+    address:
+      '0:0255a26baace095f91704d9250dc2f825d161ad0bbcb624ef5420118aa8f95f7',
   },
   {
-    previewUrl: 'QmUwAQmgBfeqPYfkW282yUBUMyHzr5JSqFrmYXGdyjMt3J',
-    ipfsUrl: 'QmbLaSb4ZL9QREgdJKhx7HtS4upoCnVe5pQos1UoYW67HH',
+    id: 134,
+    name: 'Broxie #134',
     attributes: [
       {
         trait_type: 'back',
@@ -6208,10 +7012,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbLaSb4ZL9QREgdJKhx7HtS4upoCnVe5pQos1UoYW67HH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUwAQmgBfeqPYfkW282yUBUMyHzr5JSqFrmYXGdyjMt3J',
+    address:
+      '0:c24a04fc408001005627479242a56bd6bb563164d6849cc135639cb8a01c768b',
   },
   {
-    previewUrl: 'QmSZcN6pa2aUVJLHMYAT7cFdJX5CZXU7Zc9X9gGJwPxkf2',
-    ipfsUrl: 'QmZ3mjBxGLeZcKVpgjVA3MjjynVmE6WkQcurRxQM4VBNey',
+    id: 135,
+    name: 'Broxie #135',
     attributes: [
       {
         trait_type: 'back',
@@ -6254,10 +7064,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ3mjBxGLeZcKVpgjVA3MjjynVmE6WkQcurRxQM4VBNey',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSZcN6pa2aUVJLHMYAT7cFdJX5CZXU7Zc9X9gGJwPxkf2',
+    address:
+      '0:c6753fa42fe1ba3757c5be75025078bc306f797a91c1d662b23f7727f38b4c7a',
   },
   {
-    previewUrl: 'QmYQCp3qcW7z5hoyrUwKpFEGpvXUkhYRWEEujokF9NhvNS',
-    ipfsUrl: 'QmXXXy8kDfFEJxWs9piaJrsvVRD4vSCvxqg8ZYYHgFwXj5',
+    id: 136,
+    name: 'Broxie #136',
     attributes: [
       {
         trait_type: 'back',
@@ -6300,10 +7116,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXXXy8kDfFEJxWs9piaJrsvVRD4vSCvxqg8ZYYHgFwXj5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYQCp3qcW7z5hoyrUwKpFEGpvXUkhYRWEEujokF9NhvNS',
+    address:
+      '0:159f96a77f74811d67ac3da514c8dd70c05bcc37e64578f0ccefba65cc5d9666',
   },
   {
-    previewUrl: 'QmfB4qeBLJ9LFyWmHN31ms18CjqEbU38NDgoXHigPGGhBK',
-    ipfsUrl: 'QmXMsstAWwVZqyAMT2fTbPjiPyk1xLFjUxfeoopV2SMyXy',
+    id: 137,
+    name: 'Broxie #137',
     attributes: [
       {
         trait_type: 'back',
@@ -6346,10 +7168,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXMsstAWwVZqyAMT2fTbPjiPyk1xLFjUxfeoopV2SMyXy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfB4qeBLJ9LFyWmHN31ms18CjqEbU38NDgoXHigPGGhBK',
+    address:
+      '0:414b223ba335ed4ff09e49e456c181db3de58a629e261a7e030dc33641a12657',
   },
   {
-    previewUrl: 'QmXZVdXBRoaXqSXU4E1RDaHNh2eqXorF7VVpN2krtBFUYZ',
-    ipfsUrl: 'QmVkuMNuWTxGd2WLhQV5tkKcizzug3UgvvYTMT37pLSBLc',
+    id: 138,
+    name: 'Broxie #138',
     attributes: [
       {
         trait_type: 'back',
@@ -6392,10 +7220,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVkuMNuWTxGd2WLhQV5tkKcizzug3UgvvYTMT37pLSBLc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXZVdXBRoaXqSXU4E1RDaHNh2eqXorF7VVpN2krtBFUYZ',
+    address:
+      '0:8b8daa97e4e35c3ab56ad70e6e6ac7fdccf1e49282c1050ac7bdf5e0291123f1',
   },
   {
-    previewUrl: 'QmbixtKW6shdBqiCPVmhuLeveKA3e5NaLzvGMwem8dh45U',
-    ipfsUrl: 'QmYQjEQxvD4BXsFhG7faE5VQPZUbmN2fsgrYB7pQhFG1tt',
+    id: 139,
+    name: 'Broxie #139',
     attributes: [
       {
         trait_type: 'back',
@@ -6438,10 +7272,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYQjEQxvD4BXsFhG7faE5VQPZUbmN2fsgrYB7pQhFG1tt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbixtKW6shdBqiCPVmhuLeveKA3e5NaLzvGMwem8dh45U',
+    address:
+      '0:ea7a25e2c7c4e8befe317b2246dd300f7c29fb4c694874dd3aca47b5c4b6c059',
   },
   {
-    previewUrl: 'QmRuny18U4k72MxWSGWWJfUUticgpVsUpmP7QSwdbd4s2P',
-    ipfsUrl: 'QmPBHGsFmaj6EAmJHmGiLHK4xQBrqTBESD3uXfgDL81o1W',
+    id: 140,
+    name: 'Broxie #140',
     attributes: [
       {
         trait_type: 'back',
@@ -6484,10 +7324,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPBHGsFmaj6EAmJHmGiLHK4xQBrqTBESD3uXfgDL81o1W',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRuny18U4k72MxWSGWWJfUUticgpVsUpmP7QSwdbd4s2P',
+    address:
+      '0:617f9e4a4d003154fcdf53a587638f945c6dfe7a42a956c599f6d2763149e452',
   },
   {
-    previewUrl: 'Qmd2HrJex95s3x5QZfAe2cBEyrU68YKXfHx6Ws3ae63yH7',
-    ipfsUrl: 'QmNYcz6aimGnpMEqETN8YyoYnnedZcNK8Eoaim5zHuntf7',
+    id: 141,
+    name: 'Broxie #141',
     attributes: [
       {
         trait_type: 'back',
@@ -6530,10 +7376,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNYcz6aimGnpMEqETN8YyoYnnedZcNK8Eoaim5zHuntf7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd2HrJex95s3x5QZfAe2cBEyrU68YKXfHx6Ws3ae63yH7',
+    address:
+      '0:608b104920a903e066273fb4d61c134d01300a0328c680dfcc31c2906495ea84',
   },
   {
-    previewUrl: 'QmfScLVHF8uXDp9DHbw2sgP146JCcjei9MLKYBgbzdiYdY',
-    ipfsUrl: 'QmYR9YfrBMnsbRFfvFtBDy7fomthcGCUDUwZ6gm3H81o8S',
+    id: 142,
+    name: 'Broxie #142',
     attributes: [
       {
         trait_type: 'back',
@@ -6576,10 +7428,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYR9YfrBMnsbRFfvFtBDy7fomthcGCUDUwZ6gm3H81o8S',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfScLVHF8uXDp9DHbw2sgP146JCcjei9MLKYBgbzdiYdY',
+    address:
+      '0:7b3d9fe0494d79ddbe5220df806ebda7e24c4ee5cf42f0742e1d414415c39b97',
   },
   {
-    previewUrl: 'QmeKRce1aihDS4Ct7LT4aZok921Gb2DFPKUbittkiPk9fY',
-    ipfsUrl: 'QmVHiVCXq8eXCnDftMX7CTvrRYLaWkZqGJKUuAy9dz3xix',
+    id: 143,
+    name: 'Broxie #143',
     attributes: [
       {
         trait_type: 'back',
@@ -6622,10 +7480,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVHiVCXq8eXCnDftMX7CTvrRYLaWkZqGJKUuAy9dz3xix',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeKRce1aihDS4Ct7LT4aZok921Gb2DFPKUbittkiPk9fY',
+    address:
+      '0:8ca0349ff87c086f2930170cfa3a92c96b28e00ef83b544c919e0230c1235b92',
   },
   {
-    previewUrl: 'QmS7xxAZDecjduNMJgRXkpBMoGvXknAMsgaLDo6Uka4XFi',
-    ipfsUrl: 'QmRLRyjVRNdX1HH3FhCE52g7Wx9tzMPTE7ZfPp9iPxWLmb',
+    id: 144,
+    name: 'Broxie #144',
     attributes: [
       {
         trait_type: 'back',
@@ -6668,10 +7532,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRLRyjVRNdX1HH3FhCE52g7Wx9tzMPTE7ZfPp9iPxWLmb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS7xxAZDecjduNMJgRXkpBMoGvXknAMsgaLDo6Uka4XFi',
+    address:
+      '0:5f5d43c5c9663a5b92b2d4e81cf7233d1d215e54504b704bb6c015af096527ca',
   },
   {
-    previewUrl: 'QmUBjWNGhToJmakNDVMqnFuEg5PLYsPBKxxsd5EErn7ALm',
-    ipfsUrl: 'QmS5JH7BP7NLk3XMtS1EBrEm8AQAPeV3Zn1GNnmsSQaRYx',
+    id: 145,
+    name: 'Broxie #145',
     attributes: [
       {
         trait_type: 'back',
@@ -6714,10 +7584,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmS5JH7BP7NLk3XMtS1EBrEm8AQAPeV3Zn1GNnmsSQaRYx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUBjWNGhToJmakNDVMqnFuEg5PLYsPBKxxsd5EErn7ALm',
+    address:
+      '0:b99338e2ad58f735cf1c771f9817e29dc2b722cffa1d05162536a9988ead8373',
   },
   {
-    previewUrl: 'QmQW1w6y5mToCtACrNnLTHo8vkTGXRX2Kk2BFqfi5CJHzs',
-    ipfsUrl: 'QmerpYppjcB9LHEseodRjyP1Mffu3DyYnGFvxW4AUEAQcc',
+    id: 146,
+    name: 'Broxie #146',
     attributes: [
       {
         trait_type: 'back',
@@ -6760,10 +7636,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmerpYppjcB9LHEseodRjyP1Mffu3DyYnGFvxW4AUEAQcc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQW1w6y5mToCtACrNnLTHo8vkTGXRX2Kk2BFqfi5CJHzs',
+    address:
+      '0:e56047f87dc8b2b2ddd5c738a301d27cc5c769ea26316fa16aa7f1f68353947e',
   },
   {
-    previewUrl: 'QmZSVUhYiE4TQUKoGjnYUU4JEYJt27oK7wN6Qf3gdB5ymM',
-    ipfsUrl: 'QmWpmgo6QAQTUT4nefrjYvwo1ddKcx2QXGaGELvNXSyjpJ',
+    id: 147,
+    name: 'Broxie #147',
     attributes: [
       {
         trait_type: 'back',
@@ -6806,10 +7688,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWpmgo6QAQTUT4nefrjYvwo1ddKcx2QXGaGELvNXSyjpJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZSVUhYiE4TQUKoGjnYUU4JEYJt27oK7wN6Qf3gdB5ymM',
+    address:
+      '0:f472b78f51a2f9c71563bba98954c0d5b2e5a740e8dc196e7d1a1b194be242fd',
   },
   {
-    previewUrl: 'QmaLffdU2U6Byji33TX9Bi55RQubqezeM8RotduuKr52sT',
-    ipfsUrl: 'QmQsSyVgrC18CxeykFw3LzzQ7Sp7acntpgu4veyZjaFFVx',
+    id: 148,
+    name: 'Broxie #148',
     attributes: [
       {
         trait_type: 'back',
@@ -6852,10 +7740,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQsSyVgrC18CxeykFw3LzzQ7Sp7acntpgu4veyZjaFFVx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaLffdU2U6Byji33TX9Bi55RQubqezeM8RotduuKr52sT',
+    address:
+      '0:0d6aa15d7097ee3c076eb2c227e5125016a39bfe089a01595d9ce00548d2b633',
   },
   {
-    previewUrl: 'QmV8LUMzJudwhXZhhMek7gmX8gzm32BS4sRrziTkMoPqEM',
-    ipfsUrl: 'QmXgzTXMCyVijgq2t7A3jRTLDmbHmHYg8AgbsUD56ZCJwj',
+    id: 149,
+    name: 'Broxie #149',
     attributes: [
       {
         trait_type: 'back',
@@ -6898,10 +7792,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXgzTXMCyVijgq2t7A3jRTLDmbHmHYg8AgbsUD56ZCJwj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV8LUMzJudwhXZhhMek7gmX8gzm32BS4sRrziTkMoPqEM',
+    address:
+      '0:384ca496086e711d8774a63be809e7d08e38b8e19da47c6f1e32b46595df3d1a',
   },
   {
-    previewUrl: 'QmXR46NQmiGqrWoRpCyoWMLFQzQcqMYnqe78VJSzs4sNdV',
-    ipfsUrl: 'Qmcb4dYgRJZrRdJaZPvSnzXGAtcFQTR1UVWN9wRpZkx7VL',
+    id: 150,
+    name: 'Broxie #150',
     attributes: [
       {
         trait_type: 'back',
@@ -6944,10 +7844,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcb4dYgRJZrRdJaZPvSnzXGAtcFQTR1UVWN9wRpZkx7VL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXR46NQmiGqrWoRpCyoWMLFQzQcqMYnqe78VJSzs4sNdV',
+    address:
+      '0:06b0031e55805f51f53eec0b81ea2a8f6ca36d70a3f7fc85f4710e0a5e393301',
   },
   {
-    previewUrl: 'QmenTxW73xQMphQHr5Hq9CP4kNu9bFqK4RVepSX96c8v5o',
-    ipfsUrl: 'QmcP6moNZAAjsqwasF6gvYo2icfjg2dt7D73FRgkyAgpAw',
+    id: 151,
+    name: 'Broxie #151',
     attributes: [
       {
         trait_type: 'back',
@@ -6990,10 +7896,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcP6moNZAAjsqwasF6gvYo2icfjg2dt7D73FRgkyAgpAw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmenTxW73xQMphQHr5Hq9CP4kNu9bFqK4RVepSX96c8v5o',
+    address:
+      '0:11483251f3d0c44fb8a74eaf7cd02b04eb3ca1a4e1483d4ac8e194fa824d23f7',
   },
   {
-    previewUrl: 'QmRw5v8EYzs5k7zkxFHkkJNyLdDMRkxPMie7E3P337frPZ',
-    ipfsUrl: 'QmeiRmRY1tR3Vr4Rj2kegwGiPQTC9DQ9LQsJcfqW4mvAeK',
+    id: 152,
+    name: 'Broxie #152',
     attributes: [
       {
         trait_type: 'back',
@@ -7036,10 +7948,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeiRmRY1tR3Vr4Rj2kegwGiPQTC9DQ9LQsJcfqW4mvAeK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRw5v8EYzs5k7zkxFHkkJNyLdDMRkxPMie7E3P337frPZ',
+    address:
+      '0:61656b711c7886cdb32677d9d12ef49c5f86ba758a7d4665394bafc567bb30a4',
   },
   {
-    previewUrl: 'QmVZMSq2MLuwNcUCkHGd4pXPA4xp6UkrtCWw64Hqpr1KQ9',
-    ipfsUrl: 'QmcpozqTqLRvyvdyqzUhZHoUZ57ztpLgrgEw4Q4nAHQm3M',
+    id: 153,
+    name: 'Broxie #153',
     attributes: [
       {
         trait_type: 'back',
@@ -7082,10 +8000,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcpozqTqLRvyvdyqzUhZHoUZ57ztpLgrgEw4Q4nAHQm3M',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVZMSq2MLuwNcUCkHGd4pXPA4xp6UkrtCWw64Hqpr1KQ9',
+    address:
+      '0:c32063d9a72587db632160341346a11a7a5f7ba5d6cadd7248a9a258034767ec',
   },
   {
-    previewUrl: 'QmNu5P9aCDX2WkAwYcduhSchij4eLZozxoZ1uaASrK6FP8',
-    ipfsUrl: 'QmUkkxhx3H9R57BGhZsmKyg4iCLtac6KAPnHTY3JMvjaDr',
+    id: 154,
+    name: 'Broxie #154',
     attributes: [
       {
         trait_type: 'back',
@@ -7128,10 +8052,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUkkxhx3H9R57BGhZsmKyg4iCLtac6KAPnHTY3JMvjaDr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNu5P9aCDX2WkAwYcduhSchij4eLZozxoZ1uaASrK6FP8',
+    address:
+      '0:40a3f39e76f489b255de48ccbb7b34e4ace87a439f9348d3d689cbe1801c42b9',
   },
   {
-    previewUrl: 'QmQUXXEx8Bogh6gKtw2oCe46z82vvQJK1eJU6xy2UCgf2i',
-    ipfsUrl: 'QmTc99dnkmdbnGw8xfE5sMChAH9z7Kz7dYJQWBm1GAUeJj',
+    id: 155,
+    name: 'Broxie #155',
     attributes: [
       {
         trait_type: 'back',
@@ -7174,10 +8104,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTc99dnkmdbnGw8xfE5sMChAH9z7Kz7dYJQWBm1GAUeJj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQUXXEx8Bogh6gKtw2oCe46z82vvQJK1eJU6xy2UCgf2i',
+    address:
+      '0:399802b7ad7615e8ef3ee9b00dcb5d0ff03f8a3130586b027787e68cce82cdac',
   },
   {
-    previewUrl: 'QmVc5JGtbBL9je2u1aqL9H2FHXAfLYUBwkWpNa6oUgMY7N',
-    ipfsUrl: 'QmaQYbnnmmT75rcEopE3m2iqLNNiWBFPj3QdjpBYY3bhTE',
+    id: 156,
+    name: 'Broxie #156',
     attributes: [
       {
         trait_type: 'back',
@@ -7220,10 +8156,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaQYbnnmmT75rcEopE3m2iqLNNiWBFPj3QdjpBYY3bhTE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVc5JGtbBL9je2u1aqL9H2FHXAfLYUBwkWpNa6oUgMY7N',
+    address:
+      '0:20f0c604134c8517d312585a3e95e26e2defe4da2ed63750102577cd94361e98',
   },
   {
-    previewUrl: 'QmfZmczjtJk5Ufk4GTMhm7bcvdNLJ27MncLHDmuKJjJpSC',
-    ipfsUrl: 'QmRoVCq55cSqnRnbnRGCMk6iJcBpSaAN8wmeLUS4mtPUio',
+    id: 157,
+    name: 'Broxie #157',
     attributes: [
       {
         trait_type: 'back',
@@ -7266,10 +8208,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRoVCq55cSqnRnbnRGCMk6iJcBpSaAN8wmeLUS4mtPUio',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfZmczjtJk5Ufk4GTMhm7bcvdNLJ27MncLHDmuKJjJpSC',
+    address:
+      '0:7405e61b257ed97763ca1a793630d8c35d82854d7dfd24e3826014f9ed1ecd28',
   },
   {
-    previewUrl: 'QmdtXfGSSn6bSkmhaTrGeyEx6oi3Cjm19bQb3ZxVTQVLrZ',
-    ipfsUrl: 'QmcVq9uHbVTtmD2A5BVXaJfBFiZ2AydAKFCzCCsYKMMfjs',
+    id: 158,
+    name: 'Broxie #158',
     attributes: [
       {
         trait_type: 'back',
@@ -7312,10 +8260,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcVq9uHbVTtmD2A5BVXaJfBFiZ2AydAKFCzCCsYKMMfjs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdtXfGSSn6bSkmhaTrGeyEx6oi3Cjm19bQb3ZxVTQVLrZ',
+    address:
+      '0:729add8d22d3e4d0c2d3da7144a6c692f1f62d06f1035e05e788b3914c445abb',
   },
   {
-    previewUrl: 'QmSJBffVECfVrhNGNVy3T2xb2eg9f4Z3GmdujTxpXTB6rJ',
-    ipfsUrl: 'QmQ1xPiFC4PbBVYj4KshxnWtFoY9QPxFHPXW1nQwS4YC2M',
+    id: 159,
+    name: 'Broxie #159',
     attributes: [
       {
         trait_type: 'back',
@@ -7358,10 +8312,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ1xPiFC4PbBVYj4KshxnWtFoY9QPxFHPXW1nQwS4YC2M',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSJBffVECfVrhNGNVy3T2xb2eg9f4Z3GmdujTxpXTB6rJ',
+    address:
+      '0:9d00508e695ff01ef5aeceb9acfe1ad0ea6505c8248048321f2b51ad665f6c2b',
   },
   {
-    previewUrl: 'QmUbFhoKW8krkFqeFrVErGGBvFseCsqLLxv5VWrhFARsau',
-    ipfsUrl: 'QmTNN72s8xasStqz7We1hvnbsvpkU6ANNy6gae7rRqwo8x',
+    id: 160,
+    name: 'Broxie #160',
     attributes: [
       {
         trait_type: 'back',
@@ -7404,10 +8364,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTNN72s8xasStqz7We1hvnbsvpkU6ANNy6gae7rRqwo8x',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUbFhoKW8krkFqeFrVErGGBvFseCsqLLxv5VWrhFARsau',
+    address:
+      '0:74dc015572cf7cef157577d78a8981ff77f4722d1301f15409414248465166b6',
   },
   {
-    previewUrl: 'QmTvQUN7BhL4tZbdSU5fXdxUM8LiAF8zxgJXNrKpH5hFfp',
-    ipfsUrl: 'QmcXyT19knfKLuA2G6SRWewZ4TL7ujLhRUQKqoE3Q1n5jU',
+    id: 161,
+    name: 'Broxie #161',
     attributes: [
       {
         trait_type: 'back',
@@ -7450,10 +8416,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcXyT19knfKLuA2G6SRWewZ4TL7ujLhRUQKqoE3Q1n5jU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTvQUN7BhL4tZbdSU5fXdxUM8LiAF8zxgJXNrKpH5hFfp',
+    address:
+      '0:9e39e37878c2811a69787c682150bc0ca67db41a794f23f59402a8e4988e6f9e',
   },
   {
-    previewUrl: 'QmSJTvND6xQ6oadwdgbHG352f6a8vT33XzERRJ5FFEp2FT',
-    ipfsUrl: 'QmQgxHt26A1bxqz7WmTGQE6yvQaJ1ZSxNKTLFXp3zVaGFF',
+    id: 162,
+    name: 'Broxie #162',
     attributes: [
       {
         trait_type: 'back',
@@ -7496,10 +8468,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQgxHt26A1bxqz7WmTGQE6yvQaJ1ZSxNKTLFXp3zVaGFF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSJTvND6xQ6oadwdgbHG352f6a8vT33XzERRJ5FFEp2FT',
+    address:
+      '0:7d7aa3d61062b29a8decf0dc0ee8f6863742d70cb5649782a64b4fa0ce9c06bb',
   },
   {
-    previewUrl: 'QmPu5YWQz2NFpgRgu9rbqmqYp7i2nRHCNvsfnHqaKzoRcS',
-    ipfsUrl: 'QmTCV8N8XLcaS4HMVjDcUSpNM7jf1TtyxPUZRWxJeEatdA',
+    id: 163,
+    name: 'Broxie #163',
     attributes: [
       {
         trait_type: 'back',
@@ -7542,10 +8520,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTCV8N8XLcaS4HMVjDcUSpNM7jf1TtyxPUZRWxJeEatdA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPu5YWQz2NFpgRgu9rbqmqYp7i2nRHCNvsfnHqaKzoRcS',
+    address:
+      '0:688bce80de14c55ebfe637d1e2cf30d201e9411e56d6ab84007bcebb9f012ae7',
   },
   {
-    previewUrl: 'Qmf5BxhutLHTWtzFani3DfAyRn6ZkYPwmkhtZPuxdoBYFo',
-    ipfsUrl: 'QmZqD6P3NGiteBUSnbsc3rRD8GcvxnzxvrSdQpwsmMtvqr',
+    id: 164,
+    name: 'Broxie #164',
     attributes: [
       {
         trait_type: 'back',
@@ -7588,10 +8572,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZqD6P3NGiteBUSnbsc3rRD8GcvxnzxvrSdQpwsmMtvqr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf5BxhutLHTWtzFani3DfAyRn6ZkYPwmkhtZPuxdoBYFo',
+    address:
+      '0:dc3be30526e3245626be189250810aeef48071f584e963c8d3aa54d35170a600',
   },
   {
-    previewUrl: 'QmPfu7Wg5pE7UpdUVhpBa8twmMc6QhZMQSqDvHNXyZJNeX',
-    ipfsUrl: 'QmaSj3ydpZgZ44xVihCpfNri8D2UqCzmDMDYNA1qJC2h1u',
+    id: 165,
+    name: 'Broxie #165',
     attributes: [
       {
         trait_type: 'back',
@@ -7634,10 +8624,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaSj3ydpZgZ44xVihCpfNri8D2UqCzmDMDYNA1qJC2h1u',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPfu7Wg5pE7UpdUVhpBa8twmMc6QhZMQSqDvHNXyZJNeX',
+    address:
+      '0:535209819a11ba4aef907ae5aae83fabcbde6de8f71cd60569c946172da5b33c',
   },
   {
-    previewUrl: 'QmbwhgDquzmJWTJrKPnjVbrybsZ8B9uMN8TMw5fW9keYRw',
-    ipfsUrl: 'QmYj8k9Pr9eVaqKvikRpamgmzQFJi4eiWpT5PSw9mAkFi1',
+    id: 166,
+    name: 'Broxie #166',
     attributes: [
       {
         trait_type: 'back',
@@ -7680,10 +8676,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYj8k9Pr9eVaqKvikRpamgmzQFJi4eiWpT5PSw9mAkFi1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbwhgDquzmJWTJrKPnjVbrybsZ8B9uMN8TMw5fW9keYRw',
+    address:
+      '0:f4d52ae013cf070f70cb03e4972c92b3cf0ef42c712f20936c2b51a6a5c324fc',
   },
   {
-    previewUrl: 'QmTfmWodtao4rVCeUVz6VtEFUeChiAgfwGHpjhb5S2pP68',
-    ipfsUrl: 'QmPnfVD2cx8XJybCus5UWsrv6FCTVLWk3emzhC4UqxHkKQ',
+    id: 167,
+    name: 'Broxie #167',
     attributes: [
       {
         trait_type: 'back',
@@ -7726,10 +8728,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPnfVD2cx8XJybCus5UWsrv6FCTVLWk3emzhC4UqxHkKQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTfmWodtao4rVCeUVz6VtEFUeChiAgfwGHpjhb5S2pP68',
+    address:
+      '0:46581b3a2c8d44befce7b903648b47f2cf7fd4f0c09214fad5a141e7988eb192',
   },
   {
-    previewUrl: 'QmW89FnpDHAjzgkA5fxUqX7SZkWCHGj1zZeWe9E1dKX8uh',
-    ipfsUrl: 'Qmdc975ijgDDVHCUtZvwNJNtsT2rwkv1FHUUqE5eP57LxJ',
+    id: 168,
+    name: 'Broxie #168',
     attributes: [
       {
         trait_type: 'back',
@@ -7772,10 +8780,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdc975ijgDDVHCUtZvwNJNtsT2rwkv1FHUUqE5eP57LxJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW89FnpDHAjzgkA5fxUqX7SZkWCHGj1zZeWe9E1dKX8uh',
+    address:
+      '0:3ce41f5646b5fbfdea6f7465861bcfc93603a1332754c0a677f48a8a9586643a',
   },
   {
-    previewUrl: 'QmXBidJpPjfpyUPk9cAVZk4mjGJDHi3eHHAoaa6enkZHW5',
-    ipfsUrl: 'QmSpJTXKXQj2YmnD55Q3c3Gs5N9d2t3SyAUjA5csNCH7s8',
+    id: 169,
+    name: 'Broxie #169',
     attributes: [
       {
         trait_type: 'back',
@@ -7818,10 +8832,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSpJTXKXQj2YmnD55Q3c3Gs5N9d2t3SyAUjA5csNCH7s8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXBidJpPjfpyUPk9cAVZk4mjGJDHi3eHHAoaa6enkZHW5',
+    address:
+      '0:690d5aa1cfc9d3d0faec78dfdc1120f2c34f11c32e7ebe764a1316948d8caadb',
   },
   {
-    previewUrl: 'Qma67LdasauFrVuEvXXGEkYkUmqfE1zz6pVpTcYWTDgCpG',
-    ipfsUrl: 'QmZcYrWWSZypwQr3cYwd9gmLwap5yXPBZEcX4ab1xuDTNn',
+    id: 170,
+    name: 'Broxie #170',
     attributes: [
       {
         trait_type: 'back',
@@ -7864,10 +8884,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZcYrWWSZypwQr3cYwd9gmLwap5yXPBZEcX4ab1xuDTNn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma67LdasauFrVuEvXXGEkYkUmqfE1zz6pVpTcYWTDgCpG',
+    address:
+      '0:6bb3ba976c6dcce542ba6e6008e0581b88b3955b5cc1b1daf5930ef2e0e3be20',
   },
   {
-    previewUrl: 'QmdczjH6YZvLBv6NvZnPVFF6JqvKznhCEayLLarCTWKrZv',
-    ipfsUrl: 'QmdQJyhuQZy75WVieQyvDA8dn16tbX8DjvfQbNxPWDgFwF',
+    id: 171,
+    name: 'Broxie #171',
     attributes: [
       {
         trait_type: 'back',
@@ -7910,10 +8936,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdQJyhuQZy75WVieQyvDA8dn16tbX8DjvfQbNxPWDgFwF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdczjH6YZvLBv6NvZnPVFF6JqvKznhCEayLLarCTWKrZv',
+    address:
+      '0:d71addde40a6e56ce021a4f710f053893a4c74be70125da8e1079232c9370ea0',
   },
   {
-    previewUrl: 'QmVtWcpL6iguNAJMjvsBFgV4Z9zZuFDgdJDm7DKdp2rzFx',
-    ipfsUrl: 'QmPQCfLGrYUnNWUXqaDz1jVTXq63Pt6qF1NTfP4kXBhBoG',
+    id: 172,
+    name: 'Broxie #172',
     attributes: [
       {
         trait_type: 'back',
@@ -7956,10 +8988,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPQCfLGrYUnNWUXqaDz1jVTXq63Pt6qF1NTfP4kXBhBoG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVtWcpL6iguNAJMjvsBFgV4Z9zZuFDgdJDm7DKdp2rzFx',
+    address:
+      '0:d2ee4736cc37ff6006dbfe0f5d307b414fd650c715efa136a54ebedb1c8499ff',
   },
   {
-    previewUrl: 'QmU9FDK3L6mmQ2tVSZ8rNbVLFH4GwWgcCkrPfpYFcC5su4',
-    ipfsUrl: 'QmSZTkGJiXVKzoiJrwddLe4PCS7pv1Tx5KAMdA3nVPZq8H',
+    id: 173,
+    name: 'Broxie #173',
     attributes: [
       {
         trait_type: 'back',
@@ -8002,10 +9040,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSZTkGJiXVKzoiJrwddLe4PCS7pv1Tx5KAMdA3nVPZq8H',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU9FDK3L6mmQ2tVSZ8rNbVLFH4GwWgcCkrPfpYFcC5su4',
+    address:
+      '0:511d4c4ebf9a84a18a4a2a7a0798fd09011d6317c68824c9756d8f43ea5304cd',
   },
   {
-    previewUrl: 'QmSzBwiVSM1sL75YhnzHxXMGBNUPZDANgDgVUijYve5oPz',
-    ipfsUrl: 'QmTE1jDQb89RVnjrPqfPsWccdzMgmASDkRdVbEbZp6gcGU',
+    id: 174,
+    name: 'Broxie #174',
     attributes: [
       {
         trait_type: 'back',
@@ -8048,10 +9092,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTE1jDQb89RVnjrPqfPsWccdzMgmASDkRdVbEbZp6gcGU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSzBwiVSM1sL75YhnzHxXMGBNUPZDANgDgVUijYve5oPz',
+    address:
+      '0:a17f7acabd2e755a91d4dfe74310663bae9abe8578090c32616d31b465c48945',
   },
   {
-    previewUrl: 'QmcsbP24yCJG3vj78MqkmebaaLqzSD8XGZ8divrC71xJcZ',
-    ipfsUrl: 'QmUaX1d3kiv2wQtb3SwmHd3DRvuDUBNjt1gxPYBcqiwLdX',
+    id: 175,
+    name: 'Broxie #175',
     attributes: [
       {
         trait_type: 'back',
@@ -8094,10 +9144,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUaX1d3kiv2wQtb3SwmHd3DRvuDUBNjt1gxPYBcqiwLdX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcsbP24yCJG3vj78MqkmebaaLqzSD8XGZ8divrC71xJcZ',
+    address:
+      '0:e9082cee2b5a2fb0315eb5da31e0560aad1db82bd75dad56ff7dfad40daa85f0',
   },
   {
-    previewUrl: 'QmfWTUogd3VYk5EXbGaCbXJHfWQF87h6sAQYSn7q9uHsdz',
-    ipfsUrl: 'QmT5n7Zox76gEdnhr1V617kBXpkiQQc2QyqaCvS99ZcM4M',
+    id: 176,
+    name: 'Broxie #176',
     attributes: [
       {
         trait_type: 'back',
@@ -8140,10 +9196,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT5n7Zox76gEdnhr1V617kBXpkiQQc2QyqaCvS99ZcM4M',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfWTUogd3VYk5EXbGaCbXJHfWQF87h6sAQYSn7q9uHsdz',
+    address:
+      '0:0376f0c7a17523b982cf3c7f468b9e90ebe44c895087f4846d9904cc5adfb11f',
   },
   {
-    previewUrl: 'QmYy6maSQ256tu55JSDz4kkVMip8XURpAHMHpAB9rQGbFD',
-    ipfsUrl: 'QmaRNXvnnUAgQSPyHVpcvhiDj1RogiF1nnLiEZRp3yywXd',
+    id: 177,
+    name: 'Broxie #177',
     attributes: [
       {
         trait_type: 'back',
@@ -8186,10 +9248,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaRNXvnnUAgQSPyHVpcvhiDj1RogiF1nnLiEZRp3yywXd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYy6maSQ256tu55JSDz4kkVMip8XURpAHMHpAB9rQGbFD',
+    address:
+      '0:83fd7b4d3e04bc74e2381f712fdfd9768989a2487d5e6684c8a532f5a11e13fe',
   },
   {
-    previewUrl: 'QmfPVv17NXwCHYKhx739og42H1gAaioZJPJVafq68V1ucH',
-    ipfsUrl: 'QmW4EMZKR2QaZhuedMM3bDZvyAV4knnbY9bDC2kAfCo94U',
+    id: 178,
+    name: 'Broxie #178',
     attributes: [
       {
         trait_type: 'back',
@@ -8232,10 +9300,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW4EMZKR2QaZhuedMM3bDZvyAV4knnbY9bDC2kAfCo94U',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfPVv17NXwCHYKhx739og42H1gAaioZJPJVafq68V1ucH',
+    address:
+      '0:35599ce3b9af35fa28056bec3981d0807224691e16f825a59eb000910961c29c',
   },
   {
-    previewUrl: 'QmaDFvzCqcQDzdr5ncqJyAqxFJ7vyDVYDTcXaS9k4gYKsA',
-    ipfsUrl: 'QmctMShRxfhN1ovQp9zpUXQBa24LZVjzVTLZeZzjWHgfRH',
+    id: 179,
+    name: 'Broxie #179',
     attributes: [
       {
         trait_type: 'back',
@@ -8278,10 +9352,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmctMShRxfhN1ovQp9zpUXQBa24LZVjzVTLZeZzjWHgfRH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaDFvzCqcQDzdr5ncqJyAqxFJ7vyDVYDTcXaS9k4gYKsA',
+    address:
+      '0:83d2082d02401a7af9ba074a2091a277cb9c538a1c4d1e22eb8a6699905c5600',
   },
   {
-    previewUrl: 'QmYG9fJhSL2jSdYceT6iNGbx9PTLWmGUZj3iY3bXbba8xw',
-    ipfsUrl: 'QmUrTbKXsZ3nCjdXaTm1SbbhpSQMkpv84J2X9T8sMfH8oY',
+    id: 180,
+    name: 'Broxie #180',
     attributes: [
       {
         trait_type: 'back',
@@ -8324,10 +9404,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUrTbKXsZ3nCjdXaTm1SbbhpSQMkpv84J2X9T8sMfH8oY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYG9fJhSL2jSdYceT6iNGbx9PTLWmGUZj3iY3bXbba8xw',
+    address:
+      '0:e70575e4cb37dda3e904921bd290b695a09f7c552ef63d47b7670fba8bf4bbd7',
   },
   {
-    previewUrl: 'QmSzGELRs5jbbsoargMzx2gs16Aw3gDBCWwHjkVvFChWVE',
-    ipfsUrl: 'QmRcPRwtCFuNfGYsxmyU2hriaZL12j21k6APNDVNV641N7',
+    id: 181,
+    name: 'Broxie #181',
     attributes: [
       {
         trait_type: 'back',
@@ -8370,10 +9456,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRcPRwtCFuNfGYsxmyU2hriaZL12j21k6APNDVNV641N7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSzGELRs5jbbsoargMzx2gs16Aw3gDBCWwHjkVvFChWVE',
+    address:
+      '0:b65caa47e16c5f27321e912a7da65228e76445546d7d1d71b2612f62da3ce86a',
   },
   {
-    previewUrl: 'Qmf3EGxMCcUdxrtP5ro9b287JBbogw7LBTkvin1QB4PZ3f',
-    ipfsUrl: 'QmcfCp83Kxt2EqVmaSYkLXXutAPMvCk7BVnjr3X4cjTUHm',
+    id: 182,
+    name: 'Broxie #182',
     attributes: [
       {
         trait_type: 'back',
@@ -8416,10 +9508,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcfCp83Kxt2EqVmaSYkLXXutAPMvCk7BVnjr3X4cjTUHm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf3EGxMCcUdxrtP5ro9b287JBbogw7LBTkvin1QB4PZ3f',
+    address:
+      '0:6bb3f6f536c563f4c7813592ea895ae143a08ed4c016396fcd7945e6edb14fba',
   },
   {
-    previewUrl: 'QmfQUS9Qsk2PiYrGDqXMUVtYWrRypui3GtFUqmomTt213z',
-    ipfsUrl: 'QmPW2jAXmegLP7qbA9gWDex3RRib8qnt3TC5ZKnFRfzix4',
+    id: 183,
+    name: 'Broxie #183',
     attributes: [
       {
         trait_type: 'back',
@@ -8462,10 +9560,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPW2jAXmegLP7qbA9gWDex3RRib8qnt3TC5ZKnFRfzix4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfQUS9Qsk2PiYrGDqXMUVtYWrRypui3GtFUqmomTt213z',
+    address:
+      '0:27a3d71c51973a7f020193522073a40bf60511dc1f8def48a161d1a594f65be1',
   },
   {
-    previewUrl: 'QmaoVk5UTDDWCw172H4xEe8iZNHfALrP2Q5mKG9f7YeeoC',
-    ipfsUrl: 'QmPT1TXp8ptQUbvV5zYM54NvRNsRQqjdEc7187BXGZ1qjY',
+    id: 184,
+    name: 'Broxie #184',
     attributes: [
       {
         trait_type: 'back',
@@ -8508,10 +9612,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPT1TXp8ptQUbvV5zYM54NvRNsRQqjdEc7187BXGZ1qjY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaoVk5UTDDWCw172H4xEe8iZNHfALrP2Q5mKG9f7YeeoC',
+    address:
+      '0:08603fe2ea62e5c8c71c0f41b64eac730c77ece3d8c7ca692f52b8185df77ae5',
   },
   {
-    previewUrl: 'QmW7mFiRktTDAqStygwL81oKDT3yYxWga4abPmxxqGgxtB',
-    ipfsUrl: 'QmRw1L2T7yVGSKW7tCSMpc8TwF23wwMzHNcyZMY2UZK2UK',
+    id: 185,
+    name: 'Broxie #185',
     attributes: [
       {
         trait_type: 'back',
@@ -8554,10 +9664,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRw1L2T7yVGSKW7tCSMpc8TwF23wwMzHNcyZMY2UZK2UK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW7mFiRktTDAqStygwL81oKDT3yYxWga4abPmxxqGgxtB',
+    address:
+      '0:75f88b5aa1eb16418253ca79ce58168a5399648a1be8ac596307577b4d25b6ac',
   },
   {
-    previewUrl: 'QmRKvrQy3y1ebXb8Pua6rbuWux9LT731akogcfDSDKQBnx',
-    ipfsUrl: 'QmSXVB47V3Aphs6s8grZCcj4KPSjxGEFNqEqDgadiVSaUL',
+    id: 186,
+    name: 'Broxie #186',
     attributes: [
       {
         trait_type: 'back',
@@ -8600,10 +9716,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSXVB47V3Aphs6s8grZCcj4KPSjxGEFNqEqDgadiVSaUL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRKvrQy3y1ebXb8Pua6rbuWux9LT731akogcfDSDKQBnx',
+    address:
+      '0:83d4b60ed64a74da2f6dc90fdebac8d9f82901d5c6fd50cfc9a48905d12446c0',
   },
   {
-    previewUrl: 'Qme8UTT59zmXy5zYJPjG1JRPTcYwyVWJjJ8oT4kedSEZ7A',
-    ipfsUrl: 'QmWVFAWHPuSr8F3CZx7ptovhW1hQXzgstcuYdYTgS2QAaT',
+    id: 187,
+    name: 'Broxie #187',
     attributes: [
       {
         trait_type: 'back',
@@ -8646,10 +9768,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWVFAWHPuSr8F3CZx7ptovhW1hQXzgstcuYdYTgS2QAaT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme8UTT59zmXy5zYJPjG1JRPTcYwyVWJjJ8oT4kedSEZ7A',
+    address:
+      '0:6439fdc779256a8218a19b8edb3baf6f7764d6f2dfe925f282a8c7be3718aefc',
   },
   {
-    previewUrl: 'QmajFAAutcuUQSNEGwEUEvGH8WFAqWAkH7PZQ82BfeN9eV',
-    ipfsUrl: 'QmRgSX9fnFVbLmQRgeGmCgaobJDeJgf1D19g8EsX6YKwwK',
+    id: 188,
+    name: 'Broxie #188',
     attributes: [
       {
         trait_type: 'back',
@@ -8692,10 +9820,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRgSX9fnFVbLmQRgeGmCgaobJDeJgf1D19g8EsX6YKwwK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmajFAAutcuUQSNEGwEUEvGH8WFAqWAkH7PZQ82BfeN9eV',
+    address:
+      '0:9e8320933c112eb065563b06986c2bedd4f9a1629056806129bd9ba6f83b195f',
   },
   {
-    previewUrl: 'QmYNwpshCHTd2sfVxbAC7sjk5XNkRmjx22b1zU8Yv9pe5V',
-    ipfsUrl: 'QmaGcY7PgZNuyrMQ3U1RF2LBbiLhYR3x9ZrZzwQFpb9WMh',
+    id: 189,
+    name: 'Broxie #189',
     attributes: [
       {
         trait_type: 'back',
@@ -8738,10 +9872,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaGcY7PgZNuyrMQ3U1RF2LBbiLhYR3x9ZrZzwQFpb9WMh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYNwpshCHTd2sfVxbAC7sjk5XNkRmjx22b1zU8Yv9pe5V',
+    address:
+      '0:d5ff9253778a2129671f2f7bd4682cedf94dd86d81420acfc4ffe33eb34d9b48',
   },
   {
-    previewUrl: 'QmT8vSPcASYq69QwAhZJe7MndbekrrQfsk7c8fVZh7CUb7',
-    ipfsUrl: 'QmTX7kSN6ubkpiLTtiAqe5Xetzr2hSAfeoNsLTMTjE7TKj',
+    id: 190,
+    name: 'Broxie #190',
     attributes: [
       {
         trait_type: 'back',
@@ -8784,10 +9924,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTX7kSN6ubkpiLTtiAqe5Xetzr2hSAfeoNsLTMTjE7TKj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmT8vSPcASYq69QwAhZJe7MndbekrrQfsk7c8fVZh7CUb7',
+    address:
+      '0:408bce987843659391cb8b379ba6f00ce9b81444fe06712dfec40d700b4fe426',
   },
   {
-    previewUrl: 'QmaZZkwYHPg5btz4CRcJtyVZhQrrL1VJBor2xkouCPvyq2',
-    ipfsUrl: 'Qmf7TQuoEFZFbge115P9WMDW4NTUrk2xzdEbYp5pZbWQ4W',
+    id: 191,
+    name: 'Broxie #191',
     attributes: [
       {
         trait_type: 'back',
@@ -8830,10 +9976,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf7TQuoEFZFbge115P9WMDW4NTUrk2xzdEbYp5pZbWQ4W',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaZZkwYHPg5btz4CRcJtyVZhQrrL1VJBor2xkouCPvyq2',
+    address:
+      '0:f1ab3bf438af4a3062bf1b9a0c5caf0d1ccd3f760e201614de46a2395a13bb64',
   },
   {
-    previewUrl: 'QmTCyXm1FM2Juagbd4e8q8mEAJWKA2qEHcuXYsV1PvRhyn',
-    ipfsUrl: 'QmUKgqfqHConiCoJP56wsG3Xt1vhovbHjaF4QkukCP8KTz',
+    id: 192,
+    name: 'Broxie #192',
     attributes: [
       {
         trait_type: 'back',
@@ -8876,10 +10028,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUKgqfqHConiCoJP56wsG3Xt1vhovbHjaF4QkukCP8KTz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTCyXm1FM2Juagbd4e8q8mEAJWKA2qEHcuXYsV1PvRhyn',
+    address:
+      '0:ab2d5fb3127dd852193682c5f3eaef755a65145b20eafb9a578c9a0d39c02bdb',
   },
   {
-    previewUrl: 'QmZ8Q2KsMhEcZNXPxhuBgfJiBtSwnmc6Tp4Gakwxf2tVfj',
-    ipfsUrl: 'QmUoD8CQkvGoeypZfvcNapYGe7arQHZyyquWRXUKZT5Ewq',
+    id: 193,
+    name: 'Broxie #193',
     attributes: [
       {
         trait_type: 'back',
@@ -8922,10 +10080,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUoD8CQkvGoeypZfvcNapYGe7arQHZyyquWRXUKZT5Ewq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ8Q2KsMhEcZNXPxhuBgfJiBtSwnmc6Tp4Gakwxf2tVfj',
+    address:
+      '0:8e112b0d07daabd042f7c12289b7ab38ec4378b718991082125388bc357527ff',
   },
   {
-    previewUrl: 'QmPgKcJXosUZVAnBS9dWWzPjoJ5rcnnVC9MKMQ1D2VjWBo',
-    ipfsUrl: 'QmSLHiSVgiuskDMXzSgD23VAyU1CrN9pQTqYBYqUzJAdGP',
+    id: 194,
+    name: 'Broxie #194',
     attributes: [
       {
         trait_type: 'back',
@@ -8968,10 +10132,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSLHiSVgiuskDMXzSgD23VAyU1CrN9pQTqYBYqUzJAdGP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPgKcJXosUZVAnBS9dWWzPjoJ5rcnnVC9MKMQ1D2VjWBo',
+    address:
+      '0:34712b2978c360d78332802e3da84f0e2229c5a3fd79e72215557389ba2de67a',
   },
   {
-    previewUrl: 'QmR1iTMRutdLyTwdaBQ8qBh2MfsF3WhHL5i1Ha7cVdyTok',
-    ipfsUrl: 'QmNnZ2k2sRecZQT3VLcicwN7oJG7Hy3VUiEJBGkodxqe4U',
+    id: 195,
+    name: 'Broxie #195',
     attributes: [
       {
         trait_type: 'back',
@@ -9014,10 +10184,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNnZ2k2sRecZQT3VLcicwN7oJG7Hy3VUiEJBGkodxqe4U',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR1iTMRutdLyTwdaBQ8qBh2MfsF3WhHL5i1Ha7cVdyTok',
+    address:
+      '0:67343f6224e2cfab125e7ece046c4db32e29038e36e8aff04ef91ec56b5ebf88',
   },
   {
-    previewUrl: 'QmU5sH8ZWhSQvx7JQysZTxagqXhW3WrDDpESnM19z2UBiP',
-    ipfsUrl: 'QmTjp5WBmASbSWSaavTRz6Vq8MJXhCz8UkVmYppHbvBaNN',
+    id: 196,
+    name: 'Broxie #196',
     attributes: [
       {
         trait_type: 'back',
@@ -9060,10 +10236,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTjp5WBmASbSWSaavTRz6Vq8MJXhCz8UkVmYppHbvBaNN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU5sH8ZWhSQvx7JQysZTxagqXhW3WrDDpESnM19z2UBiP',
+    address:
+      '0:2f657e94c025c34df0608e4099569648b6a4b926903145f6ad1e30cb2941c14e',
   },
   {
-    previewUrl: 'QmNb7VJE8b2av93FVqVj4PAcEJU9HbGKfvw41m3KzEzG5J',
-    ipfsUrl: 'QmTBDfnyLG86mFq9EpHAg5rMdRrdyb9SKRRwELWYDivHj8',
+    id: 197,
+    name: 'Broxie #197',
     attributes: [
       {
         trait_type: 'back',
@@ -9106,10 +10288,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTBDfnyLG86mFq9EpHAg5rMdRrdyb9SKRRwELWYDivHj8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNb7VJE8b2av93FVqVj4PAcEJU9HbGKfvw41m3KzEzG5J',
+    address:
+      '0:04ac4eb4f9b77dd5b56f90f03cae54b89e0bdfa7bb381b30f9991b1798b8fce4',
   },
   {
-    previewUrl: 'QmRcDNDBp4MZFg26GzsD3Ng7LKHvJjVd2vXF4RKzxe27VT',
-    ipfsUrl: 'QmXBBrvYBWgJUsE18Kn8yeSMQzUKXZfNnLgu2FduWmB8x1',
+    id: 198,
+    name: 'Broxie #198',
     attributes: [
       {
         trait_type: 'back',
@@ -9152,10 +10340,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXBBrvYBWgJUsE18Kn8yeSMQzUKXZfNnLgu2FduWmB8x1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRcDNDBp4MZFg26GzsD3Ng7LKHvJjVd2vXF4RKzxe27VT',
+    address:
+      '0:ca945136101e0278c2e52a614ecd124f2913f13b80fb1c86be4fe0975d6691cf',
   },
   {
-    previewUrl: 'QmRVhYmbp6zadbLeLsh8qRKHkTrCjcQUs93KEiesgmEd5E',
-    ipfsUrl: 'QmVLRkqvSUL143pQnJzkZNbNi84sLLxyd2dmQvxiNRhSz3',
+    id: 199,
+    name: 'Broxie #199',
     attributes: [
       {
         trait_type: 'back',
@@ -9198,10 +10392,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVLRkqvSUL143pQnJzkZNbNi84sLLxyd2dmQvxiNRhSz3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRVhYmbp6zadbLeLsh8qRKHkTrCjcQUs93KEiesgmEd5E',
+    address:
+      '0:65f84fb49e205b0fca936fb04ac378572386e3bf1de1f10ee3dc6b23c8f57dc4',
   },
   {
-    previewUrl: 'QmbM4qswdbnq2YWSLLBmEeodKJQNYBE4dm4Nc2Tct566nm',
-    ipfsUrl: 'QmNVKcF7SARGk9Hcjhs7yCszZmu2EDkXxeUnMYHzBUdfzy',
+    id: 200,
+    name: 'Broxie #200',
     attributes: [
       {
         trait_type: 'back',
@@ -9244,10 +10444,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNVKcF7SARGk9Hcjhs7yCszZmu2EDkXxeUnMYHzBUdfzy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbM4qswdbnq2YWSLLBmEeodKJQNYBE4dm4Nc2Tct566nm',
+    address:
+      '0:06ba48891db81d9e647b7ff1467d94d7496d67abaaf34168e1a46213bdc7d782',
   },
   {
-    previewUrl: 'QmRQFbgCETQHFh9pvAMtqzaghqyEqFiAj4jvf49Dk5U3WU',
-    ipfsUrl: 'QmY7cAMgCWyoYQ1z9JxpEB57SNRQYNA3ZirAQN6fh9bn7U',
+    id: 201,
+    name: 'Broxie #201',
     attributes: [
       {
         trait_type: 'back',
@@ -9290,10 +10496,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY7cAMgCWyoYQ1z9JxpEB57SNRQYNA3ZirAQN6fh9bn7U',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRQFbgCETQHFh9pvAMtqzaghqyEqFiAj4jvf49Dk5U3WU',
+    address:
+      '0:3f72c55068f41f4b815fd89cf9a66972e486c82f8141ca50792ba10ec7bdee5b',
   },
   {
-    previewUrl: 'QmRbTghSxsscJYJdBZyZLjkQ4tmVaedTLu5ZNASVTdkqgG',
-    ipfsUrl: 'QmNtLiRtefPGdothNk7wRVLFjAU9QNNwt2nb2JnrpsLnEG',
+    id: 202,
+    name: 'Broxie #202',
     attributes: [
       {
         trait_type: 'back',
@@ -9336,10 +10548,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNtLiRtefPGdothNk7wRVLFjAU9QNNwt2nb2JnrpsLnEG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRbTghSxsscJYJdBZyZLjkQ4tmVaedTLu5ZNASVTdkqgG',
+    address:
+      '0:ca63b29fccfaa521cf317d2fdb094867fcf1fdf9c4f187858c480c716aa61c1e',
   },
   {
-    previewUrl: 'QmcqCsm9DEPfrZ2mfE79oeVTaD6dNZpYiyQ5Gww2TRH8rv',
-    ipfsUrl: 'QmWiwRa6sdSNRV34HkgZN3tvKcFybMddhxTrV21r9jvUyR',
+    id: 203,
+    name: 'Broxie #203',
     attributes: [
       {
         trait_type: 'back',
@@ -9382,10 +10600,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWiwRa6sdSNRV34HkgZN3tvKcFybMddhxTrV21r9jvUyR',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcqCsm9DEPfrZ2mfE79oeVTaD6dNZpYiyQ5Gww2TRH8rv',
+    address:
+      '0:7025391e286f8b0f17fb97131a34d05c213104c31530f9e0b28d689b27980b5e',
   },
   {
-    previewUrl: 'Qmdk1aWzG6gMqZqunwTj6NkXsGKL6PqhAfDBfa4MkeCpki',
-    ipfsUrl: 'QmPYqgkiJjZDAUhfoJoH8EzuwWN7Q41XA79dCMjgA3iG2P',
+    id: 204,
+    name: 'Broxie #204',
     attributes: [
       {
         trait_type: 'back',
@@ -9428,10 +10652,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPYqgkiJjZDAUhfoJoH8EzuwWN7Q41XA79dCMjgA3iG2P',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdk1aWzG6gMqZqunwTj6NkXsGKL6PqhAfDBfa4MkeCpki',
+    address:
+      '0:77ac860b19d390d58da5c244ff2f65b9993d27dd1a3a0eb76c351d39a2bd6ecf',
   },
   {
-    previewUrl: 'QmdTJYaj52AHSv3Va3LdphFukXvojxmv1CowhbC5gmtkPN',
-    ipfsUrl: 'QmZRKqM3EZiv4F4e4hbntMUn43XFowpnyaiHmnqdoYgRJ6',
+    id: 205,
+    name: 'Broxie #205',
     attributes: [
       {
         trait_type: 'back',
@@ -9474,10 +10704,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZRKqM3EZiv4F4e4hbntMUn43XFowpnyaiHmnqdoYgRJ6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdTJYaj52AHSv3Va3LdphFukXvojxmv1CowhbC5gmtkPN',
+    address:
+      '0:5ea68641e5531506c819b0662f3945e0a1acefe0e498180b703d937efc11667d',
   },
   {
-    previewUrl: 'QmdfCKy5ErosHob4KvSzJHZQB9PRmz5QjwFGspcyPuMZ8g',
-    ipfsUrl: 'QmejXniydN9Xo4jt5HJ97vhyFRXRvkLUfcEn7Hq9q9AGhZ',
+    id: 206,
+    name: 'Broxie #206',
     attributes: [
       {
         trait_type: 'back',
@@ -9520,10 +10756,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmejXniydN9Xo4jt5HJ97vhyFRXRvkLUfcEn7Hq9q9AGhZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdfCKy5ErosHob4KvSzJHZQB9PRmz5QjwFGspcyPuMZ8g',
+    address:
+      '0:915b8fbd54351ce70ac6e99a3d596c9d9a0c775502bc9d31b99cf8ba687fb3fb',
   },
   {
-    previewUrl: 'QmechSJTZLeMbaMXywAbKUTW1iNKkyBpfVBV1YeHkwSQ2j',
-    ipfsUrl: 'QmcbEeAuW93M1kZeom4dfikCX2SJY1yxShP2xjGWC3Potq',
+    id: 207,
+    name: 'Broxie #207',
     attributes: [
       {
         trait_type: 'back',
@@ -9566,10 +10808,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcbEeAuW93M1kZeom4dfikCX2SJY1yxShP2xjGWC3Potq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmechSJTZLeMbaMXywAbKUTW1iNKkyBpfVBV1YeHkwSQ2j',
+    address:
+      '0:e06866310dc5c23df3bb0f1cd02a38e8ad8f724db455cb57a63c7f0810b49e03',
   },
   {
-    previewUrl: 'QmPHw37vLNy6auiMEH7HaHe5iSc9nynPx132MhtWFmxmDN',
-    ipfsUrl: 'QmWTU59whPJmSDoRBsixWhhUqaufQW5VNeHuL2a2cKqp1k',
+    id: 208,
+    name: 'Broxie #208',
     attributes: [
       {
         trait_type: 'back',
@@ -9612,10 +10860,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWTU59whPJmSDoRBsixWhhUqaufQW5VNeHuL2a2cKqp1k',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPHw37vLNy6auiMEH7HaHe5iSc9nynPx132MhtWFmxmDN',
+    address:
+      '0:891e47701d093fedf3bfb7089e33cd53909efb2b381759e3959a360c01540b81',
   },
   {
-    previewUrl: 'QmTPxm1uNdpgoRXdBaTtEu7doiSKXr1zk8GgnVFPP4xGvb',
-    ipfsUrl: 'QmUXtNdocHzD9nFz5cezcxQzvjBRGbrsLfhKKLJWi3EAZx',
+    id: 209,
+    name: 'Broxie #209',
     attributes: [
       {
         trait_type: 'back',
@@ -9658,10 +10912,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUXtNdocHzD9nFz5cezcxQzvjBRGbrsLfhKKLJWi3EAZx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTPxm1uNdpgoRXdBaTtEu7doiSKXr1zk8GgnVFPP4xGvb',
+    address:
+      '0:8a03779f9a8e0842f8c75b42e11a6f83e71db1b5e626fbc2e93311d4afc6f781',
   },
   {
-    previewUrl: 'Qmdvj7vDLrhztxM65KWwJLrABNwAvN5qa24Qdqnk9JasHv',
-    ipfsUrl: 'QmUsQT1hcrSjyn4mnNGW78BcF41eRairQrAZGm21hXEadX',
+    id: 210,
+    name: 'Broxie #210',
     attributes: [
       {
         trait_type: 'back',
@@ -9704,10 +10964,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUsQT1hcrSjyn4mnNGW78BcF41eRairQrAZGm21hXEadX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdvj7vDLrhztxM65KWwJLrABNwAvN5qa24Qdqnk9JasHv',
+    address:
+      '0:897f51cbff850267768c72dbe384e5dc0dc6a7be93fc16d8971cb4fcf3687a95',
   },
   {
-    previewUrl: 'QmXE8KQegqoD6DMCf5aif4tV6H9Pf2KjgGA2Rvm41EThbf',
-    ipfsUrl: 'QmNTTnbw6AxXxoz4hfPDSkw4WJUcL3pxbKeKDjWjWLPwXh',
+    id: 211,
+    name: 'Broxie #211',
     attributes: [
       {
         trait_type: 'back',
@@ -9750,10 +11016,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNTTnbw6AxXxoz4hfPDSkw4WJUcL3pxbKeKDjWjWLPwXh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXE8KQegqoD6DMCf5aif4tV6H9Pf2KjgGA2Rvm41EThbf',
+    address:
+      '0:38d294c108a9802b3cf6a03bd50928104e6363f58d4ce10ec190cfbae27ab4ea',
   },
   {
-    previewUrl: 'QmPKf6NXzsGuC4ndQpJsM9biAtzV3LBqqjSQVSyGt6JbnM',
-    ipfsUrl: 'Qme9HTjjbQNCHPMUALDiPgAfFow3HEpehjwmVi7CwYC4Ep',
+    id: 212,
+    name: 'Broxie #212',
     attributes: [
       {
         trait_type: 'back',
@@ -9796,10 +11068,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qme9HTjjbQNCHPMUALDiPgAfFow3HEpehjwmVi7CwYC4Ep',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPKf6NXzsGuC4ndQpJsM9biAtzV3LBqqjSQVSyGt6JbnM',
+    address:
+      '0:776518766348657df2df8e73598daa1076c645a74df815e6da8fe1b980e4863d',
   },
   {
-    previewUrl: 'QmYR8X9GSgNf2nP9QGiQm5tpYQnXzwi56ZG9tZzQ72Huww',
-    ipfsUrl: 'QmUSQb8yBtkFHBagNpWetLuRoykNsXV1zr4rCSHY2TMT4S',
+    id: 213,
+    name: 'Broxie #213',
     attributes: [
       {
         trait_type: 'back',
@@ -9842,10 +11120,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUSQb8yBtkFHBagNpWetLuRoykNsXV1zr4rCSHY2TMT4S',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYR8X9GSgNf2nP9QGiQm5tpYQnXzwi56ZG9tZzQ72Huww',
+    address:
+      '0:8affcf2224470e5e0b346e0367b34f3c57e34003e3c0882144bd32efc2b6fc59',
   },
   {
-    previewUrl: 'QmZwyhXKorZHSAGZvrfACsNEjZi3exX2NGwT9andpe4hBi',
-    ipfsUrl: 'QmSxFDQLz9Z9vtVpdUiRQEBQV2K8twvWu1RGTLQcrwgd3G',
+    id: 214,
+    name: 'Broxie #214',
     attributes: [
       {
         trait_type: 'back',
@@ -9888,10 +11172,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSxFDQLz9Z9vtVpdUiRQEBQV2K8twvWu1RGTLQcrwgd3G',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZwyhXKorZHSAGZvrfACsNEjZi3exX2NGwT9andpe4hBi',
+    address:
+      '0:4382b124e7c872ebd88090f8c8fb971bfe2255b7ae3caf9800c6a4d5159b249d',
   },
   {
-    previewUrl: 'QmSAXkTX8Tbw2ZACzXAvknskkjeLvp5g3yJ6YbXhnzHG5q',
-    ipfsUrl: 'QmasyWw9PFJViX1dcQjU9VcMH1f1AsG8XdJUW5PL2F94aA',
+    id: 215,
+    name: 'Broxie #215',
     attributes: [
       {
         trait_type: 'back',
@@ -9934,10 +11224,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmasyWw9PFJViX1dcQjU9VcMH1f1AsG8XdJUW5PL2F94aA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSAXkTX8Tbw2ZACzXAvknskkjeLvp5g3yJ6YbXhnzHG5q',
+    address:
+      '0:a00d1e95410f6d646373b41a72440ac106ca2734acf746d9f838af449fe245f0',
   },
   {
-    previewUrl: 'QmZ8PEQpTNJGiwdaKK4ZpqZurKE1pPbkMLXSXgvDGJ5qAT',
-    ipfsUrl: 'QmZ9YnfRoQ46eJ9xWj4nPz3HEXJM2nRH9yMdHoLJtw6YmR',
+    id: 216,
+    name: 'Broxie #216',
     attributes: [
       {
         trait_type: 'back',
@@ -9980,10 +11276,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ9YnfRoQ46eJ9xWj4nPz3HEXJM2nRH9yMdHoLJtw6YmR',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ8PEQpTNJGiwdaKK4ZpqZurKE1pPbkMLXSXgvDGJ5qAT',
+    address:
+      '0:062a2ec0b2606b1c6926e892b7a214ce0b31942ef9ac41f1ac3c5e82cfaf5433',
   },
   {
-    previewUrl: 'Qmch3sWk6GmC8rvhVhsZZkTFz8TpQgUHBqrUKKADLT9erm',
-    ipfsUrl: 'QmNvjncxPYgorog7xpxCKf1DGhW9Etw3niRfTmNT32wrGC',
+    id: 217,
+    name: 'Broxie #217',
     attributes: [
       {
         trait_type: 'back',
@@ -10026,10 +11328,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNvjncxPYgorog7xpxCKf1DGhW9Etw3niRfTmNT32wrGC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmch3sWk6GmC8rvhVhsZZkTFz8TpQgUHBqrUKKADLT9erm',
+    address:
+      '0:604d2adf191384939d38b69a8aee2a78d3fe020f19cc9cc40041c489ec42b4c5',
   },
   {
-    previewUrl: 'QmcvxZRacWYGpQqHZptALnbXV2YrovKR54tCdQV5jv6V96',
-    ipfsUrl: 'QmRx2wkuuMAhgBCTfuQV15Yyx2SGXX7Gu2ck2J1wQUQhyK',
+    id: 218,
+    name: 'Broxie #218',
     attributes: [
       {
         trait_type: 'back',
@@ -10072,10 +11380,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRx2wkuuMAhgBCTfuQV15Yyx2SGXX7Gu2ck2J1wQUQhyK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcvxZRacWYGpQqHZptALnbXV2YrovKR54tCdQV5jv6V96',
+    address:
+      '0:31e0b00758e2163928516a565802dc0eaa9eae898dd9efc18f8d2854308a5d98',
   },
   {
-    previewUrl: 'QmYi6HNvaFPtQKrBntDquqH3NGwxTFrrSrPNQdv9tJUfau',
-    ipfsUrl: 'QmNzCCYxw8cLXa52EdAV4tReccuBW8qMDi4qSz7LQB7nXr',
+    id: 219,
+    name: 'Broxie #219',
     attributes: [
       {
         trait_type: 'back',
@@ -10118,10 +11432,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNzCCYxw8cLXa52EdAV4tReccuBW8qMDi4qSz7LQB7nXr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYi6HNvaFPtQKrBntDquqH3NGwxTFrrSrPNQdv9tJUfau',
+    address:
+      '0:7bf562113e8d10ea8e8aa3d53f7272015c173faf8b85198eeec6c47f4ee12ca6',
   },
   {
-    previewUrl: 'QmP4endMYzVVVQHCnmba9fFLWas7q6jDmw4CysrYfgWvyD',
-    ipfsUrl: 'QmagwwXCqNwVwytwjuizfUTf3cEnuwn8cznXGrdSxNBzvu',
+    id: 220,
+    name: 'Broxie #220',
     attributes: [
       {
         trait_type: 'back',
@@ -10164,10 +11484,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmagwwXCqNwVwytwjuizfUTf3cEnuwn8cznXGrdSxNBzvu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmP4endMYzVVVQHCnmba9fFLWas7q6jDmw4CysrYfgWvyD',
+    address:
+      '0:7f65dc6b7b1bb5a1420ad9829cc8c6908096413ade57404ff74d0a7e27bfcf3a',
   },
   {
-    previewUrl: 'QmRoPrXsNK1p8cacBBG6k7u85RR6WCgqtCG3Uufi4FVZ4f',
-    ipfsUrl: 'QmSw9sX3fdeeB7K3QKHeSLv2YsewQJGj1uwZzWkPbKePtY',
+    id: 221,
+    name: 'Broxie #221',
     attributes: [
       {
         trait_type: 'back',
@@ -10210,10 +11536,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSw9sX3fdeeB7K3QKHeSLv2YsewQJGj1uwZzWkPbKePtY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRoPrXsNK1p8cacBBG6k7u85RR6WCgqtCG3Uufi4FVZ4f',
+    address:
+      '0:639e601440df05febc580e880018ef5512b1a329dcd2c231b826d8ba5f9589b8',
   },
   {
-    previewUrl: 'QmV3PYym3m8i5sfmBG6Q7SsTtLLvcZ8qg4yvWyDTMWFDqr',
-    ipfsUrl: 'QmZckx5ovSpiV1FLuuPVsp6QWaQP2QUULJT3Ad9NemrLCx',
+    id: 222,
+    name: 'Broxie #222',
     attributes: [
       {
         trait_type: 'back',
@@ -10256,10 +11588,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZckx5ovSpiV1FLuuPVsp6QWaQP2QUULJT3Ad9NemrLCx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV3PYym3m8i5sfmBG6Q7SsTtLLvcZ8qg4yvWyDTMWFDqr',
+    address:
+      '0:01e0656d69eb34d7deadb951af0a8b81833d99df89e6252cd457cf7151a4f5d1',
   },
   {
-    previewUrl: 'QmWN1GCyRLRWzFXjQaJo5oZGBG6F2qQfoDGFExLLZNoANh',
-    ipfsUrl: 'QmeSPTh1CDJA3z14MtJWkUmL65oqkLfxf16mBqH9XnfF5a',
+    id: 223,
+    name: 'Broxie #223',
     attributes: [
       {
         trait_type: 'back',
@@ -10302,10 +11640,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeSPTh1CDJA3z14MtJWkUmL65oqkLfxf16mBqH9XnfF5a',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWN1GCyRLRWzFXjQaJo5oZGBG6F2qQfoDGFExLLZNoANh',
+    address:
+      '0:50526d089303a35eb2c272411422a7d223ee43a697e3c6842f22a898e2f3feb7',
   },
   {
-    previewUrl: 'QmaWh6UhaRRzVkergEuxakqynLfmcVTX9quLvtXGwgMLDy',
-    ipfsUrl: 'QmXxwmL1rbyKwVh6RjbmotmDN9igoKCphixjEEj3tpj6XY',
+    id: 224,
+    name: 'Broxie #224',
     attributes: [
       {
         trait_type: 'back',
@@ -10348,10 +11692,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXxwmL1rbyKwVh6RjbmotmDN9igoKCphixjEEj3tpj6XY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaWh6UhaRRzVkergEuxakqynLfmcVTX9quLvtXGwgMLDy',
+    address:
+      '0:983ed300d0ccd890ea09b57134dca84531c1e8ea2f00dfe314839a8cc8096de1',
   },
   {
-    previewUrl: 'QmeysnirqyFDfvGsBJ6rFibkk1y8DdmY4zSpJwcmLnnguC',
-    ipfsUrl: 'QmdMUtET8av2NM7SWWK751FRRumpmEfPhHHCfMqjiH3HXX',
+    id: 225,
+    name: 'Broxie #225',
     attributes: [
       {
         trait_type: 'back',
@@ -10394,10 +11744,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdMUtET8av2NM7SWWK751FRRumpmEfPhHHCfMqjiH3HXX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeysnirqyFDfvGsBJ6rFibkk1y8DdmY4zSpJwcmLnnguC',
+    address:
+      '0:6983d9e3df6d624420ce136b0a8c2b24f747c411f69d19f8fcdde73ef18c0146',
   },
   {
-    previewUrl: 'QmaZAc6PeRJz8SmgpUiTeK26WjRZV5iTAHxgbB45zJiDtB',
-    ipfsUrl: 'QmPHoqVMRckhnixUvFiP414R6ruG7Z4jtrH2q7SWUL6S1Z',
+    id: 226,
+    name: 'Broxie #226',
     attributes: [
       {
         trait_type: 'back',
@@ -10440,10 +11796,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPHoqVMRckhnixUvFiP414R6ruG7Z4jtrH2q7SWUL6S1Z',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaZAc6PeRJz8SmgpUiTeK26WjRZV5iTAHxgbB45zJiDtB',
+    address:
+      '0:7ce6bf27310c3831cf0d2f14e2bf569ef61074a08188e698564c0f816e681001',
   },
   {
-    previewUrl: 'QmQf37MMDbPKA86jrnZE2WDU9hGbcC5DbvgUpoihakCp9a',
-    ipfsUrl: 'Qma2DAWxcKDx65D6VX9SuDhNWPAZryxbMtk7jJeaDut6mp',
+    id: 227,
+    name: 'Broxie #227',
     attributes: [
       {
         trait_type: 'back',
@@ -10486,10 +11848,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qma2DAWxcKDx65D6VX9SuDhNWPAZryxbMtk7jJeaDut6mp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQf37MMDbPKA86jrnZE2WDU9hGbcC5DbvgUpoihakCp9a',
+    address:
+      '0:f4a919349f6e60f49f4e88bf9e484011f1bd5bffa74006ff8eb638301e462b90',
   },
   {
-    previewUrl: 'QmShrgdUUdAjLy5N81G8rjbMchJT6U64iU5BvjKDsJgmh6',
-    ipfsUrl: 'QmSwQucLBDPtZgkqpCtfk5SajJG4fgRcuB97jUR56BNi1V',
+    id: 228,
+    name: 'Broxie #228',
     attributes: [
       {
         trait_type: 'back',
@@ -10532,10 +11900,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSwQucLBDPtZgkqpCtfk5SajJG4fgRcuB97jUR56BNi1V',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmShrgdUUdAjLy5N81G8rjbMchJT6U64iU5BvjKDsJgmh6',
+    address:
+      '0:ef117348969e1629c9a872a1edfa23935fc09ee08188f3169f9e2fe6bb4570ae',
   },
   {
-    previewUrl: 'QmQkdkiSGzNwy92gSoQ8jAzrNr2gno3i2ma5UeTSAXRadc',
-    ipfsUrl: 'QmR78FrEcZdR2uLutpediYaeWRSTnMdDQucUAjJyrsskCk',
+    id: 229,
+    name: 'Broxie #229',
     attributes: [
       {
         trait_type: 'back',
@@ -10578,10 +11952,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR78FrEcZdR2uLutpediYaeWRSTnMdDQucUAjJyrsskCk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQkdkiSGzNwy92gSoQ8jAzrNr2gno3i2ma5UeTSAXRadc',
+    address:
+      '0:f0500303944d7a11b20fc2371d8513504511a94ac18807ed293d31d9ab291eef',
   },
   {
-    previewUrl: 'QmeG1CnfJCAZx1auYahd2Sds1VHqSVwceep9enz356zitE',
-    ipfsUrl: 'QmQRip2tqgoY1eNUQrdGcGrouT576S7g59bYcgK1XPpKLv',
+    id: 230,
+    name: 'Broxie #230',
     attributes: [
       {
         trait_type: 'back',
@@ -10624,10 +12004,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQRip2tqgoY1eNUQrdGcGrouT576S7g59bYcgK1XPpKLv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeG1CnfJCAZx1auYahd2Sds1VHqSVwceep9enz356zitE',
+    address:
+      '0:f2e43c52173ff836d2a6ef335a20ce22675b71ec9fbe6fb65b00adf62ca5088f',
   },
   {
-    previewUrl: 'QmQRUiZSFgvFPAHNrSA7ppMoApiQJgkoUgXHKvAXasbj54',
-    ipfsUrl: 'QmbHkhLtutpPHuxUbgZWd6QupTY7KQkozp9KqStCtWSdXW',
+    id: 231,
+    name: 'Broxie #231',
     attributes: [
       {
         trait_type: 'back',
@@ -10670,10 +12056,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbHkhLtutpPHuxUbgZWd6QupTY7KQkozp9KqStCtWSdXW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQRUiZSFgvFPAHNrSA7ppMoApiQJgkoUgXHKvAXasbj54',
+    address:
+      '0:a82297988427b597b08e6eca3d7dafe59ee01ebe9f76899bbafe6cb592d2df2f',
   },
   {
-    previewUrl: 'QmZSJE2Mv3UXiohuHH9tmX4ggsH79ecjGLfPNYbCqCgjfM',
-    ipfsUrl: 'QmZS37dmQZGqGmezacjPnM38z7TM6v9Dy4ajkuP7KZT7Us',
+    id: 232,
+    name: 'Broxie #232',
     attributes: [
       {
         trait_type: 'back',
@@ -10716,10 +12108,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZS37dmQZGqGmezacjPnM38z7TM6v9Dy4ajkuP7KZT7Us',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZSJE2Mv3UXiohuHH9tmX4ggsH79ecjGLfPNYbCqCgjfM',
+    address:
+      '0:5f8ff123aaa96c3be05ffaa7687032289bd9c44320758d89e938fad994ef9aeb',
   },
   {
-    previewUrl: 'QmX8pxdGKjjYH4WTfdQcWoSQsbF24YtxUXigCNdsfTxQxf',
-    ipfsUrl: 'QmQmk7mSupoYnZwnA2iWMYMmpKhpSVrb5dymwCUziUZw2J',
+    id: 233,
+    name: 'Broxie #233',
     attributes: [
       {
         trait_type: 'back',
@@ -10762,10 +12160,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQmk7mSupoYnZwnA2iWMYMmpKhpSVrb5dymwCUziUZw2J',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmX8pxdGKjjYH4WTfdQcWoSQsbF24YtxUXigCNdsfTxQxf',
+    address:
+      '0:566eeb4b806d5b70c57840ea60ea4014e770958b02c03b70c6fb869d49f36623',
   },
   {
-    previewUrl: 'QmNVigqCUb37U3b71ikg62ogCo3JJfxoNSRRWar2FFaBV5',
-    ipfsUrl: 'QmS9aJjcods6F2zVEzaooa2nx2hNuzzBPnDuQPP48arQyU',
+    id: 234,
+    name: 'Broxie #234',
     attributes: [
       {
         trait_type: 'back',
@@ -10808,10 +12212,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmS9aJjcods6F2zVEzaooa2nx2hNuzzBPnDuQPP48arQyU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNVigqCUb37U3b71ikg62ogCo3JJfxoNSRRWar2FFaBV5',
+    address:
+      '0:faef69fb4e73b4bf7e304fc86796dc8f840e4efc9a09cf4edffa867418958f7c',
   },
   {
-    previewUrl: 'QmPM4WAsxoz5eJCBRTHV9UKPk5ccx291n6BBGjoR3PhNDL',
-    ipfsUrl: 'QmQXXKk7uqxrY416XpKshu1g68pVsEFwdXLnFcCedw1vKe',
+    id: 235,
+    name: 'Broxie #235',
     attributes: [
       {
         trait_type: 'back',
@@ -10854,10 +12264,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQXXKk7uqxrY416XpKshu1g68pVsEFwdXLnFcCedw1vKe',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPM4WAsxoz5eJCBRTHV9UKPk5ccx291n6BBGjoR3PhNDL',
+    address:
+      '0:16a9586357e49bcad3dce614d77a8519fdf97483e7a0f2ceebdf907804308c2c',
   },
   {
-    previewUrl: 'QmX8mgiPLzC8DHe2LR6gcq3cHpKZDwCcbH3JnU9oh4Hu1d',
-    ipfsUrl: 'QmVTD6zUkRpfkyzQUasQeUCokccER6sShPfBpVikqDz7Fa',
+    id: 236,
+    name: 'Broxie #236',
     attributes: [
       {
         trait_type: 'back',
@@ -10900,10 +12316,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVTD6zUkRpfkyzQUasQeUCokccER6sShPfBpVikqDz7Fa',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmX8mgiPLzC8DHe2LR6gcq3cHpKZDwCcbH3JnU9oh4Hu1d',
+    address:
+      '0:4e97c42094081ba976e64f7e2d4790157593f76a9c3fb041cf0655498af1d449',
   },
   {
-    previewUrl: 'QmaHaRwR4JHZ4GcrXanoaYLt8HYmUTC6XUkino4XV1Xzva',
-    ipfsUrl: 'Qme9uJxwuTboWCNrZbDwB5pjTMfRVQtKX5c7uopGe6i88d',
+    id: 237,
+    name: 'Broxie #237',
     attributes: [
       {
         trait_type: 'back',
@@ -10946,10 +12368,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qme9uJxwuTboWCNrZbDwB5pjTMfRVQtKX5c7uopGe6i88d',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaHaRwR4JHZ4GcrXanoaYLt8HYmUTC6XUkino4XV1Xzva',
+    address:
+      '0:3887cd44f5febe2d903acd87f51d567d6c5f30a4093221bed3d9a9b5a35689a6',
   },
   {
-    previewUrl: 'QmSEwh9xpQUHJXsMxqfaY8CzoipdAUqjTf35sqTbKjYCCz',
-    ipfsUrl: 'QmShz9kMxgcMcYmGDSGWVK1qmN4xu8Z9etf4NXpwtZ25Ci',
+    id: 238,
+    name: 'Broxie #238',
     attributes: [
       {
         trait_type: 'back',
@@ -10992,10 +12420,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmShz9kMxgcMcYmGDSGWVK1qmN4xu8Z9etf4NXpwtZ25Ci',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSEwh9xpQUHJXsMxqfaY8CzoipdAUqjTf35sqTbKjYCCz',
+    address:
+      '0:e21d594f9e7e8c4877201f8227458434c73d3b629aa2f8985f782d3e705edb44',
   },
   {
-    previewUrl: 'QmTdTNUd2HJQKRUxWrZ4Ms8WcGneg2jnVg6Cqm7baHu2yy',
-    ipfsUrl: 'QmUznbrPMajVhinT6MgBeZoyPkFqvprmu5DdfMA6i1yHUg',
+    id: 239,
+    name: 'Broxie #239',
     attributes: [
       {
         trait_type: 'back',
@@ -11038,10 +12472,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUznbrPMajVhinT6MgBeZoyPkFqvprmu5DdfMA6i1yHUg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTdTNUd2HJQKRUxWrZ4Ms8WcGneg2jnVg6Cqm7baHu2yy',
+    address:
+      '0:adf3398b946f56d506d3d6e2d07d5cda2f48af7d21be38746f21c3dc27801001',
   },
   {
-    previewUrl: 'QmU17CuYsZh9VbW9jwBKmdnLNJ4fE9EraoiPhpbXfehZaM',
-    ipfsUrl: 'QmPhqms6MmLbQLo6x3KLqoXWRRDeVxzobsDwxWD7YDTfhL',
+    id: 240,
+    name: 'Broxie #240',
     attributes: [
       {
         trait_type: 'back',
@@ -11084,10 +12524,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPhqms6MmLbQLo6x3KLqoXWRRDeVxzobsDwxWD7YDTfhL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU17CuYsZh9VbW9jwBKmdnLNJ4fE9EraoiPhpbXfehZaM',
+    address:
+      '0:e35dfb512990396f824d731a47da4f517b91d0fc0c524718a7f2e9c24247c8e9',
   },
   {
-    previewUrl: 'QmTKoxqazkrSSmqXLbmviCUooMf4N4D1FBoyHVW1GamiXy',
-    ipfsUrl: 'QmdcC7QPkYUcYMDTPBFgQcQCyWSC54CcALRDkMtm4YzSog',
+    id: 241,
+    name: 'Broxie #241',
     attributes: [
       {
         trait_type: 'back',
@@ -11130,10 +12576,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdcC7QPkYUcYMDTPBFgQcQCyWSC54CcALRDkMtm4YzSog',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTKoxqazkrSSmqXLbmviCUooMf4N4D1FBoyHVW1GamiXy',
+    address:
+      '0:da0fb2cf22f2c0f390ca346e01e948c2d5d7005207f7dcce973d5c489e62d365',
   },
   {
-    previewUrl: 'QmRi7F1Jwuoj8R6fs1Hx592EWGCmYUabzFxTrzNjFZZtUu',
-    ipfsUrl: 'QmRDyRubLwwRQgxjRivqtWEQoXaSryzHFksCRu41CtZg6D',
+    id: 242,
+    name: 'Broxie #242',
     attributes: [
       {
         trait_type: 'back',
@@ -11176,10 +12628,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRDyRubLwwRQgxjRivqtWEQoXaSryzHFksCRu41CtZg6D',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRi7F1Jwuoj8R6fs1Hx592EWGCmYUabzFxTrzNjFZZtUu',
+    address:
+      '0:a726be19dbc860bdfb1bbcf542b30e6654e004988464e0e5fe6940d5def9bc82',
   },
   {
-    previewUrl: 'QmeeZ6y4s6jfJzNFtV4kH8VHKK1fSvCgwfZsETvRVk5FRM',
-    ipfsUrl: 'QmVdtm9u4QhFJHfLmK3Q6MGVeWic9H8D9omeWE3bQ7MC5B',
+    id: 243,
+    name: 'Broxie #243',
     attributes: [
       {
         trait_type: 'back',
@@ -11222,10 +12680,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVdtm9u4QhFJHfLmK3Q6MGVeWic9H8D9omeWE3bQ7MC5B',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeeZ6y4s6jfJzNFtV4kH8VHKK1fSvCgwfZsETvRVk5FRM',
+    address:
+      '0:0bce4737296862b5b73f4633c88e45d527691ce53ab182d759e6ad0fa37e1e32',
   },
   {
-    previewUrl: 'QmXtTWhRUtqFkL8kVX7wBxHafDn7xG4hn7sLKhBzEBYekg',
-    ipfsUrl: 'QmRSu6VAZLZWDNnwkCxfnpgnXLhvRYE8P3J7f2ZSTwqHfT',
+    id: 244,
+    name: 'Broxie #244',
     attributes: [
       {
         trait_type: 'back',
@@ -11268,10 +12732,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRSu6VAZLZWDNnwkCxfnpgnXLhvRYE8P3J7f2ZSTwqHfT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXtTWhRUtqFkL8kVX7wBxHafDn7xG4hn7sLKhBzEBYekg',
+    address:
+      '0:f95a1c4748f7ae2bdd22f5df1af4b84d1e5ddc88c667e619a00c9448ec759f06',
   },
   {
-    previewUrl: 'QmfYvZZzHp6iT7ERT8GCjnmFzMMsy8KgtCDtLpp59sYtzg',
-    ipfsUrl: 'QmZFBWiC4YjtvkpwP4wZMVUiPCgDeGNDLyVMxr87QMoTEF',
+    id: 245,
+    name: 'Broxie #245',
     attributes: [
       {
         trait_type: 'back',
@@ -11314,10 +12784,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZFBWiC4YjtvkpwP4wZMVUiPCgDeGNDLyVMxr87QMoTEF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfYvZZzHp6iT7ERT8GCjnmFzMMsy8KgtCDtLpp59sYtzg',
+    address:
+      '0:43e82676bcb2ac04cdbd71b99d9bcf3622cf1185944dbff2bc0f179770583f27',
   },
   {
-    previewUrl: 'QmNpWQP1iiV2ogX37XPnFfJ8RKDewwb6mjDyxKJ5PhWt1f',
-    ipfsUrl: 'QmeUgNyMmPFJ143wAdfZrMP9rZE7P8WMLma2Pm9kesAbE1',
+    id: 246,
+    name: 'Broxie #246',
     attributes: [
       {
         trait_type: 'back',
@@ -11360,10 +12836,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeUgNyMmPFJ143wAdfZrMP9rZE7P8WMLma2Pm9kesAbE1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNpWQP1iiV2ogX37XPnFfJ8RKDewwb6mjDyxKJ5PhWt1f',
+    address:
+      '0:a0f2f76f944a89469205e12124973e673583985e5b5913bc9670875a32208b8e',
   },
   {
-    previewUrl: 'QmRkJ556oceksmzbMqURSeGg2m9swFRPZsJW4b8ofTqzuf',
-    ipfsUrl: 'QmYFZBcQwce8vxFaVEbrwGJHx4nod9XyEQVB2XokTo3dhd',
+    id: 247,
+    name: 'Broxie #247',
     attributes: [
       {
         trait_type: 'back',
@@ -11406,10 +12888,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYFZBcQwce8vxFaVEbrwGJHx4nod9XyEQVB2XokTo3dhd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRkJ556oceksmzbMqURSeGg2m9swFRPZsJW4b8ofTqzuf',
+    address:
+      '0:338f7f78c785242f03efde37292f8b195b26d7c3a692c2a804c240ed48747ec3',
   },
   {
-    previewUrl: 'QmTC2UyTrsm61WDyf3RhXWMGtfgLsmLhDSynQXTLrZSNiH',
-    ipfsUrl: 'QmSCCRVwCUkghyXRvEsXd1NQkYcPvCG6PKJ62ufy1NcFTQ',
+    id: 248,
+    name: 'Broxie #248',
     attributes: [
       {
         trait_type: 'back',
@@ -11452,10 +12940,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSCCRVwCUkghyXRvEsXd1NQkYcPvCG6PKJ62ufy1NcFTQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTC2UyTrsm61WDyf3RhXWMGtfgLsmLhDSynQXTLrZSNiH',
+    address:
+      '0:6367d21afadc3a78debf2a5af343bc5d6a609cd66d3ea45904a5aeb860825525',
   },
   {
-    previewUrl: 'QmXqi8R4NYfg9TSKdVCVGJeVyM8QM83YKB64XjKxxNW5pr',
-    ipfsUrl: 'QmaTbZMr7Fc8Qw6MXTE7fE4QvAgSWic6VHghRWPzCyY2tP',
+    id: 249,
+    name: 'Broxie #249',
     attributes: [
       {
         trait_type: 'back',
@@ -11498,10 +12992,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaTbZMr7Fc8Qw6MXTE7fE4QvAgSWic6VHghRWPzCyY2tP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXqi8R4NYfg9TSKdVCVGJeVyM8QM83YKB64XjKxxNW5pr',
+    address:
+      '0:4198a71518a4c9343c2a0a1ad8c8477cb5fbe65fefe23b0db5423be128568b1c',
   },
   {
-    previewUrl: 'QmPv1fAA8Ju7RJVQYmHA5tu7bLiXxKNq9g9GWexj6zkcmq',
-    ipfsUrl: 'QmeoPRz7TD8cixv5ACgi9t5jZrkhdEztjaf6BykrP8iWnq',
+    id: 250,
+    name: 'Broxie #250',
     attributes: [
       {
         trait_type: 'back',
@@ -11544,10 +13044,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeoPRz7TD8cixv5ACgi9t5jZrkhdEztjaf6BykrP8iWnq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPv1fAA8Ju7RJVQYmHA5tu7bLiXxKNq9g9GWexj6zkcmq',
+    address:
+      '0:b1d1637d0aa756343e6bc39196e7e8d568ac326629689511944ca2ba730a2bc5',
   },
   {
-    previewUrl: 'Qmf9j3hBsAiWRKQaRdCZhNjeupoPu6pkv8MxxvnqrtACVB',
-    ipfsUrl: 'QmUzQmmNVCAnbfc2EEfDu4egV9cQAR4s4xh1v2fBY3ib2U',
+    id: 251,
+    name: 'Broxie #251',
     attributes: [
       {
         trait_type: 'back',
@@ -11590,10 +13096,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUzQmmNVCAnbfc2EEfDu4egV9cQAR4s4xh1v2fBY3ib2U',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf9j3hBsAiWRKQaRdCZhNjeupoPu6pkv8MxxvnqrtACVB',
+    address:
+      '0:8cfd97403b690a9f81f8556b7366bbf2c92ca29642b9724d0cf432202194b165',
   },
   {
-    previewUrl: 'QmXmBDTPuA3HQrAkRYQndDkbfyDKgApXk8TVhGEhd2w1TE',
-    ipfsUrl: 'QmSWxySBhR3KxquyYtwoNLoVz1XCL8Wb9Swa2ex2XJ2aoQ',
+    id: 252,
+    name: 'Broxie #252',
     attributes: [
       {
         trait_type: 'back',
@@ -11636,10 +13148,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSWxySBhR3KxquyYtwoNLoVz1XCL8Wb9Swa2ex2XJ2aoQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXmBDTPuA3HQrAkRYQndDkbfyDKgApXk8TVhGEhd2w1TE',
+    address:
+      '0:9e174cf42a6cf103ecd5abc30736bbf55aa1acb0039e106840df7b7482144006',
   },
   {
-    previewUrl: 'QmfUN26M7zhpMNMPTSjLzxMM4SzckNpoYdz1Ekqfk5JoXq',
-    ipfsUrl: 'QmUX7vNLkLs2JgxbWRXtbExAqXFrEe5kK2sTfRVgh91b3x',
+    id: 253,
+    name: 'Broxie #253',
     attributes: [
       {
         trait_type: 'back',
@@ -11682,10 +13200,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUX7vNLkLs2JgxbWRXtbExAqXFrEe5kK2sTfRVgh91b3x',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfUN26M7zhpMNMPTSjLzxMM4SzckNpoYdz1Ekqfk5JoXq',
+    address:
+      '0:cb90131d7ec64907bcae113eee11330e1f06cef6601fbb53dd3ac3b76836132b',
   },
   {
-    previewUrl: 'QmPZdLnXfPf3ayRzia3ToaEJREkf7XxbidFhd9Wyk43pzp',
-    ipfsUrl: 'QmSyiETXbKKsX4EJzacLuUXkuqc4sxu36y2DXkKCijP2t4',
+    id: 254,
+    name: 'Broxie #254',
     attributes: [
       {
         trait_type: 'back',
@@ -11728,10 +13252,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSyiETXbKKsX4EJzacLuUXkuqc4sxu36y2DXkKCijP2t4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPZdLnXfPf3ayRzia3ToaEJREkf7XxbidFhd9Wyk43pzp',
+    address:
+      '0:ca49698b29f2b6a6ea7312d1e80f4fb772b7613e70a56b789302a69a1923c1f2',
   },
   {
-    previewUrl: 'QmThyBPetopfHhUVqhXvyiMyEnRwU1GWgxQyiqw1zksRJR',
-    ipfsUrl: 'QmVh73H4jV4P1T9XXSMq9Kka65SJQQXkZKWfY48NHtd1Mx',
+    id: 255,
+    name: 'Broxie #255',
     attributes: [
       {
         trait_type: 'back',
@@ -11774,10 +13304,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVh73H4jV4P1T9XXSMq9Kka65SJQQXkZKWfY48NHtd1Mx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmThyBPetopfHhUVqhXvyiMyEnRwU1GWgxQyiqw1zksRJR',
+    address:
+      '0:4cac7e428be3ec58190736f74298c08028d744ab3c252d950d3452cd2e9de933',
   },
   {
-    previewUrl: 'Qmepu5M676ismR7FYcLb7E6r3HVpitvWWgfR5FtJuTEiPZ',
-    ipfsUrl: 'QmYfdgv5TkkukHkDyaWJiyXk74Evb6U7Fuw6EG9BMsbkqo',
+    id: 256,
+    name: 'Broxie #256',
     attributes: [
       {
         trait_type: 'back',
@@ -11820,10 +13356,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYfdgv5TkkukHkDyaWJiyXk74Evb6U7Fuw6EG9BMsbkqo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmepu5M676ismR7FYcLb7E6r3HVpitvWWgfR5FtJuTEiPZ',
+    address:
+      '0:61debb5a5434da51b760600375181ab41ce176bbb6b69c53a02363cbe70d170e',
   },
   {
-    previewUrl: 'Qmeuvh3L6dA4An5tAVQqjdJP8WXoicdXbfczFWUpA5Cz3B',
-    ipfsUrl: 'QmXWRBkFP5skv7LjDw3ft4E24HaE57SpHoVukLEVNbwAoL',
+    id: 257,
+    name: 'Broxie #257',
     attributes: [
       {
         trait_type: 'back',
@@ -11866,10 +13408,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXWRBkFP5skv7LjDw3ft4E24HaE57SpHoVukLEVNbwAoL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmeuvh3L6dA4An5tAVQqjdJP8WXoicdXbfczFWUpA5Cz3B',
+    address:
+      '0:f02eab9a2ecd3ad9be06d9a7de1b7c870fd94743c3b33f9af25f7c800b8273c1',
   },
   {
-    previewUrl: 'QmZNRBC8ZvkJHCHC494KGKriqaDed4KNtSrjdLX8kFGBoD',
-    ipfsUrl: 'QmVNZ2Q8wr5bdJNc633TromFEaPtwPc8r6zptJ5Fnd9qXt',
+    id: 258,
+    name: 'Broxie #258',
     attributes: [
       {
         trait_type: 'back',
@@ -11912,10 +13460,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVNZ2Q8wr5bdJNc633TromFEaPtwPc8r6zptJ5Fnd9qXt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZNRBC8ZvkJHCHC494KGKriqaDed4KNtSrjdLX8kFGBoD',
+    address:
+      '0:775b5c6b9a3c3ecfea84957d565c9854da2630bd5df1ceac8e642325f6ad4187',
   },
   {
-    previewUrl: 'QmWVRK2Cbiohkvydye4q8HgMGhGPntFw6Bjpt3YsMGvHQn',
-    ipfsUrl: 'QmVhNB8cT8QfwMzRJJKketjJSvLVkWhGUbM4vTkZgUn2Pt',
+    id: 259,
+    name: 'Broxie #259',
     attributes: [
       {
         trait_type: 'back',
@@ -11958,10 +13512,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVhNB8cT8QfwMzRJJKketjJSvLVkWhGUbM4vTkZgUn2Pt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWVRK2Cbiohkvydye4q8HgMGhGPntFw6Bjpt3YsMGvHQn',
+    address:
+      '0:de4d9d4c3ba0f1811b394482d3bd6b818d0dadf2abfef8a81cf218dc460882f8',
   },
   {
-    previewUrl: 'QmVpmQfiZJyxDaPZChyeUUeSocj7MBcznXccnPR98VxJTj',
-    ipfsUrl: 'QmVamZgr2wrT9qDedCLFQy14i7dQqB8yYfGhZdeWpMkqxv',
+    id: 260,
+    name: 'Broxie #260',
     attributes: [
       {
         trait_type: 'back',
@@ -12004,10 +13564,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVamZgr2wrT9qDedCLFQy14i7dQqB8yYfGhZdeWpMkqxv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVpmQfiZJyxDaPZChyeUUeSocj7MBcznXccnPR98VxJTj',
+    address:
+      '0:881fc2cc5fa32b828c6625f9845d4068b7a7edf5849b20608228bb70fb4f84e5',
   },
   {
-    previewUrl: 'Qmd5qtULUQM8BTqnwRdeDU1u96YsvfuY5DcW2Lu7WR9JQF',
-    ipfsUrl: 'QmbDwxgiSETEhHcHYuX2NJnh3rnjqY7s7ZzMCrFgCRjpqm',
+    id: 261,
+    name: 'Broxie #261',
     attributes: [
       {
         trait_type: 'back',
@@ -12050,10 +13616,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbDwxgiSETEhHcHYuX2NJnh3rnjqY7s7ZzMCrFgCRjpqm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd5qtULUQM8BTqnwRdeDU1u96YsvfuY5DcW2Lu7WR9JQF',
+    address:
+      '0:0bf3aa89dfddab96edb603b0b27ce19a0bf8d5087a448475e61879df0df45fdc',
   },
   {
-    previewUrl: 'QmNnxoSDRwBwUMkyTuFGfiAytS7FhrR9qQLeewjWF3Ei8t',
-    ipfsUrl: 'QmaGEe8ZZhvaGxAzN7fKafCDNaYqjS2BpbrocxRkiyH7vM',
+    id: 262,
+    name: 'Broxie #262',
     attributes: [
       {
         trait_type: 'back',
@@ -12096,10 +13668,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaGEe8ZZhvaGxAzN7fKafCDNaYqjS2BpbrocxRkiyH7vM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNnxoSDRwBwUMkyTuFGfiAytS7FhrR9qQLeewjWF3Ei8t',
+    address:
+      '0:2a918acf626e6c02327f9843d090d5d9b4321c93f255316778512a5e01fb3853',
   },
   {
-    previewUrl: 'QmPcuvXh6AZrK2gdMqqvhNF2ukEGExVzN2qRxWUQZN9T1N',
-    ipfsUrl: 'QmPY4qtfgMRdKdecKRNkbDa2Axe5anWoEttFqMZb2Zw1HZ',
+    id: 263,
+    name: 'Broxie #263',
     attributes: [
       {
         trait_type: 'back',
@@ -12142,10 +13720,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPY4qtfgMRdKdecKRNkbDa2Axe5anWoEttFqMZb2Zw1HZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPcuvXh6AZrK2gdMqqvhNF2ukEGExVzN2qRxWUQZN9T1N',
+    address:
+      '0:75379d8faba2d0290bc8a46572c9481407db0dd9ccf01ea22bd9d1f7b2fbdb3f',
   },
   {
-    previewUrl: 'QmSZRXGo6Nxed75dyKTpCeUcXUE5ypgGKfEyvTRizLDo1w',
-    ipfsUrl: 'QmUSpCEFhMFLuYR5C4sMk4ynpUezETPvpDoiVjN5Q12P7Q',
+    id: 264,
+    name: 'Broxie #264',
     attributes: [
       {
         trait_type: 'back',
@@ -12188,10 +13772,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUSpCEFhMFLuYR5C4sMk4ynpUezETPvpDoiVjN5Q12P7Q',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSZRXGo6Nxed75dyKTpCeUcXUE5ypgGKfEyvTRizLDo1w',
+    address:
+      '0:ee62dfbb4b058d532dda0a9c2738df16c8c4093752e19073232666edb9b9a8ac',
   },
   {
-    previewUrl: 'QmcwuErcH4QCWRUcJPpXAPL8nfuTXic2MqZCErpjTj25iW',
-    ipfsUrl: 'Qmbg3RqbBvnbENtnNjRsicHKu76u1SSzDzhkTuDJHT5qqY',
+    id: 265,
+    name: 'Broxie #265',
     attributes: [
       {
         trait_type: 'back',
@@ -12234,10 +13824,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbg3RqbBvnbENtnNjRsicHKu76u1SSzDzhkTuDJHT5qqY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcwuErcH4QCWRUcJPpXAPL8nfuTXic2MqZCErpjTj25iW',
+    address:
+      '0:29586f7d25557accb5921037e84d9d2a0cf25da30959e1f3b2d2c5a239bf7e0a',
   },
   {
-    previewUrl: 'QmY242qxab9dQH8NYohpKapxxf3rdt7rMAsvwYoG8UsBsr',
-    ipfsUrl: 'QmeRv1wFbZskQjt8ugggXRDjbpY8s3GN6krGe8FDbkLat1',
+    id: 266,
+    name: 'Broxie #266',
     attributes: [
       {
         trait_type: 'back',
@@ -12280,10 +13876,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeRv1wFbZskQjt8ugggXRDjbpY8s3GN6krGe8FDbkLat1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmY242qxab9dQH8NYohpKapxxf3rdt7rMAsvwYoG8UsBsr',
+    address:
+      '0:3f078a65d5170cad563afb2a15062bfb6c645d27deb2283025af2e39466b8482',
   },
   {
-    previewUrl: 'QmZAGkbunQM3CxbXDQvDr6yjyumJW416cCQbJ83ngFkEwe',
-    ipfsUrl: 'QmeBjFqAUNNqPkNptU5UkX2Bf8epUcTiRru9dWA6Treh9Q',
+    id: 267,
+    name: 'Broxie #267',
     attributes: [
       {
         trait_type: 'back',
@@ -12326,10 +13928,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeBjFqAUNNqPkNptU5UkX2Bf8epUcTiRru9dWA6Treh9Q',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZAGkbunQM3CxbXDQvDr6yjyumJW416cCQbJ83ngFkEwe',
+    address:
+      '0:422a3279c37301b79f81f4f2c2c4218405acbb251ace0873cf4ca06239844c9e',
   },
   {
-    previewUrl: 'QmbPR8nsBqLjbzCi3XZYkiesbvNz2UGgX931DyAs3XnVQd',
-    ipfsUrl: 'QmVcNJ26juHB75HShT5nNLhTfu8BovcsMbiCVbYT2u9roA',
+    id: 268,
+    name: 'Broxie #268',
     attributes: [
       {
         trait_type: 'back',
@@ -12372,10 +13980,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVcNJ26juHB75HShT5nNLhTfu8BovcsMbiCVbYT2u9roA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbPR8nsBqLjbzCi3XZYkiesbvNz2UGgX931DyAs3XnVQd',
+    address:
+      '0:c2bd05686b05e50569ee735e2b15373fe36b2fccae83bc69d564f61424e370dd',
   },
   {
-    previewUrl: 'QmdSSK7ZPF7YidrwTQJ9pfyYZqPkrripuRcSRMbR9k1mnu',
-    ipfsUrl: 'QmTzvo8yYJq8C5Zry76sXjXiH2sMgRNG84jUP15dF1yi45',
+    id: 269,
+    name: 'Broxie #269',
     attributes: [
       {
         trait_type: 'back',
@@ -12418,10 +14032,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTzvo8yYJq8C5Zry76sXjXiH2sMgRNG84jUP15dF1yi45',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdSSK7ZPF7YidrwTQJ9pfyYZqPkrripuRcSRMbR9k1mnu',
+    address:
+      '0:d50ba7a64e56796e5b0dbe4352f7b3ae90edce8e7635b252dc88b7c2e85ac7e1',
   },
   {
-    previewUrl: 'QmZEx2eFxFZDwQejaYMZWS32Pe6tuPSwTWMQhRZd9m8zoz',
-    ipfsUrl: 'QmW3Gq145AicAof5dmUgQPB1MFxrb8ztWkC3pF6mxCwqd7',
+    id: 270,
+    name: 'Broxie #270',
     attributes: [
       {
         trait_type: 'back',
@@ -12464,10 +14084,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW3Gq145AicAof5dmUgQPB1MFxrb8ztWkC3pF6mxCwqd7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZEx2eFxFZDwQejaYMZWS32Pe6tuPSwTWMQhRZd9m8zoz',
+    address:
+      '0:1bbfe81ea9e74e8e80c7c6cc61025def6698a162954f75fc69571984933f7b2e',
   },
   {
-    previewUrl: 'Qmans7ALTGXfq5sNnVTJ37ZU4fuSBkDVPNVtGR4FkGFerK',
-    ipfsUrl: 'QmSBYzoTUTeHGZCKH8tzbWyD9g4mv18AVAUUXY383m2862',
+    id: 271,
+    name: 'Broxie #271',
     attributes: [
       {
         trait_type: 'back',
@@ -12510,10 +14136,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSBYzoTUTeHGZCKH8tzbWyD9g4mv18AVAUUXY383m2862',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmans7ALTGXfq5sNnVTJ37ZU4fuSBkDVPNVtGR4FkGFerK',
+    address:
+      '0:fa221b000595dd7ed8056804497ce2bf6c83238f5e74f3e8d1afbbce49f967d6',
   },
   {
-    previewUrl: 'Qmc1hof4i2XJQmU1jXb8kHzzeLUJNX743mp5MT4StBUMCP',
-    ipfsUrl: 'QmQBi5uJi8niNpBEbLqi3X6d9WNJSEcutFZRZEszCP9Jhs',
+    id: 272,
+    name: 'Broxie #272',
     attributes: [
       {
         trait_type: 'back',
@@ -12556,10 +14188,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQBi5uJi8niNpBEbLqi3X6d9WNJSEcutFZRZEszCP9Jhs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc1hof4i2XJQmU1jXb8kHzzeLUJNX743mp5MT4StBUMCP',
+    address:
+      '0:a86812a49c3519e0bbcf2b5eecce8ab0ad5476d183dc598a989a3fbf3744d5b4',
   },
   {
-    previewUrl: 'QmV5gxPR6VRogyVVYBEVeUuvvLpgMmLmmkEyZVat9rBnfi',
-    ipfsUrl: 'QmSJiJB15X75QLkvD2t8J7ACoAsvVUkCBAt2Jy1BNfPSNv',
+    id: 273,
+    name: 'Broxie #273',
     attributes: [
       {
         trait_type: 'back',
@@ -12602,10 +14240,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSJiJB15X75QLkvD2t8J7ACoAsvVUkCBAt2Jy1BNfPSNv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV5gxPR6VRogyVVYBEVeUuvvLpgMmLmmkEyZVat9rBnfi',
+    address:
+      '0:52e5ae853a2cd654d97d17d61cdd80882970064b67acbbe852202aae28e177a5',
   },
   {
-    previewUrl: 'QmTuubDeoYe9hNxifCYVa3DRZWnEt7FTrTjRuESxnCBjCy',
-    ipfsUrl: 'QmUWnezU4WN5ZimHw5gsb8yG46EkEMSe6xMfe7F68a31Rq',
+    id: 274,
+    name: 'Broxie #274',
     attributes: [
       {
         trait_type: 'back',
@@ -12648,10 +14292,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUWnezU4WN5ZimHw5gsb8yG46EkEMSe6xMfe7F68a31Rq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTuubDeoYe9hNxifCYVa3DRZWnEt7FTrTjRuESxnCBjCy',
+    address:
+      '0:a078a3eb5189221c8009a6201b245047dd37c70a86a06dc28791a13c4c308c97',
   },
   {
-    previewUrl: 'QmVEwVaPzGmQwm1wCpZeZDAShFQQsQRbW6t3RMbjpLMbRS',
-    ipfsUrl: 'QmSHQJNU2tVyc1HEQDGT3t2fVnwcLC2K9oDjdTb5F7nT4e',
+    id: 275,
+    name: 'Broxie #275',
     attributes: [
       {
         trait_type: 'back',
@@ -12694,10 +14344,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSHQJNU2tVyc1HEQDGT3t2fVnwcLC2K9oDjdTb5F7nT4e',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVEwVaPzGmQwm1wCpZeZDAShFQQsQRbW6t3RMbjpLMbRS',
+    address:
+      '0:d720b7cd22141f3be1cafc7450e506dc85cb01ae9a254822ffd3160906317912',
   },
   {
-    previewUrl: 'QmenAP62pBCjdikZeZLfUVZs6Av4aaKjfvGbaM19j4ULUZ',
-    ipfsUrl: 'QmYFGLPw4oKKZZPYAUzWq8VLA2BiNqM6ajWY1MJgjNDuLd',
+    id: 276,
+    name: 'Broxie #276',
     attributes: [
       {
         trait_type: 'back',
@@ -12740,10 +14396,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYFGLPw4oKKZZPYAUzWq8VLA2BiNqM6ajWY1MJgjNDuLd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmenAP62pBCjdikZeZLfUVZs6Av4aaKjfvGbaM19j4ULUZ',
+    address:
+      '0:3f7d147c206c1d53911b906e0f2b899f2bd48a501ef8350dc0c9df2a64ccc572',
   },
   {
-    previewUrl: 'Qmcko1jQqn7d1TCjUUzTjU1TyhqVCeQUjZbzmuBFwhX54e',
-    ipfsUrl: 'QmRYbtnhB88hJ7z8sgTZPkjVs9d4cXfwMvGWQnLThVgP2F',
+    id: 277,
+    name: 'Broxie #277',
     attributes: [
       {
         trait_type: 'back',
@@ -12786,10 +14448,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRYbtnhB88hJ7z8sgTZPkjVs9d4cXfwMvGWQnLThVgP2F',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcko1jQqn7d1TCjUUzTjU1TyhqVCeQUjZbzmuBFwhX54e',
+    address:
+      '0:7b735669a378d875bdf25b45bbe8717fb51257a5f3ed1f137472973400cac65c',
   },
   {
-    previewUrl: 'QmYakVSAozbuniR4iL4i5LwS44ERbLuPQK6SEdFpWPKRJs',
-    ipfsUrl: 'QmXu9BCZMpLjGqjmRFYpCGnQxtD3AbFwNxxzngFUZZZgbX',
+    id: 278,
+    name: 'Broxie #278',
     attributes: [
       {
         trait_type: 'back',
@@ -12832,10 +14500,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXu9BCZMpLjGqjmRFYpCGnQxtD3AbFwNxxzngFUZZZgbX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYakVSAozbuniR4iL4i5LwS44ERbLuPQK6SEdFpWPKRJs',
+    address:
+      '0:e2c4a0fa12f17b74cb662b6c5d9422c0291b0b5b5cf572c37a2f3ad8a03ca530',
   },
   {
-    previewUrl: 'QmWqDLyyLR1bSdAWZbqf4f8JPhyT7igPmrMSLD224jYNUR',
-    ipfsUrl: 'QmPhiaqzchueqDh1zqNYqHM2rF4gnAcm4iHDaonSrqMUo3',
+    id: 279,
+    name: 'Broxie #279',
     attributes: [
       {
         trait_type: 'back',
@@ -12878,10 +14552,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPhiaqzchueqDh1zqNYqHM2rF4gnAcm4iHDaonSrqMUo3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWqDLyyLR1bSdAWZbqf4f8JPhyT7igPmrMSLD224jYNUR',
+    address:
+      '0:0a4a92af5b3b3d78727985266b801f8353aeb3bd2f66335bb3a4c2462713c6a7',
   },
   {
-    previewUrl: 'QmPbBeBBsBpj4d1x2YqUfXXE8Rzs2vh7wYHiqqCtDrLGrj',
-    ipfsUrl: 'QmXwcb6euRqNCsAvBQ8nyZK18zHhroqqT5TCjzo2g5KjsV',
+    id: 280,
+    name: 'Broxie #280',
     attributes: [
       {
         trait_type: 'back',
@@ -12924,10 +14604,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXwcb6euRqNCsAvBQ8nyZK18zHhroqqT5TCjzo2g5KjsV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPbBeBBsBpj4d1x2YqUfXXE8Rzs2vh7wYHiqqCtDrLGrj',
+    address:
+      '0:c10b92396fa7b26de7753218d85c41858ddc9088a80897a1a6eaa1151b5e6c4f',
   },
   {
-    previewUrl: 'QmaV47YUKfPUPpwmriHmV3hpEwSqHZ8HyYp2995juPfbtd',
-    ipfsUrl: 'QmeAQfhMk84oZhPuNuxRs3q3wcihXn22e2sSriAA7XLAyx',
+    id: 281,
+    name: 'Broxie #281',
     attributes: [
       {
         trait_type: 'back',
@@ -12970,10 +14656,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeAQfhMk84oZhPuNuxRs3q3wcihXn22e2sSriAA7XLAyx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaV47YUKfPUPpwmriHmV3hpEwSqHZ8HyYp2995juPfbtd',
+    address:
+      '0:6d13c5a36fd1b19f9544d7f5cc35b465ef7fcfc6eab6ba7ce39238fb43a2a810',
   },
   {
-    previewUrl: 'QmbJrzPBXR2PgrMxNvWHPWxroS1CJdw1w6Joh5qnsVvokk',
-    ipfsUrl: 'QmcpTtg2vdKbb7LaHEoHGnudyZYL9KRikBqNT2C2uXBQxS',
+    id: 282,
+    name: 'Broxie #282',
     attributes: [
       {
         trait_type: 'back',
@@ -13016,10 +14708,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcpTtg2vdKbb7LaHEoHGnudyZYL9KRikBqNT2C2uXBQxS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbJrzPBXR2PgrMxNvWHPWxroS1CJdw1w6Joh5qnsVvokk',
+    address:
+      '0:c717dd5f1f78a42273816240357ae637ad1c8619abc53ab1959fbf8a1c049748',
   },
   {
-    previewUrl: 'QmV1Qkmd3CvsHfm7iTrzstNgk9jKz64igFa7TdM9TaFrZ2',
-    ipfsUrl: 'QmUNgXQMN6xWescGkgfRjVbqHsM9eGdWMq5h98kZW9XG1y',
+    id: 283,
+    name: 'Broxie #283',
     attributes: [
       {
         trait_type: 'back',
@@ -13062,10 +14760,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUNgXQMN6xWescGkgfRjVbqHsM9eGdWMq5h98kZW9XG1y',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV1Qkmd3CvsHfm7iTrzstNgk9jKz64igFa7TdM9TaFrZ2',
+    address:
+      '0:f637e15576ef4b364b815e4012676f743556502001b6d7d1cf167fcad881c0cd',
   },
   {
-    previewUrl: 'QmSGqMUUsEVr33DtfHGTGZo72ZhBZNRLicKSmwMNoMDoZE',
-    ipfsUrl: 'QmcvXZ9YBitstJHYAgn3TCyj7WiKnXqf28KMQTsoEgLFo4',
+    id: 284,
+    name: 'Broxie #284',
     attributes: [
       {
         trait_type: 'back',
@@ -13108,10 +14812,16 @@ export const broxieCollection = [
         value: 'Alien',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcvXZ9YBitstJHYAgn3TCyj7WiKnXqf28KMQTsoEgLFo4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSGqMUUsEVr33DtfHGTGZo72ZhBZNRLicKSmwMNoMDoZE',
+    address:
+      '0:acfe9ded843a8ef4c435daed39ecf86d233fad332682fd051ba0f932b3b45fa0',
   },
   {
-    previewUrl: 'QmYDbkA2TbbYueq2KtRa1rhDTRG6wuW9VPfMPLBBLSdLb5',
-    ipfsUrl: 'QmbqaprzJauoSKALkrrVBihDfRGtc4xDMPRaEEBwPSxwNB',
+    id: 285,
+    name: 'Broxie #285',
     attributes: [
       {
         trait_type: 'back',
@@ -13154,10 +14864,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbqaprzJauoSKALkrrVBihDfRGtc4xDMPRaEEBwPSxwNB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYDbkA2TbbYueq2KtRa1rhDTRG6wuW9VPfMPLBBLSdLb5',
+    address:
+      '0:4282ab29be97279c8907a8145e3020168800191e580d1569b93cfca23b7e6b33',
   },
   {
-    previewUrl: 'Qmdi7hbbSRqCJihH34UC9W3HiCw4gJBPPMm6Fw2LTdP7AG',
-    ipfsUrl: 'QmZtiakyjXHp2pP3nRsJjCjNMWzNLVtc4oRMUXn9jsVSyS',
+    id: 286,
+    name: 'Broxie #286',
     attributes: [
       {
         trait_type: 'back',
@@ -13200,10 +14916,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZtiakyjXHp2pP3nRsJjCjNMWzNLVtc4oRMUXn9jsVSyS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdi7hbbSRqCJihH34UC9W3HiCw4gJBPPMm6Fw2LTdP7AG',
+    address:
+      '0:84679faf1958def115ae7654f3de0ff6ddaacae90c78a1c8e8450a2681521909',
   },
   {
-    previewUrl: 'QmaYEpBM1NsM9G46M1goM2iHesetzHfQeTG8JVhF8RFKoZ',
-    ipfsUrl: 'QmdFgcn7VeGyKTpMpD4P3b2detcip9HqfKZpJTqAcF96vo',
+    id: 287,
+    name: 'Broxie #287',
     attributes: [
       {
         trait_type: 'back',
@@ -13246,10 +14968,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdFgcn7VeGyKTpMpD4P3b2detcip9HqfKZpJTqAcF96vo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaYEpBM1NsM9G46M1goM2iHesetzHfQeTG8JVhF8RFKoZ',
+    address:
+      '0:ea82e4605e917d48b8c88d57fbcb048f7c2a1843824ed81f73442fac18736f68',
   },
   {
-    previewUrl: 'QmbjcWNMnszqmV6KftCozTdu9S1hB1XijdUU5FKo1geTQS',
-    ipfsUrl: 'QmSPMaiJSQPRTBYMT8VVBSa4rKrZCNLjrfAhRa7wiA2nY9',
+    id: 288,
+    name: 'Broxie #288',
     attributes: [
       {
         trait_type: 'back',
@@ -13292,10 +15020,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSPMaiJSQPRTBYMT8VVBSa4rKrZCNLjrfAhRa7wiA2nY9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbjcWNMnszqmV6KftCozTdu9S1hB1XijdUU5FKo1geTQS',
+    address:
+      '0:e4d37f1b62243e27a344bffa5b34baa64280e5f78076f58c5b0fb85502b7d467',
   },
   {
-    previewUrl: 'QmSpSeQDu4Ye9Nt1wHBzG89q9vViK2paM13Ek162QXnm3R',
-    ipfsUrl: 'QmdL7iE3sXiVs8Ey758PT8mTkoWGbPqDkUEgmHdm6pWXP3',
+    id: 289,
+    name: 'Broxie #289',
     attributes: [
       {
         trait_type: 'back',
@@ -13338,10 +15072,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdL7iE3sXiVs8Ey758PT8mTkoWGbPqDkUEgmHdm6pWXP3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSpSeQDu4Ye9Nt1wHBzG89q9vViK2paM13Ek162QXnm3R',
+    address:
+      '0:49732c2298d3b1e028b1161a6c3742ee6f43f18f81f53e16b468c7dae483c948',
   },
   {
-    previewUrl: 'QmehrTVB4cxzygPsCrzqPYnPW8yxQHD6sKyStpJyJ5HbNE',
-    ipfsUrl: 'QmdLortWuk42dNB5cWuYL13bCxeQvUYN7TqcCNWEqa2eDz',
+    id: 290,
+    name: 'Broxie #290',
     attributes: [
       {
         trait_type: 'back',
@@ -13384,10 +15124,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdLortWuk42dNB5cWuYL13bCxeQvUYN7TqcCNWEqa2eDz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmehrTVB4cxzygPsCrzqPYnPW8yxQHD6sKyStpJyJ5HbNE',
+    address:
+      '0:fdde5981a7b676b7c42f52cf3d45cb657e2bd5c7a562e673714af209eb7f1bd8',
   },
   {
-    previewUrl: 'QmWXw8VvjaPhQbhcv8er7sfJvVB1q2g4mGMfMNrQbVvC8b',
-    ipfsUrl: 'QmbxerZk9UDW4ZJ2ABexXfyNJChcM56WumXBebGmEM5UoC',
+    id: 291,
+    name: 'Broxie #291',
     attributes: [
       {
         trait_type: 'back',
@@ -13430,10 +15176,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbxerZk9UDW4ZJ2ABexXfyNJChcM56WumXBebGmEM5UoC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWXw8VvjaPhQbhcv8er7sfJvVB1q2g4mGMfMNrQbVvC8b',
+    address:
+      '0:79638a5b598ca08e3ee7909af69ca89b81fdfa71b03648adaf4e39f26e2aa15c',
   },
   {
-    previewUrl: 'QmZDji8GxG6AEAD84SJY3sowhkbSMuAR7ZKhQjSobhpi5Q',
-    ipfsUrl: 'QmYBq7upXa3Eqoyxx7EHUHF1dCmusD7hcmQ3FU1zxa1Uk6',
+    id: 292,
+    name: 'Broxie #292',
     attributes: [
       {
         trait_type: 'back',
@@ -13476,10 +15228,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYBq7upXa3Eqoyxx7EHUHF1dCmusD7hcmQ3FU1zxa1Uk6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZDji8GxG6AEAD84SJY3sowhkbSMuAR7ZKhQjSobhpi5Q',
+    address:
+      '0:cd63c81258794690024ff1c06f3b87235ebc4385e1f78493051c502dbade9e5e',
   },
   {
-    previewUrl: 'QmQy9BxhDK1VGfn52mxzrhRGYBvHaDPLFSVwTcqt76Ssnr',
-    ipfsUrl: 'QmfHQUncCbXZRtMggxc1egVTVYWsk92CXzc7amYiGZEcsh',
+    id: 293,
+    name: 'Broxie #293',
     attributes: [
       {
         trait_type: 'back',
@@ -13522,10 +15280,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfHQUncCbXZRtMggxc1egVTVYWsk92CXzc7amYiGZEcsh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQy9BxhDK1VGfn52mxzrhRGYBvHaDPLFSVwTcqt76Ssnr',
+    address:
+      '0:1813ccd69f4c9231d8ce87b216f7022141e2899b64fcc9822e6413d1e4b34054',
   },
   {
-    previewUrl: 'QmevAsZg4WA1wGJQFtvGN9zcA7V6HJ99FaYwiK2ZhpYwCy',
-    ipfsUrl: 'QmWfyCtnLELe5D9VAhS9dT7m4w77HsMqW3wqVvs9VEWtqQ',
+    id: 294,
+    name: 'Broxie #294',
     attributes: [
       {
         trait_type: 'back',
@@ -13568,10 +15332,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWfyCtnLELe5D9VAhS9dT7m4w77HsMqW3wqVvs9VEWtqQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmevAsZg4WA1wGJQFtvGN9zcA7V6HJ99FaYwiK2ZhpYwCy',
+    address:
+      '0:dec8a9845e3b59e6e33e65126efce7f60cff612eba40a2ed5f7ad770a593213b',
   },
   {
-    previewUrl: 'QmWQgLLBpG956MmZYJZkfzCyNNxZsnDVCkUZTkw5P5Ki1A',
-    ipfsUrl: 'QmYKft6sY1PNgDnkfYeGnCeBuiDpEE2abbG947Mz4X29WM',
+    id: 295,
+    name: 'Broxie #295',
     attributes: [
       {
         trait_type: 'back',
@@ -13614,10 +15384,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYKft6sY1PNgDnkfYeGnCeBuiDpEE2abbG947Mz4X29WM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWQgLLBpG956MmZYJZkfzCyNNxZsnDVCkUZTkw5P5Ki1A',
+    address:
+      '0:5bda8c7232c09b7fcc11d1d3276621e00168c2e6cec5c6630a2ce4ff2e4b0b77',
   },
   {
-    previewUrl: 'QmUCo24MqPdXXFbw8W2UKhFH5jriRQU9QZLgVv94NTKhuv',
-    ipfsUrl: 'Qmb37C2kFn6U9d1Ks7FaGkqsTo8AzT2c4od7u2Jqh6wiV8',
+    id: 296,
+    name: 'Broxie #296',
     attributes: [
       {
         trait_type: 'back',
@@ -13660,10 +15436,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb37C2kFn6U9d1Ks7FaGkqsTo8AzT2c4od7u2Jqh6wiV8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUCo24MqPdXXFbw8W2UKhFH5jriRQU9QZLgVv94NTKhuv',
+    address:
+      '0:62901877bf31d67cacd8425f853b33925ccabd8ab6c1ff081ce0dbacf637109f',
   },
   {
-    previewUrl: 'Qmctp1jCkD8ARvGKuaYnr5U9Bi2h915xJgsZcbrjUjX9kf',
-    ipfsUrl: 'QmezY2KAM2AVaGkarJQLCSCyscz5phnejoqVCC2c6BUfMp',
+    id: 297,
+    name: 'Broxie #297',
     attributes: [
       {
         trait_type: 'back',
@@ -13706,10 +15488,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmezY2KAM2AVaGkarJQLCSCyscz5phnejoqVCC2c6BUfMp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmctp1jCkD8ARvGKuaYnr5U9Bi2h915xJgsZcbrjUjX9kf',
+    address:
+      '0:de2171c1bd174c1fb12b77bb536514c989d05581e43e9c50f79722cb49243b36',
   },
   {
-    previewUrl: 'QmfNzJjxkGwyjD9nwHHcJCg1qb1UxS3xwHvQ8DhSTQuWaM',
-    ipfsUrl: 'QmUsJWo33ZTNzWuDiLa7G34n5Ck6P2dqUUwFgyWKtPpbxe',
+    id: 298,
+    name: 'Broxie #298',
     attributes: [
       {
         trait_type: 'back',
@@ -13752,10 +15540,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUsJWo33ZTNzWuDiLa7G34n5Ck6P2dqUUwFgyWKtPpbxe',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfNzJjxkGwyjD9nwHHcJCg1qb1UxS3xwHvQ8DhSTQuWaM',
+    address:
+      '0:ca59cf5cd92fa5a7914f33b5efba9d0507ecb5c842ad2398094a959d5f27ca52',
   },
   {
-    previewUrl: 'QmfKfqn76k9qJVm9BQFJoyPA3Y4X3ooadwdPVipZ4HVe42',
-    ipfsUrl: 'QmSPTpUdKBGAc6ZpRfUmcKRk7S5LzBYTxxFvJBJbTWoTgY',
+    id: 299,
+    name: 'Broxie #299',
     attributes: [
       {
         trait_type: 'back',
@@ -13798,10 +15592,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSPTpUdKBGAc6ZpRfUmcKRk7S5LzBYTxxFvJBJbTWoTgY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfKfqn76k9qJVm9BQFJoyPA3Y4X3ooadwdPVipZ4HVe42',
+    address:
+      '0:e241e4b1719b89f638a408f7e384772f74d0de8fd2dd935343b9597b803811e4',
   },
   {
-    previewUrl: 'QmSi8npXPkqHAQXGkZt7Hj1uHf2devFdU54C3qfos1Dw49',
-    ipfsUrl: 'QmU9W21TV8gjpR2PVdBAg114D6Bepcd4Aq6NqDW5gqMUq3',
+    id: 300,
+    name: 'Broxie #300',
     attributes: [
       {
         trait_type: 'back',
@@ -13844,10 +15644,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU9W21TV8gjpR2PVdBAg114D6Bepcd4Aq6NqDW5gqMUq3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSi8npXPkqHAQXGkZt7Hj1uHf2devFdU54C3qfos1Dw49',
+    address:
+      '0:393c88a14340e1e6b91f3b75e12989dde42bcfcec91317b8ba07d8cec2a3c1bf',
   },
   {
-    previewUrl: 'QmZWCmewzom1Y6V6SeiwSBfGezVjQstuhkWog8D1oGKJeu',
-    ipfsUrl: 'QmZcTaxHmmUAifgWCJ1JoPHd7LWLGSb2yuZ7XGEXeUZeN7',
+    id: 301,
+    name: 'Broxie #301',
     attributes: [
       {
         trait_type: 'back',
@@ -13890,10 +15696,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZcTaxHmmUAifgWCJ1JoPHd7LWLGSb2yuZ7XGEXeUZeN7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZWCmewzom1Y6V6SeiwSBfGezVjQstuhkWog8D1oGKJeu',
+    address:
+      '0:b88671e2424875efa86e008532f9e2f41034b83e0c556f6d146628f99d85cf5d',
   },
   {
-    previewUrl: 'QmREqh9pg6qVvfZLkWLS4Ps6hH7pGbo1NgapCPgur7RyAD',
-    ipfsUrl: 'QmR2BZE7XqQcREq6VfHLgyPu5ZDebeWB7mRCy58BHUvymC',
+    id: 302,
+    name: 'Broxie #302',
     attributes: [
       {
         trait_type: 'back',
@@ -13936,10 +15748,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR2BZE7XqQcREq6VfHLgyPu5ZDebeWB7mRCy58BHUvymC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmREqh9pg6qVvfZLkWLS4Ps6hH7pGbo1NgapCPgur7RyAD',
+    address:
+      '0:df12ab9d6fb115b3123cd20f66e496de020248561fed485d85fead6534229a01',
   },
   {
-    previewUrl: 'QmeChoeKD9pv1VgkJu1cWQvY9T9b83vgZ2Ju6YUFpQhL8D',
-    ipfsUrl: 'Qmda2oaJXQDAb5vY4j6kmugDELtPU4tpVzfv1Zja7YnuZD',
+    id: 303,
+    name: 'Broxie #303',
     attributes: [
       {
         trait_type: 'back',
@@ -13982,10 +15800,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmda2oaJXQDAb5vY4j6kmugDELtPU4tpVzfv1Zja7YnuZD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeChoeKD9pv1VgkJu1cWQvY9T9b83vgZ2Ju6YUFpQhL8D',
+    address:
+      '0:038a6fa19c452c279853c9c4c8946ccdefbc4bc682ae27b6f30a430bee4c4025',
   },
   {
-    previewUrl: 'QmZrpAKRhH9uQqRU3y9e2Se2dxvEqQTAQYFEdnMy7nGb3M',
-    ipfsUrl: 'Qmd4p6NXGqgw2tvMkwznf2DPtodpRo8xbLzdMD49gCvPJF',
+    id: 304,
+    name: 'Broxie #304',
     attributes: [
       {
         trait_type: 'back',
@@ -14028,10 +15852,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd4p6NXGqgw2tvMkwznf2DPtodpRo8xbLzdMD49gCvPJF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZrpAKRhH9uQqRU3y9e2Se2dxvEqQTAQYFEdnMy7nGb3M',
+    address:
+      '0:24e77ff714cf80be9f0f9a270a731ceeacffdc4ffa9e0578561b12f4a6ae7ba6',
   },
   {
-    previewUrl: 'QmVYvmznG2ufCHd9Le7YwtkyBRGZpMNighGCUcVESs3rae',
-    ipfsUrl: 'QmPAUkUn3qiwv44bZL9HvpmpySG6yPS1N6wMS5Z6ZtynfG',
+    id: 305,
+    name: 'Broxie #305',
     attributes: [
       {
         trait_type: 'back',
@@ -14074,10 +15904,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPAUkUn3qiwv44bZL9HvpmpySG6yPS1N6wMS5Z6ZtynfG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVYvmznG2ufCHd9Le7YwtkyBRGZpMNighGCUcVESs3rae',
+    address:
+      '0:dafeb7573eb6a50eabcea32ab2f9827202fd0cb178b0c3da664e9b244996f1be',
   },
   {
-    previewUrl: 'QmQCZK9uP1LHQABDDcXr8PJ9h9K2g5r2qX7fa7CmnFxt4b',
-    ipfsUrl: 'QmfP9AfFfGoSFdsHZ4sj8SqMUXMjiVZSiDKBcgMea75RXn',
+    id: 306,
+    name: 'Broxie #306',
     attributes: [
       {
         trait_type: 'back',
@@ -14120,10 +15956,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfP9AfFfGoSFdsHZ4sj8SqMUXMjiVZSiDKBcgMea75RXn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQCZK9uP1LHQABDDcXr8PJ9h9K2g5r2qX7fa7CmnFxt4b',
+    address:
+      '0:7bee101ce9b89d7b21c0a53502365abd13f5a20850909da2f058d0de7962eeb1',
   },
   {
-    previewUrl: 'QmdNnuxnwJAUinQnP8FripzZycpPzzVfsineFNbt95VHC1',
-    ipfsUrl: 'QmZ9L7AsjkhJjMHQFiFmqWC2ZVkKSwsFXbarwKLhRGc4bT',
+    id: 307,
+    name: 'Broxie #307',
     attributes: [
       {
         trait_type: 'back',
@@ -14166,10 +16008,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ9L7AsjkhJjMHQFiFmqWC2ZVkKSwsFXbarwKLhRGc4bT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdNnuxnwJAUinQnP8FripzZycpPzzVfsineFNbt95VHC1',
+    address:
+      '0:d9bf2bf2450cd62307fb079046ea565277f20d0baabadbc28c7282d395507400',
   },
   {
-    previewUrl: 'QmeFBSwbfKDo8h2gw5Wq3PPT1rD9GUYggknpi4vxQ5f47V',
-    ipfsUrl: 'QmcB4d5WThxa3pyyQTFjr1JwFHV8RPPNZqLzBnsZMLXYqY',
+    id: 308,
+    name: 'Broxie #308',
     attributes: [
       {
         trait_type: 'back',
@@ -14212,10 +16060,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcB4d5WThxa3pyyQTFjr1JwFHV8RPPNZqLzBnsZMLXYqY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeFBSwbfKDo8h2gw5Wq3PPT1rD9GUYggknpi4vxQ5f47V',
+    address:
+      '0:e71727732a28d87560b366758ca9216821e938e1bb61a13e2b8162456a1ec2ab',
   },
   {
-    previewUrl: 'QmZwQfA2XP49DF1ZdFiWas5ezsSrr96zhzmAYjRRZCjma6',
-    ipfsUrl: 'QmVyUrWjCQpz19RULPjozbwiFbFHHHDgXQAfdNhVNCp1tm',
+    id: 309,
+    name: 'Broxie #309',
     attributes: [
       {
         trait_type: 'back',
@@ -14258,10 +16112,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVyUrWjCQpz19RULPjozbwiFbFHHHDgXQAfdNhVNCp1tm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZwQfA2XP49DF1ZdFiWas5ezsSrr96zhzmAYjRRZCjma6',
+    address:
+      '0:f4260f9feb5778c238a4f5368a736cc4ab7c135f7cc0f18150d2f41ec1689902',
   },
   {
-    previewUrl: 'Qmakgp3y7Pyry4D8ePUoWu8ZTL64QURzvrctudbdo51S4L',
-    ipfsUrl: 'QmbNxgtuW42j6BLdhSRSfxo4che4z6mQi1odMkd3DBeW7M',
+    id: 310,
+    name: 'Broxie #310',
     attributes: [
       {
         trait_type: 'back',
@@ -14304,10 +16164,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbNxgtuW42j6BLdhSRSfxo4che4z6mQi1odMkd3DBeW7M',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmakgp3y7Pyry4D8ePUoWu8ZTL64QURzvrctudbdo51S4L',
+    address:
+      '0:25bd9f58a0eddd25b2ede320f06bfb86dd5bd41f845c4f3af7b3d094613bc0ca',
   },
   {
-    previewUrl: 'QmTMmRLfJxi1zUaTeMDtSHVnJgySoefHP6L599A8drhQj2',
-    ipfsUrl: 'QmVdqoXNjUehWKrRmPSY7oHEdhtacQrqVBAGLFtEykp7St',
+    id: 311,
+    name: 'Broxie #311',
     attributes: [
       {
         trait_type: 'back',
@@ -14350,10 +16216,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVdqoXNjUehWKrRmPSY7oHEdhtacQrqVBAGLFtEykp7St',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTMmRLfJxi1zUaTeMDtSHVnJgySoefHP6L599A8drhQj2',
+    address:
+      '0:6a7a4a329fc2b0d9b826c3f268b610c3028aee7f6f9ef80ba606ea79de72add7',
   },
   {
-    previewUrl: 'QmYrEnNWCy8fe6Gu5LNLyYZ4xQbAYK1cNTSttFsRY2h6XF',
-    ipfsUrl: 'QmXuurii4FT8K1LDzXhWCtaqmp5Pa3QQPpWT6WjjP3aJqy',
+    id: 312,
+    name: 'Broxie #312',
     attributes: [
       {
         trait_type: 'back',
@@ -14396,10 +16268,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXuurii4FT8K1LDzXhWCtaqmp5Pa3QQPpWT6WjjP3aJqy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYrEnNWCy8fe6Gu5LNLyYZ4xQbAYK1cNTSttFsRY2h6XF',
+    address:
+      '0:117bcb6d7cdf1a61b30c9f8e7800c5cd2b5f1f757782694a5ddf36de88a7dabb',
   },
   {
-    previewUrl: 'QmXu2BzHXotdAuj9DrmWQe7UKbGuNfCu59b7DP6b6rwCHe',
-    ipfsUrl: 'QmdxQWrvGBCoHR8pXNUGsyQCoXnMAbcTWzDyDncoHqmzbh',
+    id: 313,
+    name: 'Broxie #313',
     attributes: [
       {
         trait_type: 'back',
@@ -14442,10 +16320,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdxQWrvGBCoHR8pXNUGsyQCoXnMAbcTWzDyDncoHqmzbh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXu2BzHXotdAuj9DrmWQe7UKbGuNfCu59b7DP6b6rwCHe',
+    address:
+      '0:03e5a1fd9a949dc4dff235ade7efe004b8ddd7114fdbb40f9f72b12b4aec4968',
   },
   {
-    previewUrl: 'QmZFYWBpwEkBL6eigZ5iANm4im87EX595B8bYwmqMVTJko',
-    ipfsUrl: 'QmNgqiC9Vx9E6zeEHns5oogeKTodN6VbEJG1yTRwJeLPTc',
+    id: 314,
+    name: 'Broxie #314',
     attributes: [
       {
         trait_type: 'back',
@@ -14488,10 +16372,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNgqiC9Vx9E6zeEHns5oogeKTodN6VbEJG1yTRwJeLPTc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZFYWBpwEkBL6eigZ5iANm4im87EX595B8bYwmqMVTJko',
+    address:
+      '0:f98392336e06c3178f67318a48d055d4081bbe4fa8811844c770c095a009648f',
   },
   {
-    previewUrl: 'Qmb4U5zY6ToXK8bBXSuaHqPoFLDCjoH8phhh6Fv3jiYe7a',
-    ipfsUrl: 'QmeSYrgUYnq24bqKH7bevzWr4tBZiLpjukZVQxKQ1spQ9F',
+    id: 315,
+    name: 'Broxie #315',
     attributes: [
       {
         trait_type: 'back',
@@ -14534,10 +16424,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeSYrgUYnq24bqKH7bevzWr4tBZiLpjukZVQxKQ1spQ9F',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb4U5zY6ToXK8bBXSuaHqPoFLDCjoH8phhh6Fv3jiYe7a',
+    address:
+      '0:7ffcbd2e49b70775f02d784a42863690a873bbeffd02dfce331fd72a3beb6a9f',
   },
   {
-    previewUrl: 'QmVHZP12UWoUi4nkt6HSe134dnvawroVKR2zJFLe3dPmcG',
-    ipfsUrl: 'QmPeEbAmDCATU2QoxigTqYWaM2DsLjG77ZdTWRjRpCYdXK',
+    id: 316,
+    name: 'Broxie #316',
     attributes: [
       {
         trait_type: 'back',
@@ -14580,10 +16476,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPeEbAmDCATU2QoxigTqYWaM2DsLjG77ZdTWRjRpCYdXK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVHZP12UWoUi4nkt6HSe134dnvawroVKR2zJFLe3dPmcG',
+    address:
+      '0:9faddb91a4d8953a797d8ef045632eaf4f6a47fdc2eb2bbc849623180aa02aec',
   },
   {
-    previewUrl: 'QmTzt2Jw2kHyX62DVYHPihHofgQCj4PkRarUYaBqTCkM1P',
-    ipfsUrl: 'QmV3JwAGZWTDmkpY1tYpQqbfcHCbA64heRggCqZxQGMM18',
+    id: 317,
+    name: 'Broxie #317',
     attributes: [
       {
         trait_type: 'back',
@@ -14626,10 +16528,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV3JwAGZWTDmkpY1tYpQqbfcHCbA64heRggCqZxQGMM18',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTzt2Jw2kHyX62DVYHPihHofgQCj4PkRarUYaBqTCkM1P',
+    address:
+      '0:c3b8c799cb0c4a20a786fc1334e7593f5a7fcb67d678566fb19c3648287ade64',
   },
   {
-    previewUrl: 'QmXj1BzxZ4nBRYq1Jbq3HSRfXp6yuWeiApCyzWx1eq1TLE',
-    ipfsUrl: 'QmV2854iGxsW4BnnUNg4fBbyEh4CKrv5CZn3md7LVEncm3',
+    id: 318,
+    name: 'Broxie #318',
     attributes: [
       {
         trait_type: 'back',
@@ -14672,10 +16580,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV2854iGxsW4BnnUNg4fBbyEh4CKrv5CZn3md7LVEncm3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXj1BzxZ4nBRYq1Jbq3HSRfXp6yuWeiApCyzWx1eq1TLE',
+    address:
+      '0:9c0896b2e0b62fd3db33919709b3c9a28716610a9191573ea82f773509fd69f4',
   },
   {
-    previewUrl: 'QmTGUr5hporNTuiX83c5CNZaYNz9Mdh8diWyR1zUzf9bwx',
-    ipfsUrl: 'QmXSXnkSF6a1a1wC59oHyVpKKsmQxgeWayknBkafyDmYci',
+    id: 319,
+    name: 'Broxie #319',
     attributes: [
       {
         trait_type: 'back',
@@ -14718,10 +16632,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXSXnkSF6a1a1wC59oHyVpKKsmQxgeWayknBkafyDmYci',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTGUr5hporNTuiX83c5CNZaYNz9Mdh8diWyR1zUzf9bwx',
+    address:
+      '0:d417fb2c4e32bcd22132f29d0decdebad13467eed2091322bdc7356cb67dd1b6',
   },
   {
-    previewUrl: 'QmNkFA2GcY8Y3yN6qyEmVWJDci4hEmkPZFQ2Ad5TdDCof5',
-    ipfsUrl: 'QmWcpBnmTKkak6dt9s4ZGVe4NERDqWCzhCcDLiaCgaT6hX',
+    id: 320,
+    name: 'Broxie #320',
     attributes: [
       {
         trait_type: 'back',
@@ -14764,10 +16684,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWcpBnmTKkak6dt9s4ZGVe4NERDqWCzhCcDLiaCgaT6hX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNkFA2GcY8Y3yN6qyEmVWJDci4hEmkPZFQ2Ad5TdDCof5',
+    address:
+      '0:bcc869be41a07865267c5863df8d68dc3931fa69a22dc277c1c76a04d8ebcd47',
   },
   {
-    previewUrl: 'QmfSnKSWr53P7PU4Kvt9bNbgzZqieUJy7Xt2hAnr4xBdYt',
-    ipfsUrl: 'QmS71Er7eYNXhoJmdvPuc8JSk2Gj6XbQ6AttWjFR5BSytb',
+    id: 321,
+    name: 'Broxie #321',
     attributes: [
       {
         trait_type: 'back',
@@ -14810,10 +16736,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmS71Er7eYNXhoJmdvPuc8JSk2Gj6XbQ6AttWjFR5BSytb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfSnKSWr53P7PU4Kvt9bNbgzZqieUJy7Xt2hAnr4xBdYt',
+    address:
+      '0:feaf0393d4088bccabb719515fa5d588c2a08446707af3944b8848bc10c0fdff',
   },
   {
-    previewUrl: 'QmPk4SQoXFCyzcMpoPuVeBn9rWx2javLTU6azNZEAV62Tg',
-    ipfsUrl: 'QmT3zau6h3567sV2urgL5ooB86cFGZYdC2LNjrKp2LPYR4',
+    id: 322,
+    name: 'Broxie #322',
     attributes: [
       {
         trait_type: 'back',
@@ -14856,10 +16788,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT3zau6h3567sV2urgL5ooB86cFGZYdC2LNjrKp2LPYR4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPk4SQoXFCyzcMpoPuVeBn9rWx2javLTU6azNZEAV62Tg',
+    address:
+      '0:425c0973dfa91bdf0014e14f221dd821a48ca5ea394c1b8c10f65d6fdc7c5a9f',
   },
   {
-    previewUrl: 'Qmd187XxiMiXkrCGrW89wWper6RrnJiiBhtykkpKgzyJAk',
-    ipfsUrl: 'Qme6ptDELqQLNSN2y295tRbeFBTPcCpBmoYjZnFn14ttHV',
+    id: 323,
+    name: 'Broxie #323',
     attributes: [
       {
         trait_type: 'back',
@@ -14902,10 +16840,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qme6ptDELqQLNSN2y295tRbeFBTPcCpBmoYjZnFn14ttHV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd187XxiMiXkrCGrW89wWper6RrnJiiBhtykkpKgzyJAk',
+    address:
+      '0:70722209a01c541f5b729f094fbe08b51df12c69b7a355a83c7f65493b655d70',
   },
   {
-    previewUrl: 'QmSo463d6ymq47BWUye3nokRAz4a8jbMBHWe2RDB4S24hq',
-    ipfsUrl: 'QmaT4YDLeSuykyfieJkG2VZzcUZwi9G4robtaL45WNRMY4',
+    id: 324,
+    name: 'Broxie #324',
     attributes: [
       {
         trait_type: 'back',
@@ -14948,10 +16892,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaT4YDLeSuykyfieJkG2VZzcUZwi9G4robtaL45WNRMY4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSo463d6ymq47BWUye3nokRAz4a8jbMBHWe2RDB4S24hq',
+    address:
+      '0:6e0a475f6b58c23c84e15ac215df754e02bb7a3b0faf1b10ae9eaabc29a77fa0',
   },
   {
-    previewUrl: 'QmRbGouL1b78FdnhPEin22WxWJ1VC8JqrBWWNG2mxroPsk',
-    ipfsUrl: 'QmZ7DKTxDrNPet2Qbim8nRarwABk4NNpapHKd9rxNd1VNK',
+    id: 325,
+    name: 'Broxie #325',
     attributes: [
       {
         trait_type: 'back',
@@ -14994,10 +16944,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ7DKTxDrNPet2Qbim8nRarwABk4NNpapHKd9rxNd1VNK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRbGouL1b78FdnhPEin22WxWJ1VC8JqrBWWNG2mxroPsk',
+    address:
+      '0:efb827735f390b6c0c91be8b8a6268f62f17ac0214671c8d81cc246b272612bf',
   },
   {
-    previewUrl: 'QmQkVDZihwfwHN7chzfVxCysskJTLgFnC5nXF17e9mKMMp',
-    ipfsUrl: 'QmVsmwEsuH1EMpNNFVTXuXME1g7XnTVX9KVZnFyRu4ZSHz',
+    id: 326,
+    name: 'Broxie #326',
     attributes: [
       {
         trait_type: 'back',
@@ -15040,10 +16996,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVsmwEsuH1EMpNNFVTXuXME1g7XnTVX9KVZnFyRu4ZSHz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQkVDZihwfwHN7chzfVxCysskJTLgFnC5nXF17e9mKMMp',
+    address:
+      '0:23bfb34323bc0837a318ec00785d712eefd6363241f25db8f85203b65fc8434d',
   },
   {
-    previewUrl: 'QmQ4tv8mWyS7xZqmx7M4iS6jURmqvpYEJr6ARMoKwjvchL',
-    ipfsUrl: 'QmZfE8HPoeLvzeDvp4AkPKgmyyS7yAkBjH5Q3yKvJ4hABm',
+    id: 327,
+    name: 'Broxie #327',
     attributes: [
       {
         trait_type: 'back',
@@ -15086,10 +17048,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZfE8HPoeLvzeDvp4AkPKgmyyS7yAkBjH5Q3yKvJ4hABm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ4tv8mWyS7xZqmx7M4iS6jURmqvpYEJr6ARMoKwjvchL',
+    address:
+      '0:be6a1a494070e20ea49459cfcab7e31c9093b3f7ee3d1d30066e1062e509a5b1',
   },
   {
-    previewUrl: 'QmaZQKfo6s4T3n3cubbjYHDFCBGJDXUMeR4KGCEiMvnPne',
-    ipfsUrl: 'Qmcca8GyHW32nQdo3hZKUD1wne3uWSDvTh3aM52xVonTcr',
+    id: 328,
+    name: 'Broxie #328',
     attributes: [
       {
         trait_type: 'back',
@@ -15132,10 +17100,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcca8GyHW32nQdo3hZKUD1wne3uWSDvTh3aM52xVonTcr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaZQKfo6s4T3n3cubbjYHDFCBGJDXUMeR4KGCEiMvnPne',
+    address:
+      '0:237a45e0ba1ed87f5086591e8072a26ff2feec4e48bfc875657b833020722522',
   },
   {
-    previewUrl: 'QmZJuaLwD1ounCDwWWLzBZ2dcMdS9rqga3cnXw98A3v2AS',
-    ipfsUrl: 'QmXPgDcnhDB2i2mgrzR4h3p1YQgbX8XEuFD9Npgt3BLGJC',
+    id: 329,
+    name: 'Broxie #329',
     attributes: [
       {
         trait_type: 'back',
@@ -15178,10 +17152,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXPgDcnhDB2i2mgrzR4h3p1YQgbX8XEuFD9Npgt3BLGJC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZJuaLwD1ounCDwWWLzBZ2dcMdS9rqga3cnXw98A3v2AS',
+    address:
+      '0:27ffa34b26cc3ddbb80ef03bdecfd4f8adff2019fe18b18ef9015cbdcf6d94ea',
   },
   {
-    previewUrl: 'QmQVod8Ec42USmp4mwjKLc1inD6GafhdKYFZoHWxRoAHCR',
-    ipfsUrl: 'QmYbx2eNpr3AgyV88BZShd1yYYnrKQ5XEt92VVTatPVRGn',
+    id: 330,
+    name: 'Broxie #330',
     attributes: [
       {
         trait_type: 'back',
@@ -15224,10 +17204,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYbx2eNpr3AgyV88BZShd1yYYnrKQ5XEt92VVTatPVRGn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQVod8Ec42USmp4mwjKLc1inD6GafhdKYFZoHWxRoAHCR',
+    address:
+      '0:2a0b8532628daa91a5c592a0a9be0bde159a895a94b6555255ceb0f71799ef94',
   },
   {
-    previewUrl: 'QmTQxPEQhsqGb4MLuEHsdxELUQkj1AhWKTs9bXpBygsDds',
-    ipfsUrl: 'QmPjTU4FUnTRQVR1yjGsj9FtHobkLWLtpRqxVESwipF36J',
+    id: 331,
+    name: 'Broxie #331',
     attributes: [
       {
         trait_type: 'back',
@@ -15270,10 +17256,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPjTU4FUnTRQVR1yjGsj9FtHobkLWLtpRqxVESwipF36J',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTQxPEQhsqGb4MLuEHsdxELUQkj1AhWKTs9bXpBygsDds',
+    address:
+      '0:9fd793a16435303ccece3c0dc604acf6b6672b2b8624de55b84abc1240afa7c0',
   },
   {
-    previewUrl: 'QmaSMXMqqYAYp1NdaMLrSkrA8X5LiyVcBi8o7y3iPywPFJ',
-    ipfsUrl: 'QmRjkAKXjBMyTzWEha56TMD69WMGnDTxVrKMQtoWekLVEp',
+    id: 332,
+    name: 'Broxie #332',
     attributes: [
       {
         trait_type: 'back',
@@ -15316,10 +17308,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRjkAKXjBMyTzWEha56TMD69WMGnDTxVrKMQtoWekLVEp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaSMXMqqYAYp1NdaMLrSkrA8X5LiyVcBi8o7y3iPywPFJ',
+    address:
+      '0:3f3c65a6fef0c4bd8a802a2732a02597024a0627dcbe4b5edff8fd030cea06ee',
   },
   {
-    previewUrl: 'Qmf3dwUzPkE8LUPK9Mbt9nD3WSeeahhdpzAnhUKBWwZPX3',
-    ipfsUrl: 'Qmb5ChWWkAtXq27vv4kXUJdeNS7SjnfGDtT3uExom99BEU',
+    id: 333,
+    name: 'Broxie #333',
     attributes: [
       {
         trait_type: 'back',
@@ -15362,10 +17360,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb5ChWWkAtXq27vv4kXUJdeNS7SjnfGDtT3uExom99BEU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf3dwUzPkE8LUPK9Mbt9nD3WSeeahhdpzAnhUKBWwZPX3',
+    address:
+      '0:669e4f94f99e2c54903a187cc52fffccd9dc50237255c0a81e969e9292fb5ea6',
   },
   {
-    previewUrl: 'QmeQHjQqpouLnKvJ1jxH5xEmGGrX5bFNFUENC7NcvRqm9h',
-    ipfsUrl: 'QmZ2Xbc6N7cUy44aVUitpF7RyJjdWpbBmww5hn26vH1REH',
+    id: 334,
+    name: 'Broxie #334',
     attributes: [
       {
         trait_type: 'back',
@@ -15408,10 +17412,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ2Xbc6N7cUy44aVUitpF7RyJjdWpbBmww5hn26vH1REH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeQHjQqpouLnKvJ1jxH5xEmGGrX5bFNFUENC7NcvRqm9h',
+    address:
+      '0:8fb091e29a3abb8ca83130cd1499fa96ece48bdfb92868a0779f567a917ea8ec',
   },
   {
-    previewUrl: 'QmQPBSXq9t9mR62v8F4cKVZ6kpWCUBz1zNFjNNBkHmwaTZ',
-    ipfsUrl: 'QmQtH9Yx5nfeJb7UycBGJdvYJ9PUAr3zBaup2z9PQkr9G4',
+    id: 335,
+    name: 'Broxie #335',
     attributes: [
       {
         trait_type: 'back',
@@ -15454,10 +17464,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQtH9Yx5nfeJb7UycBGJdvYJ9PUAr3zBaup2z9PQkr9G4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQPBSXq9t9mR62v8F4cKVZ6kpWCUBz1zNFjNNBkHmwaTZ',
+    address:
+      '0:e4de1f0ad9b354a41a56f9d5cf2ec12e211de50627d7c75196b7f3baca582a15',
   },
   {
-    previewUrl: 'QmPN7Jirj5atRQr1xjQ5Qsh6hipxnxJVze7L3jrvWSrsUU',
-    ipfsUrl: 'QmavGqMDxiHSWZi5zPEaxmZwLmrdNCyEiqbcpTyuBGCsnt',
+    id: 336,
+    name: 'Broxie #336',
     attributes: [
       {
         trait_type: 'back',
@@ -15500,10 +17516,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmavGqMDxiHSWZi5zPEaxmZwLmrdNCyEiqbcpTyuBGCsnt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPN7Jirj5atRQr1xjQ5Qsh6hipxnxJVze7L3jrvWSrsUU',
+    address:
+      '0:ae41da204ff84f88d73577f33176ff3e00f4a7ebfbb56e52eb746fbf4f31ed1e',
   },
   {
-    previewUrl: 'QmSPkdExZFq7zfmZZ77udrgAomH8CJgnFuw9MCZrjgrxpi',
-    ipfsUrl: 'QmSNPf5JcrxwjP6pMyct4iihEL9VvwimBb4UgN4tNotD1R',
+    id: 337,
+    name: 'Broxie #337',
     attributes: [
       {
         trait_type: 'back',
@@ -15546,10 +17568,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSNPf5JcrxwjP6pMyct4iihEL9VvwimBb4UgN4tNotD1R',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSPkdExZFq7zfmZZ77udrgAomH8CJgnFuw9MCZrjgrxpi',
+    address:
+      '0:733f727d0e4a9051872599a8d6bfcd60182534680d19a6c711f0f28855233616',
   },
   {
-    previewUrl: 'QmVjoTunCypjMcQnoh6KBWbPFEyBgH2Vh62UGQEutZq2ge',
-    ipfsUrl: 'QmNvkD6CbNZ7EHbvcLngyDPT6K5c4jcvw2tkfwKoNjsKEg',
+    id: 338,
+    name: 'Broxie #338',
     attributes: [
       {
         trait_type: 'back',
@@ -15592,10 +17620,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNvkD6CbNZ7EHbvcLngyDPT6K5c4jcvw2tkfwKoNjsKEg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVjoTunCypjMcQnoh6KBWbPFEyBgH2Vh62UGQEutZq2ge',
+    address:
+      '0:4bed9d202fdebfc7f1dc971cf95f77011f0a3ceff80a3eea055c62f9c9847b50',
   },
   {
-    previewUrl: 'QmQL1TLcJ2jFS5o4YNGbeYfmf8kbQ5tVNvxpeQvJaS5mmA',
-    ipfsUrl: 'QmSrEm7R3whqYGZJ3e2f3P4SUqj1AJSAbST1hqwW4wxeuW',
+    id: 339,
+    name: 'Broxie #339',
     attributes: [
       {
         trait_type: 'back',
@@ -15638,10 +17672,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSrEm7R3whqYGZJ3e2f3P4SUqj1AJSAbST1hqwW4wxeuW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQL1TLcJ2jFS5o4YNGbeYfmf8kbQ5tVNvxpeQvJaS5mmA',
+    address:
+      '0:98d91d4a15cc86ebe7c120ca206f71082cdec37b5a6b3e8be94a50782a71d7f1',
   },
   {
-    previewUrl: 'QmZACAPvkSN6vMmR1PoL2Kpp9rm6DWjZgSvzCqxLGVG8h1',
-    ipfsUrl: 'QmdxfBgHnu4bNruM7abmNRHXq8t9CsYao412hJ8hfQK3jm',
+    id: 340,
+    name: 'Broxie #340',
     attributes: [
       {
         trait_type: 'back',
@@ -15684,10 +17724,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdxfBgHnu4bNruM7abmNRHXq8t9CsYao412hJ8hfQK3jm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZACAPvkSN6vMmR1PoL2Kpp9rm6DWjZgSvzCqxLGVG8h1',
+    address:
+      '0:3a06f1884a53d3a0048f45a05c83269ae73087273200b3ef020d135f71789a9a',
   },
   {
-    previewUrl: 'QmRh6N8nALuFtbLNWXRdttvpsmEMjXbiad1iM6MoFSyhBV',
-    ipfsUrl: 'QmZgYWL9g6nai4m8YHoGFoSbRn1bUpXHsA8uyYciJSXVqm',
+    id: 341,
+    name: 'Broxie #341',
     attributes: [
       {
         trait_type: 'back',
@@ -15730,10 +17776,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZgYWL9g6nai4m8YHoGFoSbRn1bUpXHsA8uyYciJSXVqm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRh6N8nALuFtbLNWXRdttvpsmEMjXbiad1iM6MoFSyhBV',
+    address:
+      '0:98d01ae975f0797a29804aa1ca1c3e7479ecf981aa582605de709b40eb119c7e',
   },
   {
-    previewUrl: 'QmPY9W2dygQmWivemqQG1b6rQMJ5uTvbaiGK6dwkU75yGj',
-    ipfsUrl: 'Qmf8txnLTFWQGhrHoPdgnbfpR7dfEZVGC2zHgYCZHVYvxU',
+    id: 342,
+    name: 'Broxie #342',
     attributes: [
       {
         trait_type: 'back',
@@ -15776,10 +17828,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf8txnLTFWQGhrHoPdgnbfpR7dfEZVGC2zHgYCZHVYvxU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPY9W2dygQmWivemqQG1b6rQMJ5uTvbaiGK6dwkU75yGj',
+    address:
+      '0:c556a26b8a01774a46e2a4f045f30e821b4dba8a4679a25201dc92daa0856f0e',
   },
   {
-    previewUrl: 'Qma2uHg2mkuzaKCfnaen4MUJhaZJA2iDB23A7AgpeZ2asr',
-    ipfsUrl: 'QmQaKH9ZG1GCdjsC2Xac4Y5to7RV98EJCL7qkndbi7Wrrt',
+    id: 343,
+    name: 'Broxie #343',
     attributes: [
       {
         trait_type: 'back',
@@ -15822,10 +17880,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQaKH9ZG1GCdjsC2Xac4Y5to7RV98EJCL7qkndbi7Wrrt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma2uHg2mkuzaKCfnaen4MUJhaZJA2iDB23A7AgpeZ2asr',
+    address:
+      '0:8b9f970566a9f361b5f6fa53edb232ddc5da6503d4777f188934021469b62763',
   },
   {
-    previewUrl: 'QmWZ2mtTtsDLBPEZdLwpvo9rZRPvu25unNr8gcmW6M5yyL',
-    ipfsUrl: 'Qmd5oYQdeQ4EYQnAdGjtgVr9QBkRRwMQdZwdPVZNx8XHAi',
+    id: 344,
+    name: 'Broxie #344',
     attributes: [
       {
         trait_type: 'back',
@@ -15868,10 +17932,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd5oYQdeQ4EYQnAdGjtgVr9QBkRRwMQdZwdPVZNx8XHAi',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWZ2mtTtsDLBPEZdLwpvo9rZRPvu25unNr8gcmW6M5yyL',
+    address:
+      '0:b6cde3dfaf7e07836161e1f6abfb1e6684bfacc82818576d4dda86c259c1210b',
   },
   {
-    previewUrl: 'QmSksHJBu2n1apNRH1NL4i4CeXZz7gP64CcDtbp3QCBnaY',
-    ipfsUrl: 'QmbA3xk6g8taMkVCzyULvQmL4HAfw2sZYvMSCrLyyqnfkm',
+    id: 345,
+    name: 'Broxie #345',
     attributes: [
       {
         trait_type: 'back',
@@ -15914,10 +17984,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbA3xk6g8taMkVCzyULvQmL4HAfw2sZYvMSCrLyyqnfkm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSksHJBu2n1apNRH1NL4i4CeXZz7gP64CcDtbp3QCBnaY',
+    address:
+      '0:ce63235c0b966b8d2bef5f85f7ca81b008e90b35eed17bf8ef3a87e24121315f',
   },
   {
-    previewUrl: 'QmSPrsCZ1vTWfSsMrcrJBgdt62tzN1xNSmKC4PQweTN9JW',
-    ipfsUrl: 'QmbuyVBkzv9NHVyYBG8N1jABB5hLr8bxf8sP7tX4f7E2kZ',
+    id: 346,
+    name: 'Broxie #346',
     attributes: [
       {
         trait_type: 'back',
@@ -15960,10 +18036,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbuyVBkzv9NHVyYBG8N1jABB5hLr8bxf8sP7tX4f7E2kZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSPrsCZ1vTWfSsMrcrJBgdt62tzN1xNSmKC4PQweTN9JW',
+    address:
+      '0:b57cb5130f3751466f327d0bc4021d60f3542601a612aa54f59cffae62b5937f',
   },
   {
-    previewUrl: 'QmWECErCHX2us8gvsxQJ3CNzhqcBDYEr74FYiSnJnDPjBY',
-    ipfsUrl: 'QmUaQeWNbNL695ximUWSzfxNt7XoZ5KEkdhXjbN3a7GA9d',
+    id: 347,
+    name: 'Broxie #347',
     attributes: [
       {
         trait_type: 'back',
@@ -16006,10 +18088,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUaQeWNbNL695ximUWSzfxNt7XoZ5KEkdhXjbN3a7GA9d',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWECErCHX2us8gvsxQJ3CNzhqcBDYEr74FYiSnJnDPjBY',
+    address:
+      '0:7f0b62870d54fff8a3958e11f850f2320e0a8b9387c2ea0600a64fc7bbbdfbff',
   },
   {
-    previewUrl: 'QmZFYRbCebL4qPHV3AiabGHXX6MsFrQhd1R3hYEV9Gnh7e',
-    ipfsUrl: 'QmV3qQZHHVkYPJ6MoZRVNXXaGhiFT4zyq7ArgLKugRaaE6',
+    id: 348,
+    name: 'Broxie #348',
     attributes: [
       {
         trait_type: 'back',
@@ -16052,10 +18140,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV3qQZHHVkYPJ6MoZRVNXXaGhiFT4zyq7ArgLKugRaaE6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZFYRbCebL4qPHV3AiabGHXX6MsFrQhd1R3hYEV9Gnh7e',
+    address:
+      '0:12af66ff746a614b5db5594d38d4dd8091d5ab299de93f96f432e27b997f0138',
   },
   {
-    previewUrl: 'QmWLWkURokLx7Pzgq4QZsBYLBKsFrgL5dAxYzj24kwHJUH',
-    ipfsUrl: 'QmQ6VhF2YHjo11n3mL3wap7PL4WTGzzrPYw2eutkrXP5Wg',
+    id: 349,
+    name: 'Broxie #349',
     attributes: [
       {
         trait_type: 'back',
@@ -16098,10 +18192,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ6VhF2YHjo11n3mL3wap7PL4WTGzzrPYw2eutkrXP5Wg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWLWkURokLx7Pzgq4QZsBYLBKsFrgL5dAxYzj24kwHJUH',
+    address:
+      '0:f1542b18e4a6b55299cd28e7aa78e53bbe32f7e94c202528fc6287ce0c8b4b9c',
   },
   {
-    previewUrl: 'QmSeZYLz7ee8Qx3KDccXRUdqrtawRAYba4X7iimasG4n7D',
-    ipfsUrl: 'QmPRDmxDPLha6rAz2rD4FG7Fhr5b3r4ps67pQKnQGkx45C',
+    id: 350,
+    name: 'Broxie #350',
     attributes: [
       {
         trait_type: 'back',
@@ -16144,10 +18244,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPRDmxDPLha6rAz2rD4FG7Fhr5b3r4ps67pQKnQGkx45C',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSeZYLz7ee8Qx3KDccXRUdqrtawRAYba4X7iimasG4n7D',
+    address:
+      '0:32c254c37b39b66ae83aeb3a4c58e689c142b92f0999c6f5cb75c5e0046b2f6e',
   },
   {
-    previewUrl: 'QmQKxU9HqVFmuwDVZ4Q989e5rgnk6k7ifgCQueaMKeJ1nu',
-    ipfsUrl: 'Qmbe15WBBNUE6GP4RHT2yHmaXdCt8YKHNWe5rfVx5NQPsJ',
+    id: 351,
+    name: 'Broxie #351',
     attributes: [
       {
         trait_type: 'back',
@@ -16190,10 +18296,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbe15WBBNUE6GP4RHT2yHmaXdCt8YKHNWe5rfVx5NQPsJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQKxU9HqVFmuwDVZ4Q989e5rgnk6k7ifgCQueaMKeJ1nu',
+    address:
+      '0:011881446b3163e06c348b1ea651767e59d5c2e120bf0d2eb94d5b89f587bf81',
   },
   {
-    previewUrl: 'QmNzFAVb9dFAidGnVDwzVT6SH7wyVz3YxNhCXXMuMvmMUx',
-    ipfsUrl: 'QmSUHPsqxqvpHfrp9eg3HVpWGm8Gnsoa8D9nn87bvDYG4U',
+    id: 352,
+    name: 'Broxie #352',
     attributes: [
       {
         trait_type: 'back',
@@ -16236,10 +18348,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSUHPsqxqvpHfrp9eg3HVpWGm8Gnsoa8D9nn87bvDYG4U',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNzFAVb9dFAidGnVDwzVT6SH7wyVz3YxNhCXXMuMvmMUx',
+    address:
+      '0:b1bc5c4f1395617517a59c4c091a651001f2d1a89f677f4fc2a0a2583beee3d6',
   },
   {
-    previewUrl: 'QmaFQ4ycbqND9A7AeqQp2FZGCcXtBKyduAWym8PDdtLKs7',
-    ipfsUrl: 'QmZTA23QQTcRy3RwNf1Xi5gWTMqF5m4CNYwtSoMqgbkWsK',
+    id: 353,
+    name: 'Broxie #353',
     attributes: [
       {
         trait_type: 'back',
@@ -16282,10 +18400,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZTA23QQTcRy3RwNf1Xi5gWTMqF5m4CNYwtSoMqgbkWsK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaFQ4ycbqND9A7AeqQp2FZGCcXtBKyduAWym8PDdtLKs7',
+    address:
+      '0:270d464af98fd1fe54802a5920cec70e2acdc5a1423ca9596364ef1e2a2f4e2a',
   },
   {
-    previewUrl: 'QmeRng1TqGdtAGAugaMCbSMujHNA4kParR5EAwUF6oxzeY',
-    ipfsUrl: 'QmZVJUj66Mh1TA444p6pEc5WAU91oWBw8k5N8HNaNbmua4',
+    id: 354,
+    name: 'Broxie #354',
     attributes: [
       {
         trait_type: 'back',
@@ -16328,10 +18452,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZVJUj66Mh1TA444p6pEc5WAU91oWBw8k5N8HNaNbmua4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeRng1TqGdtAGAugaMCbSMujHNA4kParR5EAwUF6oxzeY',
+    address:
+      '0:5e2ba584db2674ef14bd7ec69da1901747f74879b597d26b577c4aff26f30690',
   },
   {
-    previewUrl: 'QmVqe1TDPSHs5yVPSb93smzyiqfmjRVPQ6772Jjq9TZKse',
-    ipfsUrl: 'QmQ7XyPrQ2SFqjEQgc7LyvKDK4Y4Hp4QDVcK65wjk5F9JT',
+    id: 355,
+    name: 'Broxie #355',
     attributes: [
       {
         trait_type: 'back',
@@ -16374,10 +18504,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ7XyPrQ2SFqjEQgc7LyvKDK4Y4Hp4QDVcK65wjk5F9JT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVqe1TDPSHs5yVPSb93smzyiqfmjRVPQ6772Jjq9TZKse',
+    address:
+      '0:52898b2682eedb47a7c32f11c18714453b7a622ac4fd8bb80be06a2579dc4e2a',
   },
   {
-    previewUrl: 'QmZRxMM6fWBDQSzVWXUs3JSjreTUSnSDczGXz3JFBVVKCU',
-    ipfsUrl: 'QmcvKBB7WUDfAndndMKSyG2EXT1UByLmiDvj4bFjcmXTM9',
+    id: 356,
+    name: 'Broxie #356',
     attributes: [
       {
         trait_type: 'back',
@@ -16420,10 +18556,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcvKBB7WUDfAndndMKSyG2EXT1UByLmiDvj4bFjcmXTM9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZRxMM6fWBDQSzVWXUs3JSjreTUSnSDczGXz3JFBVVKCU',
+    address:
+      '0:48fc2e28f1c488590b3c78ad638108066aa7c5dc67ee7ac51955fc91531f774a',
   },
   {
-    previewUrl: 'QmNXyaep6dSqq5APhDck8vfnvmgdXk7h3ocZtgk9JB5w6N',
-    ipfsUrl: 'Qmdw5x4MSEs2fty5LnuskkY5Ms2fbAUkR8ZkFQoB29Cacc',
+    id: 357,
+    name: 'Broxie #357',
     attributes: [
       {
         trait_type: 'back',
@@ -16466,10 +18608,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdw5x4MSEs2fty5LnuskkY5Ms2fbAUkR8ZkFQoB29Cacc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNXyaep6dSqq5APhDck8vfnvmgdXk7h3ocZtgk9JB5w6N',
+    address:
+      '0:36763fb448c3f74303328e46560cb32d4d6a0ed9dba4e9df72558bbe2ed95530',
   },
   {
-    previewUrl: 'QmSzgKFpTnJNWyZxHRvfTMaAWx3WNavW6hSLQiJp4MwLzn',
-    ipfsUrl: 'QmdSPtTGgEEaBabprkjxWmdK2N5b6Qa6o9a9cuoyMvSH7h',
+    id: 358,
+    name: 'Broxie #358',
     attributes: [
       {
         trait_type: 'back',
@@ -16512,10 +18660,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdSPtTGgEEaBabprkjxWmdK2N5b6Qa6o9a9cuoyMvSH7h',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSzgKFpTnJNWyZxHRvfTMaAWx3WNavW6hSLQiJp4MwLzn',
+    address:
+      '0:85b5b986ef8a06bd2be52b2bb965e7748b693c34501632fa2c824ba8e069021c',
   },
   {
-    previewUrl: 'QmWV8VhVie9s75xJGcTZznzJSUHJdtVCcugwc9oiXXXVht',
-    ipfsUrl: 'QmNeWLQKTTvRs8YUi9iGoyeapXbAiiXJbfsZte32afEcPL',
+    id: 359,
+    name: 'Broxie #359',
     attributes: [
       {
         trait_type: 'back',
@@ -16558,10 +18712,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNeWLQKTTvRs8YUi9iGoyeapXbAiiXJbfsZte32afEcPL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWV8VhVie9s75xJGcTZznzJSUHJdtVCcugwc9oiXXXVht',
+    address:
+      '0:d0f09a15ff07dbca9735af0d86d3476126e685695273e29b9e8eb81eeb1a066f',
   },
   {
-    previewUrl: 'QmTrj3KfjFQyGeoPV8f7AeFa9Eq6B8Gi96DBMojznHv7LN',
-    ipfsUrl: 'QmVv4smK2poyrFGUY2zZS4a9E26SW8hM1TbTZhS484GPYC',
+    id: 360,
+    name: 'Broxie #360',
     attributes: [
       {
         trait_type: 'back',
@@ -16604,10 +18764,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVv4smK2poyrFGUY2zZS4a9E26SW8hM1TbTZhS484GPYC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTrj3KfjFQyGeoPV8f7AeFa9Eq6B8Gi96DBMojznHv7LN',
+    address:
+      '0:780cb131ab365248e7230a9475a3b068b565047bdce42ee78b80ef696cb3ebaa',
   },
   {
-    previewUrl: 'QmY8pYcM1s5XD17C1FqiZcjJwozK2MQdFxkZ7s3X5zDmm9',
-    ipfsUrl: 'QmRFuJxv5E1KQczAUUjTt6GQsLag5YJAHN1V7BEwYewD54',
+    id: 361,
+    name: 'Broxie #361',
     attributes: [
       {
         trait_type: 'back',
@@ -16650,10 +18816,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRFuJxv5E1KQczAUUjTt6GQsLag5YJAHN1V7BEwYewD54',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmY8pYcM1s5XD17C1FqiZcjJwozK2MQdFxkZ7s3X5zDmm9',
+    address:
+      '0:0d8a12b12d44280de765235807f6a7866fb116fb67f39d71fd9a28305fbaea18',
   },
   {
-    previewUrl: 'QmXvsuqrY98diWu3aEZL6Ysx7zLng6LnSLfoBfABYfSUWq',
-    ipfsUrl: 'QmegZpz1ySo9mB3dCCt9ddML65fvjkn5Q9tDq1a832nDFk',
+    id: 362,
+    name: 'Broxie #362',
     attributes: [
       {
         trait_type: 'back',
@@ -16696,10 +18868,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmegZpz1ySo9mB3dCCt9ddML65fvjkn5Q9tDq1a832nDFk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXvsuqrY98diWu3aEZL6Ysx7zLng6LnSLfoBfABYfSUWq',
+    address:
+      '0:4a6f34929b445ce3efd939c75c3f9fa4a606277f2306bc2830e11af4941e01b4',
   },
   {
-    previewUrl: 'QmerJRmhZdDgs5yFLFxtgBV1S5iwQuZECMNRryFHkJ6mTt',
-    ipfsUrl: 'QmaquuQGHtRPnEB3tBRnXyGfGyTn8Jc6AVdEtNmSEPoB9K',
+    id: 363,
+    name: 'Broxie #363',
     attributes: [
       {
         trait_type: 'back',
@@ -16742,10 +18920,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaquuQGHtRPnEB3tBRnXyGfGyTn8Jc6AVdEtNmSEPoB9K',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmerJRmhZdDgs5yFLFxtgBV1S5iwQuZECMNRryFHkJ6mTt',
+    address:
+      '0:6e6977488cfc62296f0d3c61e9e7a8d3604cd19e686a06869ad6dfe3befb8559',
   },
   {
-    previewUrl: 'QmWAW74z1J2RHqkJRnNErL8NkpY4r2SoacFTpmjqqNeiEM',
-    ipfsUrl: 'QmeastXxd1xu2zyPgtC2y1fxVUDG8Xaxk261LuGsxV1nhf',
+    id: 364,
+    name: 'Broxie #364',
     attributes: [
       {
         trait_type: 'back',
@@ -16788,10 +18972,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeastXxd1xu2zyPgtC2y1fxVUDG8Xaxk261LuGsxV1nhf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWAW74z1J2RHqkJRnNErL8NkpY4r2SoacFTpmjqqNeiEM',
+    address:
+      '0:47870006e7c1941300c4ff1f3e7d7cf13b0826d0b4c89ea4e92c904eb8db0a99',
   },
   {
-    previewUrl: 'Qmd2nZNK6UhbGg9xqRoUp13o3Q7nzjh1UuHHLiJjjt65yC',
-    ipfsUrl: 'QmW2o4Z2KPkXggV7fYjMVFfdbPnHsTamT7uGu1r52rnULT',
+    id: 365,
+    name: 'Broxie #365',
     attributes: [
       {
         trait_type: 'back',
@@ -16834,10 +19024,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW2o4Z2KPkXggV7fYjMVFfdbPnHsTamT7uGu1r52rnULT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd2nZNK6UhbGg9xqRoUp13o3Q7nzjh1UuHHLiJjjt65yC',
+    address:
+      '0:db7ea6b268d7cf72e348e25e27fa357bddaecca679322cb380e19bc7152377dc',
   },
   {
-    previewUrl: 'QmS2pNmKmvERPPFBdnB8T5x7H4woA8QEBxgTGXBok4CBhd',
-    ipfsUrl: 'QmUTXvZyKRGv1xWmjHiDZe3cRFsRH3dHHSdZbesYP6xKN6',
+    id: 366,
+    name: 'Broxie #366',
     attributes: [
       {
         trait_type: 'back',
@@ -16880,10 +19076,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUTXvZyKRGv1xWmjHiDZe3cRFsRH3dHHSdZbesYP6xKN6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS2pNmKmvERPPFBdnB8T5x7H4woA8QEBxgTGXBok4CBhd',
+    address:
+      '0:c2bea6c780cdced61c9e654d7b40337dd0d280eaa5568563ba9e9cab53472ce1',
   },
   {
-    previewUrl: 'QmW3SvshySw8KpyfBGq55pkd4unJexYj2zBfMKHL1ZVxMe',
-    ipfsUrl: 'QmPLSo1HAwZJfizvHGFh4GGLVX2jQ1WVSpZnCP7X7f7iY5',
+    id: 367,
+    name: 'Broxie #367',
     attributes: [
       {
         trait_type: 'back',
@@ -16926,10 +19128,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPLSo1HAwZJfizvHGFh4GGLVX2jQ1WVSpZnCP7X7f7iY5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW3SvshySw8KpyfBGq55pkd4unJexYj2zBfMKHL1ZVxMe',
+    address:
+      '0:5eaa25d1be2715055829b7b480c3c3c9f008fe7e5b7be7436367f8cf2af76c20',
   },
   {
-    previewUrl: 'QmZqaiuPCSZLHaqVe8YSEkDFbdNQutH4gxAErkeqiHUKrg',
-    ipfsUrl: 'QmSiYkky9TVYGkMZbrRBktUQDcNd3UmL1vobwxcK4VnN1A',
+    id: 368,
+    name: 'Broxie #368',
     attributes: [
       {
         trait_type: 'back',
@@ -16972,10 +19180,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSiYkky9TVYGkMZbrRBktUQDcNd3UmL1vobwxcK4VnN1A',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZqaiuPCSZLHaqVe8YSEkDFbdNQutH4gxAErkeqiHUKrg',
+    address:
+      '0:f1a68bc16d1604369e412a46a3d9ef7797e028e371eb064af8e42b59fe1bb967',
   },
   {
-    previewUrl: 'QmRgq1cmH4oEy9trc78CUg1PCjx6TWt1xfsmjPHjGWRM4N',
-    ipfsUrl: 'QmWaZgMKPejQCo9aPmk1M7RtT4hYwiNNX6VrcsuPTb9NWt',
+    id: 369,
+    name: 'Broxie #369',
     attributes: [
       {
         trait_type: 'back',
@@ -17018,10 +19232,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWaZgMKPejQCo9aPmk1M7RtT4hYwiNNX6VrcsuPTb9NWt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRgq1cmH4oEy9trc78CUg1PCjx6TWt1xfsmjPHjGWRM4N',
+    address:
+      '0:ffd91225aa11f8a2255cbd7d0c17ef7a0c815f46e400e5b5ac9fb556aadf224e',
   },
   {
-    previewUrl: 'QmaWdBWEfrDf7d94DEAoAYQQmNjzYffyiVu9BiEaTpVz2U',
-    ipfsUrl: 'Qma6qiVUr8xyEvYiFsHaFd3hgmtmK68DCRiM42NdmUCgGs',
+    id: 370,
+    name: 'Broxie #370',
     attributes: [
       {
         trait_type: 'back',
@@ -17064,10 +19284,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qma6qiVUr8xyEvYiFsHaFd3hgmtmK68DCRiM42NdmUCgGs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaWdBWEfrDf7d94DEAoAYQQmNjzYffyiVu9BiEaTpVz2U',
+    address:
+      '0:aa9ce0b49c1bee2cfbf7b1b54360ae99130c47e8593c1259f8770de08ce25888',
   },
   {
-    previewUrl: 'QmcA2JL7pnMtGKfGCTrjyjpCuaLEHB6DkvF23kumh8VzWc',
-    ipfsUrl: 'QmSogg79KWoZmJzLqzhB2WcpN8ckYVUz5qcAYWXU5LThRs',
+    id: 371,
+    name: 'Broxie #371',
     attributes: [
       {
         trait_type: 'back',
@@ -17110,10 +19336,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSogg79KWoZmJzLqzhB2WcpN8ckYVUz5qcAYWXU5LThRs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcA2JL7pnMtGKfGCTrjyjpCuaLEHB6DkvF23kumh8VzWc',
+    address:
+      '0:7b2b605d82d72a0cbeada3d092ecf668e6573cdd89b163758f5f0455e6e65035',
   },
   {
-    previewUrl: 'QmWvypx8KiK6kMn1KZAB2pjffnzHNLLA2NuztEY8xn3yLW',
-    ipfsUrl: 'QmYoBQJxYXdqJC6nnzFiPrczNDt3xEVG8NPQE2GgpHj4Aq',
+    id: 372,
+    name: 'Broxie #372',
     attributes: [
       {
         trait_type: 'back',
@@ -17156,10 +19388,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYoBQJxYXdqJC6nnzFiPrczNDt3xEVG8NPQE2GgpHj4Aq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWvypx8KiK6kMn1KZAB2pjffnzHNLLA2NuztEY8xn3yLW',
+    address:
+      '0:81df4031897dd13b3a2120fe18823d53fbc3dc794c86f774b5d345cce5d1094d',
   },
   {
-    previewUrl: 'QmX2QohzeE6vFd6tWKuGjKKJfoCe7FzKNZ5chKCFUyPVpG',
-    ipfsUrl: 'QmXmnPvRBCynitRdaEdrqjidaABm5xaCAPk9Z2y1oicjQN',
+    id: 373,
+    name: 'Broxie #373',
     attributes: [
       {
         trait_type: 'back',
@@ -17202,10 +19440,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXmnPvRBCynitRdaEdrqjidaABm5xaCAPk9Z2y1oicjQN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmX2QohzeE6vFd6tWKuGjKKJfoCe7FzKNZ5chKCFUyPVpG',
+    address:
+      '0:391be3574800858f805f566dd65a5b9e11768be42def0aa5a4b24a9853bf5d81',
   },
   {
-    previewUrl: 'QmWfiLaZgMkrFVkWZeCyGAueNhS3kgWgyjbDZGwtQRACHx',
-    ipfsUrl: 'QmTDa9nQEtTmt9uYu3JsiAPFSpL6cKkMbtKJcrBJyHmdtq',
+    id: 374,
+    name: 'Broxie #374',
     attributes: [
       {
         trait_type: 'back',
@@ -17248,10 +19492,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTDa9nQEtTmt9uYu3JsiAPFSpL6cKkMbtKJcrBJyHmdtq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWfiLaZgMkrFVkWZeCyGAueNhS3kgWgyjbDZGwtQRACHx',
+    address:
+      '0:807c314bbbde3295095a14b72d5d5c499d5895acfea089b3bcec663c64dcdf1c',
   },
   {
-    previewUrl: 'Qmd6kH3N7Z3KVCs4rkJwhXJ9HqmGFQuKDnPGCmHQb1uQZy',
-    ipfsUrl: 'QmcSbofQRgari8yJbtTB9ABE7ujzfa3E1KPWFZ8Wd6tLhJ',
+    id: 375,
+    name: 'Broxie #375',
     attributes: [
       {
         trait_type: 'back',
@@ -17294,10 +19544,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcSbofQRgari8yJbtTB9ABE7ujzfa3E1KPWFZ8Wd6tLhJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd6kH3N7Z3KVCs4rkJwhXJ9HqmGFQuKDnPGCmHQb1uQZy',
+    address:
+      '0:222c423610fefd8976afe9fcca7cc254c8159eb0ace82b9cf244569a7387a56a',
   },
   {
-    previewUrl: 'QmUsR9xaFinFongDLYK81EFrHLTmPaRedQ2esAoj3RhsnH',
-    ipfsUrl: 'QmYtSMPyqzjEeR7PEpkXH6pF382soKkYNdWkAnA6sucBLZ',
+    id: 376,
+    name: 'Broxie #376',
     attributes: [
       {
         trait_type: 'back',
@@ -17340,10 +19596,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYtSMPyqzjEeR7PEpkXH6pF382soKkYNdWkAnA6sucBLZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUsR9xaFinFongDLYK81EFrHLTmPaRedQ2esAoj3RhsnH',
+    address:
+      '0:5b539332f2bbd6eed8e4abb185b4458d2d1e47f1e536c18715e122ede70dee2a',
   },
   {
-    previewUrl: 'QmQw5cP58VU2bDR8UdAqPsbSjx4UiFRbzwK9KBdRHYnkdy',
-    ipfsUrl: 'QmcN6ruJTRVKDPQATMRAGeXizkRtLSbj5oL2fizdWGs9VQ',
+    id: 377,
+    name: 'Broxie #377',
     attributes: [
       {
         trait_type: 'back',
@@ -17386,10 +19648,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcN6ruJTRVKDPQATMRAGeXizkRtLSbj5oL2fizdWGs9VQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQw5cP58VU2bDR8UdAqPsbSjx4UiFRbzwK9KBdRHYnkdy',
+    address:
+      '0:92db6cc6be8bdf300583a2adcafd84e93e69844b5806bfad1fdb3187042c5946',
   },
   {
-    previewUrl: 'Qma5mCUrCoac3yLv39mXr6NSUdgJ2fe6C1hMW5foLP53cA',
-    ipfsUrl: 'QmXudvPNiH2gDSKtHVd3pPyTyDAQ1h6mLEPF6hvS9DAgv2',
+    id: 378,
+    name: 'Broxie #378',
     attributes: [
       {
         trait_type: 'back',
@@ -17432,10 +19700,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXudvPNiH2gDSKtHVd3pPyTyDAQ1h6mLEPF6hvS9DAgv2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma5mCUrCoac3yLv39mXr6NSUdgJ2fe6C1hMW5foLP53cA',
+    address:
+      '0:0aa4aceda0f28bc6e083c6fd73a51370a4965ad75219f10422243add79449118',
   },
   {
-    previewUrl: 'QmUYFqmW9z7GjkFxANWmUQYkVoYZeKQWKpdvyJN6mRXERX',
-    ipfsUrl: 'QmUDW62UJu9miRhjDEHgh6tzX8vECfpZGnC4h92MMHab7u',
+    id: 379,
+    name: 'Broxie #379',
     attributes: [
       {
         trait_type: 'back',
@@ -17478,10 +19752,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUDW62UJu9miRhjDEHgh6tzX8vECfpZGnC4h92MMHab7u',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUYFqmW9z7GjkFxANWmUQYkVoYZeKQWKpdvyJN6mRXERX',
+    address:
+      '0:14c22a4d603a60c92b91467e16d13f308212042d797223017cf355fb0c82104c',
   },
   {
-    previewUrl: 'QmQhvQRomCfZMraxGBqHBMvQt3Vnj9Ly9buqKUyFBuRQPp',
-    ipfsUrl: 'QmRAaDZrLmojtgJ6T2gjeLAEnEqqbFZP3d9x4PjjNHQ4Bo',
+    id: 380,
+    name: 'Broxie #380',
     attributes: [
       {
         trait_type: 'back',
@@ -17524,10 +19804,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRAaDZrLmojtgJ6T2gjeLAEnEqqbFZP3d9x4PjjNHQ4Bo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQhvQRomCfZMraxGBqHBMvQt3Vnj9Ly9buqKUyFBuRQPp',
+    address:
+      '0:3cb5e42febc9ffc72d0b24dada4e891447758f709cdc7d3c2248d263707678fd',
   },
   {
-    previewUrl: 'QmQg3m3STHMJ4q1Fu5pRoEN6SoyWYbNbUU1FQi2btNyQLf',
-    ipfsUrl: 'QmX1TgXHn8sp5SKMeJrwFUSJXWDQbymR1X4invnKk1kKDP',
+    id: 381,
+    name: 'Broxie #381',
     attributes: [
       {
         trait_type: 'back',
@@ -17570,10 +19856,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX1TgXHn8sp5SKMeJrwFUSJXWDQbymR1X4invnKk1kKDP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQg3m3STHMJ4q1Fu5pRoEN6SoyWYbNbUU1FQi2btNyQLf',
+    address:
+      '0:19d2774ecc2a907633ddc694f64c70c2bee9804660f183635855d250873fed07',
   },
   {
-    previewUrl: 'QmNssqb4TLXPPvdbPxwpAndrZaL7Y2RtDAGZMozW8E77An',
-    ipfsUrl: 'QmPQfwSRgoFhp9hUrExZ36RBfsoizvLMxJJzGYzvW8FB4z',
+    id: 382,
+    name: 'Broxie #382',
     attributes: [
       {
         trait_type: 'back',
@@ -17616,10 +19908,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPQfwSRgoFhp9hUrExZ36RBfsoizvLMxJJzGYzvW8FB4z',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNssqb4TLXPPvdbPxwpAndrZaL7Y2RtDAGZMozW8E77An',
+    address:
+      '0:bb043318e8023bd3ab8c1b684d4295a22bdaddfde56b008fe8bf2d3f641895b4',
   },
   {
-    previewUrl: 'QmSBFfNTN3iaxeSPAoFRiGTvkfk8ZCJUXsW1j3P3eCD3rK',
-    ipfsUrl: 'QmYWNiQBCx17jkhvaWsR3abDGoFaoXtArHL5YWXR6PK16w',
+    id: 383,
+    name: 'Broxie #383',
     attributes: [
       {
         trait_type: 'back',
@@ -17662,10 +19960,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYWNiQBCx17jkhvaWsR3abDGoFaoXtArHL5YWXR6PK16w',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSBFfNTN3iaxeSPAoFRiGTvkfk8ZCJUXsW1j3P3eCD3rK',
+    address:
+      '0:659077e748d81b07c4bc502dee88ada7a53c3dca34a582989cf1b8009168d0fc',
   },
   {
-    previewUrl: 'QmNep2k79AjStSp4CwwUuaWpC1kBYTYj2xr52KmwkgSKoC',
-    ipfsUrl: 'QmRCJW7zDokpf9JZv7w49fhbn3DDt37xDepsMyqM56qhoH',
+    id: 384,
+    name: 'Broxie #384',
     attributes: [
       {
         trait_type: 'back',
@@ -17708,10 +20012,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRCJW7zDokpf9JZv7w49fhbn3DDt37xDepsMyqM56qhoH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNep2k79AjStSp4CwwUuaWpC1kBYTYj2xr52KmwkgSKoC',
+    address:
+      '0:410f373b37d70785c5cf9121bfe94962248f5ebbb1b88fcfa5f0d7a238af4a66',
   },
   {
-    previewUrl: 'QmcVyjswGw28cXLoJwTD3sE74RoAwvfTV5eUkT5UAj7HNs',
-    ipfsUrl: 'QmZVhcxEKkT9jxNdv4yP8QgtS1K2F1Kv28ka2mtupMJhjB',
+    id: 385,
+    name: 'Broxie #385',
     attributes: [
       {
         trait_type: 'back',
@@ -17754,10 +20064,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZVhcxEKkT9jxNdv4yP8QgtS1K2F1Kv28ka2mtupMJhjB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcVyjswGw28cXLoJwTD3sE74RoAwvfTV5eUkT5UAj7HNs',
+    address:
+      '0:6dd3050743d4cd0b9c8957123c2ad900854242c505564f8048c536136ab98f15',
   },
   {
-    previewUrl: 'QmZvMXGuQRistvWXGXGhQ2JBxbFeg6o1kcvJbUFeePijED',
-    ipfsUrl: 'QmXjGF5EJKJmXNf9xDe9A28YLtfCT17Xsy8QFrz8ThweWX',
+    id: 386,
+    name: 'Broxie #386',
     attributes: [
       {
         trait_type: 'back',
@@ -17800,10 +20116,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXjGF5EJKJmXNf9xDe9A28YLtfCT17Xsy8QFrz8ThweWX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZvMXGuQRistvWXGXGhQ2JBxbFeg6o1kcvJbUFeePijED',
+    address:
+      '0:a60ee1d3571e15c2d97258bcee4e591187cd14b2b5cc5e71395236ba0f424437',
   },
   {
-    previewUrl: 'QmSgLqedPwCvrECCW4W6F95jCLKMyNrsF7BJ1Aju3GHWaZ',
-    ipfsUrl: 'QmXxFyBuRKq3SF3b5KGCQehMhRjSc9BtLnWrzjGVEVioZS',
+    id: 387,
+    name: 'Broxie #387',
     attributes: [
       {
         trait_type: 'back',
@@ -17846,10 +20168,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXxFyBuRKq3SF3b5KGCQehMhRjSc9BtLnWrzjGVEVioZS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSgLqedPwCvrECCW4W6F95jCLKMyNrsF7BJ1Aju3GHWaZ',
+    address:
+      '0:ff606cbaa49a2434e3bc798926fabec9a154b9b460f046fab09e492866d5e140',
   },
   {
-    previewUrl: 'QmQTY9hNyrK3sDp4ZK2a9Wx6rsDWA8kM5GEPSFm7KkacYK',
-    ipfsUrl: 'QmQkf4FcktaLKWNTnG28tyc8pDEWUbYpeZqMuJJbKcgYFJ',
+    id: 388,
+    name: 'Broxie #388',
     attributes: [
       {
         trait_type: 'back',
@@ -17892,10 +20220,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQkf4FcktaLKWNTnG28tyc8pDEWUbYpeZqMuJJbKcgYFJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQTY9hNyrK3sDp4ZK2a9Wx6rsDWA8kM5GEPSFm7KkacYK',
+    address:
+      '0:c3b78df4f0e0bf2928a561d8b3f843f95badee9074c77f8d76a6b686dc9614b8',
   },
   {
-    previewUrl: 'QmTXeuiCVBVEYiEmSEjat1ohQUdJ491sM9DV2ktxhtDgFH',
-    ipfsUrl: 'QmeHset5sGKN5qyY4MAq9XFLicERqsLy2EtxbSVaqZNmho',
+    id: 389,
+    name: 'Broxie #389',
     attributes: [
       {
         trait_type: 'back',
@@ -17938,10 +20272,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeHset5sGKN5qyY4MAq9XFLicERqsLy2EtxbSVaqZNmho',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTXeuiCVBVEYiEmSEjat1ohQUdJ491sM9DV2ktxhtDgFH',
+    address:
+      '0:c26bec485b6597e164733b6fd73f760d9dd95a16808234f0120a4f8f4eb9c397',
   },
   {
-    previewUrl: 'QmSighjvrX8RpzJTvT7J7JC4F83t3uN6TvfTYw5a6kmPoe',
-    ipfsUrl: 'QmUHxCXj9QPNjMAJQ6bsuUj5UEBz5pT5wJieFNp3SqyuDR',
+    id: 390,
+    name: 'Broxie #390',
     attributes: [
       {
         trait_type: 'back',
@@ -17984,10 +20324,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUHxCXj9QPNjMAJQ6bsuUj5UEBz5pT5wJieFNp3SqyuDR',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSighjvrX8RpzJTvT7J7JC4F83t3uN6TvfTYw5a6kmPoe',
+    address:
+      '0:cdd882a35f0c7d9d8e72e59ef92a0c71b0ec84f7d202ebc5188cfdb6b9c20aec',
   },
   {
-    previewUrl: 'QmYxGzKVa1Fv27fgp3CfftYRQXBdry2Rnb4rBWojk8kzUT',
-    ipfsUrl: 'QmX6QooHEjpymFCgziPG7U7Mt1MwdfKm6Z5WnhFMazaTsD',
+    id: 391,
+    name: 'Broxie #391',
     attributes: [
       {
         trait_type: 'back',
@@ -18030,10 +20376,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX6QooHEjpymFCgziPG7U7Mt1MwdfKm6Z5WnhFMazaTsD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYxGzKVa1Fv27fgp3CfftYRQXBdry2Rnb4rBWojk8kzUT',
+    address:
+      '0:e99419193a5626126cb211e0dfee42b0b52a90aada78f6396c7365949e6e19a3',
   },
   {
-    previewUrl: 'Qmbjx3uQyNw8McvN3RiSF2xbioFWPDkt5Sc4obHd1Wysg2',
-    ipfsUrl: 'QmRQVNnB3JBRTWjJXrm2JEjtAJLrVwEnwbVDsLsiv8LiFk',
+    id: 392,
+    name: 'Broxie #392',
     attributes: [
       {
         trait_type: 'back',
@@ -18076,10 +20428,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRQVNnB3JBRTWjJXrm2JEjtAJLrVwEnwbVDsLsiv8LiFk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbjx3uQyNw8McvN3RiSF2xbioFWPDkt5Sc4obHd1Wysg2',
+    address:
+      '0:1d91421f493ca11bf1eeaf29d482d697460e30f4e08e09859677238464505350',
   },
   {
-    previewUrl: 'QmdLfs9FEAFxdPLsZi26dwsZ1e3B8VFoeSSxZViXATH7Zc',
-    ipfsUrl: 'QmWgJNvVWk8LK1EUUyt1RQsdtF12QK1jfiRY45s3fKk6T2',
+    id: 393,
+    name: 'Broxie #393',
     attributes: [
       {
         trait_type: 'back',
@@ -18122,10 +20480,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWgJNvVWk8LK1EUUyt1RQsdtF12QK1jfiRY45s3fKk6T2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdLfs9FEAFxdPLsZi26dwsZ1e3B8VFoeSSxZViXATH7Zc',
+    address:
+      '0:82c570aff9437129a00524acc33faf073c73820b3d13fef75e19001a16d943f6',
   },
   {
-    previewUrl: 'QmWGtd3RNUrkwdcg3WGeRTwtEJZ11TYT8wGvduVkhbvwkp',
-    ipfsUrl: 'QmZsLzikLtLSXXLHRkrqbSpQ8u8GnXcnsRsztheLo7NgFW',
+    id: 394,
+    name: 'Broxie #394',
     attributes: [
       {
         trait_type: 'back',
@@ -18168,10 +20532,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZsLzikLtLSXXLHRkrqbSpQ8u8GnXcnsRsztheLo7NgFW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWGtd3RNUrkwdcg3WGeRTwtEJZ11TYT8wGvduVkhbvwkp',
+    address:
+      '0:de623fff0bcd3c041d75679b0a46574ea136f7307b8a3b5cf518465dd76164a5',
   },
   {
-    previewUrl: 'QmSjNYBHYpSY6dvJY3CwdJTpNfHyJZdYGb9qtUoghZmamZ',
-    ipfsUrl: 'QmTx7Rn9BR648VyA7jGzJ7ywZmQnmrTC9ouKFHVpJ6CZ2t',
+    id: 395,
+    name: 'Broxie #395',
     attributes: [
       {
         trait_type: 'back',
@@ -18214,10 +20584,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTx7Rn9BR648VyA7jGzJ7ywZmQnmrTC9ouKFHVpJ6CZ2t',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSjNYBHYpSY6dvJY3CwdJTpNfHyJZdYGb9qtUoghZmamZ',
+    address:
+      '0:2c91f3f06b9e5c48702e80f910f510e482b56d0c0f2a3d2d0c9e16034e02a4fd',
   },
   {
-    previewUrl: 'QmaFmGwAe1ZHN1MzcKhhy6iionH9jc4c9L84UYZmTYWCdP',
-    ipfsUrl: 'Qmawncs19BEGPnMGPy4BetJqxkD8Gv46nWnXyPezjVRKUW',
+    id: 396,
+    name: 'Broxie #396',
     attributes: [
       {
         trait_type: 'back',
@@ -18260,10 +20636,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmawncs19BEGPnMGPy4BetJqxkD8Gv46nWnXyPezjVRKUW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaFmGwAe1ZHN1MzcKhhy6iionH9jc4c9L84UYZmTYWCdP',
+    address:
+      '0:c0f5fa23e715c0d93507b5a57d87844ec5fc44fcec67cc260fdaf81db0a694e5',
   },
   {
-    previewUrl: 'Qmf9qMe2FeTAV1diABrUwCdg6tjVKQxB2Cydai1axhFQSQ',
-    ipfsUrl: 'QmWrHRdowqFk8iDNewCa3GerjRNbxsEwX2zPCvC372Nmvq',
+    id: 397,
+    name: 'Broxie #397',
     attributes: [
       {
         trait_type: 'back',
@@ -18306,10 +20688,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWrHRdowqFk8iDNewCa3GerjRNbxsEwX2zPCvC372Nmvq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf9qMe2FeTAV1diABrUwCdg6tjVKQxB2Cydai1axhFQSQ',
+    address:
+      '0:0d689a3b8b3f3b978d6edd2f97430aed6ca738390f9e97581d8243112dd30279',
   },
   {
-    previewUrl: 'QmSABUo1Ha5fjKFsxCEygfyxqdn4yrPG3sZxs3vA8WAsXx',
-    ipfsUrl: 'QmaRoM8PPpvXs3FWDb9EcXeTnidgZ6m9Fgymarkd34K28W',
+    id: 398,
+    name: 'Broxie #398',
     attributes: [
       {
         trait_type: 'back',
@@ -18352,10 +20740,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaRoM8PPpvXs3FWDb9EcXeTnidgZ6m9Fgymarkd34K28W',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSABUo1Ha5fjKFsxCEygfyxqdn4yrPG3sZxs3vA8WAsXx',
+    address:
+      '0:399f77579db32bc40ded3bc82b01f69ca49e0eea7604088906aa9ba03e1c2788',
   },
   {
-    previewUrl: 'QmRNhVFFeJobatLLMSWUb7asvTnuqbXUzYfPhrHkaVGYir',
-    ipfsUrl: 'QmQnFNz7ety939NCdegZX6qpT4zchKDt7KNxLbTUvG8FvR',
+    id: 399,
+    name: 'Broxie #399',
     attributes: [
       {
         trait_type: 'back',
@@ -18398,10 +20792,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQnFNz7ety939NCdegZX6qpT4zchKDt7KNxLbTUvG8FvR',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRNhVFFeJobatLLMSWUb7asvTnuqbXUzYfPhrHkaVGYir',
+    address:
+      '0:3a0b3af620bf423a7fd252443852189e41a5173c74090e1108e5ffa43b5dc4a0',
   },
   {
-    previewUrl: 'QmegZRhvc1Jfj6cvwbXRw5JPQCXGV5JLfM1XfY3RuEtJWh',
-    ipfsUrl: 'QmQuYurfcLy9zjGxpfePzYqqBH9RAo5h7uK9o1jVeeA6Gx',
+    id: 400,
+    name: 'Broxie #400',
     attributes: [
       {
         trait_type: 'back',
@@ -18444,10 +20844,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQuYurfcLy9zjGxpfePzYqqBH9RAo5h7uK9o1jVeeA6Gx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmegZRhvc1Jfj6cvwbXRw5JPQCXGV5JLfM1XfY3RuEtJWh',
+    address:
+      '0:a0f24f337d68d20609ae106c34fec20c3e558a8014887911059b82619d451169',
   },
   {
-    previewUrl: 'QmRDYjn6KCwJH8z6WWgnckgVt14TjKXhe7mCVZmJziXRYG',
-    ipfsUrl: 'QmZkCMDUdS9eQAGYJmkSeAnRXumWcrdaDDrdxSpL2VLmu6',
+    id: 401,
+    name: 'Broxie #401',
     attributes: [
       {
         trait_type: 'back',
@@ -18490,10 +20896,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZkCMDUdS9eQAGYJmkSeAnRXumWcrdaDDrdxSpL2VLmu6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRDYjn6KCwJH8z6WWgnckgVt14TjKXhe7mCVZmJziXRYG',
+    address:
+      '0:0f4f8dfc9131991ade9e1bb1ba368adf4fc89d14794446b45044a135e8cca32e',
   },
   {
-    previewUrl: 'QmWE9hdaukA1NwEkBJcCU9URs9YTbD8Aedvtbv4ih4hehy',
-    ipfsUrl: 'QmduXmvT5Muec3U8dqQxtCW7UjtkFQsS12LDX1B776s9FG',
+    id: 402,
+    name: 'Broxie #402',
     attributes: [
       {
         trait_type: 'back',
@@ -18536,10 +20948,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmduXmvT5Muec3U8dqQxtCW7UjtkFQsS12LDX1B776s9FG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWE9hdaukA1NwEkBJcCU9URs9YTbD8Aedvtbv4ih4hehy',
+    address:
+      '0:4b2652fadedc5398528dc4b9a1165832dc93a7f01fe5f2e377290de79c6e4cba',
   },
   {
-    previewUrl: 'QmQQ3xQbyuW5sk39e1NWe6T4f4o3TFiRoedKDnUtraSfuj',
-    ipfsUrl: 'QmT7eUyz1ui26PWWtNvdJGD9Eb2KsnwMSA7nWA79RFUsF5',
+    id: 403,
+    name: 'Broxie #403',
     attributes: [
       {
         trait_type: 'back',
@@ -18582,10 +21000,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT7eUyz1ui26PWWtNvdJGD9Eb2KsnwMSA7nWA79RFUsF5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQQ3xQbyuW5sk39e1NWe6T4f4o3TFiRoedKDnUtraSfuj',
+    address:
+      '0:9210bab942754b560930fa1a6f0ebd187787c37e840a0768c54eb02d72fff050',
   },
   {
-    previewUrl: 'QmUySvT5ebhF9dTLEi5Wf7hnKD225mgLn1DSsSgPnGQJKS',
-    ipfsUrl: 'QmVtqF1YvPnmSt9DLt6rRGaoHCsYF4wtRYFzjawssm6tvG',
+    id: 404,
+    name: 'Broxie #404',
     attributes: [
       {
         trait_type: 'back',
@@ -18628,10 +21052,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVtqF1YvPnmSt9DLt6rRGaoHCsYF4wtRYFzjawssm6tvG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUySvT5ebhF9dTLEi5Wf7hnKD225mgLn1DSsSgPnGQJKS',
+    address:
+      '0:be60fae6c90536fdc001c7152e20375f84b532d84fdbcae9bbb96f4dc699dad8',
   },
   {
-    previewUrl: 'QmSeHNh3nVhiuGW3fifMY2K51JPnt69GGp8HnAsPLJGbgj',
-    ipfsUrl: 'Qmf8HdMmoBJ319pHDNWrRsDo2Gj9JGk9jDNhwpygmKSyA6',
+    id: 405,
+    name: 'Broxie #405',
     attributes: [
       {
         trait_type: 'back',
@@ -18674,10 +21104,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf8HdMmoBJ319pHDNWrRsDo2Gj9JGk9jDNhwpygmKSyA6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSeHNh3nVhiuGW3fifMY2K51JPnt69GGp8HnAsPLJGbgj',
+    address:
+      '0:c5a8e799b23f18bf264f65c026a78c6030a4a3c7b06b898ab0c54216e257a165',
   },
   {
-    previewUrl: 'QmSCVTuAWdUiowaSotSzP64bmL3ZeWLNt2VqFPcbuzxLhL',
-    ipfsUrl: 'Qmf3tSrNgtzThx27BAsBmDc5RjgU1xfnqxUKqjCNNUtgVT',
+    id: 406,
+    name: 'Broxie #406',
     attributes: [
       {
         trait_type: 'back',
@@ -18720,10 +21156,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf3tSrNgtzThx27BAsBmDc5RjgU1xfnqxUKqjCNNUtgVT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSCVTuAWdUiowaSotSzP64bmL3ZeWLNt2VqFPcbuzxLhL',
+    address:
+      '0:db9fed909e83adf2bb67d558819a82e3cab852382240045e7700caee9e26939c',
   },
   {
-    previewUrl: 'QmNpAo7kf9tiuem32XKLp3vvG9VbvBTVgtEZX9zik7jifh',
-    ipfsUrl: 'QmTJN7AsabqSKHUHrCi31D7BGjHUDTGjxaWeKzhUnDrAmd',
+    id: 407,
+    name: 'Broxie #407',
     attributes: [
       {
         trait_type: 'back',
@@ -18766,10 +21208,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTJN7AsabqSKHUHrCi31D7BGjHUDTGjxaWeKzhUnDrAmd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNpAo7kf9tiuem32XKLp3vvG9VbvBTVgtEZX9zik7jifh',
+    address:
+      '0:f233d0c3f792c6fef6655f38e504e89fa30a93734b300b805158e336c25d0ddc',
   },
   {
-    previewUrl: 'QmZUDFC5bgxdGa6TL2SZaXr8rPK64W5gAXaMdCFM2gsVZr',
-    ipfsUrl: 'QmcUR135mX8W8cLTiCp4rft4DKtwsMLrGwAzFCkhP8Arpt',
+    id: 408,
+    name: 'Broxie #408',
     attributes: [
       {
         trait_type: 'back',
@@ -18812,10 +21260,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcUR135mX8W8cLTiCp4rft4DKtwsMLrGwAzFCkhP8Arpt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZUDFC5bgxdGa6TL2SZaXr8rPK64W5gAXaMdCFM2gsVZr',
+    address:
+      '0:1e30296a7e613636b873617c2450c0257129a318db40db8c7858fadcff7ac522',
   },
   {
-    previewUrl: 'QmWydsVYwZNrdLCGaKPQkWUHLTaWoG3vei19STcyHkJcwu',
-    ipfsUrl: 'QmNxxjUydJFq91txkAs1RhgYMRjHQZDyswuQeg6kEnUFoF',
+    id: 409,
+    name: 'Broxie #409',
     attributes: [
       {
         trait_type: 'back',
@@ -18858,10 +21312,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNxxjUydJFq91txkAs1RhgYMRjHQZDyswuQeg6kEnUFoF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWydsVYwZNrdLCGaKPQkWUHLTaWoG3vei19STcyHkJcwu',
+    address:
+      '0:30465da4a8df40327a9330fab35d1686ac5ce5697ba7e63c8011ccafb29563f2',
   },
   {
-    previewUrl: 'QmNY7CVzSeCCkUemyrgy3jpUmyCvD2miG8txkbWgZ8oBwW',
-    ipfsUrl: 'QmZxHoqkYhv2Hw4fqQoKb5UWxK2ZqeUvrqDDLFYJDxmpuG',
+    id: 410,
+    name: 'Broxie #410',
     attributes: [
       {
         trait_type: 'back',
@@ -18904,10 +21364,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZxHoqkYhv2Hw4fqQoKb5UWxK2ZqeUvrqDDLFYJDxmpuG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNY7CVzSeCCkUemyrgy3jpUmyCvD2miG8txkbWgZ8oBwW',
+    address:
+      '0:b496c315bb573f450e2402293686cb94e959c6d6a486aba2f32a29ace4b2821a',
   },
   {
-    previewUrl: 'QmSwSzq1bg8K5AU6QJFrVLJxep8pozXg7rYxSZFPLss1UL',
-    ipfsUrl: 'QmVS4aXMtTU5ciUFbQFH7EoU8x5331x9F4G7Kx4fZq5GPN',
+    id: 411,
+    name: 'Broxie #411',
     attributes: [
       {
         trait_type: 'back',
@@ -18950,10 +21416,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVS4aXMtTU5ciUFbQFH7EoU8x5331x9F4G7Kx4fZq5GPN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSwSzq1bg8K5AU6QJFrVLJxep8pozXg7rYxSZFPLss1UL',
+    address:
+      '0:6150a8927082c859dd66a871026639219fb0b96237ef37ad12ec43bb43423fbd',
   },
   {
-    previewUrl: 'QmQ6itP1JZmE6UWsC2YTxMccPJ2kUZCviMdE2oLUCNinmr',
-    ipfsUrl: 'QmWGBYT7Dsup1cvcrMYp15c4fheVXFpXPEGGNJ8Q6zu6cD',
+    id: 412,
+    name: 'Broxie #412',
     attributes: [
       {
         trait_type: 'back',
@@ -18996,10 +21468,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWGBYT7Dsup1cvcrMYp15c4fheVXFpXPEGGNJ8Q6zu6cD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ6itP1JZmE6UWsC2YTxMccPJ2kUZCviMdE2oLUCNinmr',
+    address:
+      '0:73b823cb1b0f26d90eb57ef6f663b7be6c677fe13e3e27b1ea84959fbc54e1cc',
   },
   {
-    previewUrl: 'QmUyDov4VqNPzeJpX7TQbzXeRquEDtmWsRuUpSzLF4Yzty',
-    ipfsUrl: 'QmeJf2zpYe5SvQcdcRixr3FkocQqC3yaxzkFgp9xxG94bv',
+    id: 413,
+    name: 'Broxie #413',
     attributes: [
       {
         trait_type: 'back',
@@ -19042,10 +21520,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeJf2zpYe5SvQcdcRixr3FkocQqC3yaxzkFgp9xxG94bv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUyDov4VqNPzeJpX7TQbzXeRquEDtmWsRuUpSzLF4Yzty',
+    address:
+      '0:a475750134034dab3af6c37fe1b3b540732db46258981f0afda0990bcd3732b5',
   },
   {
-    previewUrl: 'QmQjD3dFKqWz6rzC51T2FFLebMo1Ft1JLcfMQ9heQ3xQtX',
-    ipfsUrl: 'QmUUN3SgDcfpPGA8SwPfQ7RhQ4pP6hASKMjqgrHH7tWsr1',
+    id: 414,
+    name: 'Broxie #414',
     attributes: [
       {
         trait_type: 'back',
@@ -19088,10 +21572,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUUN3SgDcfpPGA8SwPfQ7RhQ4pP6hASKMjqgrHH7tWsr1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQjD3dFKqWz6rzC51T2FFLebMo1Ft1JLcfMQ9heQ3xQtX',
+    address:
+      '0:c33d4bf0b3a2ea09102ff68390c467d42e06b0e540c9735f3575d720b06935fa',
   },
   {
-    previewUrl: 'QmcAFYSzKV3Md4xVbWc7KRzPNkuvtksPzQf3vhDqd5pmFG',
-    ipfsUrl: 'QmXfryYqvEqNCRsSbFK4yyFNtQ9SiFA2ogFf9cyqjQ915L',
+    id: 415,
+    name: 'Broxie #415',
     attributes: [
       {
         trait_type: 'back',
@@ -19134,10 +21624,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXfryYqvEqNCRsSbFK4yyFNtQ9SiFA2ogFf9cyqjQ915L',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcAFYSzKV3Md4xVbWc7KRzPNkuvtksPzQf3vhDqd5pmFG',
+    address:
+      '0:611e0c2c22c4c6356db019d32112109fe3acacb976032349f62b28608c6b42f9',
   },
   {
-    previewUrl: 'QmcYcp9f45LKGeQPB48ZW8UxfEfsRLxwAwZsVx87u9eak7',
-    ipfsUrl: 'QmUywo9nSq4WeSUszs5psTR1N3MXYdxdsz4xPXbCauMkSu',
+    id: 416,
+    name: 'Broxie #416',
     attributes: [
       {
         trait_type: 'back',
@@ -19180,10 +21676,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUywo9nSq4WeSUszs5psTR1N3MXYdxdsz4xPXbCauMkSu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcYcp9f45LKGeQPB48ZW8UxfEfsRLxwAwZsVx87u9eak7',
+    address:
+      '0:dd424a0543dc1bc1e04381e000cdfc4ba09fe2276abe4bf1d06a670dbe8b1e7f',
   },
   {
-    previewUrl: 'QmYiDH2BEWNmJ1YFZhPH7heMavFm6nZPeHimDmoUeyM3U8',
-    ipfsUrl: 'Qmd2P7SZTev6pzDo4QCp2HDqhejbADBhGwyP7qFATLzx4N',
+    id: 417,
+    name: 'Broxie #417',
     attributes: [
       {
         trait_type: 'back',
@@ -19226,10 +21728,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd2P7SZTev6pzDo4QCp2HDqhejbADBhGwyP7qFATLzx4N',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYiDH2BEWNmJ1YFZhPH7heMavFm6nZPeHimDmoUeyM3U8',
+    address:
+      '0:e9196ec3aa4c4d1dfd0f93f3ea6060fdb3ef57bd44ad5cfa0bc68f6291f9f1a0',
   },
   {
-    previewUrl: 'QmUHWd2eivzG42gmq76GABTDAhgRxfGJkYJCmz4uTATAic',
-    ipfsUrl: 'QmZ8b5dntf4HwpfsU2XDEAxBsrX7d9kiLGx9iSPQzZg9MM',
+    id: 418,
+    name: 'Broxie #418',
     attributes: [
       {
         trait_type: 'back',
@@ -19272,10 +21780,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ8b5dntf4HwpfsU2XDEAxBsrX7d9kiLGx9iSPQzZg9MM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUHWd2eivzG42gmq76GABTDAhgRxfGJkYJCmz4uTATAic',
+    address:
+      '0:5bd50d65e2d354dec1992c7683115b14aadd1f711f4ae0f83c515ce8fa59f66e',
   },
   {
-    previewUrl: 'QmUJ7sjuKdStFe5ziq8cvwDo4qFJbUKyAfTqvLN2Eh2vek',
-    ipfsUrl: 'QmV4RJdP75H9QA4FwNdByQxfXB1GaoxVKpArbZRzU5NUV5',
+    id: 419,
+    name: 'Broxie #419',
     attributes: [
       {
         trait_type: 'back',
@@ -19318,10 +21832,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV4RJdP75H9QA4FwNdByQxfXB1GaoxVKpArbZRzU5NUV5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUJ7sjuKdStFe5ziq8cvwDo4qFJbUKyAfTqvLN2Eh2vek',
+    address:
+      '0:94a1a30dd7b87a1a3196fe08a6b472e936cdf759ad5dea980eec9b625aba0474',
   },
   {
-    previewUrl: 'QmRktw9Uvz3shgn6e3J4qYx1qYrqYMrZGdHnBrERWhnvfq',
-    ipfsUrl: 'QmRhRazf3F3zprrhkQCf85PLG8TrcFrpJ33C4BAeccX5Gh',
+    id: 420,
+    name: 'Broxie #420',
     attributes: [
       {
         trait_type: 'back',
@@ -19364,10 +21884,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRhRazf3F3zprrhkQCf85PLG8TrcFrpJ33C4BAeccX5Gh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRktw9Uvz3shgn6e3J4qYx1qYrqYMrZGdHnBrERWhnvfq',
+    address:
+      '0:98269852a69f855038a4755689a59ceedc3b6ee59789a933835fc57433ca67b1',
   },
   {
-    previewUrl: 'QmSsrTjAK4AaNqKjSzuX7cArFidGdmg3X3thYiuTZeV4aa',
-    ipfsUrl: 'QmU46UoNSL9CNVDkcTJfVJnyM1RK1yJEZKy3guoUiEBZbf',
+    id: 421,
+    name: 'Broxie #421',
     attributes: [
       {
         trait_type: 'back',
@@ -19410,10 +21936,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU46UoNSL9CNVDkcTJfVJnyM1RK1yJEZKy3guoUiEBZbf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSsrTjAK4AaNqKjSzuX7cArFidGdmg3X3thYiuTZeV4aa',
+    address:
+      '0:841ca9b1c9253115fc75f06a846c5ef34a069a215d414ac534d4a7808d25e5b2',
   },
   {
-    previewUrl: 'QmXRPJ9bu1VBzqo3JBYMpBADRyjywWCWW14By5UPWrbdFa',
-    ipfsUrl: 'QmSBsAerRACeiogAA8ycehvY2cTLd6nvYamawBQVr2Qjvn',
+    id: 422,
+    name: 'Broxie #422',
     attributes: [
       {
         trait_type: 'back',
@@ -19456,10 +21988,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSBsAerRACeiogAA8ycehvY2cTLd6nvYamawBQVr2Qjvn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXRPJ9bu1VBzqo3JBYMpBADRyjywWCWW14By5UPWrbdFa',
+    address:
+      '0:074ad8a5a99e7f7db6b64608d6175901cb348770fd7bbb874bb7922000147a8e',
   },
   {
-    previewUrl: 'QmYxVhduSbCUazWHyvnxUmF6YaQMY8wfpEJ5X6gHQhZ8vH',
-    ipfsUrl: 'QmRMRVAWSn6JjirZKaEiwjDnjQZS8RuEj8CNWYx48HPwVD',
+    id: 423,
+    name: 'Broxie #423',
     attributes: [
       {
         trait_type: 'back',
@@ -19502,10 +22040,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRMRVAWSn6JjirZKaEiwjDnjQZS8RuEj8CNWYx48HPwVD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYxVhduSbCUazWHyvnxUmF6YaQMY8wfpEJ5X6gHQhZ8vH',
+    address:
+      '0:c32892ee78f466d68114db98f32fa3761a4b4c78cd92f4257369ec747a3d838d',
   },
   {
-    previewUrl: 'QmYxPic9nR8xeLwkcDRQbF6V8G1nvFHHdBKeZvQdB4yKQn',
-    ipfsUrl: 'QmRKSkdJ6cLWhu7zZDBqDJjTiNTv4EJRtvF2XsdLM3dvig',
+    id: 424,
+    name: 'Broxie #424',
     attributes: [
       {
         trait_type: 'back',
@@ -19548,10 +22092,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRKSkdJ6cLWhu7zZDBqDJjTiNTv4EJRtvF2XsdLM3dvig',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYxPic9nR8xeLwkcDRQbF6V8G1nvFHHdBKeZvQdB4yKQn',
+    address:
+      '0:3c8a4ce90b75a0d7ed96218c7b450d266a15ac48700151f2d029096ed828160e',
   },
   {
-    previewUrl: 'QmUfdtV59GTLZxdiC8w2LhfbPYUTGQBDrSTVGF2VKgDoy2',
-    ipfsUrl: 'QmUPXuAs53vP4MA8Jj7tECtLRdcunfnV9Ygbb1PfHKNWyM',
+    id: 425,
+    name: 'Broxie #425',
     attributes: [
       {
         trait_type: 'back',
@@ -19594,10 +22144,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUPXuAs53vP4MA8Jj7tECtLRdcunfnV9Ygbb1PfHKNWyM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUfdtV59GTLZxdiC8w2LhfbPYUTGQBDrSTVGF2VKgDoy2',
+    address:
+      '0:20875a4da3e8b14011536773be2b0485152ecfc6af16a4b167a527d982f10efb',
   },
   {
-    previewUrl: 'QmerdAiNYCzs5sJuMvJRTxom8tnGKaScnDHzbEMoJveqxy',
-    ipfsUrl: 'QmadWgDqywiCzkJLEkZJAZcz4YwT17FATidUKFbF1jA8Go',
+    id: 426,
+    name: 'Broxie #426',
     attributes: [
       {
         trait_type: 'back',
@@ -19640,10 +22196,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmadWgDqywiCzkJLEkZJAZcz4YwT17FATidUKFbF1jA8Go',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmerdAiNYCzs5sJuMvJRTxom8tnGKaScnDHzbEMoJveqxy',
+    address:
+      '0:b4ee59b8d65745849a3426e073d83cedd39b1d0776dc06eb9c353ab82c86d26c',
   },
   {
-    previewUrl: 'QmVvJS2tsWAytFFvEx4oCqtjkD6tUF7yuwwFpSJoxCcztb',
-    ipfsUrl: 'QmYY76Wsp82QX7XM2cSyMRo91DqqDgLSVeq36gLWtFb2MT',
+    id: 427,
+    name: 'Broxie #427',
     attributes: [
       {
         trait_type: 'back',
@@ -19686,10 +22248,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYY76Wsp82QX7XM2cSyMRo91DqqDgLSVeq36gLWtFb2MT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVvJS2tsWAytFFvEx4oCqtjkD6tUF7yuwwFpSJoxCcztb',
+    address:
+      '0:f628ca275a5d59153760a894bda356db8c04a5ad7bbcf10dcb649f74651154c5',
   },
   {
-    previewUrl: 'QmeSKKHKLCqNELNE9wW6oqjeYp4FRZ6nL58BiTJ5vEC6Zz',
-    ipfsUrl: 'QmR9BKi1PjJJdmYKqhXwsTjxeF15AZx3bHKL4gSJzNzmhH',
+    id: 428,
+    name: 'Broxie #428',
     attributes: [
       {
         trait_type: 'back',
@@ -19732,10 +22300,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR9BKi1PjJJdmYKqhXwsTjxeF15AZx3bHKL4gSJzNzmhH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeSKKHKLCqNELNE9wW6oqjeYp4FRZ6nL58BiTJ5vEC6Zz',
+    address:
+      '0:c97bf720b18f432937b83b60f116553cbfd03246ca17a61ac8d1f093a3813241',
   },
   {
-    previewUrl: 'QmNgiVqqJ7NiyPmdHXcM2vignczeKyixQvmLcWRTyfSbRM',
-    ipfsUrl: 'Qmeedbg1mwne1E4TV3FTscVaegbSW1D2GfdqSz1Bb1JGQr',
+    id: 429,
+    name: 'Broxie #429',
     attributes: [
       {
         trait_type: 'back',
@@ -19778,10 +22352,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmeedbg1mwne1E4TV3FTscVaegbSW1D2GfdqSz1Bb1JGQr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNgiVqqJ7NiyPmdHXcM2vignczeKyixQvmLcWRTyfSbRM',
+    address:
+      '0:d0964f64841ff36f3b1dfa1a4c451e28a26294e809e96c2a978c63a74fe0bdf8',
   },
   {
-    previewUrl: 'QmP826DVfs2CQckZeNh3rv8WQS54Ry2b1qagwrJiB5P83W',
-    ipfsUrl: 'QmacLGJe17kaircNqZZfYTXt6A4F6mW4G3Ln15zxRK3VP8',
+    id: 430,
+    name: 'Broxie #430',
     attributes: [
       {
         trait_type: 'back',
@@ -19824,10 +22404,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmacLGJe17kaircNqZZfYTXt6A4F6mW4G3Ln15zxRK3VP8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmP826DVfs2CQckZeNh3rv8WQS54Ry2b1qagwrJiB5P83W',
+    address:
+      '0:41f1dc0c9beaefd395940e935c05776bf10473e97b1a2db3cbd8c79048445d9d',
   },
   {
-    previewUrl: 'QmWsjYAdk6gqAKV4nRKxqXyYKUPF3vzQ3gcfpovJBNjDUM',
-    ipfsUrl: 'QmSeKfggJLcANrecjw51pCRq7SQqbWgm9vpatPfkaF7nRb',
+    id: 431,
+    name: 'Broxie #431',
     attributes: [
       {
         trait_type: 'back',
@@ -19870,10 +22456,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSeKfggJLcANrecjw51pCRq7SQqbWgm9vpatPfkaF7nRb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWsjYAdk6gqAKV4nRKxqXyYKUPF3vzQ3gcfpovJBNjDUM',
+    address:
+      '0:dfb5a99aeb4556319e7070f53fa2bca8495279900bbab0aa379aaf917483698b',
   },
   {
-    previewUrl: 'QmVWFsz1oJb5b2usnL35NPgE7ZhfQntw5QbxAdiYaPmdDD',
-    ipfsUrl: 'QmfAZp4gM74GhP4ca3VMgZbSqhQ2gNCrcC1tqua4a7jhgJ',
+    id: 432,
+    name: 'Broxie #432',
     attributes: [
       {
         trait_type: 'back',
@@ -19916,10 +22508,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfAZp4gM74GhP4ca3VMgZbSqhQ2gNCrcC1tqua4a7jhgJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVWFsz1oJb5b2usnL35NPgE7ZhfQntw5QbxAdiYaPmdDD',
+    address:
+      '0:cecfb130e41ae98b91979126b2204d52a70e83b0531b444cead99935f9f39c4b',
   },
   {
-    previewUrl: 'Qmdtznd3HQJixDmPdvhZedk6wsWC3nDUCW17MUMAMA4bcF',
-    ipfsUrl: 'QmX2ZyWxefcCCaPaXssTXeWkKL1JqvCoRvyzjGiwyZ1i8s',
+    id: 433,
+    name: 'Broxie #433',
     attributes: [
       {
         trait_type: 'back',
@@ -19962,10 +22560,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX2ZyWxefcCCaPaXssTXeWkKL1JqvCoRvyzjGiwyZ1i8s',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdtznd3HQJixDmPdvhZedk6wsWC3nDUCW17MUMAMA4bcF',
+    address:
+      '0:e80f350fef7e6edc5c07599fc88b42047ddcf297589b72d5bf045162687666c5',
   },
   {
-    previewUrl: 'QmdwmFfFNNeGYKFY5HhGkpeqJWD9WQrzfyT2R8DsV281tn',
-    ipfsUrl: 'QmQxhnFzXAnnVEd1j7m6cMHrZ426vgebkNrVhDXErsUQV3',
+    id: 434,
+    name: 'Broxie #434',
     attributes: [
       {
         trait_type: 'back',
@@ -20008,10 +22612,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQxhnFzXAnnVEd1j7m6cMHrZ426vgebkNrVhDXErsUQV3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdwmFfFNNeGYKFY5HhGkpeqJWD9WQrzfyT2R8DsV281tn',
+    address:
+      '0:b0364cf208fe2e1f9606a426100d123326e73109e042555b2b7db133cfb72277',
   },
   {
-    previewUrl: 'QmaSfL1fJVfgS44FpUaVd53UHWDvzEEmobn71nAb8QXLsg',
-    ipfsUrl: 'QmP1fXWFAq7YuGt2cnATavroXMYFc8EyPwsmKiynsSUFJU',
+    id: 435,
+    name: 'Broxie #435',
     attributes: [
       {
         trait_type: 'back',
@@ -20054,10 +22664,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmP1fXWFAq7YuGt2cnATavroXMYFc8EyPwsmKiynsSUFJU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaSfL1fJVfgS44FpUaVd53UHWDvzEEmobn71nAb8QXLsg',
+    address:
+      '0:2a089bfa3336be0f7608e161adc5402d37907707f2106f4276f6f703ec73693d',
   },
   {
-    previewUrl: 'QmPBz5EidbKs5t9YooxCiy5hY6igoAqWpfZ7XBA8M3tUFc',
-    ipfsUrl: 'QmWxu5trCGimXY1nRJrddFvVkVyWtPYKeiq5JzfrCmNtaP',
+    id: 436,
+    name: 'Broxie #436',
     attributes: [
       {
         trait_type: 'back',
@@ -20100,10 +22716,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWxu5trCGimXY1nRJrddFvVkVyWtPYKeiq5JzfrCmNtaP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPBz5EidbKs5t9YooxCiy5hY6igoAqWpfZ7XBA8M3tUFc',
+    address:
+      '0:224ef275dc649a02355d85c3696a2b13a4be57f3db7e27302363afbcb0782a76',
   },
   {
-    previewUrl: 'QmUQXBonKWEfyp52eLACZeX23RRZqf2qfv3BTuFeoVC5DP',
-    ipfsUrl: 'QmbiJPXFGV2qFdjU9tDSMmi2F3TYVhr8Zwk187bUisoh66',
+    id: 437,
+    name: 'Broxie #437',
     attributes: [
       {
         trait_type: 'back',
@@ -20146,10 +22768,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbiJPXFGV2qFdjU9tDSMmi2F3TYVhr8Zwk187bUisoh66',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUQXBonKWEfyp52eLACZeX23RRZqf2qfv3BTuFeoVC5DP',
+    address:
+      '0:4e832ce41aa56ce93a41f88f1bdc8799ea043c0852afeb90fbac294d938ee3fe',
   },
   {
-    previewUrl: 'QmZ1ToBX7q5UeuEezPo1KnJkmReCCK6X6uVhBAmAwD5prN',
-    ipfsUrl: 'QmPrPoZPuU4bKJPr2AneKLEBVLYrmXGoZbFp7VJkoUpSZg',
+    id: 438,
+    name: 'Broxie #438',
     attributes: [
       {
         trait_type: 'back',
@@ -20192,10 +22820,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPrPoZPuU4bKJPr2AneKLEBVLYrmXGoZbFp7VJkoUpSZg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ1ToBX7q5UeuEezPo1KnJkmReCCK6X6uVhBAmAwD5prN',
+    address:
+      '0:4185709102a6d6cac2061c98be65d4b719c74e6c19b8fbe455381b1e2176cfa6',
   },
   {
-    previewUrl: 'QmTJCK2FCRWoh4575uKRS5bLn27DGFR9BnC7zEUBtt6dbb',
-    ipfsUrl: 'QmQXPXqaKawBUTNyu4YwnZEzUvyR6PNJKC5tT4L5nhHAfQ',
+    id: 439,
+    name: 'Broxie #439',
     attributes: [
       {
         trait_type: 'back',
@@ -20238,10 +22872,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQXPXqaKawBUTNyu4YwnZEzUvyR6PNJKC5tT4L5nhHAfQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTJCK2FCRWoh4575uKRS5bLn27DGFR9BnC7zEUBtt6dbb',
+    address:
+      '0:2788c12061f4c718b0aabcba91ff03417656b6a0687847eabee9b2a1612fcc10',
   },
   {
-    previewUrl: 'QmRdpGPoP62fiK4MNKsBh1oR36jBWWAP7WbDzij43aUNJn',
-    ipfsUrl: 'QmPxoCZ7eNmuZuaKtFXcPAGuTezYHdXSePDULEnu4K1Asi',
+    id: 440,
+    name: 'Broxie #440',
     attributes: [
       {
         trait_type: 'back',
@@ -20284,10 +22924,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPxoCZ7eNmuZuaKtFXcPAGuTezYHdXSePDULEnu4K1Asi',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRdpGPoP62fiK4MNKsBh1oR36jBWWAP7WbDzij43aUNJn',
+    address:
+      '0:0dadbe971c4fae9354914c26dc605c4c1a815053a83f5821dba99ec7d95dd4d7',
   },
   {
-    previewUrl: 'QmawjFayNBLd61z3dL7YMnym1b2Nb7ERBmGBXLFC7qBwNf',
-    ipfsUrl: 'QmSZtCWmVDzXzB8c9sU7GVAN5VGKaBmUNmRRPg8yAoemMw',
+    id: 441,
+    name: 'Broxie #441',
     attributes: [
       {
         trait_type: 'back',
@@ -20330,10 +22976,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSZtCWmVDzXzB8c9sU7GVAN5VGKaBmUNmRRPg8yAoemMw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmawjFayNBLd61z3dL7YMnym1b2Nb7ERBmGBXLFC7qBwNf',
+    address:
+      '0:ff68cd70ccc5976bf09d82a31b835e050e224160faf3c99880bfd5be87d411f5',
   },
   {
-    previewUrl: 'QmRGpuEHfvwoVxPkMJtxCBmiTB4u2cP7KhYXrbu7D2ZcYX',
-    ipfsUrl: 'QmXxXxhGS9zE5zkYM1UgGGiCvSBcop15mvowfQpCGc6shC',
+    id: 442,
+    name: 'Broxie #442',
     attributes: [
       {
         trait_type: 'back',
@@ -20376,10 +23028,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXxXxhGS9zE5zkYM1UgGGiCvSBcop15mvowfQpCGc6shC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRGpuEHfvwoVxPkMJtxCBmiTB4u2cP7KhYXrbu7D2ZcYX',
+    address:
+      '0:113cd0668a469a1d7a064620d4175b0985286e6eb5b1d1aed7d8b233c8c56873',
   },
   {
-    previewUrl: 'Qmcw4t28U2yA5moJabPU4MfiquJn2i8ECRGZxXWgdTTPU5',
-    ipfsUrl: 'QmSa1G77FT7WHNp2VnMA8jARBJUTqwL1wSHwncQ31vSsVx',
+    id: 443,
+    name: 'Broxie #443',
     attributes: [
       {
         trait_type: 'back',
@@ -20422,10 +23080,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSa1G77FT7WHNp2VnMA8jARBJUTqwL1wSHwncQ31vSsVx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcw4t28U2yA5moJabPU4MfiquJn2i8ECRGZxXWgdTTPU5',
+    address:
+      '0:6ba7aa3bcaa6173529c9e183b2005b8c228524a2e279397999477933e263b6a4',
   },
   {
-    previewUrl: 'QmQPFU8jjfV3qiVyyN1JwFFQ7it2nbDGCh8WrRAN6SjYid',
-    ipfsUrl: 'QmSUfB5vryW5x2zd4ADpFAQx3nXXAN9MZUbjjYX8987qTg',
+    id: 444,
+    name: 'Broxie #444',
     attributes: [
       {
         trait_type: 'back',
@@ -20468,10 +23132,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSUfB5vryW5x2zd4ADpFAQx3nXXAN9MZUbjjYX8987qTg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQPFU8jjfV3qiVyyN1JwFFQ7it2nbDGCh8WrRAN6SjYid',
+    address:
+      '0:70e65d26ca85940666872b33ef33a3320cfa7684c5b3db06be54cb4e715447b3',
   },
   {
-    previewUrl: 'QmQZUqr3wiYshQTsn8BcuH1XCH4KmE8Yc7YQ4CNXj1Gzpi',
-    ipfsUrl: 'QmTcNVegXPw8Uc7WEAAWmv2Egf9jJ5Nx5SPMsmNiT9kH8L',
+    id: 445,
+    name: 'Broxie #445',
     attributes: [
       {
         trait_type: 'back',
@@ -20514,10 +23184,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTcNVegXPw8Uc7WEAAWmv2Egf9jJ5Nx5SPMsmNiT9kH8L',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQZUqr3wiYshQTsn8BcuH1XCH4KmE8Yc7YQ4CNXj1Gzpi',
+    address:
+      '0:f084e320011159f4126c8162eea8b4e63c35943a77c78a3c2ddc85488ad79a3a',
   },
   {
-    previewUrl: 'QmPAZXxJ3uaBnF3TKbd8NQPpNRHUspixANNjsVrnnd91ze',
-    ipfsUrl: 'QmcFnibqLYYyN8xsegpKuthNHTJiV3RgZpV3Fi21CYApYp',
+    id: 446,
+    name: 'Broxie #446',
     attributes: [
       {
         trait_type: 'back',
@@ -20560,10 +23236,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcFnibqLYYyN8xsegpKuthNHTJiV3RgZpV3Fi21CYApYp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPAZXxJ3uaBnF3TKbd8NQPpNRHUspixANNjsVrnnd91ze',
+    address:
+      '0:cab0de06001df90d64197b483da0e67589e4ec4be465ee9aeacedb130c271a54',
   },
   {
-    previewUrl: 'QmXN2BD1tTT12FKEyoAN6cyGnxeSVdCRtrKvJzJ5bawgYW',
-    ipfsUrl: 'QmVvcyKj1JZCm387jZCDdk4pChcGbEeTogu2asxZV78N9A',
+    id: 447,
+    name: 'Broxie #447',
     attributes: [
       {
         trait_type: 'back',
@@ -20606,10 +23288,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVvcyKj1JZCm387jZCDdk4pChcGbEeTogu2asxZV78N9A',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXN2BD1tTT12FKEyoAN6cyGnxeSVdCRtrKvJzJ5bawgYW',
+    address:
+      '0:b3b67b463fbedaaaf02fd8611262880ee20ad3e8d205f07be7a138edb5e7b852',
   },
   {
-    previewUrl: 'QmeFD9dLuN5ztgst4Pnc21dNrf2mjZuVFTfsSibfCPwCYr',
-    ipfsUrl: 'QmVKMctnz374KeEAMMBNuE3myfq8rjjyZF6rJXrAB2wkwv',
+    id: 448,
+    name: 'Broxie #448',
     attributes: [
       {
         trait_type: 'back',
@@ -20652,10 +23340,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVKMctnz374KeEAMMBNuE3myfq8rjjyZF6rJXrAB2wkwv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeFD9dLuN5ztgst4Pnc21dNrf2mjZuVFTfsSibfCPwCYr',
+    address:
+      '0:50ae5cac483b6f690b59413351373390e506644b0e132ff855d09b1a301fb287',
   },
   {
-    previewUrl: 'QmYxDRBxJsnK4SQq5wMhTKHjpUXyZyo68r82gLLe9HmYmd',
-    ipfsUrl: 'QmRAZfMJGNTJWD47BKMTgGPTCeVd51TrRT9Mjfv4D38D46',
+    id: 449,
+    name: 'Broxie #449',
     attributes: [
       {
         trait_type: 'back',
@@ -20698,10 +23392,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRAZfMJGNTJWD47BKMTgGPTCeVd51TrRT9Mjfv4D38D46',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYxDRBxJsnK4SQq5wMhTKHjpUXyZyo68r82gLLe9HmYmd',
+    address:
+      '0:f4d92f5ec91f3197e889555355478bcd6b8598485750b54b4c950ec74076476a',
   },
   {
-    previewUrl: 'QmcrrG3swC8mgd6zPuJYjBEKrGY1pvH9387LNvctQtqcSn',
-    ipfsUrl: 'QmPDNhgewcgewPXdHJ6yyUP3e9J1jWFoLZ6LayevgUyXdS',
+    id: 450,
+    name: 'Broxie #450',
     attributes: [
       {
         trait_type: 'back',
@@ -20744,10 +23444,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPDNhgewcgewPXdHJ6yyUP3e9J1jWFoLZ6LayevgUyXdS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcrrG3swC8mgd6zPuJYjBEKrGY1pvH9387LNvctQtqcSn',
+    address:
+      '0:54c40e88020113c85afaee209421cefd21afbb3d3402711658c8653d473f5f5e',
   },
   {
-    previewUrl: 'QmVu5KjWcyHWdnu7tUZqDUmRuaGxUUd2UQjbVo1tXScxcj',
-    ipfsUrl: 'QmPEWvEbiyPtKQWTr3pfYN8b8U8jCnRkJoxxNjbjXi6yG8',
+    id: 451,
+    name: 'Broxie #451',
     attributes: [
       {
         trait_type: 'back',
@@ -20790,10 +23496,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPEWvEbiyPtKQWTr3pfYN8b8U8jCnRkJoxxNjbjXi6yG8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVu5KjWcyHWdnu7tUZqDUmRuaGxUUd2UQjbVo1tXScxcj',
+    address:
+      '0:a18e99d0b8897713b238069b681ffe85f9164aec84fc67b990df9acd1d910e4e',
   },
   {
-    previewUrl: 'QmaFBbtSzLqxus7bJ2DCeoGNe51C3hwKXjyeU6hPJFAEAQ',
-    ipfsUrl: 'QmQhvcbjYRSzgxGzhXNbdApFcRjjezc83GgnbQpwPffjSM',
+    id: 452,
+    name: 'Broxie #452',
     attributes: [
       {
         trait_type: 'back',
@@ -20836,10 +23548,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQhvcbjYRSzgxGzhXNbdApFcRjjezc83GgnbQpwPffjSM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaFBbtSzLqxus7bJ2DCeoGNe51C3hwKXjyeU6hPJFAEAQ',
+    address:
+      '0:f9b2e6adf2f316f4659322433315e1227fc638f443bf6a3d45506af3f29327e5',
   },
   {
-    previewUrl: 'QmYEm8Gw5j17VzS55n9NZuT4JPzEea9Z7zaXQjrHpfw8Ku',
-    ipfsUrl: 'QmfHw9uhamB1HzyHLsnuGaG5KWjWsSnF32u4HRHnk8XPTB',
+    id: 453,
+    name: 'Broxie #453',
     attributes: [
       {
         trait_type: 'back',
@@ -20882,10 +23600,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfHw9uhamB1HzyHLsnuGaG5KWjWsSnF32u4HRHnk8XPTB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYEm8Gw5j17VzS55n9NZuT4JPzEea9Z7zaXQjrHpfw8Ku',
+    address:
+      '0:65f86572bf790690c1ea65ea70d1c890fe55cb84502dbd80e5ba3a43b7945555',
   },
   {
-    previewUrl: 'QmNgCJTLEYP6HA9tLrLuD656jMLhJXBdHY8T7SKVCaXwwN',
-    ipfsUrl: 'QmbgP8kc8sXkWqZ31r58TAkvzHHEHUYRnADctkAqLz4Ewx',
+    id: 454,
+    name: 'Broxie #454',
     attributes: [
       {
         trait_type: 'back',
@@ -20928,10 +23652,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbgP8kc8sXkWqZ31r58TAkvzHHEHUYRnADctkAqLz4Ewx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNgCJTLEYP6HA9tLrLuD656jMLhJXBdHY8T7SKVCaXwwN',
+    address:
+      '0:ccf9c2612c1e875ed863e9307e81dc119581d260ad9351302693355bdc0a26e4',
   },
   {
-    previewUrl: 'QmY7cPdKb8qQoH3qs3wuZEtznk3omHJzLJzu9fvoQG7z6P',
-    ipfsUrl: 'QmanSUCDPvZZFEpJyzWu27LbjDrjXrX8MTrhfu5j3nLYfr',
+    id: 455,
+    name: 'Broxie #455',
     attributes: [
       {
         trait_type: 'back',
@@ -20974,10 +23704,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmanSUCDPvZZFEpJyzWu27LbjDrjXrX8MTrhfu5j3nLYfr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmY7cPdKb8qQoH3qs3wuZEtznk3omHJzLJzu9fvoQG7z6P',
+    address:
+      '0:1692c5c6c8665843d46cc68dd1921480969613c83927480766a0ad0cdf8d8348',
   },
   {
-    previewUrl: 'QmUMtrAcoW4Zn2vcVS9gzgz74pa9cK13DN5RC7KYbNf2se',
-    ipfsUrl: 'QmVAfd9DrZYdaVkz2asZN1aWAGT18892rUKp4KgfGbiKcX',
+    id: 456,
+    name: 'Broxie #456',
     attributes: [
       {
         trait_type: 'back',
@@ -21020,10 +23756,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVAfd9DrZYdaVkz2asZN1aWAGT18892rUKp4KgfGbiKcX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUMtrAcoW4Zn2vcVS9gzgz74pa9cK13DN5RC7KYbNf2se',
+    address:
+      '0:7b7f4ef8aa893a0257f856838583e6b45244c8f8e4c4f30c19bd2c052d187c90',
   },
   {
-    previewUrl: 'QmTfTz7Nifj8S1LkuubpmwU6CBCf7YSXNhAmASEoRaaUgT',
-    ipfsUrl: 'QmUTqaev8p5KEotWhiZjBydmT5yV2Hf17gMh44RcSxu7PT',
+    id: 457,
+    name: 'Broxie #457',
     attributes: [
       {
         trait_type: 'back',
@@ -21066,10 +23808,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUTqaev8p5KEotWhiZjBydmT5yV2Hf17gMh44RcSxu7PT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTfTz7Nifj8S1LkuubpmwU6CBCf7YSXNhAmASEoRaaUgT',
+    address:
+      '0:6343fe6082c1462ddd9dc04ca628ea9e23fa0880991a56a124a67cddbc6a8cee',
   },
   {
-    previewUrl: 'QmbGipvqGNMnrCH35UtZTUXSnEQfFkjRbVQBFRBwT8WHjE',
-    ipfsUrl: 'QmVgmVqyabAuR9oaE1LYHhLeDze2zQvryoSLorsTzFoXv4',
+    id: 458,
+    name: 'Broxie #458',
     attributes: [
       {
         trait_type: 'back',
@@ -21112,10 +23860,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVgmVqyabAuR9oaE1LYHhLeDze2zQvryoSLorsTzFoXv4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbGipvqGNMnrCH35UtZTUXSnEQfFkjRbVQBFRBwT8WHjE',
+    address:
+      '0:b2c94b64ecff2c1c19fb0138936478d76dcb7f02c5bf2d7aa59f4e16ad887f70',
   },
   {
-    previewUrl: 'QmViriQ93TjLr4bVjg4qjTwhSgjEywzZ8tKDNXPa5idn4w',
-    ipfsUrl: 'QmXVisTPD3ekbQnsGtzTfNayFapPLrkPsSNr2zpg9QDV82',
+    id: 459,
+    name: 'Broxie #459',
     attributes: [
       {
         trait_type: 'back',
@@ -21158,10 +23912,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXVisTPD3ekbQnsGtzTfNayFapPLrkPsSNr2zpg9QDV82',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmViriQ93TjLr4bVjg4qjTwhSgjEywzZ8tKDNXPa5idn4w',
+    address:
+      '0:8e5628bf4d511ee2c5269b9eb0fc9e06ff69988367576cc44fe4c8a66a41c2e4',
   },
   {
-    previewUrl: 'QmbZseLiGX51DDi5aUiF6tTxaHxxUHiM92DJRcMbVUfu79',
-    ipfsUrl: 'QmfU6q9QztHjiZchLoGno9JgxRPDma3D6t7vntj2q4rnJM',
+    id: 460,
+    name: 'Broxie #460',
     attributes: [
       {
         trait_type: 'back',
@@ -21204,10 +23964,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfU6q9QztHjiZchLoGno9JgxRPDma3D6t7vntj2q4rnJM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbZseLiGX51DDi5aUiF6tTxaHxxUHiM92DJRcMbVUfu79',
+    address:
+      '0:fd9b21c9269003bf3dbb98266d844f9cdf91771f5c2e441fc40508df262e3053',
   },
   {
-    previewUrl: 'QmearrATykb64DGY9zvsoUMkWAC6cRdGi9peG6gjT9ti42',
-    ipfsUrl: 'QmdxSJZoEb2HbgP9xm6diaNHa1WACKK2eki17PJW3SoyEC',
+    id: 461,
+    name: 'Broxie #461',
     attributes: [
       {
         trait_type: 'back',
@@ -21250,10 +24016,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdxSJZoEb2HbgP9xm6diaNHa1WACKK2eki17PJW3SoyEC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmearrATykb64DGY9zvsoUMkWAC6cRdGi9peG6gjT9ti42',
+    address:
+      '0:54456d4f539a104d480fa56df69e84d7f3d01815bf27922c5e700aa9ad418efd',
   },
   {
-    previewUrl: 'QmUYd8gE7aztQJXyvUXphN81C2LZhKuYTAkZFTTGkHdsvC',
-    ipfsUrl: 'QmPPAG3CMNs3pMS34uUVUYvMbEr1qfNkbrN42fAVRxsEWJ',
+    id: 462,
+    name: 'Broxie #462',
     attributes: [
       {
         trait_type: 'back',
@@ -21296,10 +24068,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPPAG3CMNs3pMS34uUVUYvMbEr1qfNkbrN42fAVRxsEWJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUYd8gE7aztQJXyvUXphN81C2LZhKuYTAkZFTTGkHdsvC',
+    address:
+      '0:0a8d75dd213a800509638d6ea65b5af95c08259fbc66982f83576acdf28a9576',
   },
   {
-    previewUrl: 'QmWGvCugsScBxB8SpjY7F1kFpZkoj3RBhNHmqnXcNdFLtU',
-    ipfsUrl: 'QmTXPMaYruPxbW3HHZorBUKd2oNbryaPNKgnox1RMPNJvU',
+    id: 463,
+    name: 'Broxie #463',
     attributes: [
       {
         trait_type: 'back',
@@ -21342,10 +24120,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTXPMaYruPxbW3HHZorBUKd2oNbryaPNKgnox1RMPNJvU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWGvCugsScBxB8SpjY7F1kFpZkoj3RBhNHmqnXcNdFLtU',
+    address:
+      '0:e5fc5790410e6c976e64730ba08732c31ced739c98368410a6054551bfd37ff3',
   },
   {
-    previewUrl: 'QmSUuomZg71oUH63tprhR2UuH9ChsL1vsd19cphxEWPNZZ',
-    ipfsUrl: 'QmV37T6Tp5f3x3fBn4A7gpaPHEnGPLUwje5Uhs1iqkdSgq',
+    id: 464,
+    name: 'Broxie #464',
     attributes: [
       {
         trait_type: 'back',
@@ -21388,10 +24172,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV37T6Tp5f3x3fBn4A7gpaPHEnGPLUwje5Uhs1iqkdSgq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSUuomZg71oUH63tprhR2UuH9ChsL1vsd19cphxEWPNZZ',
+    address:
+      '0:55b83a0ae1f7a6d0b32a8578e32b692a15b9c8410d2beb01ebba1891405b442f',
   },
   {
-    previewUrl: 'QmWMy6iAgCmgYsbo3AHaVkcAreiQfuaneA9QuFCSVn2uuH',
-    ipfsUrl: 'QmUVUtMjsNUtMYRYZEKXnmN2qr4wAn3ihqa1hvYJQ1eheD',
+    id: 465,
+    name: 'Broxie #465',
     attributes: [
       {
         trait_type: 'back',
@@ -21434,10 +24224,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUVUtMjsNUtMYRYZEKXnmN2qr4wAn3ihqa1hvYJQ1eheD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWMy6iAgCmgYsbo3AHaVkcAreiQfuaneA9QuFCSVn2uuH',
+    address:
+      '0:113e35ba021aaded9b384a3fad9fa3ef36f097d16c432698950a7c0509fcd2f1',
   },
   {
-    previewUrl: 'QmZuUCfyvHu1JP9wUYSxzYcmhT9uVwEjUyQTnojEXQrceu',
-    ipfsUrl: 'QmPNe9SsQzdd6f2KHesmW89tQdppYFySK4VeXhmwW26kCf',
+    id: 466,
+    name: 'Broxie #466',
     attributes: [
       {
         trait_type: 'back',
@@ -21480,10 +24276,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPNe9SsQzdd6f2KHesmW89tQdppYFySK4VeXhmwW26kCf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZuUCfyvHu1JP9wUYSxzYcmhT9uVwEjUyQTnojEXQrceu',
+    address:
+      '0:c67cd1d54fac1a92b343dabdb6d4e452da2fb70590ac80b9d451cc7bbe104f83',
   },
   {
-    previewUrl: 'QmUcBdbPLKvFebeevkvsSCa4MxxdTZrN3twW2RqyQdmx7y',
-    ipfsUrl: 'QmXVzZzmzePhT4sat6EXxGXubvVwjJ1Gsha9KVCe5KNiPe',
+    id: 467,
+    name: 'Broxie #467',
     attributes: [
       {
         trait_type: 'back',
@@ -21526,10 +24328,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXVzZzmzePhT4sat6EXxGXubvVwjJ1Gsha9KVCe5KNiPe',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUcBdbPLKvFebeevkvsSCa4MxxdTZrN3twW2RqyQdmx7y',
+    address:
+      '0:8318f1d44f40fba46c6eb39aa4f437f6ad9b6e341c7a7b209bfe688358e4c87c',
   },
   {
-    previewUrl: 'QmQMCeR2mz9xeM1KHT5UheUcgCAkB16WAafD6eoU21kxaj',
-    ipfsUrl: 'QmUdVRqc6pfgbyYUhB9TZ7BsE2xvLPMkZUJbu8WjCSk67h',
+    id: 468,
+    name: 'Broxie #468',
     attributes: [
       {
         trait_type: 'back',
@@ -21572,10 +24380,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUdVRqc6pfgbyYUhB9TZ7BsE2xvLPMkZUJbu8WjCSk67h',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQMCeR2mz9xeM1KHT5UheUcgCAkB16WAafD6eoU21kxaj',
+    address:
+      '0:60c5d688c9ba3a77385f7a21f7993a7f61ec827673a80867b8bb40f5cfc9c223',
   },
   {
-    previewUrl: 'QmesmyJRaa1mKHG5AQbmRXYoYHscm1TGZyCD5hnWomGyt9',
-    ipfsUrl: 'QmUf82Yk2Y81JkTfDh7oxpLLUVwT6UW2JoPJiLKia8F985',
+    id: 469,
+    name: 'Broxie #469',
     attributes: [
       {
         trait_type: 'back',
@@ -21618,10 +24432,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUf82Yk2Y81JkTfDh7oxpLLUVwT6UW2JoPJiLKia8F985',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmesmyJRaa1mKHG5AQbmRXYoYHscm1TGZyCD5hnWomGyt9',
+    address:
+      '0:1b65b96919e7ceaa0a152c5ed0f6db5964010e9d5a2b8cde0d4bcaf6a8cc60fc',
   },
   {
-    previewUrl: 'QmU75BF1hxBXop6HEkYgM4FEW4Rq5bQtU3cz8v8kifPEoh',
-    ipfsUrl: 'QmSWaXgrThBqbA1M7kehseRwm6LoV2JCsKMXaS23dAfobf',
+    id: 470,
+    name: 'Broxie #470',
     attributes: [
       {
         trait_type: 'back',
@@ -21664,10 +24484,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSWaXgrThBqbA1M7kehseRwm6LoV2JCsKMXaS23dAfobf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU75BF1hxBXop6HEkYgM4FEW4Rq5bQtU3cz8v8kifPEoh',
+    address:
+      '0:fd8399a703c209304344332b97c33cac987e87c45ef93b18c0d4015840643510',
   },
   {
-    previewUrl: 'QmQ4etBo2b8fYxext1XgQX9haPpWYxkQmUTGZ3j1B5EYfH',
-    ipfsUrl: 'QmZ3BejhuXVf245a21TdWVATmQ5WjZgpcKu9w8DabNYcPS',
+    id: 471,
+    name: 'Broxie #471',
     attributes: [
       {
         trait_type: 'back',
@@ -21710,10 +24536,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ3BejhuXVf245a21TdWVATmQ5WjZgpcKu9w8DabNYcPS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ4etBo2b8fYxext1XgQX9haPpWYxkQmUTGZ3j1B5EYfH',
+    address:
+      '0:13aba17d2ad5188123569f94892dd549ac332440c91fff608169252763a64268',
   },
   {
-    previewUrl: 'QmPyNPKhWBg1fuz7Rz4xPMbcZ4VeApTDQbazDFyzUumtqZ',
-    ipfsUrl: 'QmevgF21pS68ik8QD3XfZXgbs2rrszVmHCj7jLPurz7Aek',
+    id: 472,
+    name: 'Broxie #472',
     attributes: [
       {
         trait_type: 'back',
@@ -21756,10 +24588,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmevgF21pS68ik8QD3XfZXgbs2rrszVmHCj7jLPurz7Aek',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPyNPKhWBg1fuz7Rz4xPMbcZ4VeApTDQbazDFyzUumtqZ',
+    address:
+      '0:8bd5dbba2fefafe0240163dc93623fa990c6c63c1a13deec6fdc73fedeb9a34a',
   },
   {
-    previewUrl: 'QmSMJKX2XXt1Le81FoxiZvSYMXRwY4WbWDAJNzbWqcs8Lm',
-    ipfsUrl: 'Qme8DhhYkHRWPm7HqCThhF9qZZM1AP9wGzZFv3vmY4h7iu',
+    id: 473,
+    name: 'Broxie #473',
     attributes: [
       {
         trait_type: 'back',
@@ -21802,10 +24640,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qme8DhhYkHRWPm7HqCThhF9qZZM1AP9wGzZFv3vmY4h7iu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSMJKX2XXt1Le81FoxiZvSYMXRwY4WbWDAJNzbWqcs8Lm',
+    address:
+      '0:ba954b30748b18a16de014907490e360a19bf84f598688b9bdb5da401d36acef',
   },
   {
-    previewUrl: 'QmVYwibrCXSWz5ohzGrk2c6iNkAbTyRadpvNRzruKEYhSX',
-    ipfsUrl: 'QmQT1sVGAvYWhudXFMzgLwpEbsBpffN7YGxVRpa8fP8Sx7',
+    id: 474,
+    name: 'Broxie #474',
     attributes: [
       {
         trait_type: 'back',
@@ -21848,10 +24692,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQT1sVGAvYWhudXFMzgLwpEbsBpffN7YGxVRpa8fP8Sx7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVYwibrCXSWz5ohzGrk2c6iNkAbTyRadpvNRzruKEYhSX',
+    address:
+      '0:c477926fce725706133291ebaa4d6e9ebb165e5079d685d8be955059c7e667c6',
   },
   {
-    previewUrl: 'QmbqmhuLtNp8SG68cPjfiZANngaoxqrFv4xr39GCQKcgs7',
-    ipfsUrl: 'QmefXQpkChz291ki4FW94PzGdGDqQeRKqc7DQyJZJoGS7a',
+    id: 475,
+    name: 'Broxie #475',
     attributes: [
       {
         trait_type: 'back',
@@ -21894,10 +24744,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmefXQpkChz291ki4FW94PzGdGDqQeRKqc7DQyJZJoGS7a',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbqmhuLtNp8SG68cPjfiZANngaoxqrFv4xr39GCQKcgs7',
+    address:
+      '0:ca4550e0a665cf02850d2f049fbe1c6bf7eb49f4b37ecab1ab844b3f88d14d86',
   },
   {
-    previewUrl: 'QmV2Ck2FJnEtefzerYekmfoxYCPt4b5cu3r6u5VXXCAdW7',
-    ipfsUrl: 'QmQKcazigEBE5h8wmQdhrrxzp43UUdK3LiudAMsiivwvyM',
+    id: 476,
+    name: 'Broxie #476',
     attributes: [
       {
         trait_type: 'back',
@@ -21940,10 +24796,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQKcazigEBE5h8wmQdhrrxzp43UUdK3LiudAMsiivwvyM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV2Ck2FJnEtefzerYekmfoxYCPt4b5cu3r6u5VXXCAdW7',
+    address:
+      '0:a93085cb16106d37266694a9b2dbb5bf12bf3c125e058a225b6e715d4ef29d93',
   },
   {
-    previewUrl: 'QmQo4TtrE7eZqvVBQbM8TYPJkT4erjSHTGSE48XXhtLovj',
-    ipfsUrl: 'QmYJXgzczRjJW38tBj62trsHz9E1uUDbsLW1ALHJearePg',
+    id: 477,
+    name: 'Broxie #477',
     attributes: [
       {
         trait_type: 'back',
@@ -21986,10 +24848,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYJXgzczRjJW38tBj62trsHz9E1uUDbsLW1ALHJearePg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQo4TtrE7eZqvVBQbM8TYPJkT4erjSHTGSE48XXhtLovj',
+    address:
+      '0:c337d0d3708706d304b8f71b3226698857f8def179c059a394525eb09587c224',
   },
   {
-    previewUrl: 'QmeUHCAjeCt9uTnkRYECi9oeXk3y8Sn4bSdum87aCyCyB9',
-    ipfsUrl: 'QmUq9ApeNHE9bLHTCWsWHAjtC2Yrd9Z6U6kT9EkSjeKLCt',
+    id: 478,
+    name: 'Broxie #478',
     attributes: [
       {
         trait_type: 'back',
@@ -22032,10 +24900,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUq9ApeNHE9bLHTCWsWHAjtC2Yrd9Z6U6kT9EkSjeKLCt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeUHCAjeCt9uTnkRYECi9oeXk3y8Sn4bSdum87aCyCyB9',
+    address:
+      '0:7098609d9dc4269ae725230f4fe3aca989b8ed792b51d74fba571c3922f96a64',
   },
   {
-    previewUrl: 'QmTojUbsiimAJDxYp54Pn6LWu8NsW5LNBCPLp6jkfK5bqf',
-    ipfsUrl: 'QmR5iNXdFbRe4X59gVhmubTXEjiXQmD7CsKWU4jzSSo4rp',
+    id: 479,
+    name: 'Broxie #479',
     attributes: [
       {
         trait_type: 'back',
@@ -22078,10 +24952,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR5iNXdFbRe4X59gVhmubTXEjiXQmD7CsKWU4jzSSo4rp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTojUbsiimAJDxYp54Pn6LWu8NsW5LNBCPLp6jkfK5bqf',
+    address:
+      '0:48ca6719bfa7b341278b2e1cef54de67f58041a2b878fadf4117358222163358',
   },
   {
-    previewUrl: 'QmZDrBv5iib3tuWqFHmDh4JxV1t7VVHdFZcb5estbBBGHS',
-    ipfsUrl: 'QmcUuEmRFYZJGVT1TiDnQXgMnuks773k6Xiz5gcNnGSPww',
+    id: 480,
+    name: 'Broxie #480',
     attributes: [
       {
         trait_type: 'back',
@@ -22124,10 +25004,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcUuEmRFYZJGVT1TiDnQXgMnuks773k6Xiz5gcNnGSPww',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZDrBv5iib3tuWqFHmDh4JxV1t7VVHdFZcb5estbBBGHS',
+    address:
+      '0:36a39d5b28a87a3133b381294452c3d52f09666535f624a6e734d87b82146d7d',
   },
   {
-    previewUrl: 'QmTMPoLVf7W9fETE1RRYJwt5EH717LqPmEk5JPx6bfJQow',
-    ipfsUrl: 'QmTFsZcBBrwEwU53hhPANE8wekZ3F1haBuFE9sBwVhn52K',
+    id: 481,
+    name: 'Broxie #481',
     attributes: [
       {
         trait_type: 'back',
@@ -22170,10 +25056,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTFsZcBBrwEwU53hhPANE8wekZ3F1haBuFE9sBwVhn52K',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTMPoLVf7W9fETE1RRYJwt5EH717LqPmEk5JPx6bfJQow',
+    address:
+      '0:4696c54fc8f2188f33065c5e8a2afae7bdad4364f6d346a43ea720c29454c797',
   },
   {
-    previewUrl: 'QmSnEavUiXwy34LB2kb9WdCTnt5JYhHaThjJjPRFiF1wSa',
-    ipfsUrl: 'QmfD7TUbZNVBdcCpjXsqNLhJozZJu3e9JBXgGDVZ1WJTzp',
+    id: 482,
+    name: 'Broxie #482',
     attributes: [
       {
         trait_type: 'back',
@@ -22216,10 +25108,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfD7TUbZNVBdcCpjXsqNLhJozZJu3e9JBXgGDVZ1WJTzp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSnEavUiXwy34LB2kb9WdCTnt5JYhHaThjJjPRFiF1wSa',
+    address:
+      '0:9080b36b22e9f9713985998c808640c38a9c6aa4d0cfad9982a565bb8da5a288',
   },
   {
-    previewUrl: 'QmYonsfriFYaZTWMgT4uFXgrbzjJeDQGfFvNG8ZgsxTsX3',
-    ipfsUrl: 'QmRLPWEQEEvViHWmKTzTZMgNuaicGmacxp1JXa8cVRR95E',
+    id: 483,
+    name: 'Broxie #483',
     attributes: [
       {
         trait_type: 'back',
@@ -22262,10 +25160,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRLPWEQEEvViHWmKTzTZMgNuaicGmacxp1JXa8cVRR95E',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYonsfriFYaZTWMgT4uFXgrbzjJeDQGfFvNG8ZgsxTsX3',
+    address:
+      '0:fc2990633478a5ae299a434d1d7d19098082dbde7a737cf3627197e642063d66',
   },
   {
-    previewUrl: 'QmZ4EQS1mbGFnWj69HzVW6RS5yhAoa83KqAQKsK5jMF7GJ',
-    ipfsUrl: 'QmdPczSfEWZkB4DyKbFRkiibAd7AdZW3XNWASpYjL31cq9',
+    id: 484,
+    name: 'Broxie #484',
     attributes: [
       {
         trait_type: 'back',
@@ -22308,10 +25212,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdPczSfEWZkB4DyKbFRkiibAd7AdZW3XNWASpYjL31cq9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ4EQS1mbGFnWj69HzVW6RS5yhAoa83KqAQKsK5jMF7GJ',
+    address:
+      '0:d98465489f71f3a79b32dacac4c08377a784724fcab21cc2e9326374846ea2d2',
   },
   {
-    previewUrl: 'QmPTNnYGoVSxV2gRqGmYbnAGkpfuVQah1zZdKSo3rYDDkW',
-    ipfsUrl: 'QmSCyDrcQLPyZc9oFwpkiZoCNc8BL52VVSLT4giY12mJVe',
+    id: 485,
+    name: 'Broxie #485',
     attributes: [
       {
         trait_type: 'back',
@@ -22354,10 +25264,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSCyDrcQLPyZc9oFwpkiZoCNc8BL52VVSLT4giY12mJVe',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPTNnYGoVSxV2gRqGmYbnAGkpfuVQah1zZdKSo3rYDDkW',
+    address:
+      '0:a881813735fa8f682f03d3698851be80b9d95e75d4cc9e433a3e0a5a06efb5b6',
   },
   {
-    previewUrl: 'QmZrF9VkVr1GurGiHzpnLwdQcfm8MyTLyMqJHWtihzQ9gP',
-    ipfsUrl: 'QmVYj25szwSmc9uQ8MkKRN3SVjXcxh4UT81X9fGSZvgqzY',
+    id: 486,
+    name: 'Broxie #486',
     attributes: [
       {
         trait_type: 'back',
@@ -22400,10 +25316,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVYj25szwSmc9uQ8MkKRN3SVjXcxh4UT81X9fGSZvgqzY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZrF9VkVr1GurGiHzpnLwdQcfm8MyTLyMqJHWtihzQ9gP',
+    address:
+      '0:2eb8d9f409659f4d778403cac6eec2ed7b1f0eabe8502c5c8149a438cfe98f30',
   },
   {
-    previewUrl: 'QmPg6DQzkxzayBDFz3gcs3FMfosT6xf1H1P53ZBZCLmTju',
-    ipfsUrl: 'QmUAtsFqPFzY4nMoC1boiFvLzUbof1Myd5deZBWkiT29Hf',
+    id: 487,
+    name: 'Broxie #487',
     attributes: [
       {
         trait_type: 'back',
@@ -22446,10 +25368,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUAtsFqPFzY4nMoC1boiFvLzUbof1Myd5deZBWkiT29Hf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPg6DQzkxzayBDFz3gcs3FMfosT6xf1H1P53ZBZCLmTju',
+    address:
+      '0:2ac96a48a27e84e382222de3c2b6a425355d6f208b7ce29886a80685f2fcfb89',
   },
   {
-    previewUrl: 'QmZGyVi9pJFfNA13fANDUa4rXe33WVU36Pkieh33wNLDfu',
-    ipfsUrl: 'QmXJACt8tSJkkH3wB2oqyVEjxykoFBBWRYboN7Wg1fBWoC',
+    id: 488,
+    name: 'Broxie #488',
     attributes: [
       {
         trait_type: 'back',
@@ -22492,10 +25420,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXJACt8tSJkkH3wB2oqyVEjxykoFBBWRYboN7Wg1fBWoC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZGyVi9pJFfNA13fANDUa4rXe33WVU36Pkieh33wNLDfu',
+    address:
+      '0:129c562c61b4567ef391759a58e99d48b35b59faf003f8ca4f1eac839ea3d267',
   },
   {
-    previewUrl: 'QmbrPJh6YBRiLUghBo5rr2nTUApJ3G9Vka5RcmUL9E1vKd',
-    ipfsUrl: 'QmYzQJB3uHkkKzxcMdM9zR3tfQ7RjPttqTwtSbaerE4wYg',
+    id: 489,
+    name: 'Broxie #489',
     attributes: [
       {
         trait_type: 'back',
@@ -22538,10 +25472,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYzQJB3uHkkKzxcMdM9zR3tfQ7RjPttqTwtSbaerE4wYg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbrPJh6YBRiLUghBo5rr2nTUApJ3G9Vka5RcmUL9E1vKd',
+    address:
+      '0:96755f782b2a37bb975ef3a32371e4e6c7c87710cda5844cbbc58dfcc08c5325',
   },
   {
-    previewUrl: 'QmRD34WHNw7tqYH7RGRD5GQcihiGRCaKmka3EVzpWpSukH',
-    ipfsUrl: 'QmQja6ACvZAV87MPC2bKHQKn7i9H5Ntn2HqdFZJMUTfPaJ',
+    id: 490,
+    name: 'Broxie #490',
     attributes: [
       {
         trait_type: 'back',
@@ -22584,10 +25524,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQja6ACvZAV87MPC2bKHQKn7i9H5Ntn2HqdFZJMUTfPaJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRD34WHNw7tqYH7RGRD5GQcihiGRCaKmka3EVzpWpSukH',
+    address:
+      '0:ace258700303fa0d126c6ee3dd7b95c1ae7d00ec85d0639ceef607640f4df0e7',
   },
   {
-    previewUrl: 'QmSQLYwKaY4UZojUetrDYMHDuvj5NBMrxQGFWGTrrx7X3m',
-    ipfsUrl: 'QmXE5z6uXmELPd3rnFJehDRrTmLUVrPevnpki6NvQSKLnJ',
+    id: 491,
+    name: 'Broxie #491',
     attributes: [
       {
         trait_type: 'back',
@@ -22630,10 +25576,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXE5z6uXmELPd3rnFJehDRrTmLUVrPevnpki6NvQSKLnJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSQLYwKaY4UZojUetrDYMHDuvj5NBMrxQGFWGTrrx7X3m',
+    address:
+      '0:b0186c48b67cee23b5bfc9016b41bf6cc4a67c8856c6254fcb6a698dbebcb190',
   },
   {
-    previewUrl: 'QmbiNWJWFZdJknVKdcZ9gdieGUcvEhFSQAdUbpbKWHTRkj',
-    ipfsUrl: 'Qmdk8xpz28sUGTHV3bJ3fbpzmEdxh6NUaBDpVSg4dttJvP',
+    id: 492,
+    name: 'Broxie #492',
     attributes: [
       {
         trait_type: 'back',
@@ -22676,10 +25628,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdk8xpz28sUGTHV3bJ3fbpzmEdxh6NUaBDpVSg4dttJvP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbiNWJWFZdJknVKdcZ9gdieGUcvEhFSQAdUbpbKWHTRkj',
+    address:
+      '0:bf83e37f0008694991cf310abeb630a0912006f2710d130664f24eef4480bf16',
   },
   {
-    previewUrl: 'QmUuJ791MbMKr1YZHNQnbNJhp5DxMuxgfLkoLhLJKPJxEH',
-    ipfsUrl: 'QmR4KoJBBXEkAbMqvYdGytyTDakBQ6u1cs32gkWbGTHYRM',
+    id: 493,
+    name: 'Broxie #493',
     attributes: [
       {
         trait_type: 'back',
@@ -22722,10 +25680,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR4KoJBBXEkAbMqvYdGytyTDakBQ6u1cs32gkWbGTHYRM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUuJ791MbMKr1YZHNQnbNJhp5DxMuxgfLkoLhLJKPJxEH',
+    address:
+      '0:4df3faa1dfc6e256169d53c40a65a428553599b385164be5eea27f6c00de240b',
   },
   {
-    previewUrl: 'QmUfFqcmACvP4w1h1bwFEe2f19HMKyR5UrZkhAZo6aLBD1',
-    ipfsUrl: 'QmbcrtxKjLN5fZruqq53bVwcnjdWGM9q7XQWHxNzocRPeh',
+    id: 494,
+    name: 'Broxie #494',
     attributes: [
       {
         trait_type: 'back',
@@ -22768,10 +25732,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbcrtxKjLN5fZruqq53bVwcnjdWGM9q7XQWHxNzocRPeh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUfFqcmACvP4w1h1bwFEe2f19HMKyR5UrZkhAZo6aLBD1',
+    address:
+      '0:984b4daeee5755e5466e443829e12009b58c1e96545664e774cea7be5856beb2',
   },
   {
-    previewUrl: 'QmWq1V1BXnjEaAuscZEKBfRAwH3ymUgFzePtmLwzkEXxYb',
-    ipfsUrl: 'QmaVqZvaweh9kDW9XrQ5eB8MA4VKuWx6sfTa3BWcnrENQv',
+    id: 495,
+    name: 'Broxie #495',
     attributes: [
       {
         trait_type: 'back',
@@ -22814,10 +25784,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaVqZvaweh9kDW9XrQ5eB8MA4VKuWx6sfTa3BWcnrENQv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWq1V1BXnjEaAuscZEKBfRAwH3ymUgFzePtmLwzkEXxYb',
+    address:
+      '0:4b0a5e9252aee72200e6b256286546648fa5083e855f7facdae505a1224ae275',
   },
   {
-    previewUrl: 'QmS6tRTzde2baN2xkYZtPJLFQUoRj1EEaDvUmo37y8Hrw4',
-    ipfsUrl: 'QmcsGrkiLWevvd5NpnwyQtxuf4YMQN9cXcrXb2RASBX2vH',
+    id: 496,
+    name: 'Broxie #496',
     attributes: [
       {
         trait_type: 'back',
@@ -22860,10 +25836,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcsGrkiLWevvd5NpnwyQtxuf4YMQN9cXcrXb2RASBX2vH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS6tRTzde2baN2xkYZtPJLFQUoRj1EEaDvUmo37y8Hrw4',
+    address:
+      '0:2f36d569b7e2fa0206b009645b8010e902183657a906b274f548c3daf45dd0a5',
   },
   {
-    previewUrl: 'QmNPja4LHyF5A9fBUXJBbysEGzq1rAGjqbKzPGA9SXXEAC',
-    ipfsUrl: 'QmYYRPFEov4bGa6an7e38yXKZ582VVCTiqNNCjxm6BVzyD',
+    id: 497,
+    name: 'Broxie #497',
     attributes: [
       {
         trait_type: 'back',
@@ -22906,10 +25888,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYYRPFEov4bGa6an7e38yXKZ582VVCTiqNNCjxm6BVzyD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNPja4LHyF5A9fBUXJBbysEGzq1rAGjqbKzPGA9SXXEAC',
+    address:
+      '0:8637fa5b7cda7afa667ac0553f741001cee810df4379bb892c0aad2b6a6d8e7c',
   },
   {
-    previewUrl: 'QmbtFJJS34iEtBDd5veLueipzdLX7UiJnGtAx2KMpxLuEj',
-    ipfsUrl: 'QmYiduBuzFxhzXQdDoaxiCBoHFZGCt6wcWqJ3998GRCSC2',
+    id: 498,
+    name: 'Broxie #498',
     attributes: [
       {
         trait_type: 'back',
@@ -22952,10 +25940,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYiduBuzFxhzXQdDoaxiCBoHFZGCt6wcWqJ3998GRCSC2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbtFJJS34iEtBDd5veLueipzdLX7UiJnGtAx2KMpxLuEj',
+    address:
+      '0:df1d023397ee958458c28c6e8a1fd88875031217803d2bef6c06ee4c97766e93',
   },
   {
-    previewUrl: 'QmPaNiypdLgUCpPUdjYxxEYAphaWQd2AJBN12zJrJKi7Fo',
-    ipfsUrl: 'QmdSi5nBTohPxyToXqsra8tvU6wG32FuagmjiLXzJZ3Ep6',
+    id: 499,
+    name: 'Broxie #499',
     attributes: [
       {
         trait_type: 'back',
@@ -22998,10 +25992,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdSi5nBTohPxyToXqsra8tvU6wG32FuagmjiLXzJZ3Ep6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPaNiypdLgUCpPUdjYxxEYAphaWQd2AJBN12zJrJKi7Fo',
+    address:
+      '0:5db0d0d974966476b0fabe31e252742df21da9cce57ad3f4d19712ad546c1896',
   },
   {
-    previewUrl: 'QmNtv1JnzZ6SJfFcMcbqRcjTgQbATJvmbo4m2r1xWW5kQk',
-    ipfsUrl: 'QmPqMqsAUZKbg6zK7MDuRS3op2TeYYY6M3uCVLAbff9Lqp',
+    id: 500,
+    name: 'Broxie #500',
     attributes: [
       {
         trait_type: 'back',
@@ -23044,10 +26044,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPqMqsAUZKbg6zK7MDuRS3op2TeYYY6M3uCVLAbff9Lqp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNtv1JnzZ6SJfFcMcbqRcjTgQbATJvmbo4m2r1xWW5kQk',
+    address:
+      '0:54c467f12aa3ac37d47b7dba27478e91862a4802d851fcdf49338f944ed6ceae',
   },
   {
-    previewUrl: 'QmWq7aqTyBGNiLxDH9Pw7UDRigKi29UMTQcjrmdPH6C6Cq',
-    ipfsUrl: 'QmeAuBZPhQoQ932yBP1hjzZMnze2o9VemPKzwX5gYmCHJu',
+    id: 501,
+    name: 'Broxie #501',
     attributes: [
       {
         trait_type: 'back',
@@ -23090,10 +26096,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeAuBZPhQoQ932yBP1hjzZMnze2o9VemPKzwX5gYmCHJu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWq7aqTyBGNiLxDH9Pw7UDRigKi29UMTQcjrmdPH6C6Cq',
+    address:
+      '0:70896fbde3fe7b4dff16f98fb4ef1489703bb62753a0baf60a4569caa55c8f5c',
   },
   {
-    previewUrl: 'Qmdpqp8jsFifnVFZvfzf9UGnSrAJif61aDfA95vhHwKqGj',
-    ipfsUrl: 'QmTPPQ4P1guAaq3KrEKt7M9zuqL8pPNFxja5FvMY81BHJc',
+    id: 502,
+    name: 'Broxie #502',
     attributes: [
       {
         trait_type: 'back',
@@ -23136,10 +26148,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTPPQ4P1guAaq3KrEKt7M9zuqL8pPNFxja5FvMY81BHJc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdpqp8jsFifnVFZvfzf9UGnSrAJif61aDfA95vhHwKqGj',
+    address:
+      '0:29cbc3b3faf68cae9a4353f073294f5ca3a36b9fe6442385586c637617f2cae9',
   },
   {
-    previewUrl: 'QmbDx44bfMNjfHmTHDorCTWhWooU4bGgy85qroAqux2LVR',
-    ipfsUrl: 'QmR6fR6AFmxLuuGpoyp8BPUm3PhDkpqF2DZ6pUcqS6vRNx',
+    id: 503,
+    name: 'Broxie #503',
     attributes: [
       {
         trait_type: 'back',
@@ -23182,10 +26200,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR6fR6AFmxLuuGpoyp8BPUm3PhDkpqF2DZ6pUcqS6vRNx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbDx44bfMNjfHmTHDorCTWhWooU4bGgy85qroAqux2LVR',
+    address:
+      '0:2cf4d50139c7826a2a0f40724015cfa3091fcdfa7935e9e05aba95544b300f82',
   },
   {
-    previewUrl: 'Qmeys2gew2aCNwB189iDdJ8W9rR56CtBUhYeq8LELFwYvG',
-    ipfsUrl: 'QmX5rA5zSaseo88wMb96A14xTfJRR2uDQkiD5qCDs1xkcy',
+    id: 504,
+    name: 'Broxie #504',
     attributes: [
       {
         trait_type: 'back',
@@ -23228,10 +26252,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX5rA5zSaseo88wMb96A14xTfJRR2uDQkiD5qCDs1xkcy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmeys2gew2aCNwB189iDdJ8W9rR56CtBUhYeq8LELFwYvG',
+    address:
+      '0:84493ddda32a72186c59a5c80fac4a6eab48bb3c2aed6d15ca6fcb18d2b8f78b',
   },
   {
-    previewUrl: 'QmPLYJ7yHtqSqwUaPTTWoo8KUx2YtaayBdFKncoUFyaRxg',
-    ipfsUrl: 'QmNUv4ymJC6bGbX5cVoEvkLWv3QV3Lh5ehyjj3871PK2TC',
+    id: 505,
+    name: 'Broxie #505',
     attributes: [
       {
         trait_type: 'back',
@@ -23274,10 +26304,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNUv4ymJC6bGbX5cVoEvkLWv3QV3Lh5ehyjj3871PK2TC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPLYJ7yHtqSqwUaPTTWoo8KUx2YtaayBdFKncoUFyaRxg',
+    address:
+      '0:b5256c89a9b27f81bc27cdc43befd6fe84ce2ac0f3926722d8e92a05d82d9925',
   },
   {
-    previewUrl: 'QmQnKtwZT1t7Sp3M19FM5iXBFSEQRT1FKsE2r9WYFMSVaZ',
-    ipfsUrl: 'QmdNBfJ1tjRHqvW6jpEn9jQn41vidv7UrzhMcBQED8MkrV',
+    id: 506,
+    name: 'Broxie #506',
     attributes: [
       {
         trait_type: 'back',
@@ -23320,10 +26356,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdNBfJ1tjRHqvW6jpEn9jQn41vidv7UrzhMcBQED8MkrV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQnKtwZT1t7Sp3M19FM5iXBFSEQRT1FKsE2r9WYFMSVaZ',
+    address:
+      '0:6428c65975e92f3d515d7d343fca9cc80a5ddcd09ba94be70919d07d85255e14',
   },
   {
-    previewUrl: 'QmSUN8AARbvFrqvGvB5EuhT42EEUK5SzEZRo54Zzt5aLwT',
-    ipfsUrl: 'QmcwQammCy8jS4j88Q71SqhckWxaarci6RtPVhCcuaa6t7',
+    id: 507,
+    name: 'Broxie #507',
     attributes: [
       {
         trait_type: 'back',
@@ -23366,10 +26408,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcwQammCy8jS4j88Q71SqhckWxaarci6RtPVhCcuaa6t7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSUN8AARbvFrqvGvB5EuhT42EEUK5SzEZRo54Zzt5aLwT',
+    address:
+      '0:3891acd169bfd2f7ffca2e1f23310f055032549f5dd9726d30515f1d9e0d8cee',
   },
   {
-    previewUrl: 'QmafVg9ECRA4PfMkXSsxDFLaeY29fB37yhAQq4qxUSg8Rz',
-    ipfsUrl: 'QmXtuZNC5rV6UaDeScTmCdDUb7Xq8RRgtvZxvuutLVMXSr',
+    id: 508,
+    name: 'Broxie #508',
     attributes: [
       {
         trait_type: 'back',
@@ -23412,10 +26460,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXtuZNC5rV6UaDeScTmCdDUb7Xq8RRgtvZxvuutLVMXSr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmafVg9ECRA4PfMkXSsxDFLaeY29fB37yhAQq4qxUSg8Rz',
+    address:
+      '0:7da9e27b08da8a511d114ba599f8480c03c69d152e77924bf541671ce8cea37b',
   },
   {
-    previewUrl: 'QmWJ9pmZ3YRSqv6FNeMWLB8C2bovwp4vS7yYxca2ewKgmi',
-    ipfsUrl: 'QmW1KS5u7sH2zNpboh3jkaB9PjjuHryYiuguw1AkbDGj1J',
+    id: 509,
+    name: 'Broxie #509',
     attributes: [
       {
         trait_type: 'back',
@@ -23458,10 +26512,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW1KS5u7sH2zNpboh3jkaB9PjjuHryYiuguw1AkbDGj1J',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWJ9pmZ3YRSqv6FNeMWLB8C2bovwp4vS7yYxca2ewKgmi',
+    address:
+      '0:3abc1a7b8376e2a0f2b18f728d07bc73e0b74b75136f8de362a99329b6cdfe10',
   },
   {
-    previewUrl: 'QmYuhGPQa8xaRWFbJGC8KvpaaWz5mxWS9Us8BeghVtBtz8',
-    ipfsUrl: 'QmW29gZgkA4FGEKkNZB3TVVQ6ZLWW8KELhdBh95wkwEaof',
+    id: 510,
+    name: 'Broxie #510',
     attributes: [
       {
         trait_type: 'back',
@@ -23504,10 +26564,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW29gZgkA4FGEKkNZB3TVVQ6ZLWW8KELhdBh95wkwEaof',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYuhGPQa8xaRWFbJGC8KvpaaWz5mxWS9Us8BeghVtBtz8',
+    address:
+      '0:69dce0efa799b30de4dc131f7d727168f5b0c083f15abe302dbe3bc00bed5e9e',
   },
   {
-    previewUrl: 'QmYsbuHMwXjv1RxAHaWDLquw5HAsetpzTp9zi3fRaJa9tz',
-    ipfsUrl: 'QmU7H4afwmKqr4DxjrNTiGKiwCrQobLGwvnGfLsoD54yMn',
+    id: 511,
+    name: 'Broxie #511',
     attributes: [
       {
         trait_type: 'back',
@@ -23550,10 +26616,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU7H4afwmKqr4DxjrNTiGKiwCrQobLGwvnGfLsoD54yMn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYsbuHMwXjv1RxAHaWDLquw5HAsetpzTp9zi3fRaJa9tz',
+    address:
+      '0:d73e903e77c53a3b3dce32ba328dbc950f51514c9ffc81b24ce10ed2fc53c29c',
   },
   {
-    previewUrl: 'QmUdDRbqccWLiRQr3Em6h4rBamz5jNWUGQwRX34Q3Rnrsm',
-    ipfsUrl: 'QmfLXC7sXb1hYjXRAmTXHB8BVdC7eHhvGrwagitmCSrBdJ',
+    id: 512,
+    name: 'Broxie #512',
     attributes: [
       {
         trait_type: 'back',
@@ -23596,10 +26668,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfLXC7sXb1hYjXRAmTXHB8BVdC7eHhvGrwagitmCSrBdJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUdDRbqccWLiRQr3Em6h4rBamz5jNWUGQwRX34Q3Rnrsm',
+    address:
+      '0:5b76fe92b9dc712dc5b7e2def5e856bd72b7f1ba37f9f2017d6d284bdede530c',
   },
   {
-    previewUrl: 'QmaPkmRJnTyBbjPowGnmU3pviQoFwnVgX8zYoNCiMYxnic',
-    ipfsUrl: 'QmTAAA2qMShqHKnmCKzmBfLQcXPuBUAr4Hom3TQb7ogaEx',
+    id: 513,
+    name: 'Broxie #513',
     attributes: [
       {
         trait_type: 'back',
@@ -23642,10 +26720,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTAAA2qMShqHKnmCKzmBfLQcXPuBUAr4Hom3TQb7ogaEx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaPkmRJnTyBbjPowGnmU3pviQoFwnVgX8zYoNCiMYxnic',
+    address:
+      '0:59c03a0d2a69ed12ca7008213ceac3917cb5eb6e89147b4f8d34198e5d77cd12',
   },
   {
-    previewUrl: 'QmNXmPBYgQDybqzwtur6fx6owHvQmRDo5eKd8XAHfy7LiQ',
-    ipfsUrl: 'QmZhqCmpBw2GQU89ayFhk18XXDHRGoZU89YeFNabdMUDfV',
+    id: 514,
+    name: 'Broxie #514',
     attributes: [
       {
         trait_type: 'back',
@@ -23688,10 +26772,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZhqCmpBw2GQU89ayFhk18XXDHRGoZU89YeFNabdMUDfV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNXmPBYgQDybqzwtur6fx6owHvQmRDo5eKd8XAHfy7LiQ',
+    address:
+      '0:d26e0f126c9d72bf5784907bb32e2b9f99a3d8319681d18fbcb1200014302055',
   },
   {
-    previewUrl: 'QmXhw9HpRwc4myP7Agw7QjNrSWrKYLT5736uP6BxEBnAvc',
-    ipfsUrl: 'QmaK5UbQTB7rPVMYAGaYNv1JKDYcut7BkWAUUW3pcrmhKC',
+    id: 515,
+    name: 'Broxie #515',
     attributes: [
       {
         trait_type: 'back',
@@ -23734,10 +26824,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaK5UbQTB7rPVMYAGaYNv1JKDYcut7BkWAUUW3pcrmhKC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXhw9HpRwc4myP7Agw7QjNrSWrKYLT5736uP6BxEBnAvc',
+    address:
+      '0:647b4961d07ce76b95421b22671a227a656c05ac3886fd073d2d1a05672576d6',
   },
   {
-    previewUrl: 'QmRzxGtM3vufXcq6cM2bRN1sKs7rBFfNQ1osYUJw4BGdkn',
-    ipfsUrl: 'QmNxvjj4iHzm2UgWUrJPUAdv14J87sBn9feTHnXj6DP5AJ',
+    id: 516,
+    name: 'Broxie #516',
     attributes: [
       {
         trait_type: 'back',
@@ -23780,10 +26876,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNxvjj4iHzm2UgWUrJPUAdv14J87sBn9feTHnXj6DP5AJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRzxGtM3vufXcq6cM2bRN1sKs7rBFfNQ1osYUJw4BGdkn',
+    address:
+      '0:3b0210c42b2f6928fdebf646e7805fe3992c4f2f887da98b2df7082661130997',
   },
   {
-    previewUrl: 'QmaYLSxf75eLxGR1FvrTAZxbw3njijXyuSHMu2dpRv6jPm',
-    ipfsUrl: 'Qmc7Xw12UehnT4mGoMzXnu1VF3p9rh45c6YZkpSM8S9kC5',
+    id: 517,
+    name: 'Broxie #517',
     attributes: [
       {
         trait_type: 'back',
@@ -23826,10 +26928,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc7Xw12UehnT4mGoMzXnu1VF3p9rh45c6YZkpSM8S9kC5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaYLSxf75eLxGR1FvrTAZxbw3njijXyuSHMu2dpRv6jPm',
+    address:
+      '0:d7cab01ea77b7c418d945122775edcaf8e2d3b4695cb2d501139d3f690ead87a',
   },
   {
-    previewUrl: 'Qmcb1YtE6A5H3rYR83afuNULtRGWWoPK2KAh5zaCfZvPpM',
-    ipfsUrl: 'QmdDW5ZyueWtg6stD5ztqUwmRXwU1UZHrVE8GDgGmj6KT2',
+    id: 518,
+    name: 'Broxie #518',
     attributes: [
       {
         trait_type: 'back',
@@ -23872,10 +26980,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdDW5ZyueWtg6stD5ztqUwmRXwU1UZHrVE8GDgGmj6KT2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcb1YtE6A5H3rYR83afuNULtRGWWoPK2KAh5zaCfZvPpM',
+    address:
+      '0:d631f4036222d1f7cb0e989d3db4bc49c36b8b19365e0aaeec71d4a9f008aee6',
   },
   {
-    previewUrl: 'QmNTZTzddw4xxL8E1fy3UgqQxdmE1BtUhy6J85NgKHUeGy',
-    ipfsUrl: 'QmTV3sMR9C9TiubM5DwZq6AM3HY57VgEyLXLQNxDHpsZa1',
+    id: 519,
+    name: 'Broxie #519',
     attributes: [
       {
         trait_type: 'back',
@@ -23918,10 +27032,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTV3sMR9C9TiubM5DwZq6AM3HY57VgEyLXLQNxDHpsZa1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNTZTzddw4xxL8E1fy3UgqQxdmE1BtUhy6J85NgKHUeGy',
+    address:
+      '0:dad9e1e1e1087604663893432e3f3542ac114fc3baa4431dac846f3b6289d672',
   },
   {
-    previewUrl: 'Qme8C6oHwSNC62E1piKcnAjRZCXoN7HnmWnZw5KtbJWWME',
-    ipfsUrl: 'QmZxVPwsVRtY74s2ZkiuwyXLZ6A7pFqt89CtCqGaX6Y6uH',
+    id: 520,
+    name: 'Broxie #520',
     attributes: [
       {
         trait_type: 'back',
@@ -23964,10 +27084,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZxVPwsVRtY74s2ZkiuwyXLZ6A7pFqt89CtCqGaX6Y6uH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme8C6oHwSNC62E1piKcnAjRZCXoN7HnmWnZw5KtbJWWME',
+    address:
+      '0:27389fe6bd4941fe517c9da12c9000bbe6047338f16352fe6710ac4a25037b00',
   },
   {
-    previewUrl: 'QmWDA3jpTaTTLEHnmCCNECNnebrZqykojMdhhEi3JCQhxN',
-    ipfsUrl: 'QmRdk8jZCZE58gm3ABHnj4GdY6h4bDpPLwA7REZrtbR5zv',
+    id: 521,
+    name: 'Broxie #521',
     attributes: [
       {
         trait_type: 'back',
@@ -24010,10 +27136,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRdk8jZCZE58gm3ABHnj4GdY6h4bDpPLwA7REZrtbR5zv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWDA3jpTaTTLEHnmCCNECNnebrZqykojMdhhEi3JCQhxN',
+    address:
+      '0:e8d6adced525073fdd3f3bc44602a2d71c245f1574d7506e07692f4117158429',
   },
   {
-    previewUrl: 'QmdNjCQbj7ZRe2zTcyvQZoq4Bk1mpaqcrR4b7fEqLrX6GW',
-    ipfsUrl: 'QmZLQpKysCSoNHKUCcmTcnSGZfGXS4vsCDvxx9mWTcHr9g',
+    id: 522,
+    name: 'Broxie #522',
     attributes: [
       {
         trait_type: 'back',
@@ -24056,10 +27188,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZLQpKysCSoNHKUCcmTcnSGZfGXS4vsCDvxx9mWTcHr9g',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdNjCQbj7ZRe2zTcyvQZoq4Bk1mpaqcrR4b7fEqLrX6GW',
+    address:
+      '0:f39908fa2fe107b4d1b8e61fc9296bb307c7213833ac206d0de0d5285094b17b',
   },
   {
-    previewUrl: 'Qma2qSny8cpjZBa2vTsrbeGCnJkgcp1ECLHv2YpduonPma',
-    ipfsUrl: 'QmSe7u5qpG1YvvMUnEbsH3Ys2mG215AKqaSCWLne9Um6wB',
+    id: 523,
+    name: 'Broxie #523',
     attributes: [
       {
         trait_type: 'back',
@@ -24102,10 +27240,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSe7u5qpG1YvvMUnEbsH3Ys2mG215AKqaSCWLne9Um6wB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma2qSny8cpjZBa2vTsrbeGCnJkgcp1ECLHv2YpduonPma',
+    address:
+      '0:dcd8ceb7f6216aa79308f740cb57351b9397be3d7327e8213f0fb9ac1fd52cca',
   },
   {
-    previewUrl: 'QmdGEAAU2SrB3BWCEnBdtQuZGG76dFuu3DHvuRQQtTYdmL',
-    ipfsUrl: 'QmeEEdjjFm2Etr2MJGtxW1H1yyeCoLXYKxPCvqhnJjpgHf',
+    id: 524,
+    name: 'Broxie #524',
     attributes: [
       {
         trait_type: 'back',
@@ -24148,10 +27292,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeEEdjjFm2Etr2MJGtxW1H1yyeCoLXYKxPCvqhnJjpgHf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdGEAAU2SrB3BWCEnBdtQuZGG76dFuu3DHvuRQQtTYdmL',
+    address:
+      '0:6b232e5512a9b5c089a336af0399a1ae2d8a6895e86e49e95b2a6b788faffcd1',
   },
   {
-    previewUrl: 'QmesJ9bwh9VNBQ3DPJPDnRtv7XbWfsNCAJtCPzKwGMF4qS',
-    ipfsUrl: 'QmTx1Vd7T441G2hNXeGcwSaCxQuK9BBupdcnpsF7NkCk77',
+    id: 525,
+    name: 'Broxie #525',
     attributes: [
       {
         trait_type: 'back',
@@ -24194,10 +27344,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTx1Vd7T441G2hNXeGcwSaCxQuK9BBupdcnpsF7NkCk77',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmesJ9bwh9VNBQ3DPJPDnRtv7XbWfsNCAJtCPzKwGMF4qS',
+    address:
+      '0:0f98760a9d2d7776ac30117855e423f4854be1d1d85c2e34324e82db8b620231',
   },
   {
-    previewUrl: 'QmNvm9Bbhopy3RD9X4prVi9FDDmCtpULxxEc5kRzkvp1rD',
-    ipfsUrl: 'QmQDW75AVKtW6yP2aRbiQ8RKups1aGwc5qNwYGKwWLAKF9',
+    id: 526,
+    name: 'Broxie #526',
     attributes: [
       {
         trait_type: 'back',
@@ -24240,10 +27396,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQDW75AVKtW6yP2aRbiQ8RKups1aGwc5qNwYGKwWLAKF9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNvm9Bbhopy3RD9X4prVi9FDDmCtpULxxEc5kRzkvp1rD',
+    address:
+      '0:e9f74ece53af9c399338e1bd723836de995245518f3fa1321f62a1ec969473b3',
   },
   {
-    previewUrl: 'QmPjAydoCGTk6gXfSM67JzEdoy93Xp2JuSxXeLgnpTWTfU',
-    ipfsUrl: 'QmVAukTPixhoKHrEdFx7y1p7YQDnR2BzV8QYsxitgFbmkB',
+    id: 527,
+    name: 'Broxie #527',
     attributes: [
       {
         trait_type: 'back',
@@ -24286,10 +27448,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVAukTPixhoKHrEdFx7y1p7YQDnR2BzV8QYsxitgFbmkB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPjAydoCGTk6gXfSM67JzEdoy93Xp2JuSxXeLgnpTWTfU',
+    address:
+      '0:ae63bbacb4df79063b6aaf399f15ac7e83125e71ed67992ec32d8e12be691a38',
   },
   {
-    previewUrl: 'QmSHn1zRRuStyncmqnGiXcpwPQNLVThqtpa96WVKbFqcDF',
-    ipfsUrl: 'QmTJW5zMkkVMUWqcXRCfwA7myWyyU2uDeWYrKanGrygpgi',
+    id: 528,
+    name: 'Broxie #528',
     attributes: [
       {
         trait_type: 'back',
@@ -24332,10 +27500,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTJW5zMkkVMUWqcXRCfwA7myWyyU2uDeWYrKanGrygpgi',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSHn1zRRuStyncmqnGiXcpwPQNLVThqtpa96WVKbFqcDF',
+    address:
+      '0:14f050599349f79b262edbedd317ce00bca60acf358c7c78ec5f6ad4477a02a1',
   },
   {
-    previewUrl: 'QmXwBi8BSXZ65vzLM97AjPitMHwmWRKp9WrfmfXzehH1Mg',
-    ipfsUrl: 'QmWm7xDjULGpwanmvc74JbKREoJ9aXV7Qxd6ZXhamQfkSE',
+    id: 529,
+    name: 'Broxie #529',
     attributes: [
       {
         trait_type: 'back',
@@ -24378,10 +27552,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWm7xDjULGpwanmvc74JbKREoJ9aXV7Qxd6ZXhamQfkSE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXwBi8BSXZ65vzLM97AjPitMHwmWRKp9WrfmfXzehH1Mg',
+    address:
+      '0:b3eda9fb275b1453136e9f5f677d98ca7707cdc3f3d66256c05f4fec64ff7204',
   },
   {
-    previewUrl: 'QmPFxsnawcVy3RdBZVP1A5jxr8PFk5hWv6EibLUp93w4am',
-    ipfsUrl: 'QmP2Exs3H5ctjYRZ28bpbt1XVoCojL55Qdqib2GeAVc9K7',
+    id: 530,
+    name: 'Broxie #530',
     attributes: [
       {
         trait_type: 'back',
@@ -24424,10 +27604,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmP2Exs3H5ctjYRZ28bpbt1XVoCojL55Qdqib2GeAVc9K7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPFxsnawcVy3RdBZVP1A5jxr8PFk5hWv6EibLUp93w4am',
+    address:
+      '0:a0f39821164ca44bf7a59026785f1abf61a1626dbed5a08a57a344748a59fb02',
   },
   {
-    previewUrl: 'QmYpbbxtTKjEXCCkcUe1qxtMHSxz4vNGcfwtRQyLK5sfDN',
-    ipfsUrl: 'QmUCWQYd5yqYr7zBhtQeqGSC28qvApYVfe4iRayvae3hVZ',
+    id: 531,
+    name: 'Broxie #531',
     attributes: [
       {
         trait_type: 'back',
@@ -24470,10 +27656,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUCWQYd5yqYr7zBhtQeqGSC28qvApYVfe4iRayvae3hVZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYpbbxtTKjEXCCkcUe1qxtMHSxz4vNGcfwtRQyLK5sfDN',
+    address:
+      '0:5bd44c94e5e3d9b4130005cc77046ba1ee2b1049744d6188e3e87f1054858b94',
   },
   {
-    previewUrl: 'QmTeR6mPx4WNRM79jckbq79m1nqRij8vgKo83kfLswnWuK',
-    ipfsUrl: 'QmP4myAWWg8gKfFehybeYoHXvWL9nxgryBovZVLxk1eT9S',
+    id: 532,
+    name: 'Broxie #532',
     attributes: [
       {
         trait_type: 'back',
@@ -24516,10 +27708,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmP4myAWWg8gKfFehybeYoHXvWL9nxgryBovZVLxk1eT9S',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTeR6mPx4WNRM79jckbq79m1nqRij8vgKo83kfLswnWuK',
+    address:
+      '0:f8f23fd15eeb75d546ae29c672f0f175126af211bc3c8e276f86dfa0eea1f64c',
   },
   {
-    previewUrl: 'QmW2KAHxLBtKUjKRoNjJUjhPQuna2zjFrUcFVDojyLQjiX',
-    ipfsUrl: 'QmcUCn4XimhTvbHZNfkCKHxe7JJbeoAi9N2VA9ns8fpuh5',
+    id: 533,
+    name: 'Broxie #533',
     attributes: [
       {
         trait_type: 'back',
@@ -24562,10 +27760,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcUCn4XimhTvbHZNfkCKHxe7JJbeoAi9N2VA9ns8fpuh5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW2KAHxLBtKUjKRoNjJUjhPQuna2zjFrUcFVDojyLQjiX',
+    address:
+      '0:764fdb5ace4a92e922aff1c5aa47e9cc55e8a3e5b494fb14ac1f03614cf96421',
   },
   {
-    previewUrl: 'QmdhQfY3vzWzbipr3t2w5i1DZCCaQRonawqf6jjHmoNHNA',
-    ipfsUrl: 'QmPzmfku5h3AgcWf8KTMUSfkSUDPZgpfxKFAkAVZP4JwUQ',
+    id: 534,
+    name: 'Broxie #534',
     attributes: [
       {
         trait_type: 'back',
@@ -24608,10 +27812,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPzmfku5h3AgcWf8KTMUSfkSUDPZgpfxKFAkAVZP4JwUQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdhQfY3vzWzbipr3t2w5i1DZCCaQRonawqf6jjHmoNHNA',
+    address:
+      '0:3499f6b3b69d57ff4c476eebb2d6e2baf7c43862c093a775da16dbdb82f1bd15',
   },
   {
-    previewUrl: 'QmU3rPaA3MdMWit9veveC2XUiUmTQD5MTZEYWsFDsEDaCA',
-    ipfsUrl: 'QmWU4TZMNk4QDEX3LoD5vnw6FfkdpEW3Jp9TCbMEZ68RnK',
+    id: 535,
+    name: 'Broxie #535',
     attributes: [
       {
         trait_type: 'back',
@@ -24654,10 +27864,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWU4TZMNk4QDEX3LoD5vnw6FfkdpEW3Jp9TCbMEZ68RnK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU3rPaA3MdMWit9veveC2XUiUmTQD5MTZEYWsFDsEDaCA',
+    address:
+      '0:7825184847c3b1155584d995c53c30448e8d36c673e0a140af6d7e3bf6498cc5',
   },
   {
-    previewUrl: 'Qmd3PgWcMigXk3e5kHp2nrdXj4vknqGgmPNssTggXjofDT',
-    ipfsUrl: 'QmdiVY3a6ULytLMEDGDdd3n6RP1DG5HDxj3QC9N8HMZJKX',
+    id: 536,
+    name: 'Broxie #536',
     attributes: [
       {
         trait_type: 'back',
@@ -24700,10 +27916,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdiVY3a6ULytLMEDGDdd3n6RP1DG5HDxj3QC9N8HMZJKX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd3PgWcMigXk3e5kHp2nrdXj4vknqGgmPNssTggXjofDT',
+    address:
+      '0:f1d810cfdd974e34f77f52bb2a3f3f744a4b7d8ffb036077aa1755c670e9df58',
   },
   {
-    previewUrl: 'QmQXCuG1jPogdpDfv9vsxDucmRY6s2bbXcwV9qwXYKHhpt',
-    ipfsUrl: 'QmTC2tfSjrnFNDmxEQYPJcinXoZQHpXRvCQ3T7YRYh41w5',
+    id: 537,
+    name: 'Broxie #537',
     attributes: [
       {
         trait_type: 'back',
@@ -24746,10 +27968,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTC2tfSjrnFNDmxEQYPJcinXoZQHpXRvCQ3T7YRYh41w5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQXCuG1jPogdpDfv9vsxDucmRY6s2bbXcwV9qwXYKHhpt',
+    address:
+      '0:5f51ae16d9a8b92c80cbe6eb65aee3941b4287faf13afc92ffcfa990480e1225',
   },
   {
-    previewUrl: 'QmXXnCz1RVMnqq6zXxBjhPGxGs78sTnBPb6Bukudegp6GL',
-    ipfsUrl: 'QmaN5EjKRaDmyK3gL37ThiZoUFDjXxZ2f24jgFAHt5Fc2e',
+    id: 538,
+    name: 'Broxie #538',
     attributes: [
       {
         trait_type: 'back',
@@ -24792,10 +28020,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaN5EjKRaDmyK3gL37ThiZoUFDjXxZ2f24jgFAHt5Fc2e',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXXnCz1RVMnqq6zXxBjhPGxGs78sTnBPb6Bukudegp6GL',
+    address:
+      '0:22d29cdd62a54e596f2167917224960d0f5fa84f7bf2bb77b54f0edffcbfcbc7',
   },
   {
-    previewUrl: 'QmUau8TDGQtVUJ6DbzFfJpVWCLVX7NyZHoUqgmVHHuNZHr',
-    ipfsUrl: 'QmUapNUCDCou746eHQbSMb8ebx2UJ1vSMjKuTGGgYFMbTU',
+    id: 539,
+    name: 'Broxie #539',
     attributes: [
       {
         trait_type: 'back',
@@ -24838,10 +28072,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUapNUCDCou746eHQbSMb8ebx2UJ1vSMjKuTGGgYFMbTU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUau8TDGQtVUJ6DbzFfJpVWCLVX7NyZHoUqgmVHHuNZHr',
+    address:
+      '0:16a02c5f3d6c51b986213dbab995dc121ae6c56f636022cdb4dac8925d674564',
   },
   {
-    previewUrl: 'QmQdkx5EUo1mriYSUGqfPSsYdHa3412wXRqMB1f25MMQHB',
-    ipfsUrl: 'Qmdz46byXu2EpAmtrCqfgVYu8FMag9fA9jWqtDPzcRAWFJ',
+    id: 540,
+    name: 'Broxie #540',
     attributes: [
       {
         trait_type: 'back',
@@ -24884,10 +28124,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdz46byXu2EpAmtrCqfgVYu8FMag9fA9jWqtDPzcRAWFJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQdkx5EUo1mriYSUGqfPSsYdHa3412wXRqMB1f25MMQHB',
+    address:
+      '0:dc2b4811e647666f56c28780bb5fdaf54643126047455fbcff6364581edf9e5d',
   },
   {
-    previewUrl: 'QmRFwEPiEAnjzWcx3hJsCYnvff2i1uoF2T9mAhP4Z89Kyh',
-    ipfsUrl: 'QmY1AfXajnpajHkCcs8J7WwMREA7wcgRaAQrMXiYCpmv2U',
+    id: 541,
+    name: 'Broxie #541',
     attributes: [
       {
         trait_type: 'back',
@@ -24930,10 +28176,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY1AfXajnpajHkCcs8J7WwMREA7wcgRaAQrMXiYCpmv2U',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRFwEPiEAnjzWcx3hJsCYnvff2i1uoF2T9mAhP4Z89Kyh',
+    address:
+      '0:2b7c29e199fb6c410fdb22a98799bfda5fa28f21af7dce03056e3c773d813ef9',
   },
   {
-    previewUrl: 'QmZaXyrwtu1d9L3tb4FT27mhrwbXGJ1ssg37JnFjXVAvGh',
-    ipfsUrl: 'QmZdRkYxz9hKFVGL4rUS7FvmyoSJSEvoh7hfJDj8bDQwMX',
+    id: 542,
+    name: 'Broxie #542',
     attributes: [
       {
         trait_type: 'back',
@@ -24976,10 +28228,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZdRkYxz9hKFVGL4rUS7FvmyoSJSEvoh7hfJDj8bDQwMX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZaXyrwtu1d9L3tb4FT27mhrwbXGJ1ssg37JnFjXVAvGh',
+    address:
+      '0:d63018ad087bbb6775ee064cde659d8ac513b0faef7932586fb0a47900c19682',
   },
   {
-    previewUrl: 'QmVJmpmV8WTs94D8p4YqsHaoGFQN4Vek5wxVcoqrE5bW1a',
-    ipfsUrl: 'QmQWLWWqoA3YevQwpotWGLACesuaon43yjncqoByUx375N',
+    id: 543,
+    name: 'Broxie #543',
     attributes: [
       {
         trait_type: 'back',
@@ -25022,10 +28280,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQWLWWqoA3YevQwpotWGLACesuaon43yjncqoByUx375N',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVJmpmV8WTs94D8p4YqsHaoGFQN4Vek5wxVcoqrE5bW1a',
+    address:
+      '0:1af046f944c3c44dc469c61563de14ff52ce243953f96e60eb41dcc98774c786',
   },
   {
-    previewUrl: 'QmfWRvWHoeDMzsYjYBbQFev9qygifuuQDdgsMPj9hgMWjr',
-    ipfsUrl: 'QmQVeHHa9BXcxzP5NVoPycJ2cNWkWMJRZkR1mKHQRTWarf',
+    id: 544,
+    name: 'Broxie #544',
     attributes: [
       {
         trait_type: 'back',
@@ -25068,10 +28332,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQVeHHa9BXcxzP5NVoPycJ2cNWkWMJRZkR1mKHQRTWarf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfWRvWHoeDMzsYjYBbQFev9qygifuuQDdgsMPj9hgMWjr',
+    address:
+      '0:d9662ea5e7fe2bdfd59963e676966f4d39690a1ab5581412c814f3f872187834',
   },
   {
-    previewUrl: 'QmZ6MLK2jBWXwdPuAzVmFsm7SyzUfvtvA55pyh9hbq1Mtk',
-    ipfsUrl: 'QmQJLBGmFaSyAS6xFvPjbPRFQqZemKMhcg3wc5wZjxtQGn',
+    id: 545,
+    name: 'Broxie #545',
     attributes: [
       {
         trait_type: 'back',
@@ -25114,10 +28384,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQJLBGmFaSyAS6xFvPjbPRFQqZemKMhcg3wc5wZjxtQGn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ6MLK2jBWXwdPuAzVmFsm7SyzUfvtvA55pyh9hbq1Mtk',
+    address:
+      '0:81158ebffa29deeb0ce7a259847e2c9a669eadb0956e8ad8b0b8bd39be7f904b',
   },
   {
-    previewUrl: 'QmW1fczj1dfhFmiktrYYs4hEddhZ2jUbLt6V5akLjAZmmQ',
-    ipfsUrl: 'QmcCQsVxaqz1XZLXeWGrhm7AcsqZcgdBHnvc5UNpGXzPhu',
+    id: 546,
+    name: 'Broxie #546',
     attributes: [
       {
         trait_type: 'back',
@@ -25160,10 +28436,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcCQsVxaqz1XZLXeWGrhm7AcsqZcgdBHnvc5UNpGXzPhu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW1fczj1dfhFmiktrYYs4hEddhZ2jUbLt6V5akLjAZmmQ',
+    address:
+      '0:ac6d38c502399a492fb6b9c32ffa8199e173aac7823dd238b21d828f89ee74ee',
   },
   {
-    previewUrl: 'QmNwC4pfFQUndvqCXs3mwXrnLMfYVME3Bo8g2hKjRTU9qe',
-    ipfsUrl: 'QmU7ogSyErodhrohg3WwDdHdCnQPRbfdSeSPytVEZ35XiM',
+    id: 547,
+    name: 'Broxie #547',
     attributes: [
       {
         trait_type: 'back',
@@ -25206,10 +28488,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU7ogSyErodhrohg3WwDdHdCnQPRbfdSeSPytVEZ35XiM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNwC4pfFQUndvqCXs3mwXrnLMfYVME3Bo8g2hKjRTU9qe',
+    address:
+      '0:2c3786b9749e17b0b777782dbd935f6015ee554628fbafa1e1a8b84901897de2',
   },
   {
-    previewUrl: 'QmRRny4ogjCYR47axjaAR44yG4j6c9TRX5C5vgyGDCAYRB',
-    ipfsUrl: 'QmTJzZnC2qGA9DjuUyNkjYSoU5kSpPaDLEEUDMLLe2ToBK',
+    id: 548,
+    name: 'Broxie #548',
     attributes: [
       {
         trait_type: 'back',
@@ -25252,10 +28540,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTJzZnC2qGA9DjuUyNkjYSoU5kSpPaDLEEUDMLLe2ToBK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRRny4ogjCYR47axjaAR44yG4j6c9TRX5C5vgyGDCAYRB',
+    address:
+      '0:fbffc79f7452cec1ddf505135db9f8d24bf9643f2ca258c64524177bc790629f',
   },
   {
-    previewUrl: 'QmX8Hqzq3mjXdgxVngeXUTTcRrkHLdguBcW2SB9ffnbMHc',
-    ipfsUrl: 'QmbqGpPKXU6wzjDR4quVFh3n1GmFA1Ytb5PjgyWrxANk9c',
+    id: 549,
+    name: 'Broxie #549',
     attributes: [
       {
         trait_type: 'back',
@@ -25298,10 +28592,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbqGpPKXU6wzjDR4quVFh3n1GmFA1Ytb5PjgyWrxANk9c',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmX8Hqzq3mjXdgxVngeXUTTcRrkHLdguBcW2SB9ffnbMHc',
+    address:
+      '0:abc2bbcd9dae6f601f4ab34a518dc3405106705962973dab2d52c0ae873ffc38',
   },
   {
-    previewUrl: 'QmeFXE2jAtN1XPPtN7hduLceUnLjiHZew8XKnZYdnDBR3K',
-    ipfsUrl: 'QmScH3m1HK11FtGM2D2BdgEdxQkqrPnzFSqBogsyqmbKHh',
+    id: 550,
+    name: 'Broxie #550',
     attributes: [
       {
         trait_type: 'back',
@@ -25344,10 +28644,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmScH3m1HK11FtGM2D2BdgEdxQkqrPnzFSqBogsyqmbKHh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeFXE2jAtN1XPPtN7hduLceUnLjiHZew8XKnZYdnDBR3K',
+    address:
+      '0:094b68d4467f6bd5cadc396e2c3d877e1eda92338df232624f9c29b2b33f681a',
   },
   {
-    previewUrl: 'Qmai7oPDsxUQ7a7FSxNEfYoPL86ReD8P9pWr6naGzoB6Pq',
-    ipfsUrl: 'QmYjTiamRMjTCyKxM4mt63hrLndJyHPn98qMadf4k21oj4',
+    id: 551,
+    name: 'Broxie #551',
     attributes: [
       {
         trait_type: 'back',
@@ -25390,10 +28696,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYjTiamRMjTCyKxM4mt63hrLndJyHPn98qMadf4k21oj4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmai7oPDsxUQ7a7FSxNEfYoPL86ReD8P9pWr6naGzoB6Pq',
+    address:
+      '0:a95159c139a7c228bb90473f03f94b39ee7a2388e7ad13c4d1f35c7f711958bc',
   },
   {
-    previewUrl: 'QmRSxSaiKtei84wEeqvScmqctF5HN6q5y9BbxTaPXfSQTZ',
-    ipfsUrl: 'QmWQUbQiuy5yFiRCW3oCaVYZFkh4dASRR4HLfAupELSKZU',
+    id: 552,
+    name: 'Broxie #552',
     attributes: [
       {
         trait_type: 'back',
@@ -25436,10 +28748,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWQUbQiuy5yFiRCW3oCaVYZFkh4dASRR4HLfAupELSKZU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRSxSaiKtei84wEeqvScmqctF5HN6q5y9BbxTaPXfSQTZ',
+    address:
+      '0:83b896a06efb4ff7900dcd7dbe09de6873928c5af46a9c0f1763b550a927976a',
   },
   {
-    previewUrl: 'QmdMmEqyetCBcnhxXCMwPVcJ9UbUZzLredxbfqTGmtWKtV',
-    ipfsUrl: 'QmVWEmRagV92hqbFxbRkpHR4fjmiihnF1rcWKkqediZF3b',
+    id: 553,
+    name: 'Broxie #553',
     attributes: [
       {
         trait_type: 'back',
@@ -25482,10 +28800,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVWEmRagV92hqbFxbRkpHR4fjmiihnF1rcWKkqediZF3b',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdMmEqyetCBcnhxXCMwPVcJ9UbUZzLredxbfqTGmtWKtV',
+    address:
+      '0:276666e1d0caa6de7d1edb1cfc5c9f1e3330706ba316c7a57d7240976876f414',
   },
   {
-    previewUrl: 'QmQ1pDdjaex6reMGUyXZyThmE6AyY12ienQc9Pe6X4Vx8n',
-    ipfsUrl: 'QmfJNLXNkJXwAyT5Z1gJKmAuk6izkCacZtpKMNjvfd5QRN',
+    id: 554,
+    name: 'Broxie #554',
     attributes: [
       {
         trait_type: 'back',
@@ -25528,10 +28852,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfJNLXNkJXwAyT5Z1gJKmAuk6izkCacZtpKMNjvfd5QRN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ1pDdjaex6reMGUyXZyThmE6AyY12ienQc9Pe6X4Vx8n',
+    address:
+      '0:317fdc8b5bd1ac3cc868fc09337f772f15005ca5a7a628ffdcecc07437be01d9',
   },
   {
-    previewUrl: 'QmW8K6peMec1i1v6SqNJhneBoEU5yexQUD1vCZLf7gMrap',
-    ipfsUrl: 'QmdxGNcYcnw1Pz56nheSZ1TgLufspngk36FYU2eCwrYhtq',
+    id: 555,
+    name: 'Broxie #555',
     attributes: [
       {
         trait_type: 'back',
@@ -25574,10 +28904,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdxGNcYcnw1Pz56nheSZ1TgLufspngk36FYU2eCwrYhtq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW8K6peMec1i1v6SqNJhneBoEU5yexQUD1vCZLf7gMrap',
+    address:
+      '0:a0de5a144f9a8b7a7d38790d1fe3766891c115c8e9c84bd21a9a8fc92ce3c71f',
   },
   {
-    previewUrl: 'QmVjEftiAN6WZC4tBqoPPN72k3Raf1gQf3jgCKpCfR6vJt',
-    ipfsUrl: 'QmVW4vCGjbX1BL3mxahw78ssxD8VYtJmMzNqvVo3TFV4Q7',
+    id: 556,
+    name: 'Broxie #556',
     attributes: [
       {
         trait_type: 'back',
@@ -25620,10 +28956,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVW4vCGjbX1BL3mxahw78ssxD8VYtJmMzNqvVo3TFV4Q7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVjEftiAN6WZC4tBqoPPN72k3Raf1gQf3jgCKpCfR6vJt',
+    address:
+      '0:26c1164bf56bf59d49aa7d000947a9995cf0eef89f5d7ee3fe15bf2271f1a309',
   },
   {
-    previewUrl: 'QmTiM6wLCJXntHMCeNn3AkAFi3r5t6kLAPrDg4bmsrtsEL',
-    ipfsUrl: 'QmPiAW24fiym3183kym2mFUGmGRgLB8kTCogpUKqc4kGhG',
+    id: 557,
+    name: 'Broxie #557',
     attributes: [
       {
         trait_type: 'back',
@@ -25666,10 +29008,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPiAW24fiym3183kym2mFUGmGRgLB8kTCogpUKqc4kGhG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTiM6wLCJXntHMCeNn3AkAFi3r5t6kLAPrDg4bmsrtsEL',
+    address:
+      '0:0c2b48c0d5a47d1644d2c1a1451da3209e5a2ae7d1e498a10c9a16bd78028468',
   },
   {
-    previewUrl: 'QmYbNyAuVD3yoUGJDwQPAS3Tn9ERKKeAXQB9kHPNko86Yi',
-    ipfsUrl: 'QmamUchftQadrPtsQZvibMYk8t5jufkjUcQ9RBDgDQdLzs',
+    id: 558,
+    name: 'Broxie #558',
     attributes: [
       {
         trait_type: 'back',
@@ -25712,10 +29060,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmamUchftQadrPtsQZvibMYk8t5jufkjUcQ9RBDgDQdLzs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYbNyAuVD3yoUGJDwQPAS3Tn9ERKKeAXQB9kHPNko86Yi',
+    address:
+      '0:68cd49c23e3272dce9b1b97ba78e19a92d7e22fbaeb95139ebd70725c7dc64ed',
   },
   {
-    previewUrl: 'Qmc9BmrmeKR1nhScVAL1sb3boMEp9eqpwUrg4ZmWFwedac',
-    ipfsUrl: 'QmT2KNCdjrTffZcoziY5wscCEr3ZVrpFJS8SgahsKce8Eh',
+    id: 559,
+    name: 'Broxie #559',
     attributes: [
       {
         trait_type: 'back',
@@ -25758,10 +29112,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT2KNCdjrTffZcoziY5wscCEr3ZVrpFJS8SgahsKce8Eh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc9BmrmeKR1nhScVAL1sb3boMEp9eqpwUrg4ZmWFwedac',
+    address:
+      '0:1ea75750ba71bd55d2a51c39c2c30c84b3951554217fdc0ef3d4aea87c1e3eb2',
   },
   {
-    previewUrl: 'QmbbNPAvLg9SEzEj4aNw3xvfici8bFVkS34iEiyxHoU3vn',
-    ipfsUrl: 'QmeYPMkYUKZUeF6tE66nci9nCm9ZNuuVAS6wuh6jMM1eag',
+    id: 560,
+    name: 'Broxie #560',
     attributes: [
       {
         trait_type: 'back',
@@ -25804,10 +29164,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeYPMkYUKZUeF6tE66nci9nCm9ZNuuVAS6wuh6jMM1eag',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbbNPAvLg9SEzEj4aNw3xvfici8bFVkS34iEiyxHoU3vn',
+    address:
+      '0:8918f5cc510452a89921641e5ab13bf8717502f9b4e58644e7ccea73a20e65c0',
   },
   {
-    previewUrl: 'QmSLScmBBTr6TskAaJQLSiKDoDsGUWjdSdroEXjP1K3HLZ',
-    ipfsUrl: 'QmV7xSPYExkekQGKNAz5EZnUS5qHnPZDtJxSBn27Wtrrvh',
+    id: 561,
+    name: 'Broxie #561',
     attributes: [
       {
         trait_type: 'back',
@@ -25850,10 +29216,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV7xSPYExkekQGKNAz5EZnUS5qHnPZDtJxSBn27Wtrrvh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSLScmBBTr6TskAaJQLSiKDoDsGUWjdSdroEXjP1K3HLZ',
+    address:
+      '0:4fba001ac1f73ca351ca96fd84404e64881d4d58ca6cd322c9d282e563b50c75',
   },
   {
-    previewUrl: 'QmUSri4YQjhQGmcx8svT5puiJfgDdcBuyDB3985xcHyZW4',
-    ipfsUrl: 'QmcGRA3YM4HoZBQn3BDcNDe9Xq6izSuhxcVuU1mz36kmeL',
+    id: 562,
+    name: 'Broxie #562',
     attributes: [
       {
         trait_type: 'back',
@@ -25896,10 +29268,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcGRA3YM4HoZBQn3BDcNDe9Xq6izSuhxcVuU1mz36kmeL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUSri4YQjhQGmcx8svT5puiJfgDdcBuyDB3985xcHyZW4',
+    address:
+      '0:429df8529690096a0c22d01f22a41c003ce144316fa8df7189a6aacc285bc012',
   },
   {
-    previewUrl: 'QmaVYc5bVaCnjzXoo6XAARK5Hiha9ZrCr6ZSi4CX8LYcEh',
-    ipfsUrl: 'QmPMeCMw6sa5FKjxm7EzEyfnqb2JcrxDb6sQonFoXWKTeS',
+    id: 563,
+    name: 'Broxie #563',
     attributes: [
       {
         trait_type: 'back',
@@ -25942,10 +29320,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPMeCMw6sa5FKjxm7EzEyfnqb2JcrxDb6sQonFoXWKTeS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaVYc5bVaCnjzXoo6XAARK5Hiha9ZrCr6ZSi4CX8LYcEh',
+    address:
+      '0:c27b15ea4268bc4b8a301044fbb558cd5d2565942f6bc84848b03b24f4946b24',
   },
   {
-    previewUrl: 'QmQDVMXomLVneFBCiatLUgtqEjiXHRs92HR9vqtYG2fdC2',
-    ipfsUrl: 'QmYbcAFxPCTXbDNBJ1US2UWfvW7b6GLM5m7cuzmUGDg3NM',
+    id: 564,
+    name: 'Broxie #564',
     attributes: [
       {
         trait_type: 'back',
@@ -25988,10 +29372,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYbcAFxPCTXbDNBJ1US2UWfvW7b6GLM5m7cuzmUGDg3NM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQDVMXomLVneFBCiatLUgtqEjiXHRs92HR9vqtYG2fdC2',
+    address:
+      '0:329470369e03211793482fb739ce38c13b91172bd188e8727e8069c043131706',
   },
   {
-    previewUrl: 'QmfCuZByhNwLWjLFfDySzvQRG6dgFAeDqmRSpXAiQTNUv7',
-    ipfsUrl: 'QmNgyouV6r1rbNAMx9DsMGPhf98ebNjGiEycjzXG2HEzpU',
+    id: 565,
+    name: 'Broxie #565',
     attributes: [
       {
         trait_type: 'back',
@@ -26034,10 +29424,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNgyouV6r1rbNAMx9DsMGPhf98ebNjGiEycjzXG2HEzpU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfCuZByhNwLWjLFfDySzvQRG6dgFAeDqmRSpXAiQTNUv7',
+    address:
+      '0:75feab04225c4397c99e2b33332a096a8015127b8b1ac75c548e550d9e56559d',
   },
   {
-    previewUrl: 'QmRBpZ24uAu1wuTmfKVP5ZaTyeetN7VYEyBCth6xrNar8g',
-    ipfsUrl: 'QmWz7iSAyXK18fm5LF9pGdQq9Krc676icq1hLxfdRruN2Y',
+    id: 566,
+    name: 'Broxie #566',
     attributes: [
       {
         trait_type: 'back',
@@ -26080,10 +29476,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWz7iSAyXK18fm5LF9pGdQq9Krc676icq1hLxfdRruN2Y',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRBpZ24uAu1wuTmfKVP5ZaTyeetN7VYEyBCth6xrNar8g',
+    address:
+      '0:9337d1a37578f203d88981c88d838180ba7d6af7f149e36ddce066f62682e1eb',
   },
   {
-    previewUrl: 'QmU3utx3JMgJd3qqsqqrRQ8FqHi2fKVAsw8QQjJALvpKAN',
-    ipfsUrl: 'QmZrcSjpqpLENYm79SapLwpyA56SgiwTPgjFko9zDCoaMm',
+    id: 567,
+    name: 'Broxie #567',
     attributes: [
       {
         trait_type: 'back',
@@ -26126,10 +29528,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZrcSjpqpLENYm79SapLwpyA56SgiwTPgjFko9zDCoaMm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU3utx3JMgJd3qqsqqrRQ8FqHi2fKVAsw8QQjJALvpKAN',
+    address:
+      '0:82251be4d6b0d97b27186df1acdd6ea557bf4903586a1946af2c267480b7388e',
   },
   {
-    previewUrl: 'Qmc8m9wGvB5Gqrhm6CGe2pN5YmNJAN4Kzf2qGqi1Sk9GTQ',
-    ipfsUrl: 'QmTmSrMXnW3fVSvQZMYsYN34texj4stxQ4WViehBAdHpTz',
+    id: 568,
+    name: 'Broxie #568',
     attributes: [
       {
         trait_type: 'back',
@@ -26172,10 +29580,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTmSrMXnW3fVSvQZMYsYN34texj4stxQ4WViehBAdHpTz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc8m9wGvB5Gqrhm6CGe2pN5YmNJAN4Kzf2qGqi1Sk9GTQ',
+    address:
+      '0:70e276b8bf1aa0e43ef13514c7d3c7cf6b45851114466eeee1f0d2b0fd64deba',
   },
   {
-    previewUrl: 'QmUFf2b5PVDXLa9ApTvWpL3rjYE2Z2wH5yv5aKskVZAHuz',
-    ipfsUrl: 'QmZ8uhqaLE3owpKYvYEVGc6LzRcjizZipck23kfAa1Hmc5',
+    id: 569,
+    name: 'Broxie #569',
     attributes: [
       {
         trait_type: 'back',
@@ -26218,10 +29632,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ8uhqaLE3owpKYvYEVGc6LzRcjizZipck23kfAa1Hmc5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUFf2b5PVDXLa9ApTvWpL3rjYE2Z2wH5yv5aKskVZAHuz',
+    address:
+      '0:35145a40b9f8e5f8af061e07274c9fb712f7ccaecf2bdd527200e32a5e79212e',
   },
   {
-    previewUrl: 'QmYpngq8ZVE8tR8whYmwfgZLyC3ofSS5nZz218gpcRqaUZ',
-    ipfsUrl: 'Qmf1UdzP5qMmU35fd7d5w9zzX9RPCHsxqSH7LmH6HxGKP6',
+    id: 570,
+    name: 'Broxie #570',
     attributes: [
       {
         trait_type: 'back',
@@ -26264,10 +29684,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf1UdzP5qMmU35fd7d5w9zzX9RPCHsxqSH7LmH6HxGKP6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYpngq8ZVE8tR8whYmwfgZLyC3ofSS5nZz218gpcRqaUZ',
+    address:
+      '0:988e0d3003eac4f00397d2e45a2508b0c56d1dd1c53bbf974d892e211a3ef0fc',
   },
   {
-    previewUrl: 'QmPKikKpj46fLKzAG3FHmCytL4UaVM3UkYHXneJ5pVkTAA',
-    ipfsUrl: 'QmfCxJYM36vD8feFpDQ9MPkpufqDPgHCNaAWrKD1oMXCXh',
+    id: 571,
+    name: 'Broxie #571',
     attributes: [
       {
         trait_type: 'back',
@@ -26310,10 +29736,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfCxJYM36vD8feFpDQ9MPkpufqDPgHCNaAWrKD1oMXCXh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPKikKpj46fLKzAG3FHmCytL4UaVM3UkYHXneJ5pVkTAA',
+    address:
+      '0:1e7a4eee4492f0f6c605e965379110257373f5999f743bba035850ae7fc33085',
   },
   {
-    previewUrl: 'Qmex8925PstouiGyPRUx5SSmt6HYahL4efs9pQQUUcwz8D',
-    ipfsUrl: 'Qmc9bSGi9mokXNmPE3hWh5moZUxcZujJoWBk3WjDrVWGJU',
+    id: 572,
+    name: 'Broxie #572',
     attributes: [
       {
         trait_type: 'back',
@@ -26356,10 +29788,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc9bSGi9mokXNmPE3hWh5moZUxcZujJoWBk3WjDrVWGJU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmex8925PstouiGyPRUx5SSmt6HYahL4efs9pQQUUcwz8D',
+    address:
+      '0:5baa9e8ec903f73290a807e861ff328cccfd2af0721cbafa181438be36d7ea75',
   },
   {
-    previewUrl: 'QmRBQTFU27D76Dc84xN1zedHDBxtF6yVKDy6sUz98ZreFC',
-    ipfsUrl: 'QmRLEsXsCR28U9uxiryz2XwkzGoDHCkM9yLa9Tpenm6jWb',
+    id: 573,
+    name: 'Broxie #573',
     attributes: [
       {
         trait_type: 'back',
@@ -26402,10 +29840,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRLEsXsCR28U9uxiryz2XwkzGoDHCkM9yLa9Tpenm6jWb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRBQTFU27D76Dc84xN1zedHDBxtF6yVKDy6sUz98ZreFC',
+    address:
+      '0:0fec3d32fb54abe581e8b9cdfae063f05e8b7ce87fe1ccb89a8f84d449daa481',
   },
   {
-    previewUrl: 'QmPZoegfAWbHBue5FzKbeTM8EUaSkmNPPp4ea6Vmvafqx3',
-    ipfsUrl: 'QmYfQXiZSSwkrqFMHX4bTFXJjyrxmtmErk6NUprDzCSdTM',
+    id: 574,
+    name: 'Broxie #574',
     attributes: [
       {
         trait_type: 'back',
@@ -26448,10 +29892,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYfQXiZSSwkrqFMHX4bTFXJjyrxmtmErk6NUprDzCSdTM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPZoegfAWbHBue5FzKbeTM8EUaSkmNPPp4ea6Vmvafqx3',
+    address:
+      '0:c4e3aa24387ece9d226668e480a4c5126e4918a8f06b307e6444f7c648aa7e26',
   },
   {
-    previewUrl: 'QmfW6xNtwzwsfhSGebScxoYBaNS6ePKCpHuvg49EcahWA3',
-    ipfsUrl: 'QmSJWZrzkqBr1FjVYHFQDsqHVt8dzk19pJd3qufkou8L16',
+    id: 575,
+    name: 'Broxie #575',
     attributes: [
       {
         trait_type: 'back',
@@ -26494,10 +29944,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSJWZrzkqBr1FjVYHFQDsqHVt8dzk19pJd3qufkou8L16',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfW6xNtwzwsfhSGebScxoYBaNS6ePKCpHuvg49EcahWA3',
+    address:
+      '0:8d09e868979f4d87f903416ad004918d00a917424b40e00251215a361e61637a',
   },
   {
-    previewUrl: 'QmWfFVrtQfGMUEnH3iKPRRMn67c7E6FLqmEKwMN8STdaq9',
-    ipfsUrl: 'QmZEX3WzoGAwcXwRgfdPcpFZ5bfwPjBiT7BeZXYqM3vqxZ',
+    id: 576,
+    name: 'Broxie #576',
     attributes: [
       {
         trait_type: 'back',
@@ -26540,10 +29996,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZEX3WzoGAwcXwRgfdPcpFZ5bfwPjBiT7BeZXYqM3vqxZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWfFVrtQfGMUEnH3iKPRRMn67c7E6FLqmEKwMN8STdaq9',
+    address:
+      '0:474c6d93a20dbc0ce6fdfe178815ef98ca76a602c25d94c2015e96433f6d5d64',
   },
   {
-    previewUrl: 'QmTuCpAXs2YNKPSEKUy5usKL49XHL8iHH9EDsPdVaepUb2',
-    ipfsUrl: 'QmbPPJWf3WY4fk7s3t1VThSHFXtPTScSGAJQokAiJHzuDT',
+    id: 577,
+    name: 'Broxie #577',
     attributes: [
       {
         trait_type: 'back',
@@ -26586,10 +30048,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbPPJWf3WY4fk7s3t1VThSHFXtPTScSGAJQokAiJHzuDT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTuCpAXs2YNKPSEKUy5usKL49XHL8iHH9EDsPdVaepUb2',
+    address:
+      '0:d75b6718912e01c713170a29303652e8f21560d554bfddf7d495c7f579f3b71e',
   },
   {
-    previewUrl: 'QmVacZfSvDzVivwsNX6soq64wfej2t5fv4XCLYtFYWtNks',
-    ipfsUrl: 'QmY11AGBxW2qoJP3kDKGWaQQu44JpTvkeQyaJztJQJx3e2',
+    id: 578,
+    name: 'Broxie #578',
     attributes: [
       {
         trait_type: 'back',
@@ -26632,10 +30100,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY11AGBxW2qoJP3kDKGWaQQu44JpTvkeQyaJztJQJx3e2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVacZfSvDzVivwsNX6soq64wfej2t5fv4XCLYtFYWtNks',
+    address:
+      '0:508266b2e67931a4f9bb5de4b551f591597f741b45ef921eb16f3bf4b5c6cfc1',
   },
   {
-    previewUrl: 'QmeffYGiBVc9CFydK5T3bcvanDw5zsG3SGcDCWPCYDpDR4',
-    ipfsUrl: 'QmYcGGnNcv8aFQfDk5F8veenXZiCetmPYDSTXRhxZm2ASC',
+    id: 579,
+    name: 'Broxie #579',
     attributes: [
       {
         trait_type: 'back',
@@ -26678,10 +30152,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYcGGnNcv8aFQfDk5F8veenXZiCetmPYDSTXRhxZm2ASC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeffYGiBVc9CFydK5T3bcvanDw5zsG3SGcDCWPCYDpDR4',
+    address:
+      '0:32f78fbe5251bfd6b2c145f9aeff03ecdd1c78bfed5df548579d82b911d8f7f3',
   },
   {
-    previewUrl: 'QmbU74tRRmMun8GjRrZ8dXo8Pt3owaetjLu6P3rUCQ36gs',
-    ipfsUrl: 'QmRK5ewQFdxbuHGLPix4ECuWiTC5Sy9XUNRt547Xjq6YT9',
+    id: 580,
+    name: 'Broxie #580',
     attributes: [
       {
         trait_type: 'back',
@@ -26724,10 +30204,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRK5ewQFdxbuHGLPix4ECuWiTC5Sy9XUNRt547Xjq6YT9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbU74tRRmMun8GjRrZ8dXo8Pt3owaetjLu6P3rUCQ36gs',
+    address:
+      '0:cd494dd6f977365f668180ea0be98e25bfc19f919fcb235ada3aa00b78ea1693',
   },
   {
-    previewUrl: 'QmbmNpc1AAQX4wHqDz482ZyiQH5uFvvX43NQGkXHD9RQoe',
-    ipfsUrl: 'Qme4av7pewEjdQ78MR8hfHgXdBDM3h6qr8U98dpKq9M1Fc',
+    id: 581,
+    name: 'Broxie #581',
     attributes: [
       {
         trait_type: 'back',
@@ -26770,10 +30256,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qme4av7pewEjdQ78MR8hfHgXdBDM3h6qr8U98dpKq9M1Fc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbmNpc1AAQX4wHqDz482ZyiQH5uFvvX43NQGkXHD9RQoe',
+    address:
+      '0:f6a6b0b27eae0cb621caa78aa7f094b7306bb3ae5ca208a23817ba839338f9d0',
   },
   {
-    previewUrl: 'QmYc6p5N9FhK8TM57bZfQqvqjvPbiCb4hFWgsA1VuEv5i9',
-    ipfsUrl: 'QmX5PQUViKAyiySwtCgjxgqnFfMk6tCJoCWXCpo7NiXbWB',
+    id: 582,
+    name: 'Broxie #582',
     attributes: [
       {
         trait_type: 'back',
@@ -26816,10 +30308,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX5PQUViKAyiySwtCgjxgqnFfMk6tCJoCWXCpo7NiXbWB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYc6p5N9FhK8TM57bZfQqvqjvPbiCb4hFWgsA1VuEv5i9',
+    address:
+      '0:43c3006978c7f434598ab5bda60266d11b76816e0fc7464940346b098c1d196d',
   },
   {
-    previewUrl: 'QmW8nNka2K7FCe63gYLUzbY3LCv5J2GPvKpnbDiHHRw7qR',
-    ipfsUrl: 'QmZJjbfxZ5vwQZtuRQuCByTyJxC8GsoH1T2CXcfvda5h1L',
+    id: 583,
+    name: 'Broxie #583',
     attributes: [
       {
         trait_type: 'back',
@@ -26862,10 +30360,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZJjbfxZ5vwQZtuRQuCByTyJxC8GsoH1T2CXcfvda5h1L',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW8nNka2K7FCe63gYLUzbY3LCv5J2GPvKpnbDiHHRw7qR',
+    address:
+      '0:6a8e241ae0cd2e3d9d845fc41fe8f7559c055122bf37a4b5d9e824eafb103817',
   },
   {
-    previewUrl: 'QmXYR7YWAJrby6jUenMUd4PchztHLVqwLKpzxQfX9tcDYu',
-    ipfsUrl: 'QmQvqC3FzanJnhLUtjozm9rdsimJPpgvPLXhziw66TbSGB',
+    id: 584,
+    name: 'Broxie #584',
     attributes: [
       {
         trait_type: 'back',
@@ -26908,10 +30412,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQvqC3FzanJnhLUtjozm9rdsimJPpgvPLXhziw66TbSGB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXYR7YWAJrby6jUenMUd4PchztHLVqwLKpzxQfX9tcDYu',
+    address:
+      '0:4164cb85afe8d3f40e82df77b5ecbd29e96ece0b4a384571c9b1efb9e6086972',
   },
   {
-    previewUrl: 'QmNxXuaKMn4SVo8aWp6aPWtWx8vx8TLwHkfWoHiFXF5e7N',
-    ipfsUrl: 'QmY1WqHvk8qncipft8uwqP1HAWH4o1r7RejHwKrRLKn32V',
+    id: 585,
+    name: 'Broxie #585',
     attributes: [
       {
         trait_type: 'back',
@@ -26954,10 +30464,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY1WqHvk8qncipft8uwqP1HAWH4o1r7RejHwKrRLKn32V',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNxXuaKMn4SVo8aWp6aPWtWx8vx8TLwHkfWoHiFXF5e7N',
+    address:
+      '0:cfde19ffc2d37a97058482543fde1ce308c5534c43e13ae72270dc075ab376b2',
   },
   {
-    previewUrl: 'QmPy91K469mAwcmFmN1tfGg8w1smoj3giUYRpS6G9zp3XV',
-    ipfsUrl: 'QmYAwE6LwAxKJGSAF8j2WcSWeYBnSXbQsmCVRfHzdxZbVU',
+    id: 586,
+    name: 'Broxie #586',
     attributes: [
       {
         trait_type: 'back',
@@ -27000,10 +30516,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYAwE6LwAxKJGSAF8j2WcSWeYBnSXbQsmCVRfHzdxZbVU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPy91K469mAwcmFmN1tfGg8w1smoj3giUYRpS6G9zp3XV',
+    address:
+      '0:0efe09981f889fff9ebce6c6fbb7dce6fb85815903a4e42a614dd03d9ac82fff',
   },
   {
-    previewUrl: 'QmU5bcf1hrzy3PL6qoPnwW4DhYQ58pc6kYqEA8T6tLkESa',
-    ipfsUrl: 'QmNuq4M57FrXaUrvGzESZpojDzKC4fWzBY3Ug5TNDHg7BB',
+    id: 587,
+    name: 'Broxie #587',
     attributes: [
       {
         trait_type: 'back',
@@ -27046,10 +30568,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNuq4M57FrXaUrvGzESZpojDzKC4fWzBY3Ug5TNDHg7BB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU5bcf1hrzy3PL6qoPnwW4DhYQ58pc6kYqEA8T6tLkESa',
+    address:
+      '0:f922294483bcc5fd7cf152c28b6ef87e1cf479540a250e31a172ff35923d595c',
   },
   {
-    previewUrl: 'QmVeySaYW6He9Xu3jq4HMyZVdydpFw6mMWcYVcNW58izdY',
-    ipfsUrl: 'QmdTQZyh3tvPevDJouWVFYDMUei9fXhAGrjxpAQKC8dp9w',
+    id: 588,
+    name: 'Broxie #588',
     attributes: [
       {
         trait_type: 'back',
@@ -27092,10 +30620,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdTQZyh3tvPevDJouWVFYDMUei9fXhAGrjxpAQKC8dp9w',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVeySaYW6He9Xu3jq4HMyZVdydpFw6mMWcYVcNW58izdY',
+    address:
+      '0:f1b3c0ec10c322b3e080f0fea88f14ea67fdec26a4f1001ba717f5324d5c0846',
   },
   {
-    previewUrl: 'QmVYtk9QBm6QHhUvKdfRgfwtTaFZUPuDYvsBPPXCQnbXWL',
-    ipfsUrl: 'QmaHS3jWZw6Qog4mjfkNFp3h9AHQhLcmM21FkNwp2iW5CL',
+    id: 589,
+    name: 'Broxie #589',
     attributes: [
       {
         trait_type: 'back',
@@ -27138,10 +30672,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaHS3jWZw6Qog4mjfkNFp3h9AHQhLcmM21FkNwp2iW5CL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVYtk9QBm6QHhUvKdfRgfwtTaFZUPuDYvsBPPXCQnbXWL',
+    address:
+      '0:18ba478e13aacd54c03a6401ec7f78b118d678e783012cb70ec3b458c97ba0e5',
   },
   {
-    previewUrl: 'QmUCCaZeU6o2RtNdBx3CfsCmNYysrew7BfU7czEQ3PSy1w',
-    ipfsUrl: 'QmeZjhFQaFP5eMMgxDMpjwqL5LpUKEiBR4utGRK1gMM8Cn',
+    id: 590,
+    name: 'Broxie #590',
     attributes: [
       {
         trait_type: 'back',
@@ -27184,10 +30724,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeZjhFQaFP5eMMgxDMpjwqL5LpUKEiBR4utGRK1gMM8Cn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUCCaZeU6o2RtNdBx3CfsCmNYysrew7BfU7czEQ3PSy1w',
+    address:
+      '0:addd9eafe2b1617e952ca54a3f449daa73e05a62109843c9734041a216e19974',
   },
   {
-    previewUrl: 'QmaRRbGgavy5uqnk5njsNnxG9dv7SvhWUQ7j7yPtGpDAf3',
-    ipfsUrl: 'QmQoFgpEtFTTqMGqDFb1sA3U1SLGy96j3Nr9HLWn4U6Vys',
+    id: 591,
+    name: 'Broxie #591',
     attributes: [
       {
         trait_type: 'back',
@@ -27230,10 +30776,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQoFgpEtFTTqMGqDFb1sA3U1SLGy96j3Nr9HLWn4U6Vys',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaRRbGgavy5uqnk5njsNnxG9dv7SvhWUQ7j7yPtGpDAf3',
+    address:
+      '0:f7fa80eddc1cfa60d1d8bbb1a0fb5f8e00c17127d5e7802375048199dd6ec188',
   },
   {
-    previewUrl: 'Qme149LAcUZDqhEb64o3v9qKyXqGD6UzhXjVWsWAt6bFKq',
-    ipfsUrl: 'QmUaGZBAdbTEojSuPMfVaZ8KDnqYu3b7PqHJcxKLjMpkpk',
+    id: 592,
+    name: 'Broxie #592',
     attributes: [
       {
         trait_type: 'back',
@@ -27276,10 +30828,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUaGZBAdbTEojSuPMfVaZ8KDnqYu3b7PqHJcxKLjMpkpk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme149LAcUZDqhEb64o3v9qKyXqGD6UzhXjVWsWAt6bFKq',
+    address:
+      '0:89b08fe54a76e87ab54d7e1015b4f0549c9dc6b0af50c79ddb2dab4acd067969',
   },
   {
-    previewUrl: 'QmdPSx8Tw27rGBxC8rwTLqL95WGeRDf8ULN3fD5G5Gdsks',
-    ipfsUrl: 'Qmatwkai5AP1GKtDYCCrJ93uhsoVuwpbo1PZYGVFPkKB62',
+    id: 593,
+    name: 'Broxie #593',
     attributes: [
       {
         trait_type: 'back',
@@ -27322,10 +30880,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmatwkai5AP1GKtDYCCrJ93uhsoVuwpbo1PZYGVFPkKB62',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdPSx8Tw27rGBxC8rwTLqL95WGeRDf8ULN3fD5G5Gdsks',
+    address:
+      '0:83d1457b8c6107a2f644edf3441f843e6aba702e4d27df4283fcc2e0bf30a95a',
   },
   {
-    previewUrl: 'QmbStwxZQYUUSLN64ZhV2iPf3coz2CsP7ETMp2QtCxZ6Nj',
-    ipfsUrl: 'QmcNTeRZCgAhtcbFY4chrCKvFZxkvrDvZ6pPPYuDdk42h8',
+    id: 594,
+    name: 'Broxie #594',
     attributes: [
       {
         trait_type: 'back',
@@ -27368,10 +30932,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcNTeRZCgAhtcbFY4chrCKvFZxkvrDvZ6pPPYuDdk42h8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbStwxZQYUUSLN64ZhV2iPf3coz2CsP7ETMp2QtCxZ6Nj',
+    address:
+      '0:e392f59373385f69593ad5116c2b65598d5676bf4010eaf1ddfc563abeec0af6',
   },
   {
-    previewUrl: 'Qmazk2A3t5zBgwkXMjcmNWxFFofCP7zGMcMSCL8myJmfmR',
-    ipfsUrl: 'QmPtmDebvoqrYQZR5VievNXAj5xXJWj5serpYC5Hc7YWeN',
+    id: 595,
+    name: 'Broxie #595',
     attributes: [
       {
         trait_type: 'back',
@@ -27414,10 +30984,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPtmDebvoqrYQZR5VievNXAj5xXJWj5serpYC5Hc7YWeN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmazk2A3t5zBgwkXMjcmNWxFFofCP7zGMcMSCL8myJmfmR',
+    address:
+      '0:1d983a075fcbd17ab3e7b49abd0ce9ec57758878f15908e95ff3b60c88820077',
   },
   {
-    previewUrl: 'QmU26UsaqSiVqMhaWQbs2DDFtLATUNCJz23GkCY8mk4pLP',
-    ipfsUrl: 'QmeXJ8TBjmML9pzgwB6hWGEmUd1GFmncbMF2mYLKnnjDiz',
+    id: 596,
+    name: 'Broxie #596',
     attributes: [
       {
         trait_type: 'back',
@@ -27460,10 +31036,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeXJ8TBjmML9pzgwB6hWGEmUd1GFmncbMF2mYLKnnjDiz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU26UsaqSiVqMhaWQbs2DDFtLATUNCJz23GkCY8mk4pLP',
+    address:
+      '0:102f245cbb9465b80ea613c30d4ed960f621c5a032b1ab69f4fb6e8ebd370b7d',
   },
   {
-    previewUrl: 'QmeNaSFMKxMbt1SoCdjaCC2X1fdZW5WULtSB9Pq4Yz4aWS',
-    ipfsUrl: 'QmU39JY8Tn8D8MMmRj1HpR2SZNaMCsQbxveEocrtz6buQw',
+    id: 597,
+    name: 'Broxie #597',
     attributes: [
       {
         trait_type: 'back',
@@ -27506,10 +31088,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU39JY8Tn8D8MMmRj1HpR2SZNaMCsQbxveEocrtz6buQw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeNaSFMKxMbt1SoCdjaCC2X1fdZW5WULtSB9Pq4Yz4aWS',
+    address:
+      '0:2ef1c82fe3d60e2f04ca82bcd1c444c406956d3942f2d0fab38928363d030d6f',
   },
   {
-    previewUrl: 'QmSDgfWfas7NeGbcvdgpca3EBt2m8VSopUksSAfQGtJ7zC',
-    ipfsUrl: 'QmYLaU3HBX5bBV7HRJDw7jUJHVN49dfaP66epBHzVcmC7i',
+    id: 598,
+    name: 'Broxie #598',
     attributes: [
       {
         trait_type: 'back',
@@ -27552,10 +31140,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYLaU3HBX5bBV7HRJDw7jUJHVN49dfaP66epBHzVcmC7i',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSDgfWfas7NeGbcvdgpca3EBt2m8VSopUksSAfQGtJ7zC',
+    address:
+      '0:e7d83719ebfa5915ed6cea05990cd97d968de203c12be1dccc12e2f42103f27d',
   },
   {
-    previewUrl: 'QmYFYanJsQMmQiaui8nGgD6tmTaoYSA4hJwFaqQREm9XRB',
-    ipfsUrl: 'QmSy7csYDfMQsp8hDACmY6CujVBdStpNujsn79JiuXsweV',
+    id: 599,
+    name: 'Broxie #599',
     attributes: [
       {
         trait_type: 'back',
@@ -27598,10 +31192,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSy7csYDfMQsp8hDACmY6CujVBdStpNujsn79JiuXsweV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYFYanJsQMmQiaui8nGgD6tmTaoYSA4hJwFaqQREm9XRB',
+    address:
+      '0:650b449b627b479acb5b9ff522ea8d4b1b4c4b6b03fb71d738f577c33f7b2d0c',
   },
   {
-    previewUrl: 'Qmdi37ZgJLF4cqN9kRA58EQLVbxmHvnyBGnJE5jp8tuzHA',
-    ipfsUrl: 'QmXo6JuB3M1bbF4VL9BneFqfBzAL5JRKyvjqhmqSGH2co9',
+    id: 600,
+    name: 'Broxie #600',
     attributes: [
       {
         trait_type: 'back',
@@ -27644,10 +31244,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXo6JuB3M1bbF4VL9BneFqfBzAL5JRKyvjqhmqSGH2co9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdi37ZgJLF4cqN9kRA58EQLVbxmHvnyBGnJE5jp8tuzHA',
+    address:
+      '0:12de532384ac73a10fce49d8466551e7d20d003c60ceb5a47c11ccd49464a5b9',
   },
   {
-    previewUrl: 'QmSRuJuEWMGyv1h34iix1JV9VYHKUHVTrYrb6UJSDb2hoD',
-    ipfsUrl: 'QmP6P3fQtT8YUrKyLeKeLB55GLrUE8mjm24pzYMVd5WYbh',
+    id: 601,
+    name: 'Broxie #601',
     attributes: [
       {
         trait_type: 'back',
@@ -27690,10 +31296,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmP6P3fQtT8YUrKyLeKeLB55GLrUE8mjm24pzYMVd5WYbh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSRuJuEWMGyv1h34iix1JV9VYHKUHVTrYrb6UJSDb2hoD',
+    address:
+      '0:793ff25ea0ef4f0543e82fe96a10c46ebe01067ea206d61cab5e57643d7a445e',
   },
   {
-    previewUrl: 'QmSMfzKJppj22B6PerZqBDfdTcWyPCxCMyDZtyAHJk8f3p',
-    ipfsUrl: 'QmQdp6byoRSHFZBJi8JX8aHd7tUs3k798iyzo92vGptpwK',
+    id: 602,
+    name: 'Broxie #602',
     attributes: [
       {
         trait_type: 'back',
@@ -27736,10 +31348,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQdp6byoRSHFZBJi8JX8aHd7tUs3k798iyzo92vGptpwK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSMfzKJppj22B6PerZqBDfdTcWyPCxCMyDZtyAHJk8f3p',
+    address:
+      '0:4cc319290b2dac73f4c61faa45309682f7c9b16723ba18ac9aced3ce76adedab',
   },
   {
-    previewUrl: 'QmdoQ6SRcRSSWn5CpXwRJXQzFfeWLihNpwqbigDtgBbAyB',
-    ipfsUrl: 'QmcbnBeA3eKJgm6ctGL4kEoHmVPNSe8hKZ8C2YbLPiE16c',
+    id: 603,
+    name: 'Broxie #603',
     attributes: [
       {
         trait_type: 'back',
@@ -27782,10 +31400,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcbnBeA3eKJgm6ctGL4kEoHmVPNSe8hKZ8C2YbLPiE16c',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdoQ6SRcRSSWn5CpXwRJXQzFfeWLihNpwqbigDtgBbAyB',
+    address:
+      '0:b08c26fd0a8866011d21e0ab13d72685bb598d0db6a26574044e7ce064633537',
   },
   {
-    previewUrl: 'QmQdfWyDNfTrDfjeun6YA7MsPy6vf1ujR4cATiT9tqaZjZ',
-    ipfsUrl: 'QmSr13qLrQLLVc5cnXv6TjaAsTcGphF6JaoqjhZfPrVeYm',
+    id: 604,
+    name: 'Broxie #604',
     attributes: [
       {
         trait_type: 'back',
@@ -27828,10 +31452,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSr13qLrQLLVc5cnXv6TjaAsTcGphF6JaoqjhZfPrVeYm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQdfWyDNfTrDfjeun6YA7MsPy6vf1ujR4cATiT9tqaZjZ',
+    address:
+      '0:932637bc87b5dffb848bbe3ae0c5ee8b3dc267c904d0c270fc4d44becd53c1dc',
   },
   {
-    previewUrl: 'QmbNRKppAsiBHEtnkYFbjBTGLNYH93eSHg8CVuwTqDuZ67',
-    ipfsUrl: 'QmTMdk7XwC6jwGJebxNki7R29zHQYmqCPV7Fb27JvGDrNB',
+    id: 605,
+    name: 'Broxie #605',
     attributes: [
       {
         trait_type: 'back',
@@ -27874,10 +31504,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTMdk7XwC6jwGJebxNki7R29zHQYmqCPV7Fb27JvGDrNB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbNRKppAsiBHEtnkYFbjBTGLNYH93eSHg8CVuwTqDuZ67',
+    address:
+      '0:82c9364d77b0d18aa80fcb69b7941eddd1c959eb3a0ac48bb861fb1cd24e3114',
   },
   {
-    previewUrl: 'QmRsGdT9JEG7Byk5z9r79ZJjUJhf9Rui2yg81r8CUeyiXL',
-    ipfsUrl: 'QmaJPdK82VyZQdCYh1vhMmFsVCmuTzrvWUvY5ZoJEgNB7R',
+    id: 606,
+    name: 'Broxie #606',
     attributes: [
       {
         trait_type: 'back',
@@ -27920,10 +31556,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaJPdK82VyZQdCYh1vhMmFsVCmuTzrvWUvY5ZoJEgNB7R',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRsGdT9JEG7Byk5z9r79ZJjUJhf9Rui2yg81r8CUeyiXL',
+    address:
+      '0:6e5454202bb1b0cf7b7d9b06d9813992736acededb14784d79dde879420b1574',
   },
   {
-    previewUrl: 'QmWM2YaEwUkWv5UW8SAsQvUPf6ikb1xpgN6BHzjnp9ATye',
-    ipfsUrl: 'QmetdFH3HD94dBhScX6RwT8CT9GMGDprUPme6HoxjkQ5o7',
+    id: 607,
+    name: 'Broxie #607',
     attributes: [
       {
         trait_type: 'back',
@@ -27966,10 +31608,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmetdFH3HD94dBhScX6RwT8CT9GMGDprUPme6HoxjkQ5o7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWM2YaEwUkWv5UW8SAsQvUPf6ikb1xpgN6BHzjnp9ATye',
+    address:
+      '0:effdf2e65e4ac18e905d8dcbf6635a101c8dbc1661aedbef7b07f7bd1ae10ac1',
   },
   {
-    previewUrl: 'QmaQVKxHcWp1RC8kxomCV8ey9uWrxhe9UkvY4y3XYn7zb3',
-    ipfsUrl: 'QmX8HLzbH8KiuBVJupDDwe8idNBoaKGz7U3bUQ2w9Jf5tg',
+    id: 608,
+    name: 'Broxie #608',
     attributes: [
       {
         trait_type: 'back',
@@ -28012,10 +31660,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX8HLzbH8KiuBVJupDDwe8idNBoaKGz7U3bUQ2w9Jf5tg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaQVKxHcWp1RC8kxomCV8ey9uWrxhe9UkvY4y3XYn7zb3',
+    address:
+      '0:10e82c7772af1aff11c6967dc9404721f731e3f3c7bafc29ea61a633e5d9003a',
   },
   {
-    previewUrl: 'QmNnF4UEWkphmmMsiKsZNUR5fCx29Ks79kf7eetZTBXifF',
-    ipfsUrl: 'QmVPqpJoab4zMWGkbNzscwfZaHYciAKbdCRAA8M8bYtVwQ',
+    id: 609,
+    name: 'Broxie #609',
     attributes: [
       {
         trait_type: 'back',
@@ -28058,10 +31712,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVPqpJoab4zMWGkbNzscwfZaHYciAKbdCRAA8M8bYtVwQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNnF4UEWkphmmMsiKsZNUR5fCx29Ks79kf7eetZTBXifF',
+    address:
+      '0:1208ccda06b9ab41a189f5698df48ba7d5c13919a0c5d8f2ea1724c35186b1e5',
   },
   {
-    previewUrl: 'QmSzje7NuGh6PYxKCMfpTnLEVuZRWBz2rJrd1HXCYaNN4g',
-    ipfsUrl: 'QmUWCsfUo7mLRDVDnrF3ZobXNFf6gc4Egby5hLEzXxza8b',
+    id: 610,
+    name: 'Broxie #610',
     attributes: [
       {
         trait_type: 'back',
@@ -28104,10 +31764,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUWCsfUo7mLRDVDnrF3ZobXNFf6gc4Egby5hLEzXxza8b',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSzje7NuGh6PYxKCMfpTnLEVuZRWBz2rJrd1HXCYaNN4g',
+    address:
+      '0:943354b8127c78b280cea60972b671502b76064da3c0c69f2f318246c736e1d3',
   },
   {
-    previewUrl: 'QmQz1VL3THZaZQG3GZaspPccia6aywwNrbMSri3aUHnUbg',
-    ipfsUrl: 'QmRQSxesaEQuANT2W3vVZFnwt9ZoBgJ7MyBvZHVucaD1fz',
+    id: 611,
+    name: 'Broxie #611',
     attributes: [
       {
         trait_type: 'back',
@@ -28150,10 +31816,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRQSxesaEQuANT2W3vVZFnwt9ZoBgJ7MyBvZHVucaD1fz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQz1VL3THZaZQG3GZaspPccia6aywwNrbMSri3aUHnUbg',
+    address:
+      '0:e0a06c7d81475746d5fc513dbc7350de5d916ff3c647bba03ba8e77baa81497a',
   },
   {
-    previewUrl: 'QmYBE9uwEAtxe4ZeWEbj2adsvoWgGpAnXnqa7UX7XdKZKv',
-    ipfsUrl: 'QmW9eCs1EfZarRVZjYNcMW5nmCu6nJX3m3zqZwmchVKpB2',
+    id: 612,
+    name: 'Broxie #612',
     attributes: [
       {
         trait_type: 'back',
@@ -28196,10 +31868,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW9eCs1EfZarRVZjYNcMW5nmCu6nJX3m3zqZwmchVKpB2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYBE9uwEAtxe4ZeWEbj2adsvoWgGpAnXnqa7UX7XdKZKv',
+    address:
+      '0:14a4275a0fd036bf89bd80caef5974f32aec0147e445495be99cdb92b6de7001',
   },
   {
-    previewUrl: 'QmbiRb2U83kSq1iJyNfWLFmj7eX3kT47AMuhjfG2NQPwsT',
-    ipfsUrl: 'QmQimqD4hBofHCmxZmzYhYpNaYf6edqwpaWoU7323nM1j2',
+    id: 613,
+    name: 'Broxie #613',
     attributes: [
       {
         trait_type: 'back',
@@ -28242,10 +31920,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQimqD4hBofHCmxZmzYhYpNaYf6edqwpaWoU7323nM1j2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbiRb2U83kSq1iJyNfWLFmj7eX3kT47AMuhjfG2NQPwsT',
+    address:
+      '0:3656db92a5d5698ff7c64ba42d2f3beb48132c3e6248c914d85797addfa3bc08',
   },
   {
-    previewUrl: 'QmUSmw3qky6RbaaUBEVRYpZvc9vaMWipS6o5SmdF2j5phV',
-    ipfsUrl: 'QmaADiGjLxyRtkvhU2q36u7uuVfYdv3h2hxxvDVQRiFKsY',
+    id: 614,
+    name: 'Broxie #614',
     attributes: [
       {
         trait_type: 'back',
@@ -28288,10 +31972,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaADiGjLxyRtkvhU2q36u7uuVfYdv3h2hxxvDVQRiFKsY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUSmw3qky6RbaaUBEVRYpZvc9vaMWipS6o5SmdF2j5phV',
+    address:
+      '0:de8cad5f1a44a5902133d51415272b1e80bc2338e266d1fe57857fb7ba6b2bac',
   },
   {
-    previewUrl: 'QmfRumxnn94y1eeMVtqdHyhGSE4CSmwXFYAZz9b2viH4A2',
-    ipfsUrl: 'QmY5grXfCzchHp1dJTGaAnzjyUtt8GmF5XyeE9JW6cnK3Z',
+    id: 615,
+    name: 'Broxie #615',
     attributes: [
       {
         trait_type: 'back',
@@ -28334,10 +32024,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY5grXfCzchHp1dJTGaAnzjyUtt8GmF5XyeE9JW6cnK3Z',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfRumxnn94y1eeMVtqdHyhGSE4CSmwXFYAZz9b2viH4A2',
+    address:
+      '0:fab6f23f85c5d53ea93f4bd4241cc0916716608949385c4480bea9372610287e',
   },
   {
-    previewUrl: 'QmQwMLzf4SSpkgqAHtnnh8PstCTSrvMVC982AkSTdQ2rmR',
-    ipfsUrl: 'QmQkHvzyyhav4e2eznooTSCXBTEDtDH6S4u4LTmZUsowAf',
+    id: 616,
+    name: 'Broxie #616',
     attributes: [
       {
         trait_type: 'back',
@@ -28380,10 +32076,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQkHvzyyhav4e2eznooTSCXBTEDtDH6S4u4LTmZUsowAf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQwMLzf4SSpkgqAHtnnh8PstCTSrvMVC982AkSTdQ2rmR',
+    address:
+      '0:26d898e77f5a342e4a303592adbf3e7c123dcbdf0cc5b2c448d9afd034a432d9',
   },
   {
-    previewUrl: 'QmU9j4VQSzPNDZYvKdVqNr6EkP4bLayBR3HcJvSbC779NN',
-    ipfsUrl: 'QmTCGWfjfMMLYuJsw25z1wcicKW7eyaRRuetkZR1n5tBBq',
+    id: 617,
+    name: 'Broxie #617',
     attributes: [
       {
         trait_type: 'back',
@@ -28426,10 +32128,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTCGWfjfMMLYuJsw25z1wcicKW7eyaRRuetkZR1n5tBBq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU9j4VQSzPNDZYvKdVqNr6EkP4bLayBR3HcJvSbC779NN',
+    address:
+      '0:2dce3cf10bceb0bc84b63fd67a485b7527f8a7b910017f117cea6a4eaaea84fa',
   },
   {
-    previewUrl: 'QmQDo9JdWe9M8CNiUoAhqebCkdCSzz1GpiWnt7C1C3vEVH',
-    ipfsUrl: 'QmfYfVW25wXTTccdZMPNft5ZVdUBGpQiDCEbXT2Jkzgpfd',
+    id: 618,
+    name: 'Broxie #618',
     attributes: [
       {
         trait_type: 'back',
@@ -28472,10 +32180,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfYfVW25wXTTccdZMPNft5ZVdUBGpQiDCEbXT2Jkzgpfd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQDo9JdWe9M8CNiUoAhqebCkdCSzz1GpiWnt7C1C3vEVH',
+    address:
+      '0:8aefcd8b5fc67fcb0fe24bd1fc6c45f7432e6de051ef81649c61763eddd99c96',
   },
   {
-    previewUrl: 'QmeUWb59K4HFd1ubWwQqdpDfU4VtRptKXTQhMaVPpW6Mia',
-    ipfsUrl: 'QmW5EeZYXKHMK9n1z36kSdTAZCVrgjL5mkkFq9Yj3KEN68',
+    id: 619,
+    name: 'Broxie #619',
     attributes: [
       {
         trait_type: 'back',
@@ -28518,10 +32232,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW5EeZYXKHMK9n1z36kSdTAZCVrgjL5mkkFq9Yj3KEN68',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeUWb59K4HFd1ubWwQqdpDfU4VtRptKXTQhMaVPpW6Mia',
+    address:
+      '0:39755745ad18b918738e44b029f57718cf0782b45aa32ad3af99a2f2bf4f639c',
   },
   {
-    previewUrl: 'QmTYVq7jGWNZ8wVAUik2R1TK4t1H3gbEBQsKN1LWvBK3GR',
-    ipfsUrl: 'QmPTzNbKyJrgx7rEDRmXawHe972MuA5t1xnJhvaTGzYBT9',
+    id: 620,
+    name: 'Broxie #620',
     attributes: [
       {
         trait_type: 'back',
@@ -28564,10 +32284,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPTzNbKyJrgx7rEDRmXawHe972MuA5t1xnJhvaTGzYBT9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTYVq7jGWNZ8wVAUik2R1TK4t1H3gbEBQsKN1LWvBK3GR',
+    address:
+      '0:c39ebca8dd2f4fd29d4eec9676aacbdac0d74f8d6e03ace76fd8f980b2aa8ce4',
   },
   {
-    previewUrl: 'QmPuh6B4TGnkN2Fk2hf57wy37GEKj3zGxkwiyd4UxN8TYw',
-    ipfsUrl: 'QmZXHNDjYDbBDzpK2RiLygpH1T5Sq1tFjuHrYcu9iz8wkF',
+    id: 621,
+    name: 'Broxie #621',
     attributes: [
       {
         trait_type: 'back',
@@ -28610,10 +32336,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZXHNDjYDbBDzpK2RiLygpH1T5Sq1tFjuHrYcu9iz8wkF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPuh6B4TGnkN2Fk2hf57wy37GEKj3zGxkwiyd4UxN8TYw',
+    address:
+      '0:c7d286cb61174274384313f6b1800e26561e531e8d10b564fa051f2b95e3d9c4',
   },
   {
-    previewUrl: 'QmUeFaTFyjKxWQmvjvAkT86sikTn7yTX36qrWgntsa5A7X',
-    ipfsUrl: 'QmTMCJNPKdhwfJqmdcNjxZcAchmBZqFcLLbBnMtHxEonsv',
+    id: 622,
+    name: 'Broxie #622',
     attributes: [
       {
         trait_type: 'back',
@@ -28656,10 +32388,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTMCJNPKdhwfJqmdcNjxZcAchmBZqFcLLbBnMtHxEonsv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUeFaTFyjKxWQmvjvAkT86sikTn7yTX36qrWgntsa5A7X',
+    address:
+      '0:ca1a65b343e0242213d2faafdfdf83d5f5753c17358119b87f3c83051b51dbdd',
   },
   {
-    previewUrl: 'QmVJAfWQ21boAbKYpinkV7kbaVJUNkuZMrn6Mdd6h5hVTu',
-    ipfsUrl: 'QmNdzkqsrmvgsztvA8RGYweyLumwMzjX4pb4ZvUta2k1D7',
+    id: 623,
+    name: 'Broxie #623',
     attributes: [
       {
         trait_type: 'back',
@@ -28702,10 +32440,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNdzkqsrmvgsztvA8RGYweyLumwMzjX4pb4ZvUta2k1D7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVJAfWQ21boAbKYpinkV7kbaVJUNkuZMrn6Mdd6h5hVTu',
+    address:
+      '0:222bcafc745531eac797bc0d851cbc4e57012fb39fd722f88f1ddb823ddb94bb',
   },
   {
-    previewUrl: 'QmQTyr1PSWJFBAwEQRUVRifet1qAAqa6MdhMAZ1FUDqfWj',
-    ipfsUrl: 'QmNyVo2mykCHqwbPeMYkNPigRTVJ5rtXpiz66jJ5JpCcuQ',
+    id: 624,
+    name: 'Broxie #624',
     attributes: [
       {
         trait_type: 'back',
@@ -28748,10 +32492,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNyVo2mykCHqwbPeMYkNPigRTVJ5rtXpiz66jJ5JpCcuQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQTyr1PSWJFBAwEQRUVRifet1qAAqa6MdhMAZ1FUDqfWj',
+    address:
+      '0:6476c9f850606156ef6f3da9715415173a0043f288e925fdad767739cede4daf',
   },
   {
-    previewUrl: 'QmeSaPK2xrzsKdkBNNciqWq5z2EdBVYMYwe2DNSSr3Ka1N',
-    ipfsUrl: 'QmUwebaoXmSmc2ZXEPGbDiuSViShyqCMfkYbHMKjFsVcwT',
+    id: 625,
+    name: 'Broxie #625',
     attributes: [
       {
         trait_type: 'back',
@@ -28794,10 +32544,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUwebaoXmSmc2ZXEPGbDiuSViShyqCMfkYbHMKjFsVcwT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeSaPK2xrzsKdkBNNciqWq5z2EdBVYMYwe2DNSSr3Ka1N',
+    address:
+      '0:0160e0d9777fa1a6f81ec348e5163a158601724755187bd2969190b61c735738',
   },
   {
-    previewUrl: 'QmNNtBNa6UwfM7vgoZWFi2SMYQSKRamaUdSmvz5Jti4Y9s',
-    ipfsUrl: 'QmenwF4JoQLtwN1MFv3vLXDUkqmuKfA4oGXNvGcobGgFSA',
+    id: 626,
+    name: 'Broxie #626',
     attributes: [
       {
         trait_type: 'back',
@@ -28840,10 +32596,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmenwF4JoQLtwN1MFv3vLXDUkqmuKfA4oGXNvGcobGgFSA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNNtBNa6UwfM7vgoZWFi2SMYQSKRamaUdSmvz5Jti4Y9s',
+    address:
+      '0:29c5b2a4b185539fed3bea7939c1d3449562cede3675510940fab196059e36a4',
   },
   {
-    previewUrl: 'QmXaCVD3WskGCXgDW4qfTvD59J73ZJhCZZic177s2Aupuy',
-    ipfsUrl: 'QmXBfCGKZ4x9aTExpGJQzMQz3qZqVCBnFA3uHdmk5F32h4',
+    id: 627,
+    name: 'Broxie #627',
     attributes: [
       {
         trait_type: 'back',
@@ -28886,10 +32648,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXBfCGKZ4x9aTExpGJQzMQz3qZqVCBnFA3uHdmk5F32h4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXaCVD3WskGCXgDW4qfTvD59J73ZJhCZZic177s2Aupuy',
+    address:
+      '0:427d1034b761c9fb69aa5cca5eaa1c2a59a90ee3647f6d68cde4b2315fafefd3',
   },
   {
-    previewUrl: 'QmTjX3SwGz4in2SxRznMcsDNbHQXLXpeV3XGiV53PipMjW',
-    ipfsUrl: 'QmWZ4twvizxeUCazu7DQGMm1FWnW4ipRg5vzHfBzYuTsTk',
+    id: 628,
+    name: 'Broxie #628',
     attributes: [
       {
         trait_type: 'back',
@@ -28932,10 +32700,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWZ4twvizxeUCazu7DQGMm1FWnW4ipRg5vzHfBzYuTsTk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTjX3SwGz4in2SxRznMcsDNbHQXLXpeV3XGiV53PipMjW',
+    address:
+      '0:2439cd98ca51d1b9406b2ebf95aa0d4fce6e0d7a7793a2b3af2145bf50cf87b5',
   },
   {
-    previewUrl: 'QmcmBLqMwUm6NjhTpkm6sA2ZtzVCAKNpcLDk5LKexW5qa3',
-    ipfsUrl: 'QmUSN6JeyU72RfFcuuoqRaguJWFLNTdhaytjRx5CPe3aP1',
+    id: 629,
+    name: 'Broxie #629',
     attributes: [
       {
         trait_type: 'back',
@@ -28978,10 +32752,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUSN6JeyU72RfFcuuoqRaguJWFLNTdhaytjRx5CPe3aP1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcmBLqMwUm6NjhTpkm6sA2ZtzVCAKNpcLDk5LKexW5qa3',
+    address:
+      '0:728e84dd49e10d5f3fc4c1d60623767fb8895385251391422410cd40c988991e',
   },
   {
-    previewUrl: 'QmWvYXqm6XG3EXR8EQUPrAqL1vweQFSsDdHesq7ZxjdYSW',
-    ipfsUrl: 'Qmew5sR5nR2aaq1Mr9KuFuarqth9ck9kNg5uLuSfgLDHj6',
+    id: 630,
+    name: 'Broxie #630',
     attributes: [
       {
         trait_type: 'back',
@@ -29024,10 +32804,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmew5sR5nR2aaq1Mr9KuFuarqth9ck9kNg5uLuSfgLDHj6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWvYXqm6XG3EXR8EQUPrAqL1vweQFSsDdHesq7ZxjdYSW',
+    address:
+      '0:36747611646d76c1da83814b87da79f29b19195e79b59e443a530dcf22b7fcfd',
   },
   {
-    previewUrl: 'QmUTo9vg23cFrRjXsABaLwtjLmfQFmoLFEFqyugoGsGwdb',
-    ipfsUrl: 'QmSKeKaxuN6BUoEYgHj6m2Qar55bmJNNqcfVuapacSoA9C',
+    id: 631,
+    name: 'Broxie #631',
     attributes: [
       {
         trait_type: 'back',
@@ -29070,10 +32856,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSKeKaxuN6BUoEYgHj6m2Qar55bmJNNqcfVuapacSoA9C',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUTo9vg23cFrRjXsABaLwtjLmfQFmoLFEFqyugoGsGwdb',
+    address:
+      '0:72978688e64802f21661630ba7a0c88ca4e542870c9209ceed6789594340d80f',
   },
   {
-    previewUrl: 'QmPRp2jz1jSFgZ34kYZvrHe3WaTo6Skcun8LovEv3vsvUy',
-    ipfsUrl: 'QmaD32euDNk1LukcA3HWc4MMQ2iyg8Wj96oAUWochG5ggQ',
+    id: 632,
+    name: 'Broxie #632',
     attributes: [
       {
         trait_type: 'back',
@@ -29116,10 +32908,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaD32euDNk1LukcA3HWc4MMQ2iyg8Wj96oAUWochG5ggQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPRp2jz1jSFgZ34kYZvrHe3WaTo6Skcun8LovEv3vsvUy',
+    address:
+      '0:c6ab8a59711adb10814119813cb81bf8c2438e385856ff77d7bc219a27bf455f',
   },
   {
-    previewUrl: 'QmeNmnZXBPJ756SjzgsCByTKBBiStNmsfdCasqCk2i1uLZ',
-    ipfsUrl: 'QmUwhiT5snihkvjRP8BTGwdLYcQYgPC4uZuazsDsXLk8B6',
+    id: 633,
+    name: 'Broxie #633',
     attributes: [
       {
         trait_type: 'back',
@@ -29162,10 +32960,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUwhiT5snihkvjRP8BTGwdLYcQYgPC4uZuazsDsXLk8B6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeNmnZXBPJ756SjzgsCByTKBBiStNmsfdCasqCk2i1uLZ',
+    address:
+      '0:4f8d184fba700c97ff0947c2db064fe1794b2eb08de418e27992b790e0b7e18f',
   },
   {
-    previewUrl: 'QmZr8dZaiAxkTAyTje8JVSzipNCMCNvV6fhc9CFoYm3jqz',
-    ipfsUrl: 'QmPY2f7nfPE73KUkM4RAtWi6iXodCDpkoMfFQez5d2x4Fy',
+    id: 634,
+    name: 'Broxie #634',
     attributes: [
       {
         trait_type: 'back',
@@ -29208,10 +33012,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPY2f7nfPE73KUkM4RAtWi6iXodCDpkoMfFQez5d2x4Fy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZr8dZaiAxkTAyTje8JVSzipNCMCNvV6fhc9CFoYm3jqz',
+    address:
+      '0:1c9bc79cf839a9d57063d5f8e113d7db0685fd90a6e20432b0116f46231b493c',
   },
   {
-    previewUrl: 'Qmdr7VTrpWzZzxTRDbdbKic1zkgHsxZNoUHtw9Ca3pwaw4',
-    ipfsUrl: 'QmdUKafjCkPbD53xsVN21EL2H2pYiwuXYeLThBdVkWfCHp',
+    id: 635,
+    name: 'Broxie #635',
     attributes: [
       {
         trait_type: 'back',
@@ -29254,10 +33064,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdUKafjCkPbD53xsVN21EL2H2pYiwuXYeLThBdVkWfCHp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdr7VTrpWzZzxTRDbdbKic1zkgHsxZNoUHtw9Ca3pwaw4',
+    address:
+      '0:5b06f8c467aed0dfc7b93e32cc17e1dd51806274c9500b8b1218ce9d2d7b9cef',
   },
   {
-    previewUrl: 'QmW75rUKgVfeULAZcT64s6KHcCGtyrwMHzdsEUvSSHBKhz',
-    ipfsUrl: 'QmTaSpVCXrcnKPGkq7tFHA4wQTGfWKLwL3EzXpD25Q928Z',
+    id: 636,
+    name: 'Broxie #636',
     attributes: [
       {
         trait_type: 'back',
@@ -29300,10 +33116,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTaSpVCXrcnKPGkq7tFHA4wQTGfWKLwL3EzXpD25Q928Z',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW75rUKgVfeULAZcT64s6KHcCGtyrwMHzdsEUvSSHBKhz',
+    address:
+      '0:3aa884d7d5ba980b9216ebf0d9f5d894242f574c8bbac44c300469ec69f7afab',
   },
   {
-    previewUrl: 'QmRNPM4rLCR4KhGBKRTTBG1NPJCd6oFy7ZAC6GkBji3wgv',
-    ipfsUrl: 'Qmdc59oxXy1DTK8hSxg6gbG7vy8JHDFGCqqnRQLp5mMqFB',
+    id: 637,
+    name: 'Broxie #637',
     attributes: [
       {
         trait_type: 'back',
@@ -29346,10 +33168,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdc59oxXy1DTK8hSxg6gbG7vy8JHDFGCqqnRQLp5mMqFB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRNPM4rLCR4KhGBKRTTBG1NPJCd6oFy7ZAC6GkBji3wgv',
+    address:
+      '0:87a263106b3f82c792ad95fbb465c112564b08522d89d20c70f5de6f0dcafbf0',
   },
   {
-    previewUrl: 'QmeikKvyf4HHsFqZAYSzJLCxGtPcfGNdNyU1UEyoK227ii',
-    ipfsUrl: 'QmdY196hKijc2hcsmff5zgBqMB4FK93Yy6eQwsmkyoHDrY',
+    id: 638,
+    name: 'Broxie #638',
     attributes: [
       {
         trait_type: 'back',
@@ -29392,10 +33220,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdY196hKijc2hcsmff5zgBqMB4FK93Yy6eQwsmkyoHDrY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeikKvyf4HHsFqZAYSzJLCxGtPcfGNdNyU1UEyoK227ii',
+    address:
+      '0:1c0fdec2570ea7288e2deeb31d5527c3ed2a82cc3ee510798922352565a96a1d',
   },
   {
-    previewUrl: 'QmdqaDRb2eMoPMAoouvwQqZTbmCC5Sk8wVBxqKyaeGFLqa',
-    ipfsUrl: 'QmTmwdVMGuLsXLDDYSoFq9yuvHHgUshuBTgVfgWxLdyf3r',
+    id: 639,
+    name: 'Broxie #639',
     attributes: [
       {
         trait_type: 'back',
@@ -29438,10 +33272,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTmwdVMGuLsXLDDYSoFq9yuvHHgUshuBTgVfgWxLdyf3r',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdqaDRb2eMoPMAoouvwQqZTbmCC5Sk8wVBxqKyaeGFLqa',
+    address:
+      '0:c26d58bf540cfac888a6ee6dda8fe7b9eec5f2cff114f85da4fd0659164eb9c3',
   },
   {
-    previewUrl: 'QmTuZEykn5zY9LrRSpSrWVUBR3Uwy9yGUq8UxRcysLGimG',
-    ipfsUrl: 'Qman9tSYJzqZxFqCtDWB3H8QiBY4JGB1iHxmoAtBSCf8XB',
+    id: 640,
+    name: 'Broxie #640',
     attributes: [
       {
         trait_type: 'back',
@@ -29484,10 +33324,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qman9tSYJzqZxFqCtDWB3H8QiBY4JGB1iHxmoAtBSCf8XB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTuZEykn5zY9LrRSpSrWVUBR3Uwy9yGUq8UxRcysLGimG',
+    address:
+      '0:48322dd1d859b8f39a0e284401a4483a6a84f1f9e15ff2510a508359826bc368',
   },
   {
-    previewUrl: 'QmURTBBLTxPf5QJRb97rmLTp4Gxviwtzk2js8Lwp1cXisZ',
-    ipfsUrl: 'QmT9yyGRFPgPBbXRZGEcJ5FYJzaPFGV7WDheabUZkpvKy6',
+    id: 641,
+    name: 'Broxie #641',
     attributes: [
       {
         trait_type: 'back',
@@ -29530,10 +33376,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT9yyGRFPgPBbXRZGEcJ5FYJzaPFGV7WDheabUZkpvKy6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmURTBBLTxPf5QJRb97rmLTp4Gxviwtzk2js8Lwp1cXisZ',
+    address:
+      '0:eee15ca3c55429f2f42db2c09fa5cae21d52e9b6aaf6d96f659f35fcfb2c3946',
   },
   {
-    previewUrl: 'QmazYtbBqWDerHS8MZTy8x7rxncSDaxMUSy11Zh2jvDYTY',
-    ipfsUrl: 'Qmembnh9TRLbwfJub199QH3H6iazcMcRBYnvyvUDhTsm6D',
+    id: 642,
+    name: 'Broxie #642',
     attributes: [
       {
         trait_type: 'back',
@@ -29576,10 +33428,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmembnh9TRLbwfJub199QH3H6iazcMcRBYnvyvUDhTsm6D',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmazYtbBqWDerHS8MZTy8x7rxncSDaxMUSy11Zh2jvDYTY',
+    address:
+      '0:56469d2a0b6d1fae044460cafc525ed6fce3d5a6ea7a0c892037a3ac894e8c1a',
   },
   {
-    previewUrl: 'QmYEtzxUa7EbAwqbvx9QFpbZGWRQ815xeWHKYWiP2P31Kr',
-    ipfsUrl: 'Qmc7pdu8vyvbuppxQYgPEc3MREjdJW6mqfP9Ee6vwTpMrr',
+    id: 643,
+    name: 'Broxie #643',
     attributes: [
       {
         trait_type: 'back',
@@ -29622,10 +33480,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc7pdu8vyvbuppxQYgPEc3MREjdJW6mqfP9Ee6vwTpMrr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYEtzxUa7EbAwqbvx9QFpbZGWRQ815xeWHKYWiP2P31Kr',
+    address:
+      '0:9d7a73fd4c06bf0fa20868d5dbd0811d344b071f90877e36359aa9d78a3014cb',
   },
   {
-    previewUrl: 'QmXLZDmcjn1bxi3jQ8ytJ7xZN6k1CVUc11b4UKmour1YNp',
-    ipfsUrl: 'QmUeRMjYyCRkh6v4ncpbZx8pU4E6q7nbJAqs8W1Ceex61S',
+    id: 644,
+    name: 'Broxie #644',
     attributes: [
       {
         trait_type: 'back',
@@ -29668,10 +33532,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUeRMjYyCRkh6v4ncpbZx8pU4E6q7nbJAqs8W1Ceex61S',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXLZDmcjn1bxi3jQ8ytJ7xZN6k1CVUc11b4UKmour1YNp',
+    address:
+      '0:047e84d767a380bba4f023a0b9f8349366364a0c6a942977c73d893402c0075e',
   },
   {
-    previewUrl: 'Qmbmf9r6Mj6ZJn3vPaHU3zrB3R4JHECYU3oDHyM8fodb9a',
-    ipfsUrl: 'QmUQ3522ee6eL8E4Cptx1kgSSMDGGeYWyo1uVnE4yBjmUK',
+    id: 645,
+    name: 'Broxie #645',
     attributes: [
       {
         trait_type: 'back',
@@ -29714,10 +33584,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUQ3522ee6eL8E4Cptx1kgSSMDGGeYWyo1uVnE4yBjmUK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbmf9r6Mj6ZJn3vPaHU3zrB3R4JHECYU3oDHyM8fodb9a',
+    address:
+      '0:aaf6ec512e1ba9ea995ae1096cb6e068d3c3dcf80421022666d7bfc902509a20',
   },
   {
-    previewUrl: 'QmWNwYriVSQ3VHVnj5nFyndPmhrAC93HN6ByPmz16fRdWt',
-    ipfsUrl: 'QmNT5XhqhLhjwF7TrF8cqieTwCXNTz3usDxPzNcoad1MCk',
+    id: 646,
+    name: 'Broxie #646',
     attributes: [
       {
         trait_type: 'back',
@@ -29760,10 +33636,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNT5XhqhLhjwF7TrF8cqieTwCXNTz3usDxPzNcoad1MCk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWNwYriVSQ3VHVnj5nFyndPmhrAC93HN6ByPmz16fRdWt',
+    address:
+      '0:3339b6fa316b2022e9c3cd0ae9be50de42acabb150f53dcdeb81c4de3c18f85e',
   },
   {
-    previewUrl: 'QmSLBi4w5BmhQtuuZAL6ypy3sYNo3vcWdUJiiVuakWGJpq',
-    ipfsUrl: 'QmUi2yYUW3TiJpTpMXGDQYMZysgSYpBwLsM3J78hvKAfGJ',
+    id: 647,
+    name: 'Broxie #647',
     attributes: [
       {
         trait_type: 'back',
@@ -29806,10 +33688,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUi2yYUW3TiJpTpMXGDQYMZysgSYpBwLsM3J78hvKAfGJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSLBi4w5BmhQtuuZAL6ypy3sYNo3vcWdUJiiVuakWGJpq',
+    address:
+      '0:98c7b247a01b4f218a061d38cf3d2c02e8b7fb292406c1159263fc086ba08b52',
   },
   {
-    previewUrl: 'QmQ1qjUASHTeNebfe6xQAARPyD7NsKSZ6b3PwnezUQku2s',
-    ipfsUrl: 'QmZvRqTt8cZZEj6oYgkKPntiuieDmEnCTtx9vu5tW3kjNH',
+    id: 648,
+    name: 'Broxie #648',
     attributes: [
       {
         trait_type: 'back',
@@ -29852,10 +33740,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZvRqTt8cZZEj6oYgkKPntiuieDmEnCTtx9vu5tW3kjNH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ1qjUASHTeNebfe6xQAARPyD7NsKSZ6b3PwnezUQku2s',
+    address:
+      '0:2663a627a8c16ef83a6869ccda2b2abaaca68cae6fff1019af9f88ab7813c8bc',
   },
   {
-    previewUrl: 'QmZZ2Gnn3WPRZiR4z661Q8ss6p84tqRxEWrsZZGwKLs88Z',
-    ipfsUrl: 'QmUsSeHjG2kCTeL7ivAaapR5n1Kz3W7nkfMtc9qdArLS3z',
+    id: 649,
+    name: 'Broxie #649',
     attributes: [
       {
         trait_type: 'back',
@@ -29898,10 +33792,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUsSeHjG2kCTeL7ivAaapR5n1Kz3W7nkfMtc9qdArLS3z',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZZ2Gnn3WPRZiR4z661Q8ss6p84tqRxEWrsZZGwKLs88Z',
+    address:
+      '0:5b16ea2128c798855c27160a2b7b6b3010e3844fa4db36517650ed315c5f39a6',
   },
   {
-    previewUrl: 'QmUNueQ8z3mLnfxaZX6eCEQHM62hJss2LDz39kmFHtkP7o',
-    ipfsUrl: 'QmdwRPkcaArXPxVDWfFqgeCwhX1ZrtBkjGWDjESW5dPESq',
+    id: 650,
+    name: 'Broxie #650',
     attributes: [
       {
         trait_type: 'back',
@@ -29944,10 +33844,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdwRPkcaArXPxVDWfFqgeCwhX1ZrtBkjGWDjESW5dPESq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUNueQ8z3mLnfxaZX6eCEQHM62hJss2LDz39kmFHtkP7o',
+    address:
+      '0:cafb54a515ce29e868c8279de46cf7e18bb09ef8325272ce2fff3396a851dd10',
   },
   {
-    previewUrl: 'QmTEJooxPL3rGSd3eNgFo4pFxw7ajD7S1wcAdADUCrpUhw',
-    ipfsUrl: 'QmbqCpj24QWh7keFkTw4zoe4fAsWcWGmzgZwrh6TBDC3jk',
+    id: 651,
+    name: 'Broxie #651',
     attributes: [
       {
         trait_type: 'back',
@@ -29990,10 +33896,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbqCpj24QWh7keFkTw4zoe4fAsWcWGmzgZwrh6TBDC3jk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTEJooxPL3rGSd3eNgFo4pFxw7ajD7S1wcAdADUCrpUhw',
+    address:
+      '0:367f577ff46403d857cf5a66e6f811c9f7c1e4d06e9a07f63961ee0ea666fd96',
   },
   {
-    previewUrl: 'QmSDkA28Y6n2XQrW7z4WgWWpSPkMqkETUG5AYqonCi4DBk',
-    ipfsUrl: 'QmUrD1kHGjGreCzzVXg4dkSdu9QnACCdbzErRAscSHk2xF',
+    id: 652,
+    name: 'Broxie #652',
     attributes: [
       {
         trait_type: 'back',
@@ -30036,10 +33948,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUrD1kHGjGreCzzVXg4dkSdu9QnACCdbzErRAscSHk2xF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSDkA28Y6n2XQrW7z4WgWWpSPkMqkETUG5AYqonCi4DBk',
+    address:
+      '0:97727db230d0197ad6519ca7168ee3a27252fe27dcaf518da72ef9183724e71e',
   },
   {
-    previewUrl: 'QmaE2gtgxdDHS53JQZLBbFzCHhFzUF6CFvWvGHWyja299u',
-    ipfsUrl: 'Qmbsvpn4wFzRrsYdZyWL5pK6MzwN72MFLk73ybzWf5qXpQ',
+    id: 653,
+    name: 'Broxie #653',
     attributes: [
       {
         trait_type: 'back',
@@ -30082,10 +34000,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbsvpn4wFzRrsYdZyWL5pK6MzwN72MFLk73ybzWf5qXpQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaE2gtgxdDHS53JQZLBbFzCHhFzUF6CFvWvGHWyja299u',
+    address:
+      '0:87ca9267492cdc848feb8a8c0fe2310547e4e7bd0241fb9ff7e8bf3e156b3c34',
   },
   {
-    previewUrl: 'QmQXbj8XsnunZ5hy9Hz1gZDXWkK8SYnujKoT7R82QXWZbT',
-    ipfsUrl: 'Qmbm1m7kmGa71nt7XRbNw2ZSptibXCXuer7voh8yn5iP5c',
+    id: 654,
+    name: 'Broxie #654',
     attributes: [
       {
         trait_type: 'back',
@@ -30128,10 +34052,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbm1m7kmGa71nt7XRbNw2ZSptibXCXuer7voh8yn5iP5c',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQXbj8XsnunZ5hy9Hz1gZDXWkK8SYnujKoT7R82QXWZbT',
+    address:
+      '0:3e1cad44c9eb5748bd157187912534cf6457171ae75ee2108e75497b468bfc88',
   },
   {
-    previewUrl: 'QmQcSRhFBUr8dvGuyK2H3Z9GeD9BxRaSAxPS1tZw75BLBW',
-    ipfsUrl: 'QmSuTZ9vtHL3qKQBBmm5bfWDjDGxThUAq14JJcuJpvLjtV',
+    id: 655,
+    name: 'Broxie #655',
     attributes: [
       {
         trait_type: 'back',
@@ -30174,10 +34104,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSuTZ9vtHL3qKQBBmm5bfWDjDGxThUAq14JJcuJpvLjtV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQcSRhFBUr8dvGuyK2H3Z9GeD9BxRaSAxPS1tZw75BLBW',
+    address:
+      '0:5975a71ead3ec02d232dd0eaf5488af7f538c8a390b7892f58a2fc98dda8cfa0',
   },
   {
-    previewUrl: 'QmPrLTLa5GVsZD3tarNKbKdec8QS3Psu2xXp7UKv8PcVqY',
-    ipfsUrl: 'QmcRYvdgi5ge3ofFP7KtBwE9UStToboBSiZUQRo8bJsPLx',
+    id: 656,
+    name: 'Broxie #656',
     attributes: [
       {
         trait_type: 'back',
@@ -30220,10 +34156,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcRYvdgi5ge3ofFP7KtBwE9UStToboBSiZUQRo8bJsPLx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPrLTLa5GVsZD3tarNKbKdec8QS3Psu2xXp7UKv8PcVqY',
+    address:
+      '0:7ee59642a3ff1bd4c40260bc704f02b131441951d5986e1fc3cd54cf6b16cc3a',
   },
   {
-    previewUrl: 'QmQejrLbFhZgp3XLiakR77JWSw6WgzVfqqi2Z47bcHT8z6',
-    ipfsUrl: 'QmcrmA1rH4A3R5uniXSPvyRa8xwZRjQYbXXCFSqTxE6kxG',
+    id: 657,
+    name: 'Broxie #657',
     attributes: [
       {
         trait_type: 'back',
@@ -30266,10 +34208,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcrmA1rH4A3R5uniXSPvyRa8xwZRjQYbXXCFSqTxE6kxG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQejrLbFhZgp3XLiakR77JWSw6WgzVfqqi2Z47bcHT8z6',
+    address:
+      '0:49b564ef874f19f7a853fa8c4836fff16772124b8004ffeb75880fcd1016a5cb',
   },
   {
-    previewUrl: 'QmWGr76dXSkVi1FDgcsWR5JcTDyb5kJG1q1cmT6AG8kjzu',
-    ipfsUrl: 'QmTDRLgEE5ABMKXBcNE8Tw44sMKS66JYNmEf3rJLvRdNX8',
+    id: 658,
+    name: 'Broxie #658',
     attributes: [
       {
         trait_type: 'back',
@@ -30312,10 +34260,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTDRLgEE5ABMKXBcNE8Tw44sMKS66JYNmEf3rJLvRdNX8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWGr76dXSkVi1FDgcsWR5JcTDyb5kJG1q1cmT6AG8kjzu',
+    address:
+      '0:ad9fbfa9bf4457190845e76eace70c72480ef53b15aa7f9f49c500aff8c7d1a3',
   },
   {
-    previewUrl: 'QmS8mtLFaNPMhsVLPJzCgDwdV9Wj5inXbzvB32qfCR1SYq',
-    ipfsUrl: 'QmSVqkvRjKK1yiwffhMunnCoFK9Jq7BgPjwvv8JmuwAQYJ',
+    id: 659,
+    name: 'Broxie #659',
     attributes: [
       {
         trait_type: 'back',
@@ -30358,10 +34312,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSVqkvRjKK1yiwffhMunnCoFK9Jq7BgPjwvv8JmuwAQYJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS8mtLFaNPMhsVLPJzCgDwdV9Wj5inXbzvB32qfCR1SYq',
+    address:
+      '0:837b5d0ab61a9b96e0464f281050c726b4627f19ecfd8d752196e3cc3377a96f',
   },
   {
-    previewUrl: 'QmRqTTHsZ6pQMTfTboU8THwb8u151m1FNHg8mQsZgJWxA3',
-    ipfsUrl: 'Qmcwbx2631PH1wz5tT1UGZEj4xZX8hH1oYSc4yjQ3UE9cM',
+    id: 660,
+    name: 'Broxie #660',
     attributes: [
       {
         trait_type: 'back',
@@ -30404,10 +34364,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcwbx2631PH1wz5tT1UGZEj4xZX8hH1oYSc4yjQ3UE9cM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRqTTHsZ6pQMTfTboU8THwb8u151m1FNHg8mQsZgJWxA3',
+    address:
+      '0:9f70aec9bf3c1bdc88b7390f04184c47c2f4bcde62f8f47a14eb14f2fa999501',
   },
   {
-    previewUrl: 'QmTZWn8W8AMLc49YfbT34K7Ps8PHTHSBGaaHuwGB79XcHq',
-    ipfsUrl: 'Qmbrtrfoxi9yRL6URWaXfBESArGsnFZVNGejSRRFgPkCt7',
+    id: 661,
+    name: 'Broxie #661',
     attributes: [
       {
         trait_type: 'back',
@@ -30450,10 +34416,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbrtrfoxi9yRL6URWaXfBESArGsnFZVNGejSRRFgPkCt7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTZWn8W8AMLc49YfbT34K7Ps8PHTHSBGaaHuwGB79XcHq',
+    address:
+      '0:d2c21a0d4a4fcf085c0ce4fb9d12adf3cf70abe7221f7d12b4403614bef40b6f',
   },
   {
-    previewUrl: 'QmZ2XfznSgji1hYm9NdEGE31FkSBXraa8oSxhnmhggWBHj',
-    ipfsUrl: 'QmXSh65rnfftCNUiJ5tQ6SAQeqhexShCxHtcC54dS3dPFn',
+    id: 662,
+    name: 'Broxie #662',
     attributes: [
       {
         trait_type: 'back',
@@ -30496,10 +34468,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXSh65rnfftCNUiJ5tQ6SAQeqhexShCxHtcC54dS3dPFn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ2XfznSgji1hYm9NdEGE31FkSBXraa8oSxhnmhggWBHj',
+    address:
+      '0:1303408acc9cefd6f30274818bc0b87e39dd2ade0814bbcfb872ff291193ca4d',
   },
   {
-    previewUrl: 'QmWRDSbMytGN6CoshXSXEHU5uX7r8ufUoqPC2LxCgG4aAP',
-    ipfsUrl: 'QmVxczjqmcQk6DHjJZVtBsDmHbWjqFo6pefHsRHM5Wypfq',
+    id: 663,
+    name: 'Broxie #663',
     attributes: [
       {
         trait_type: 'back',
@@ -30542,10 +34520,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVxczjqmcQk6DHjJZVtBsDmHbWjqFo6pefHsRHM5Wypfq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWRDSbMytGN6CoshXSXEHU5uX7r8ufUoqPC2LxCgG4aAP',
+    address:
+      '0:056ecaa2ed44c1400077d9c94aaef6a42f60793d88c96e2820f9b3b105c8dadc',
   },
   {
-    previewUrl: 'QmQ3cDdjx3T3uz1omTyK2jszfiq7dGKJaj9hQbiiQg4tKt',
-    ipfsUrl: 'QmNruZjjz6N5GKDTvxt9AHJ6NFF2E5f26xJv6NAZhaqkaZ',
+    id: 664,
+    name: 'Broxie #664',
     attributes: [
       {
         trait_type: 'back',
@@ -30588,10 +34572,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNruZjjz6N5GKDTvxt9AHJ6NFF2E5f26xJv6NAZhaqkaZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ3cDdjx3T3uz1omTyK2jszfiq7dGKJaj9hQbiiQg4tKt',
+    address:
+      '0:62628bdaae580cdff6f6417e2602ce004a2e49942e29578af1bfa36e6f03bd97',
   },
   {
-    previewUrl: 'QmbGw8o1N7fhiZSFaL9UZvUso8S1DtPRtY2qC7ZUEFcoXC',
-    ipfsUrl: 'QmVsuu1xxPiBWBDPw8sUAx98J3EmMuci283A4WGcDYUKBp',
+    id: 665,
+    name: 'Broxie #665',
     attributes: [
       {
         trait_type: 'back',
@@ -30634,10 +34624,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVsuu1xxPiBWBDPw8sUAx98J3EmMuci283A4WGcDYUKBp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbGw8o1N7fhiZSFaL9UZvUso8S1DtPRtY2qC7ZUEFcoXC',
+    address:
+      '0:74011927510d3f0d1a8843ce77d3f130a84820600ba05d1bc96becda5afc8657',
   },
   {
-    previewUrl: 'QmVmJha81ofo6Te9DQcs8gRpbHsY21xALTkfr6xGDZZKbY',
-    ipfsUrl: 'QmPf32aUxYhGWV3SqAmN5pbgeWh3qx7ombgMLomPH8oZ8v',
+    id: 666,
+    name: 'Broxie #666',
     attributes: [
       {
         trait_type: 'back',
@@ -30680,10 +34676,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPf32aUxYhGWV3SqAmN5pbgeWh3qx7ombgMLomPH8oZ8v',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVmJha81ofo6Te9DQcs8gRpbHsY21xALTkfr6xGDZZKbY',
+    address:
+      '0:0b10a4e7acc8407c5722f3a41a8caf2bff1775b186b6d5845e7d6d9d17733f84',
   },
   {
-    previewUrl: 'QmV9c5UyACZ5UW1xXMG4r9AnCqF9WmL8ighmAsUiS5V68a',
-    ipfsUrl: 'QmPz76NnvAZN9iL5SNdAZdg6CBbUY5xqwAUXHF42pU8jP8',
+    id: 667,
+    name: 'Broxie #667',
     attributes: [
       {
         trait_type: 'back',
@@ -30726,10 +34728,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPz76NnvAZN9iL5SNdAZdg6CBbUY5xqwAUXHF42pU8jP8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV9c5UyACZ5UW1xXMG4r9AnCqF9WmL8ighmAsUiS5V68a',
+    address:
+      '0:238b1b2d1fcc1b42a321c7bef80aa6c618d2dbfd0c5167889eec256c96aa7897',
   },
   {
-    previewUrl: 'QmTCb4VWvyJPHu4mSzihsNLRhNkNHWNmdTLv4Dyjc49NkD',
-    ipfsUrl: 'QmTZU1TdtAemCB3PyH45yKzZUqZ2emCLcVpkS1zAhVVJ6x',
+    id: 668,
+    name: 'Broxie #668',
     attributes: [
       {
         trait_type: 'back',
@@ -30772,10 +34780,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTZU1TdtAemCB3PyH45yKzZUqZ2emCLcVpkS1zAhVVJ6x',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTCb4VWvyJPHu4mSzihsNLRhNkNHWNmdTLv4Dyjc49NkD',
+    address:
+      '0:22ffe16c708e91ce457a6b0d1a3a1e6f5489a821ce28fe1de504549a8ca0fece',
   },
   {
-    previewUrl: 'Qmcnio6kbNCtCK85Y26gD3xZH4aYvnj66PuHR6pgsQSoQs',
-    ipfsUrl: 'QmNQke5ojqe4eBq2opBf4eBKcXWCJkxMcLyPj5yQSFVDP2',
+    id: 669,
+    name: 'Broxie #669',
     attributes: [
       {
         trait_type: 'back',
@@ -30818,10 +34832,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNQke5ojqe4eBq2opBf4eBKcXWCJkxMcLyPj5yQSFVDP2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcnio6kbNCtCK85Y26gD3xZH4aYvnj66PuHR6pgsQSoQs',
+    address:
+      '0:9418277b13ed673ee023119698e93c8360b4eb7ec66f2069df7b0b7151dded8c',
   },
   {
-    previewUrl: 'QmX1hqy9qiCLPawmkdAhwowJ3cVjtAfxa5rj9BQj7JFqr4',
-    ipfsUrl: 'QmPceACzsBdu1B2ytqqnXQT6j2qpdhDfxZ5w1GvNRPiqbh',
+    id: 670,
+    name: 'Broxie #670',
     attributes: [
       {
         trait_type: 'back',
@@ -30864,10 +34884,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPceACzsBdu1B2ytqqnXQT6j2qpdhDfxZ5w1GvNRPiqbh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmX1hqy9qiCLPawmkdAhwowJ3cVjtAfxa5rj9BQj7JFqr4',
+    address:
+      '0:f739aaa007c9ce44e2b293816ae7349f6e9ea7e031d7273f6d3095b8555c41aa',
   },
   {
-    previewUrl: 'QmXCa96pKqhNpj5YfZ86sybA3UMcMw6sUvnJkiZVqBg7Gq',
-    ipfsUrl: 'QmWS9cVdmhUqxNC7eBUDyN6SamFuN29JCsLZ1kyDfThuGr',
+    id: 671,
+    name: 'Broxie #671',
     attributes: [
       {
         trait_type: 'back',
@@ -30910,10 +34936,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWS9cVdmhUqxNC7eBUDyN6SamFuN29JCsLZ1kyDfThuGr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXCa96pKqhNpj5YfZ86sybA3UMcMw6sUvnJkiZVqBg7Gq',
+    address:
+      '0:be1367600f36bcd65f27fdd6c8b0da54cfd8268d9b3e15f44bf35a5d1316866a',
   },
   {
-    previewUrl: 'Qmay5i53KZQpn7TMCusu2TGcFJKT3EnxRGEUidoagbCgPL',
-    ipfsUrl: 'Qmai8fCGvFKtc44oNgwVLhjfd2dGD9Gf9EJ3SidbpjcsAg',
+    id: 672,
+    name: 'Broxie #672',
     attributes: [
       {
         trait_type: 'back',
@@ -30956,10 +34988,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmai8fCGvFKtc44oNgwVLhjfd2dGD9Gf9EJ3SidbpjcsAg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmay5i53KZQpn7TMCusu2TGcFJKT3EnxRGEUidoagbCgPL',
+    address:
+      '0:bdab7b5859f5b3ab66c7bd0fe81cfa342f57838da3f83f66a418c9f4898b8845',
   },
   {
-    previewUrl: 'Qmbm8BohN1NnPp9NwbbH6PhKA453jpykNhXSHeNmhubtex',
-    ipfsUrl: 'QmczPV8VuFbYkxa2Sbpp9v4fyQ7wfmQdAw87mgx79kA5N6',
+    id: 673,
+    name: 'Broxie #673',
     attributes: [
       {
         trait_type: 'back',
@@ -31002,10 +35040,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmczPV8VuFbYkxa2Sbpp9v4fyQ7wfmQdAw87mgx79kA5N6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbm8BohN1NnPp9NwbbH6PhKA453jpykNhXSHeNmhubtex',
+    address:
+      '0:7a50836227adddad325af0b60e762c20779208bdfb003e6dc25ff8097b020736',
   },
   {
-    previewUrl: 'QmSTk3rcrV1Mvb49LeyQrdBb5BKegHeJYPW7x6BCTvydmt',
-    ipfsUrl: 'QmVdF1JFLKjSnCjMURLWmBVLAZ4FLNNs1tD9etfQrpQt5Q',
+    id: 674,
+    name: 'Broxie #674',
     attributes: [
       {
         trait_type: 'back',
@@ -31048,10 +35092,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVdF1JFLKjSnCjMURLWmBVLAZ4FLNNs1tD9etfQrpQt5Q',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSTk3rcrV1Mvb49LeyQrdBb5BKegHeJYPW7x6BCTvydmt',
+    address:
+      '0:b5455d230d4096122226b73d18f0982b5fdfcad147390ec1650debb4dee2f8f5',
   },
   {
-    previewUrl: 'QmcHqPQbTqPmDLNo2QGjbxKjBfLzbWrQLdGZ2i6YxGJ2Q6',
-    ipfsUrl: 'Qmdxhzwgeprv2K4XX4k1FJNs6mNiNoc6zvjrvAtkbuVqC7',
+    id: 675,
+    name: 'Broxie #675',
     attributes: [
       {
         trait_type: 'back',
@@ -31094,10 +35144,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdxhzwgeprv2K4XX4k1FJNs6mNiNoc6zvjrvAtkbuVqC7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcHqPQbTqPmDLNo2QGjbxKjBfLzbWrQLdGZ2i6YxGJ2Q6',
+    address:
+      '0:e2596dfd6475fb11996d8c5104fa7057774164549ea6339443f7ecb09520588a',
   },
   {
-    previewUrl: 'Qmarf3G8C1UcdZzRCiFqqzjAJSs3NwGom4myvSCbwZoTc7',
-    ipfsUrl: 'QmPbheSHcA1TYxfrt2aVBBTSymEoQuSLSv1yXxDeWYGrFF',
+    id: 676,
+    name: 'Broxie #676',
     attributes: [
       {
         trait_type: 'back',
@@ -31140,10 +35196,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPbheSHcA1TYxfrt2aVBBTSymEoQuSLSv1yXxDeWYGrFF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmarf3G8C1UcdZzRCiFqqzjAJSs3NwGom4myvSCbwZoTc7',
+    address:
+      '0:19e53e28f831d82e0c152d7b5c888a634f06ad8c23094c3e8b1f042f32d2fbe1',
   },
   {
-    previewUrl: 'Qme6YuRBGvJn4XhnujFGjF3eCcx87nUGv8K3Tdj8rRSVfC',
-    ipfsUrl: 'QmVQfE6PxEUHiMYyNBy9q4cauHm5YjmhSKb7pBhs1WCEpt',
+    id: 677,
+    name: 'Broxie #677',
     attributes: [
       {
         trait_type: 'back',
@@ -31186,10 +35248,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVQfE6PxEUHiMYyNBy9q4cauHm5YjmhSKb7pBhs1WCEpt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme6YuRBGvJn4XhnujFGjF3eCcx87nUGv8K3Tdj8rRSVfC',
+    address:
+      '0:b7e39cf3149860c9471cd921f076d31b1715996559e48d59ab4b37a5b1a30d43',
   },
   {
-    previewUrl: 'QmduRUXzNHuwV9tU413DqcT28FimMEu8Q6hEGKGEwiuyaX',
-    ipfsUrl: 'QmQB87YtsHy7963nQVRUhZTHBSe192Z6CUgskY75r1vPRU',
+    id: 678,
+    name: 'Broxie #678',
     attributes: [
       {
         trait_type: 'back',
@@ -31232,10 +35300,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQB87YtsHy7963nQVRUhZTHBSe192Z6CUgskY75r1vPRU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmduRUXzNHuwV9tU413DqcT28FimMEu8Q6hEGKGEwiuyaX',
+    address:
+      '0:f3ba1c06d8c42ca6cf76f52b739b15b81f0b95132db6630c1e2ccbb34d536e99',
   },
   {
-    previewUrl: 'QmZt82g3hWY4GwPDePr4SQsNXEdzM9oLmYLt2tRSM7KQBi',
-    ipfsUrl: 'QmRmEU3yDuPY3Woq7vow1koBpVzV6so6Xr6tbkN7Wm7XyD',
+    id: 679,
+    name: 'Broxie #679',
     attributes: [
       {
         trait_type: 'back',
@@ -31278,10 +35352,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRmEU3yDuPY3Woq7vow1koBpVzV6so6Xr6tbkN7Wm7XyD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZt82g3hWY4GwPDePr4SQsNXEdzM9oLmYLt2tRSM7KQBi',
+    address:
+      '0:f732e7b805f91c1c3272198bfc13e2ed3c0fea04c872d30f95bab93943d860a0',
   },
   {
-    previewUrl: 'QmWNfHWfgiqrVQzTeCEsjcyG58nVLQpG3NAPVAM24ApmJ5',
-    ipfsUrl: 'Qmcpi7VWZJQ5pQwmNxBH9fiK9V3k3rY2JxEwk6cTYgPso3',
+    id: 680,
+    name: 'Broxie #680',
     attributes: [
       {
         trait_type: 'back',
@@ -31324,10 +35404,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcpi7VWZJQ5pQwmNxBH9fiK9V3k3rY2JxEwk6cTYgPso3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWNfHWfgiqrVQzTeCEsjcyG58nVLQpG3NAPVAM24ApmJ5',
+    address:
+      '0:9a6ae198bef6dab35642ad465d0a90495682d0c696a2b49d663fce75f79bfe10',
   },
   {
-    previewUrl: 'Qme3kqTYGQoWb9rzz8xoskCUxC7ZfHfYDibqvfohk7yZXh',
-    ipfsUrl: 'QmPLCqyp9cvwXBq5oxhmiWeHkMnhd6zembqkTZnDrchJ3k',
+    id: 681,
+    name: 'Broxie #681',
     attributes: [
       {
         trait_type: 'back',
@@ -31370,10 +35456,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPLCqyp9cvwXBq5oxhmiWeHkMnhd6zembqkTZnDrchJ3k',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme3kqTYGQoWb9rzz8xoskCUxC7ZfHfYDibqvfohk7yZXh',
+    address:
+      '0:d2e4ea56a2ad593bc4d25c3dcb7d1a1b48a0fec73e874faa18f627546843a178',
   },
   {
-    previewUrl: 'QmbKMKBYE44WYgX57ykSWjw2y63yGbCkc9bV5jDvbZUwsr',
-    ipfsUrl: 'QmPHVRtocVcMHuJinP5LPVKYi8rTiA9t2kCHo1Rwgsg7oR',
+    id: 682,
+    name: 'Broxie #682',
     attributes: [
       {
         trait_type: 'back',
@@ -31416,10 +35508,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPHVRtocVcMHuJinP5LPVKYi8rTiA9t2kCHo1Rwgsg7oR',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbKMKBYE44WYgX57ykSWjw2y63yGbCkc9bV5jDvbZUwsr',
+    address:
+      '0:b42bc9c4738e1331e396c20836d9fb06cae422a57294c60cd72d327984f11602',
   },
   {
-    previewUrl: 'QmZtniJHXQi3ycuLsB1x3CsVXFcxHgJpY7AY1K41beSBdk',
-    ipfsUrl: 'QmTH5jrmrTn2fEiTwKbhDAcm3KfCEMfaZrxxSGrn1YdwDx',
+    id: 683,
+    name: 'Broxie #683',
     attributes: [
       {
         trait_type: 'back',
@@ -31462,10 +35560,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTH5jrmrTn2fEiTwKbhDAcm3KfCEMfaZrxxSGrn1YdwDx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZtniJHXQi3ycuLsB1x3CsVXFcxHgJpY7AY1K41beSBdk',
+    address:
+      '0:ce7f9bcc3224e77a2bc2e6492b0263c4a4a744700a4395f3ffa80c64a1995c1f',
   },
   {
-    previewUrl: 'Qmcv9BwzU2SZjaV28k8FZMKU4yyFYLQ1NyxcNduXF1GKHe',
-    ipfsUrl: 'QmcQhks1gRsbSB9mxHu7cWMDMvkt464dbgbjcFhBeygJKU',
+    id: 684,
+    name: 'Broxie #684',
     attributes: [
       {
         trait_type: 'back',
@@ -31508,10 +35612,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcQhks1gRsbSB9mxHu7cWMDMvkt464dbgbjcFhBeygJKU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcv9BwzU2SZjaV28k8FZMKU4yyFYLQ1NyxcNduXF1GKHe',
+    address:
+      '0:2f4c6eff02450dfbbd2377ccd910bcf36ab3720de9221bd08a54f4693c276c86',
   },
   {
-    previewUrl: 'QmVjt8JjJMt57GoFFrrZgB88fneBn6qzqUiKR3WATZzHgx',
-    ipfsUrl: 'QmTnjYJcQ96XYCpTwVG8yKxus8hT9GtB6QVUHfmfYmtC5A',
+    id: 685,
+    name: 'Broxie #685',
     attributes: [
       {
         trait_type: 'back',
@@ -31554,10 +35664,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTnjYJcQ96XYCpTwVG8yKxus8hT9GtB6QVUHfmfYmtC5A',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVjt8JjJMt57GoFFrrZgB88fneBn6qzqUiKR3WATZzHgx',
+    address:
+      '0:f29af50cc1fe363da9c2f14a9ec9046928fe57c67e0824c59f40fb6425dbe3f7',
   },
   {
-    previewUrl: 'QmZbth64ACk6TvrBgHhTHcjYqmQBXiCaUrkzU2aTJVUSK6',
-    ipfsUrl: 'QmXeqX1PesELPVswbe255CC21s7eN7byDfYkFSUWSDVzTD',
+    id: 686,
+    name: 'Broxie #686',
     attributes: [
       {
         trait_type: 'back',
@@ -31600,10 +35716,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXeqX1PesELPVswbe255CC21s7eN7byDfYkFSUWSDVzTD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZbth64ACk6TvrBgHhTHcjYqmQBXiCaUrkzU2aTJVUSK6',
+    address:
+      '0:8f250eb3655fbf82379ae289f9f207dddc13c42a3a8f92cabb8bbc91ec49547e',
   },
   {
-    previewUrl: 'QmdgH1uGj2dQ99GiEgSqiiWW7FvJCVX6HoqU1oFatxs7nh',
-    ipfsUrl: 'QmZHq7dm4wbPAKs5L2pfkXuujhspQhFSCfooTPmvNgrn4P',
+    id: 687,
+    name: 'Broxie #687',
     attributes: [
       {
         trait_type: 'back',
@@ -31646,10 +35768,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZHq7dm4wbPAKs5L2pfkXuujhspQhFSCfooTPmvNgrn4P',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdgH1uGj2dQ99GiEgSqiiWW7FvJCVX6HoqU1oFatxs7nh',
+    address:
+      '0:03506920db495ebeda4e1888e116cfbb76d91e878f6ada85b22972dd0bf47903',
   },
   {
-    previewUrl: 'QmRuSQxzX2coEHpc6fNx7CFQi6MkBF5Vb2E8DvupYMYfam',
-    ipfsUrl: 'QmfFbnNQY8fENmWwxtpPaMp1mfeadxJAbizLQxX3ceMsS3',
+    id: 688,
+    name: 'Broxie #688',
     attributes: [
       {
         trait_type: 'back',
@@ -31692,10 +35820,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfFbnNQY8fENmWwxtpPaMp1mfeadxJAbizLQxX3ceMsS3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRuSQxzX2coEHpc6fNx7CFQi6MkBF5Vb2E8DvupYMYfam',
+    address:
+      '0:f3330324a82de628354188821a8fd1c5242b9df388e17cd25b40d9a2c76fdde8',
   },
   {
-    previewUrl: 'QmcaL9YemsLucjps7LXQ3BBmLBgs1yHckekMPTtetW6zw5',
-    ipfsUrl: 'QmNQrTn11oRKNEU2m2EuJG2a2rkCv2eqorf4CDWXvEYuZ3',
+    id: 689,
+    name: 'Broxie #689',
     attributes: [
       {
         trait_type: 'back',
@@ -31738,10 +35872,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNQrTn11oRKNEU2m2EuJG2a2rkCv2eqorf4CDWXvEYuZ3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcaL9YemsLucjps7LXQ3BBmLBgs1yHckekMPTtetW6zw5',
+    address:
+      '0:d56c6bbea00cb2dc52e633c51f3e06370d84c9b3a87e75dc322bea9c4f900d59',
   },
   {
-    previewUrl: 'QmSEpdemKpWUx9KqrPpxKiyN2zbSTny73ytujW13YEjhEc',
-    ipfsUrl: 'QmT2vwfcsgJ2gbPbFzzrcidk2MyiWhb6ywJjSQ2G2RBNhL',
+    id: 690,
+    name: 'Broxie #690',
     attributes: [
       {
         trait_type: 'back',
@@ -31784,10 +35924,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT2vwfcsgJ2gbPbFzzrcidk2MyiWhb6ywJjSQ2G2RBNhL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSEpdemKpWUx9KqrPpxKiyN2zbSTny73ytujW13YEjhEc',
+    address:
+      '0:a6a91af53b68c556a3b0fb7abd4ec55320e76c378e0f48698dcbb150a63726c1',
   },
   {
-    previewUrl: 'QmYmCJjD6b3s1dbAKuk9fzFvMp6VBgHrnUdkocWrHmZGx8',
-    ipfsUrl: 'QmQW5oQM1dzPSg8JcPKUd6h7b3R9VPKLfJzrVWUpDu5yiW',
+    id: 691,
+    name: 'Broxie #691',
     attributes: [
       {
         trait_type: 'back',
@@ -31830,10 +35976,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQW5oQM1dzPSg8JcPKUd6h7b3R9VPKLfJzrVWUpDu5yiW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYmCJjD6b3s1dbAKuk9fzFvMp6VBgHrnUdkocWrHmZGx8',
+    address:
+      '0:5d09610c48e2a4433052a78ee646e342073231c78c3761c203fe148cb6b7c8e5',
   },
   {
-    previewUrl: 'QmfWyW2Cyop8Y4GbRAGdo3scUgDhdjPK7sZEmnqfThJrwS',
-    ipfsUrl: 'QmSJhSmdo3D2WHDwnrXFKK18SdPSYUhC4kcRd6yF8AByjq',
+    id: 692,
+    name: 'Broxie #692',
     attributes: [
       {
         trait_type: 'back',
@@ -31876,10 +36028,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSJhSmdo3D2WHDwnrXFKK18SdPSYUhC4kcRd6yF8AByjq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfWyW2Cyop8Y4GbRAGdo3scUgDhdjPK7sZEmnqfThJrwS',
+    address:
+      '0:8205dd50eac286102a85792300f8d62b5c24af8a608435c8a1ab741a67d3ec58',
   },
   {
-    previewUrl: 'QmUfXcCBbJndLzom5vwvxQtfjd5zhayZ5eRWa4uJHdLdEc',
-    ipfsUrl: 'QmXHGWgn94AvoouEVQ7U8fhtA2oKxmGCXRiGi696hUP73Z',
+    id: 693,
+    name: 'Broxie #693',
     attributes: [
       {
         trait_type: 'back',
@@ -31922,10 +36080,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXHGWgn94AvoouEVQ7U8fhtA2oKxmGCXRiGi696hUP73Z',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUfXcCBbJndLzom5vwvxQtfjd5zhayZ5eRWa4uJHdLdEc',
+    address:
+      '0:23033772b360d719d7c3bcb7e140d6cc6eaec0cf0846962a893c33631455a0aa',
   },
   {
-    previewUrl: 'QmUMjDhprouK6Gd4EkTicNNjdULKPEHubSLy1QRkJ2LyTX',
-    ipfsUrl: 'QmR9DtKut1NEE1AzpFsi5vKGtUBgiFAoeaNrJzGUbgeQRc',
+    id: 694,
+    name: 'Broxie #694',
     attributes: [
       {
         trait_type: 'back',
@@ -31968,10 +36132,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR9DtKut1NEE1AzpFsi5vKGtUBgiFAoeaNrJzGUbgeQRc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUMjDhprouK6Gd4EkTicNNjdULKPEHubSLy1QRkJ2LyTX',
+    address:
+      '0:251ef9c811c7226265b5067929f9e180295af84ce41e21504dc2862865a058e0',
   },
   {
-    previewUrl: 'Qmb1pXkrFoRRtWPL7KMVUSP7e6EBV8uMgE6RaR2J7YbByU',
-    ipfsUrl: 'QmcWnB3VgSbJ3eKd9WMa89zHhBnzMM5ohDt6qkE1VoyP3Y',
+    id: 695,
+    name: 'Broxie #695',
     attributes: [
       {
         trait_type: 'back',
@@ -32014,10 +36184,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcWnB3VgSbJ3eKd9WMa89zHhBnzMM5ohDt6qkE1VoyP3Y',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb1pXkrFoRRtWPL7KMVUSP7e6EBV8uMgE6RaR2J7YbByU',
+    address:
+      '0:79a9920c82319a7fe83d49fc3fc5f0a2354c2557c23950f324178425e3e54ecc',
   },
   {
-    previewUrl: 'QmYcc195QK1WMhzPb47FwbR7KSFkkXGGY6jRmafT6VLUMF',
-    ipfsUrl: 'QmQ47mimJSCJQNVib2wiSaBPRTQj3EmwSEQdV2hwdMAp24',
+    id: 696,
+    name: 'Broxie #696',
     attributes: [
       {
         trait_type: 'back',
@@ -32060,10 +36236,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ47mimJSCJQNVib2wiSaBPRTQj3EmwSEQdV2hwdMAp24',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYcc195QK1WMhzPb47FwbR7KSFkkXGGY6jRmafT6VLUMF',
+    address:
+      '0:1c286b622668fb51a40cffcea3e4feb68a70d4255dc8941254a607834a500083',
   },
   {
-    previewUrl: 'QmXp5juo4TcSTbjNw7SZ7Thx2Apat2qn5sY49uUSnntBGu',
-    ipfsUrl: 'QmaECaQZjcKhbQHzbs8yEF7fzpWDsqgQ4fbTVsY7brwuJ3',
+    id: 697,
+    name: 'Broxie #697',
     attributes: [
       {
         trait_type: 'back',
@@ -32106,10 +36288,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaECaQZjcKhbQHzbs8yEF7fzpWDsqgQ4fbTVsY7brwuJ3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXp5juo4TcSTbjNw7SZ7Thx2Apat2qn5sY49uUSnntBGu',
+    address:
+      '0:49602e60fed149c42fecf5b0bad2abf99f83f4732b879600b5da320f3fa34d54',
   },
   {
-    previewUrl: 'QmTonZcFoJk4Y9VTAoPyCtDa9Jpx2A81VAjAooM7kHpHiB',
-    ipfsUrl: 'QmUU5Es2j8mhSSeP4oxdtxSpcsqrTM1KHVvWjEyxmRk4fF',
+    id: 698,
+    name: 'Broxie #698',
     attributes: [
       {
         trait_type: 'back',
@@ -32152,10 +36340,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUU5Es2j8mhSSeP4oxdtxSpcsqrTM1KHVvWjEyxmRk4fF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTonZcFoJk4Y9VTAoPyCtDa9Jpx2A81VAjAooM7kHpHiB',
+    address:
+      '0:f36492345649c33b0aa61e1f223e893669aea02f5f6dc61a5e16b54d301c3aa5',
   },
   {
-    previewUrl: 'QmSwSZsKXSAKDVrDzdWLCe5Zf9LArHZZAM4ae9jvqhwqmQ',
-    ipfsUrl: 'QmRrFFvYUizLxCL9sGKzkGaJGovGyxRtfkV4dLP3YhsoME',
+    id: 699,
+    name: 'Broxie #699',
     attributes: [
       {
         trait_type: 'back',
@@ -32198,10 +36392,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRrFFvYUizLxCL9sGKzkGaJGovGyxRtfkV4dLP3YhsoME',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSwSZsKXSAKDVrDzdWLCe5Zf9LArHZZAM4ae9jvqhwqmQ',
+    address:
+      '0:63d25e477ae10c085672831fc05375054b7bb79a42ed5a3f7b39e7c44da7bbf8',
   },
   {
-    previewUrl: 'QmUygbdMqWkKPTDxEvCMJEC8ZqhB69dq2h167BbgWKZZCX',
-    ipfsUrl: 'QmNgUVEv938uKSfrbVH4DXMBemKJWMM8uUaWu9saC27ypZ',
+    id: 700,
+    name: 'Broxie #700',
     attributes: [
       {
         trait_type: 'back',
@@ -32244,10 +36444,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNgUVEv938uKSfrbVH4DXMBemKJWMM8uUaWu9saC27ypZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUygbdMqWkKPTDxEvCMJEC8ZqhB69dq2h167BbgWKZZCX',
+    address:
+      '0:0917b9a3c405ba67157aa843fd2293a111372bf68df5c5d762c1d420b8301681',
   },
   {
-    previewUrl: 'QmcT2KoD5H1V6gDCBKMiY4d1NNYRTvBLaza3WJffHz8kp4',
-    ipfsUrl: 'QmfQcz36wd5tF81dFb4biT6zL7tSbmHrfoF5pz5mYqgDC6',
+    id: 701,
+    name: 'Broxie #701',
     attributes: [
       {
         trait_type: 'back',
@@ -32290,10 +36496,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfQcz36wd5tF81dFb4biT6zL7tSbmHrfoF5pz5mYqgDC6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcT2KoD5H1V6gDCBKMiY4d1NNYRTvBLaza3WJffHz8kp4',
+    address:
+      '0:be5559a3ced7fbf2db05f63074f1b3c77522f72759089b9e2299706e080219a0',
   },
   {
-    previewUrl: 'QmS3dAxFRfcTcywaVtsZto3rUeKUMCAd55h3LUp4C46uAk',
-    ipfsUrl: 'QmR4ybLsFT9bFobHpatFbD7qyVRbA8Gi55XvBzUnkjQ2FC',
+    id: 702,
+    name: 'Broxie #702',
     attributes: [
       {
         trait_type: 'back',
@@ -32336,10 +36548,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR4ybLsFT9bFobHpatFbD7qyVRbA8Gi55XvBzUnkjQ2FC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS3dAxFRfcTcywaVtsZto3rUeKUMCAd55h3LUp4C46uAk',
+    address:
+      '0:aa498e71486a0bef9156c37e3f352d09786eef74fbb1d251c39b422943f16856',
   },
   {
-    previewUrl: 'QmPCexhpc42mXGrcMnH4RVjcjxdGAtvVgNWWdwiFAyunqb',
-    ipfsUrl: 'QmVyp96wGVtnGqnpDDuNSXyNgMyRm8YdRzfwBDgCYtwks8',
+    id: 703,
+    name: 'Broxie #703',
     attributes: [
       {
         trait_type: 'back',
@@ -32382,10 +36600,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVyp96wGVtnGqnpDDuNSXyNgMyRm8YdRzfwBDgCYtwks8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPCexhpc42mXGrcMnH4RVjcjxdGAtvVgNWWdwiFAyunqb',
+    address:
+      '0:0c89c640a15e1dc0ee92a4c2d110f35855c819456cfcd8f8be0b1902d605e3fa',
   },
   {
-    previewUrl: 'QmTfvV2JPvykLQhPJeUhQuxcHv8qQwJ7B8DkbT7vTD6pps',
-    ipfsUrl: 'QmVh2qDycMc7pdT54xKcttcX2yNLiL74LXPgmeJGV1SZwZ',
+    id: 704,
+    name: 'Broxie #704',
     attributes: [
       {
         trait_type: 'back',
@@ -32428,10 +36652,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVh2qDycMc7pdT54xKcttcX2yNLiL74LXPgmeJGV1SZwZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTfvV2JPvykLQhPJeUhQuxcHv8qQwJ7B8DkbT7vTD6pps',
+    address:
+      '0:ef5d51668696af8f45c52ceada3cc5a4730405693bcb2a84e081c168736ecec2',
   },
   {
-    previewUrl: 'QmSvsZAVnDnqSca4SV2Ctu53TJF8NWL3kZmjiFLKyshzGQ',
-    ipfsUrl: 'QmV3sLdWPxXp7YwzaAfftPetGeuUJnqjUyHTuzVXmTMFGm',
+    id: 705,
+    name: 'Broxie #705',
     attributes: [
       {
         trait_type: 'back',
@@ -32474,10 +36704,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV3sLdWPxXp7YwzaAfftPetGeuUJnqjUyHTuzVXmTMFGm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSvsZAVnDnqSca4SV2Ctu53TJF8NWL3kZmjiFLKyshzGQ',
+    address:
+      '0:8564e1d7bcf11d382592d9967dc28d3d7249fa218b83a3eacfd13f28772bec25',
   },
   {
-    previewUrl: 'QmVd7viazmjvhcQStqBdoaCKqL94TA45p4REJpRSzYDY3R',
-    ipfsUrl: 'QmbKb2EkP3dKrtcHfkAzPdtBEXAhxByZqz16vQ9YWFdcgt',
+    id: 706,
+    name: 'Broxie #706',
     attributes: [
       {
         trait_type: 'back',
@@ -32520,10 +36756,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbKb2EkP3dKrtcHfkAzPdtBEXAhxByZqz16vQ9YWFdcgt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVd7viazmjvhcQStqBdoaCKqL94TA45p4REJpRSzYDY3R',
+    address:
+      '0:d0bf1bfeba4968c94da270390c1569a84c22e3a2b76686ac1aec4a2610b37c84',
   },
   {
-    previewUrl: 'QmNzMxzkGP4mDasLkJYp48pQjiEm3HfSbJ81ieDFUmfku6',
-    ipfsUrl: 'QmfJETATVmgx7dAY6LXc5PFTiaCCMhrDnWZ8pwewUAtdzU',
+    id: 707,
+    name: 'Broxie #707',
     attributes: [
       {
         trait_type: 'back',
@@ -32566,10 +36808,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfJETATVmgx7dAY6LXc5PFTiaCCMhrDnWZ8pwewUAtdzU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNzMxzkGP4mDasLkJYp48pQjiEm3HfSbJ81ieDFUmfku6',
+    address:
+      '0:0fdcbe103af582c3a19461d89269397920b3db3a2dc1ca820102b15bb9a76b6b',
   },
   {
-    previewUrl: 'QmYYhmDp8RHerxRjeA7VZ2Kt3pqUS5T3XsukGGh8VoKfVX',
-    ipfsUrl: 'QmSSn5vH7mG1x8xm77ixbWqg1iumh9YHpjuSivyeCAvcbV',
+    id: 708,
+    name: 'Broxie #708',
     attributes: [
       {
         trait_type: 'back',
@@ -32612,10 +36860,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSSn5vH7mG1x8xm77ixbWqg1iumh9YHpjuSivyeCAvcbV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYYhmDp8RHerxRjeA7VZ2Kt3pqUS5T3XsukGGh8VoKfVX',
+    address:
+      '0:79242988a5bb31e23085446e6254f257a82ca96d5170582f5e99492b844f59fe',
   },
   {
-    previewUrl: 'QmQQVfYzmeWXTypzTgpgPpE7q6Em1NDavmoGBJbd9cnBW3',
-    ipfsUrl: 'QmfRoZzib3cgHYgZvTj2G3Q88KiovDc1FjC9tEASdsY4Do',
+    id: 709,
+    name: 'Broxie #709',
     attributes: [
       {
         trait_type: 'back',
@@ -32658,10 +36912,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfRoZzib3cgHYgZvTj2G3Q88KiovDc1FjC9tEASdsY4Do',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQQVfYzmeWXTypzTgpgPpE7q6Em1NDavmoGBJbd9cnBW3',
+    address:
+      '0:f8e4459026d991069e4c25a55a6b557d79affc8335e773e22b930f50687e9495',
   },
   {
-    previewUrl: 'QmYDhqvkmzST9SsycwoqqqnpG3a3JjLsprUoog1ZhmUTMQ',
-    ipfsUrl: 'QmXyvdh1JL7jztszH1eAXpWvHRctGZrpYNL2fXGAEkRuj8',
+    id: 710,
+    name: 'Broxie #710',
     attributes: [
       {
         trait_type: 'back',
@@ -32704,10 +36964,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXyvdh1JL7jztszH1eAXpWvHRctGZrpYNL2fXGAEkRuj8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYDhqvkmzST9SsycwoqqqnpG3a3JjLsprUoog1ZhmUTMQ',
+    address:
+      '0:f646a6feb2ae451f1b8e10788957d1859435bdad9d581cbb8331923407d902c7',
   },
   {
-    previewUrl: 'QmT9MjUNLJWFtwzZo7xYiSMD1V3R5RkKYyKzPxRJTGmiR5',
-    ipfsUrl: 'QmVaEbjfSKiTd2eMLSdoiN5XfHFKZZuQNgHBMhFP39P4eU',
+    id: 711,
+    name: 'Broxie #711',
     attributes: [
       {
         trait_type: 'back',
@@ -32750,10 +37016,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVaEbjfSKiTd2eMLSdoiN5XfHFKZZuQNgHBMhFP39P4eU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmT9MjUNLJWFtwzZo7xYiSMD1V3R5RkKYyKzPxRJTGmiR5',
+    address:
+      '0:7d5bb7119685a627dcb842e72821e7e882a98b794b5ad8fd90df4876b463d09e',
   },
   {
-    previewUrl: 'QmQ89dkhY7Dw1iCsnCQrBfSSSA4ykWzhjiZgEmgGeQRhkg',
-    ipfsUrl: 'QmPHysmE32PHr1UdMGwhHbL53vL6xbsAL7nch5tYgittyP',
+    id: 712,
+    name: 'Broxie #712',
     attributes: [
       {
         trait_type: 'back',
@@ -32796,10 +37068,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPHysmE32PHr1UdMGwhHbL53vL6xbsAL7nch5tYgittyP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ89dkhY7Dw1iCsnCQrBfSSSA4ykWzhjiZgEmgGeQRhkg',
+    address:
+      '0:bd937a217b68394a6e8ae4217185153bacd71ccded2c0dadf2db0d99317ff5d6',
   },
   {
-    previewUrl: 'QmQGHNyikX6xQGNtfdUCHKe5AiwuGtjVDgaPSoEEqY5uJj',
-    ipfsUrl: 'QmWXuMizDccowsxCXrcQx5fpWDnnWp5dJYsopmifobnB9d',
+    id: 713,
+    name: 'Broxie #713',
     attributes: [
       {
         trait_type: 'back',
@@ -32842,10 +37120,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWXuMizDccowsxCXrcQx5fpWDnnWp5dJYsopmifobnB9d',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQGHNyikX6xQGNtfdUCHKe5AiwuGtjVDgaPSoEEqY5uJj',
+    address:
+      '0:a389170a314792bd4b5a5477ba794e742b207a14981cc06b3dc3c2e62cbdb625',
   },
   {
-    previewUrl: 'QmbLd4hXW74iRBp8hmcoWSpttZL8SikRP6iSBUfg4bd3A8',
-    ipfsUrl: 'QmX58qmBAzznZyptG99syudfxePEj5LaXVTpvJ3EkHwhUg',
+    id: 714,
+    name: 'Broxie #714',
     attributes: [
       {
         trait_type: 'back',
@@ -32888,10 +37172,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX58qmBAzznZyptG99syudfxePEj5LaXVTpvJ3EkHwhUg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbLd4hXW74iRBp8hmcoWSpttZL8SikRP6iSBUfg4bd3A8',
+    address:
+      '0:1e8bd7606079ee344fbbbb6b7af913ba1a5993851d7f5c06a190066c77bdb7d5',
   },
   {
-    previewUrl: 'QmWgTwtLmQE441hpX7oLkD645YnitzDff1SsHfW4ZPGnQP',
-    ipfsUrl: 'QmVNn762vjrADDnaWZKtLbkYd5Ym9WzsWPp9eHWBkPgBC3',
+    id: 715,
+    name: 'Broxie #715',
     attributes: [
       {
         trait_type: 'back',
@@ -32934,10 +37224,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVNn762vjrADDnaWZKtLbkYd5Ym9WzsWPp9eHWBkPgBC3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWgTwtLmQE441hpX7oLkD645YnitzDff1SsHfW4ZPGnQP',
+    address:
+      '0:9d06ccf48214ae0dce471b730a54aaa4a656791edda6be6c1f5036b9b148461d',
   },
   {
-    previewUrl: 'QmX4L2NobNUbksbhCHcqzCFTxk1B2FoVE2LvRdfY1tGmhD',
-    ipfsUrl: 'QmWEbGw74YoKUQ7Lg3XG5JizeS6eFymHuoy5UcjGUREJsr',
+    id: 716,
+    name: 'Broxie #716',
     attributes: [
       {
         trait_type: 'back',
@@ -32980,10 +37276,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWEbGw74YoKUQ7Lg3XG5JizeS6eFymHuoy5UcjGUREJsr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmX4L2NobNUbksbhCHcqzCFTxk1B2FoVE2LvRdfY1tGmhD',
+    address:
+      '0:ddb64293bd58689b795b1ab9206f056acfdd364fee0a015c5ea3a675675e2038',
   },
   {
-    previewUrl: 'QmfFzkQMhiYFkXmyjJvsHB39pHsLTR3Lg3EREQb1HomT5J',
-    ipfsUrl: 'QmZeCHn9KrqgHvvSNwMWw6UL3GwyCs5xqggkuRU7vtnAya',
+    id: 717,
+    name: 'Broxie #717',
     attributes: [
       {
         trait_type: 'back',
@@ -33026,10 +37328,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZeCHn9KrqgHvvSNwMWw6UL3GwyCs5xqggkuRU7vtnAya',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfFzkQMhiYFkXmyjJvsHB39pHsLTR3Lg3EREQb1HomT5J',
+    address:
+      '0:890f2f8e4323570aaf5a4eadb54e0fe70b63a225564067ff1e8ff177b2959a90',
   },
   {
-    previewUrl: 'QmeFaUJdyaiVm6cskzvxbDW5k3UoXopfiGW8LtaEi52mZs',
-    ipfsUrl: 'QmSFusAdCJwv4hc4rwFUjRQM96aywXhR3ZSZqmfzfkWj5W',
+    id: 718,
+    name: 'Broxie #718',
     attributes: [
       {
         trait_type: 'back',
@@ -33072,10 +37380,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSFusAdCJwv4hc4rwFUjRQM96aywXhR3ZSZqmfzfkWj5W',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeFaUJdyaiVm6cskzvxbDW5k3UoXopfiGW8LtaEi52mZs',
+    address:
+      '0:171dd1f9db0a27f4f1b11b372c65019e79c33833cf39c25e8adae90bd1f79f0d',
   },
   {
-    previewUrl: 'Qmdb2zmiMCQxDBP3cvor72GKodW92ATqesumH67osAuvmf',
-    ipfsUrl: 'QmSjaTGKLZrGfVe6UupwxEoYw2CRUpSbA3byvw2jdz9q37',
+    id: 719,
+    name: 'Broxie #719',
     attributes: [
       {
         trait_type: 'back',
@@ -33118,10 +37432,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSjaTGKLZrGfVe6UupwxEoYw2CRUpSbA3byvw2jdz9q37',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdb2zmiMCQxDBP3cvor72GKodW92ATqesumH67osAuvmf',
+    address:
+      '0:1e736431679a2ac067370959f3b6c995f745aaeab7993d6bd32828cd04cff83e',
   },
   {
-    previewUrl: 'QmdQ4mjgU6xHbjCdtk1rF28WPmtVZBSYXFp1qZJosLvDsX',
-    ipfsUrl: 'Qmc1ZCvvYVsSayeDk5oB3dxjGYe2vRdQeHEctms2qQ2QY3',
+    id: 720,
+    name: 'Broxie #720',
     attributes: [
       {
         trait_type: 'back',
@@ -33164,10 +37484,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc1ZCvvYVsSayeDk5oB3dxjGYe2vRdQeHEctms2qQ2QY3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdQ4mjgU6xHbjCdtk1rF28WPmtVZBSYXFp1qZJosLvDsX',
+    address:
+      '0:5bfcd854bde1b9c219cd4c4b02d00150212fadb60291da6ef0b3925000718a5b',
   },
   {
-    previewUrl: 'QmNZYVtqkvLaFx71vA4Vjkeu9q2ujpUBGu5s6q6jaCrCyB',
-    ipfsUrl: 'QmQYwV4keiueGwXin6zVoMnkiZsooQH5Zm94g644VdRAcj',
+    id: 721,
+    name: 'Broxie #721',
     attributes: [
       {
         trait_type: 'back',
@@ -33210,10 +37536,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQYwV4keiueGwXin6zVoMnkiZsooQH5Zm94g644VdRAcj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNZYVtqkvLaFx71vA4Vjkeu9q2ujpUBGu5s6q6jaCrCyB',
+    address:
+      '0:6e0353a4d46a84b974620f47537b216dccdc7db5d6b93e2624b592a5f516cf0e',
   },
   {
-    previewUrl: 'QmPWourmDfKj7RjakvkQ9Pdod5mPwKXzpFYS6DtpbpPmd6',
-    ipfsUrl: 'QmNr7DimjBPHp8s9gGjv9dmqXHcUskvzVEU3NHxhDk6Si6',
+    id: 722,
+    name: 'Broxie #722',
     attributes: [
       {
         trait_type: 'back',
@@ -33256,10 +37588,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNr7DimjBPHp8s9gGjv9dmqXHcUskvzVEU3NHxhDk6Si6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPWourmDfKj7RjakvkQ9Pdod5mPwKXzpFYS6DtpbpPmd6',
+    address:
+      '0:72abe70178c2a33fcba66ee6356bc1ff0e15de161d776521322cffaeb44d3a1f',
   },
   {
-    previewUrl: 'Qmae63Vu5CjdcZz2d4JAzsPuZmoPBQ5YokKJMRbJwNF4Vo',
-    ipfsUrl: 'QmVSdaDTw58SQJu3pbS9dUxp9oiEJroaPUrMHg6qhr2kNm',
+    id: 723,
+    name: 'Broxie #723',
     attributes: [
       {
         trait_type: 'back',
@@ -33302,10 +37640,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVSdaDTw58SQJu3pbS9dUxp9oiEJroaPUrMHg6qhr2kNm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmae63Vu5CjdcZz2d4JAzsPuZmoPBQ5YokKJMRbJwNF4Vo',
+    address:
+      '0:5d6df24bf89b776b3c49cf0e7043cf172e31507c47c59e31eac940e67897269f',
   },
   {
-    previewUrl: 'QmQFFBRAvs9RUNbz81n2QiLLyhB9Fmd85tJyaN36KhknMb',
-    ipfsUrl: 'QmdyoAmCbmeQs8rjrM5RETKE2ST3rDawuZ1R6Jt1avdcEe',
+    id: 724,
+    name: 'Broxie #724',
     attributes: [
       {
         trait_type: 'back',
@@ -33348,10 +37692,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdyoAmCbmeQs8rjrM5RETKE2ST3rDawuZ1R6Jt1avdcEe',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQFFBRAvs9RUNbz81n2QiLLyhB9Fmd85tJyaN36KhknMb',
+    address:
+      '0:aac7323427648b5b8614fa6fa28f1e249c6e9da8d2491d22827008647b8f9e75',
   },
   {
-    previewUrl: 'QmRk8MKoq77uJF2cdm2SJJBu6kQH9DFEiibYpzbw8hZLaT',
-    ipfsUrl: 'QmW6DYL246RzXC85CPoq8q2jZFRN5X9cLZ7okY6pJU6FHM',
+    id: 725,
+    name: 'Broxie #725',
     attributes: [
       {
         trait_type: 'back',
@@ -33394,10 +37744,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW6DYL246RzXC85CPoq8q2jZFRN5X9cLZ7okY6pJU6FHM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRk8MKoq77uJF2cdm2SJJBu6kQH9DFEiibYpzbw8hZLaT',
+    address:
+      '0:a03f7d7cd70a70cf217bb2765c0daf5b011fd39a9c0e31e89798085ec0956817',
   },
   {
-    previewUrl: 'QmPauJhqDjVKi8vWVTCPhwFU5UhrrvawfnfK69wUrWQvpa',
-    ipfsUrl: 'QmPsLnSgSrq2CxZxUpDCYWdmBZM22QSKv56TMWjrT8pi6p',
+    id: 726,
+    name: 'Broxie #726',
     attributes: [
       {
         trait_type: 'back',
@@ -33440,10 +37796,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPsLnSgSrq2CxZxUpDCYWdmBZM22QSKv56TMWjrT8pi6p',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPauJhqDjVKi8vWVTCPhwFU5UhrrvawfnfK69wUrWQvpa',
+    address:
+      '0:331b0222e3b0714615f97a87b61b953b6afc3da1538788081088afcef69fa8b4',
   },
   {
-    previewUrl: 'QmPpE6b1Gwnmq5XvpzSnVzzMQGb4Lhy4sUWEyPoxd9yrRP',
-    ipfsUrl: 'QmRjikVkLcA6tRkVPd2F7HRmGoDiAR3PXvB7Q6mr3cVLdJ',
+    id: 727,
+    name: 'Broxie #727',
     attributes: [
       {
         trait_type: 'back',
@@ -33486,10 +37848,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRjikVkLcA6tRkVPd2F7HRmGoDiAR3PXvB7Q6mr3cVLdJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPpE6b1Gwnmq5XvpzSnVzzMQGb4Lhy4sUWEyPoxd9yrRP',
+    address:
+      '0:7456127d90faf4b49d2243eaeb395e59dd087ebaaabafb380cd564b528558941',
   },
   {
-    previewUrl: 'QmTb7aMgscZxbpYMnGTVgcALspwE2k7ycVXqqJLH1gNS1P',
-    ipfsUrl: 'QmNu1nT4GCrSvUzSPxkKvbRVhd4uczPYsV9rWgEhe9QkQM',
+    id: 728,
+    name: 'Broxie #728',
     attributes: [
       {
         trait_type: 'back',
@@ -33532,10 +37900,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNu1nT4GCrSvUzSPxkKvbRVhd4uczPYsV9rWgEhe9QkQM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTb7aMgscZxbpYMnGTVgcALspwE2k7ycVXqqJLH1gNS1P',
+    address:
+      '0:e226f3a3fa312834a152c24fc6b88b3343c3c687c4e7b6e398b14e6143e4b501',
   },
   {
-    previewUrl: 'QmSDPT7s456rc3dHsjRcgwwfJHuX7fxSNY3B3tNyPCW1VZ',
-    ipfsUrl: 'QmeA4osYpMSf7jvJuLLjtBn5ASFVTfbvN9gUsc16GgYa9d',
+    id: 729,
+    name: 'Broxie #729',
     attributes: [
       {
         trait_type: 'back',
@@ -33578,10 +37952,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeA4osYpMSf7jvJuLLjtBn5ASFVTfbvN9gUsc16GgYa9d',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSDPT7s456rc3dHsjRcgwwfJHuX7fxSNY3B3tNyPCW1VZ',
+    address:
+      '0:1c0d722848e56f0deaf4ca7cde5b352fef2c43f2b8e39a5985478ba507125fbc',
   },
   {
-    previewUrl: 'QmUT1cMQBrrr8teABtZT2DYqrs2STjPM2iCAHrE7FcHQio',
-    ipfsUrl: 'QmRHyarfzjT2YraBBSAB5Deu4A4ya8hH1MGNCsEGqKEYxL',
+    id: 730,
+    name: 'Broxie #730',
     attributes: [
       {
         trait_type: 'back',
@@ -33624,10 +38004,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRHyarfzjT2YraBBSAB5Deu4A4ya8hH1MGNCsEGqKEYxL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUT1cMQBrrr8teABtZT2DYqrs2STjPM2iCAHrE7FcHQio',
+    address:
+      '0:51aee3bdb599bb07179735824ef93cd7b10d74c3e78d28d20e934c8614cccdb5',
   },
   {
-    previewUrl: 'QmPrHTsRS7APCpFPT6g2BsXmbREwsLYrhXBqCJyXLraoCh',
-    ipfsUrl: 'QmZ2aHY1HG3rTfZ817nY54AwPAXzi628MEdsPmqQ2zczEi',
+    id: 731,
+    name: 'Broxie #731',
     attributes: [
       {
         trait_type: 'back',
@@ -33670,10 +38056,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ2aHY1HG3rTfZ817nY54AwPAXzi628MEdsPmqQ2zczEi',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPrHTsRS7APCpFPT6g2BsXmbREwsLYrhXBqCJyXLraoCh',
+    address:
+      '0:e413a4c57d68aa39bd8e731751142678de8324655a0d832679804f9fb2503355',
   },
   {
-    previewUrl: 'QmNp4cH7g1RwZCAexFPqyRmLHzWCJTG7fhDEDaMaM9gyzW',
-    ipfsUrl: 'QmaGLzeJRybvn6eQq2KDpy7aRXhQLsjzwZujn4j6pXJhe3',
+    id: 732,
+    name: 'Broxie #732',
     attributes: [
       {
         trait_type: 'back',
@@ -33716,10 +38108,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaGLzeJRybvn6eQq2KDpy7aRXhQLsjzwZujn4j6pXJhe3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNp4cH7g1RwZCAexFPqyRmLHzWCJTG7fhDEDaMaM9gyzW',
+    address:
+      '0:a08a3dcde27f3280681d526242c195d9bf845019f3ee7e6009af9dd7a0cc7aae',
   },
   {
-    previewUrl: 'QmPQ9Tz4dWf6HRXR3osuByCyDTEm11VAbqD2YutKeWK1yg',
-    ipfsUrl: 'QmNcosqkTdzcWcrQwodLTHvMhbhTQ9eM1QM73HKV4yMERu',
+    id: 733,
+    name: 'Broxie #733',
     attributes: [
       {
         trait_type: 'back',
@@ -33762,10 +38160,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNcosqkTdzcWcrQwodLTHvMhbhTQ9eM1QM73HKV4yMERu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPQ9Tz4dWf6HRXR3osuByCyDTEm11VAbqD2YutKeWK1yg',
+    address:
+      '0:f21eb66e58cef990fdd5361a7d714fa24761cb0c929762163e4c77f73a1bb3fd',
   },
   {
-    previewUrl: 'QmZajYQ8xWPE1Ff1jKtm4WeYru5JZPb6nWREeLtDh1LTCq',
-    ipfsUrl: 'QmaGxEYwtEG4MQBAcDVVAwMfZpHPQo61SDAxtwGHSB6Lsq',
+    id: 734,
+    name: 'Broxie #734',
     attributes: [
       {
         trait_type: 'back',
@@ -33808,10 +38212,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaGxEYwtEG4MQBAcDVVAwMfZpHPQo61SDAxtwGHSB6Lsq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZajYQ8xWPE1Ff1jKtm4WeYru5JZPb6nWREeLtDh1LTCq',
+    address:
+      '0:4a3f9f8204d09bbec7230f7842e0772586a019a5ce5cdeaf9132cc5dcb4a10b4',
   },
   {
-    previewUrl: 'QmQQCHSyFq9Li2ZahNPxD3c55TB79shibBDbLeVsVECfD4',
-    ipfsUrl: 'QmNfbv2w7dm24AvbxxeTGxSWg58cnuYc9FDt3UTqHNa3bd',
+    id: 735,
+    name: 'Broxie #735',
     attributes: [
       {
         trait_type: 'back',
@@ -33854,10 +38264,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNfbv2w7dm24AvbxxeTGxSWg58cnuYc9FDt3UTqHNa3bd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQQCHSyFq9Li2ZahNPxD3c55TB79shibBDbLeVsVECfD4',
+    address:
+      '0:de3824f91175a1b255be57a7569cf3a1475e3489818fc69dff15b09a17d21061',
   },
   {
-    previewUrl: 'QmP4WFUMkmZwgyq6NXuj4X22u4SsNSKYQNZCDJfcmBU49F',
-    ipfsUrl: 'QmZKi4vNwsetsjy3vVZ8Ks43SbRjEdogQHzJULmeK8zKk7',
+    id: 736,
+    name: 'Broxie #736',
     attributes: [
       {
         trait_type: 'back',
@@ -33900,10 +38316,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZKi4vNwsetsjy3vVZ8Ks43SbRjEdogQHzJULmeK8zKk7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmP4WFUMkmZwgyq6NXuj4X22u4SsNSKYQNZCDJfcmBU49F',
+    address:
+      '0:85b7ba0d5749c52466c6de5e8c081e40a17b23666cb37dd7dd47138d3f94c4d9',
   },
   {
-    previewUrl: 'QmNeCirtbN47WY5LLmqadBCDvb8y485N86qRFMJr7RUjmB',
-    ipfsUrl: 'QmTDkab4toNxpsYLg1UsmNd4tKo7JpVm72nNvLzvhBXT9r',
+    id: 737,
+    name: 'Broxie #737',
     attributes: [
       {
         trait_type: 'back',
@@ -33946,10 +38368,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTDkab4toNxpsYLg1UsmNd4tKo7JpVm72nNvLzvhBXT9r',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNeCirtbN47WY5LLmqadBCDvb8y485N86qRFMJr7RUjmB',
+    address:
+      '0:4ee41f18d8ece0c179a9f38fd5e65764ad5559d9980b0eb32f91237dc5afee70',
   },
   {
-    previewUrl: 'Qmai8UgV4ef36MPSXbmBiG83fYsRV2kkRBJjNGjM8TEPAi',
-    ipfsUrl: 'QmaHyGBAcWu1jbfk7b5wF5fbUMdiJvxasn8L8s5xe5Mqhf',
+    id: 738,
+    name: 'Broxie #738',
     attributes: [
       {
         trait_type: 'back',
@@ -33992,10 +38420,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaHyGBAcWu1jbfk7b5wF5fbUMdiJvxasn8L8s5xe5Mqhf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmai8UgV4ef36MPSXbmBiG83fYsRV2kkRBJjNGjM8TEPAi',
+    address:
+      '0:3e4902ac73b19e06383a0bc587b5a3759627b443455e827545638d4ac0353241',
   },
   {
-    previewUrl: 'QmVrHm6nfDth39ZSgapKh19j64BfiwXsnEEUTnAjBWJe82',
-    ipfsUrl: 'QmSLyWxC4FSQPL5utdwW9bShDhd9a4UZYKsQCde9phT4Cd',
+    id: 739,
+    name: 'Broxie #739',
     attributes: [
       {
         trait_type: 'back',
@@ -34038,10 +38472,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSLyWxC4FSQPL5utdwW9bShDhd9a4UZYKsQCde9phT4Cd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVrHm6nfDth39ZSgapKh19j64BfiwXsnEEUTnAjBWJe82',
+    address:
+      '0:05c2bccbd8a2dfaba14d8f23cadb6bbb4fb4225ccb5607be745914b0b07ef039',
   },
   {
-    previewUrl: 'QmetFVrEy9pY89zEH9R1zqdnD5Ai1DgxJPbsK6tuxzkNy6',
-    ipfsUrl: 'QmTTV8aDxK1osFxCRG4vNFXVzB4fw7ZQtGcgfouykkdZaf',
+    id: 740,
+    name: 'Broxie #740',
     attributes: [
       {
         trait_type: 'back',
@@ -34084,10 +38524,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTTV8aDxK1osFxCRG4vNFXVzB4fw7ZQtGcgfouykkdZaf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmetFVrEy9pY89zEH9R1zqdnD5Ai1DgxJPbsK6tuxzkNy6',
+    address:
+      '0:e08accf6db24072347c7e63f648d5b44590f7efc180de3f44b6f15fc46ce2470',
   },
   {
-    previewUrl: 'QmWAPHnaSBbFRQvvFBSZEamUXMQw5x53WdkZFddfBTD4Gn',
-    ipfsUrl: 'QmQt6YYYn1GBAUX9ctU88Z6SsDz9AxGPNqDyrwsSBq8sKf',
+    id: 741,
+    name: 'Broxie #741',
     attributes: [
       {
         trait_type: 'back',
@@ -34130,10 +38576,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQt6YYYn1GBAUX9ctU88Z6SsDz9AxGPNqDyrwsSBq8sKf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWAPHnaSBbFRQvvFBSZEamUXMQw5x53WdkZFddfBTD4Gn',
+    address:
+      '0:c3b2a54d2f0e10cf510a9417b72e53c8197a1f37c1612c0a140afb62e416440d',
   },
   {
-    previewUrl: 'QmPjuGyajtR13HbqAVU2XMGLbiUMXkPXKPv8o1hLRfqohd',
-    ipfsUrl: 'QmXF5cMAPDBJJ7xuH2NpFpaFdHAAVTg66soihuUnHGJbSV',
+    id: 742,
+    name: 'Broxie #742',
     attributes: [
       {
         trait_type: 'back',
@@ -34176,10 +38628,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXF5cMAPDBJJ7xuH2NpFpaFdHAAVTg66soihuUnHGJbSV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPjuGyajtR13HbqAVU2XMGLbiUMXkPXKPv8o1hLRfqohd',
+    address:
+      '0:186ee3aa24b7f5d971175ad83da2ba2b14d1dfa8039c4451fd20d5df147dced5',
   },
   {
-    previewUrl: 'QmQM1YaUeaic5ps63VrHm2rWY3GJXokumLFo1HiDzepRNB',
-    ipfsUrl: 'QmbT8jVmATccgdJCVJNbA9V7M42EMx6etEacgBwxZDWkQh',
+    id: 743,
+    name: 'Broxie #743',
     attributes: [
       {
         trait_type: 'back',
@@ -34222,10 +38680,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbT8jVmATccgdJCVJNbA9V7M42EMx6etEacgBwxZDWkQh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQM1YaUeaic5ps63VrHm2rWY3GJXokumLFo1HiDzepRNB',
+    address:
+      '0:77d073fd938b2744c07fd9bb9495504ae0d39b1418d66da6bb7a01a24b46dfcc',
   },
   {
-    previewUrl: 'QmR4DSyusvUQXGPHcFZZXgPZnaScPLprVg58kPKEASUqd7',
-    ipfsUrl: 'Qmc2uuGojAkWj5CpoiQGNFodEUdt1XqD4L11EwT5jJ1WoG',
+    id: 744,
+    name: 'Broxie #744',
     attributes: [
       {
         trait_type: 'back',
@@ -34268,10 +38732,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc2uuGojAkWj5CpoiQGNFodEUdt1XqD4L11EwT5jJ1WoG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR4DSyusvUQXGPHcFZZXgPZnaScPLprVg58kPKEASUqd7',
+    address:
+      '0:5a621053a5b1bd8b110f2bf3a17a9c71abcfa51cc1f9b29adb7a1ebdb6940755',
   },
   {
-    previewUrl: 'QmPPzrG5vmXKi5M91yFFDyawDdBhCENftXDBcRmLAXjcpi',
-    ipfsUrl: 'QmbWYYCKKKSrtdsLeXrigCGk3pBNexLc79ruD81td3XKni',
+    id: 745,
+    name: 'Broxie #745',
     attributes: [
       {
         trait_type: 'back',
@@ -34314,10 +38784,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbWYYCKKKSrtdsLeXrigCGk3pBNexLc79ruD81td3XKni',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPPzrG5vmXKi5M91yFFDyawDdBhCENftXDBcRmLAXjcpi',
+    address:
+      '0:b4830fe4533bfbb5f7e8b5552f244e8e5d2a9eaabfedf9442d79f8ad0f1e9ab7',
   },
   {
-    previewUrl: 'QmeDuULf25cGq6AiMBy1aM5Vqsut5PpzrpuHK2Zzz68wZY',
-    ipfsUrl: 'QmXAZscC4eBrXGZUXWyPabS4NFmTZsRuQg7Wjx8iafMUVr',
+    id: 746,
+    name: 'Broxie #746',
     attributes: [
       {
         trait_type: 'back',
@@ -34360,10 +38836,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXAZscC4eBrXGZUXWyPabS4NFmTZsRuQg7Wjx8iafMUVr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeDuULf25cGq6AiMBy1aM5Vqsut5PpzrpuHK2Zzz68wZY',
+    address:
+      '0:4f2efa072fa80a8356ec70fa5df171e3e7b9ba0a6d315a6c2283ba013169cc92',
   },
   {
-    previewUrl: 'QmUncKWd6irFq3nR1g5LQpybUt6cc8cAZpNsdVWh5RjLn3',
-    ipfsUrl: 'QmY47Ta3noyq7t8ojQY17awDDNYiezqJSiLri1H4YT1znk',
+    id: 747,
+    name: 'Broxie #747',
     attributes: [
       {
         trait_type: 'back',
@@ -34406,10 +38888,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY47Ta3noyq7t8ojQY17awDDNYiezqJSiLri1H4YT1znk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUncKWd6irFq3nR1g5LQpybUt6cc8cAZpNsdVWh5RjLn3',
+    address:
+      '0:48c6e1344af9ab9eb91196387cadf30edcb63625b2358da38faca92e58a02f42',
   },
   {
-    previewUrl: 'QmPHESG74NaZTswnhFSKorovFAzAgAYjQCL5FSk9TtV1ds',
-    ipfsUrl: 'QmS3eRh6BTRQhj3SrNnCVQTZBM1F9StafSutNUZDoC4cmQ',
+    id: 748,
+    name: 'Broxie #748',
     attributes: [
       {
         trait_type: 'back',
@@ -34452,10 +38940,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmS3eRh6BTRQhj3SrNnCVQTZBM1F9StafSutNUZDoC4cmQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPHESG74NaZTswnhFSKorovFAzAgAYjQCL5FSk9TtV1ds',
+    address:
+      '0:4a84bdd6be3addfd5ff7bd718f1df748f2147071c095eb91e64ff4ec2f1b34f3',
   },
   {
-    previewUrl: 'Qmatuw7RXPeU2MzvfYhbyH8951HTHgfC2TgNkjqT4Kdx9N',
-    ipfsUrl: 'QmdbMENfGqkwLY7SHXCqsJ7sS58gy4KDbwDKpNf2RAphmA',
+    id: 749,
+    name: 'Broxie #749',
     attributes: [
       {
         trait_type: 'back',
@@ -34498,10 +38992,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdbMENfGqkwLY7SHXCqsJ7sS58gy4KDbwDKpNf2RAphmA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmatuw7RXPeU2MzvfYhbyH8951HTHgfC2TgNkjqT4Kdx9N',
+    address:
+      '0:8c53064300ceb73cb88cdc70f25ceab951c7606806820ec46cfbdc5ca5449447',
   },
   {
-    previewUrl: 'QmbycRbtfjEv9exn15pS2jpR3akCcdFyuGkJmFh7daUwxF',
-    ipfsUrl: 'QmXxrAVE5BgDx1ZKWapMkMwZHqvqTuFTi9B1AWj7fDfFMw',
+    id: 750,
+    name: 'Broxie #750',
     attributes: [
       {
         trait_type: 'back',
@@ -34544,10 +39044,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXxrAVE5BgDx1ZKWapMkMwZHqvqTuFTi9B1AWj7fDfFMw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbycRbtfjEv9exn15pS2jpR3akCcdFyuGkJmFh7daUwxF',
+    address:
+      '0:b337245cebc68a7e0ad34dcb9d5faad5d5e9c52efa14dcd6d6aff6627c383fab',
   },
   {
-    previewUrl: 'QmScACVeQFCnPxgNCsXisEuhPuw5VFb78KmLtkaapHJxfu',
-    ipfsUrl: 'QmU1ZoCrW7y7HDdPj6cRZbyB6VEb139LQi5H845DTDPFQ4',
+    id: 751,
+    name: 'Broxie #751',
     attributes: [
       {
         trait_type: 'back',
@@ -34590,10 +39096,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU1ZoCrW7y7HDdPj6cRZbyB6VEb139LQi5H845DTDPFQ4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmScACVeQFCnPxgNCsXisEuhPuw5VFb78KmLtkaapHJxfu',
+    address:
+      '0:4f2731e4c7d3dcd69894d5ebca3c17da0bd9c36b62abf80e15dea3f5c0db1df7',
   },
   {
-    previewUrl: 'QmbhXb7Cz6S295hEJSMZkTC38wdLofKnvE3QkrcEbCNhUk',
-    ipfsUrl: 'QmPUcY1uHC49LnMgvHrSpEaxAJqd5QT2ZfofCRt4Yre4uP',
+    id: 752,
+    name: 'Broxie #752',
     attributes: [
       {
         trait_type: 'back',
@@ -34636,10 +39148,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPUcY1uHC49LnMgvHrSpEaxAJqd5QT2ZfofCRt4Yre4uP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbhXb7Cz6S295hEJSMZkTC38wdLofKnvE3QkrcEbCNhUk',
+    address:
+      '0:0d50655a1e82a6cae54b85f06e0cb1c6e2e7e4d0d83209787fb1ca01f0118c41',
   },
   {
-    previewUrl: 'QmQQ2JCPM3EXgcTuaT7sGK9FQSqq4J8wYDLR6N3YJTic19',
-    ipfsUrl: 'QmRGagG7bEfFrBGDEGhDHnZm8w7mSdwSzDy3EBuFCr8BV4',
+    id: 753,
+    name: 'Broxie #753',
     attributes: [
       {
         trait_type: 'back',
@@ -34682,10 +39200,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRGagG7bEfFrBGDEGhDHnZm8w7mSdwSzDy3EBuFCr8BV4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQQ2JCPM3EXgcTuaT7sGK9FQSqq4J8wYDLR6N3YJTic19',
+    address:
+      '0:cfc750a1d107661d6f41546ea3fb8d0b085e7c43cc40fd0c7681be422622760a',
   },
   {
-    previewUrl: 'Qmam3midEoL4sEVxQPhcNaDYBadAdpYNWjmBJDLriZzDcA',
-    ipfsUrl: 'QmUVv8onDqMhCpsdCXMkXnJne1VpgNznnwwTQcoz2atGRV',
+    id: 754,
+    name: 'Broxie #754',
     attributes: [
       {
         trait_type: 'back',
@@ -34728,10 +39252,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUVv8onDqMhCpsdCXMkXnJne1VpgNznnwwTQcoz2atGRV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmam3midEoL4sEVxQPhcNaDYBadAdpYNWjmBJDLriZzDcA',
+    address:
+      '0:112aaa4ea320392ca670eadcbe66940549f357aac04e44e04cdce560e9f425ad',
   },
   {
-    previewUrl: 'QmbabyTfYAWwknAhqyGJRanuhx4iGv2pgWy6xmSZZLfBaE',
-    ipfsUrl: 'QmcyT278TNob1GxcuBk9YCuVbvk47bYBbW52mwDaQQx2s1',
+    id: 755,
+    name: 'Broxie #755',
     attributes: [
       {
         trait_type: 'back',
@@ -34774,10 +39304,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcyT278TNob1GxcuBk9YCuVbvk47bYBbW52mwDaQQx2s1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbabyTfYAWwknAhqyGJRanuhx4iGv2pgWy6xmSZZLfBaE',
+    address:
+      '0:fa1abd71fe8d8a1a966d59c00b58dd35c1027970adc261f1f0576b21eca82ea3',
   },
   {
-    previewUrl: 'QmXZFru31Vho88JisAf8oUNNzyEM2gXN4TkmfyWxtTgqhx',
-    ipfsUrl: 'Qmb5UT33V861EZy2K6dqENkXF8r2VjEwh7UH8gPEwZvqwU',
+    id: 756,
+    name: 'Broxie #756',
     attributes: [
       {
         trait_type: 'back',
@@ -34820,10 +39356,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb5UT33V861EZy2K6dqENkXF8r2VjEwh7UH8gPEwZvqwU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXZFru31Vho88JisAf8oUNNzyEM2gXN4TkmfyWxtTgqhx',
+    address:
+      '0:d210bdd843f6f0a5b73c2cb37f0e69f34e6a60935def13c26e0d7296849981cc',
   },
   {
-    previewUrl: 'QmQp8B5SrUFZhaFFfM6zqJ6z9HCYejUkUp7YECgRSLMmky',
-    ipfsUrl: 'QmSNQyTvk5cjscwqdyWpJqjqYL3Up9YnbTe2bqfmSFz1MY',
+    id: 757,
+    name: 'Broxie #757',
     attributes: [
       {
         trait_type: 'back',
@@ -34866,10 +39408,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSNQyTvk5cjscwqdyWpJqjqYL3Up9YnbTe2bqfmSFz1MY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQp8B5SrUFZhaFFfM6zqJ6z9HCYejUkUp7YECgRSLMmky',
+    address:
+      '0:ced21a6a27e292b7b34ce4d041b034667cc1d63bddd116723dcb61a451d4cb8d',
   },
   {
-    previewUrl: 'QmRJJahszZwnxPUf3nttDUjyQuAY52qd9ohqGDDkws4ZZf',
-    ipfsUrl: 'QmfM1c4RHq2T1jduPK5uAz9ETnFbmALc1G1HYzd2Fhnsnc',
+    id: 758,
+    name: 'Broxie #758',
     attributes: [
       {
         trait_type: 'back',
@@ -34912,10 +39460,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfM1c4RHq2T1jduPK5uAz9ETnFbmALc1G1HYzd2Fhnsnc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRJJahszZwnxPUf3nttDUjyQuAY52qd9ohqGDDkws4ZZf',
+    address:
+      '0:a4894a1278ecf7ae81747958e48126c02bbaa4af922fe38b2928624eb73d7d80',
   },
   {
-    previewUrl: 'QmRePwXowURZpNecX2UYCzcAkUHWVPL3en9GRF7WHvtNbA',
-    ipfsUrl: 'QmSjsLS2JNCBR5wdSrqCBtx1j2XtRqqoTxPaUVhX6Rho2T',
+    id: 759,
+    name: 'Broxie #759',
     attributes: [
       {
         trait_type: 'back',
@@ -34958,10 +39512,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSjsLS2JNCBR5wdSrqCBtx1j2XtRqqoTxPaUVhX6Rho2T',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRePwXowURZpNecX2UYCzcAkUHWVPL3en9GRF7WHvtNbA',
+    address:
+      '0:0c0bade0a35849dde53c1dba9fb226e9bc6027d4559e50aba8bb1d237c36c8d1',
   },
   {
-    previewUrl: 'Qmcy376S8G1XKj91jbA9ZmJhzhWsT7BzwJHPk1mcgrsiYY',
-    ipfsUrl: 'QmPuAVYjSzZ7h9soBRKsVcvFdr4HYVzP4hPnPHkNjSPv4w',
+    id: 760,
+    name: 'Broxie #760',
     attributes: [
       {
         trait_type: 'back',
@@ -35004,10 +39564,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPuAVYjSzZ7h9soBRKsVcvFdr4HYVzP4hPnPHkNjSPv4w',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcy376S8G1XKj91jbA9ZmJhzhWsT7BzwJHPk1mcgrsiYY',
+    address:
+      '0:d5308c418e7adc0ffd96506cb29cef7af67f52a0beaaeea5171c7468f0af4846',
   },
   {
-    previewUrl: 'QmUN8bZjbqb6FcX6XHbq4V7FkSaaPWH1yQcjmDTR37U1dd',
-    ipfsUrl: 'Qmcsna5BB896Q4Buzrk2TVoY46PLc9oXUep5vGSTsxDzgY',
+    id: 761,
+    name: 'Broxie #761',
     attributes: [
       {
         trait_type: 'back',
@@ -35050,10 +39616,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcsna5BB896Q4Buzrk2TVoY46PLc9oXUep5vGSTsxDzgY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUN8bZjbqb6FcX6XHbq4V7FkSaaPWH1yQcjmDTR37U1dd',
+    address:
+      '0:460b9a09eec6529f5fa71201a43b29a306738b7d79955197f48d9e4eaed92ff4',
   },
   {
-    previewUrl: 'QmV5dvwh7jMFGECYvLk8RMZbrsPUQM76hvcnsNF2VBniKY',
-    ipfsUrl: 'QmdQd32VEHz7k8Z4U3P7MbawoBnq5JiAW1pLoMRbvUtdyo',
+    id: 762,
+    name: 'Broxie #762',
     attributes: [
       {
         trait_type: 'back',
@@ -35096,10 +39668,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdQd32VEHz7k8Z4U3P7MbawoBnq5JiAW1pLoMRbvUtdyo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV5dvwh7jMFGECYvLk8RMZbrsPUQM76hvcnsNF2VBniKY',
+    address:
+      '0:c5954fbcd52c63d454bbd466b63ccefdbe58b8962c74d6e8772092d2f592c43d',
   },
   {
-    previewUrl: 'Qmcv6v2BiGCh47zXkqa9H3uBDFNGY51KgE2Xp8TnkEG2RQ',
-    ipfsUrl: 'QmYVFRsuMX13PJHzxCYcWWFcxJq2ZLHPhYcdMtbZvjWrU3',
+    id: 763,
+    name: 'Broxie #763',
     attributes: [
       {
         trait_type: 'back',
@@ -35142,10 +39720,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYVFRsuMX13PJHzxCYcWWFcxJq2ZLHPhYcdMtbZvjWrU3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcv6v2BiGCh47zXkqa9H3uBDFNGY51KgE2Xp8TnkEG2RQ',
+    address:
+      '0:d8805997aed20d1ba99412fcb49a3d4465dd8582d896ecab04f0edfbf7c70d23',
   },
   {
-    previewUrl: 'Qma1FGXYiRY1zcCG8rNej64hXaGTVfFXzYUMXdqwnfkM41',
-    ipfsUrl: 'QmZFJY6ZFDcP6d6CcouLe66hfVrUayexGE9LbkWbrhBd28',
+    id: 764,
+    name: 'Broxie #764',
     attributes: [
       {
         trait_type: 'back',
@@ -35188,10 +39772,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZFJY6ZFDcP6d6CcouLe66hfVrUayexGE9LbkWbrhBd28',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma1FGXYiRY1zcCG8rNej64hXaGTVfFXzYUMXdqwnfkM41',
+    address:
+      '0:20947fab7405a4c5a2833ea7d9c23c6c984294ee7d7a95eeb8c0fc991f8e60d8',
   },
   {
-    previewUrl: 'QmdJMZSbNcm8KyzKPzUbgkMEZnSLQ7mnXJsE53UF5KXWyq',
-    ipfsUrl: 'QmR5XxtrYqjjL2zgzeRdRwxKBNtQDiGeeg7DCA4ZrK2urW',
+    id: 765,
+    name: 'Broxie #765',
     attributes: [
       {
         trait_type: 'back',
@@ -35234,10 +39824,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR5XxtrYqjjL2zgzeRdRwxKBNtQDiGeeg7DCA4ZrK2urW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdJMZSbNcm8KyzKPzUbgkMEZnSLQ7mnXJsE53UF5KXWyq',
+    address:
+      '0:7c805e0285e9b55f82d59d48cb061b3442781b5ea8a3def267fd602f2cec6dbf',
   },
   {
-    previewUrl: 'QmNQXjYczVdM7hxkb9hMUbiETjiciskGJvbPwLf8Y96fZd',
-    ipfsUrl: 'Qmc7oykpmBh6LDQgPCytZgCWApXmW4ZpHp2fHsZDkA3eDW',
+    id: 766,
+    name: 'Broxie #766',
     attributes: [
       {
         trait_type: 'back',
@@ -35280,10 +39876,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc7oykpmBh6LDQgPCytZgCWApXmW4ZpHp2fHsZDkA3eDW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNQXjYczVdM7hxkb9hMUbiETjiciskGJvbPwLf8Y96fZd',
+    address:
+      '0:665e1289f9dfd7caeb585b9a612f71129981775226a3b42055df973a33d1a637',
   },
   {
-    previewUrl: 'QmPchWZAGFWn17ZV6Pup9J3eV4R5QNk4CNd1Y8gHZJPKW4',
-    ipfsUrl: 'QmZYh71dYtLTauZ6XzQ1NBCCwYcLXA17FvXkzmmJmGyBZK',
+    id: 767,
+    name: 'Broxie #767',
     attributes: [
       {
         trait_type: 'back',
@@ -35326,10 +39928,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZYh71dYtLTauZ6XzQ1NBCCwYcLXA17FvXkzmmJmGyBZK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPchWZAGFWn17ZV6Pup9J3eV4R5QNk4CNd1Y8gHZJPKW4',
+    address:
+      '0:17d8dc6e536cb5761379f36c080c8c4f53d33f81bc3093ea6c84790cabfe5160',
   },
   {
-    previewUrl: 'QmfTEJghEmE5smMELYo3zssjNb6pwyse8gzWPP1YisCCAX',
-    ipfsUrl: 'QmT2kGq7tYBWarNLWWyaFXwjWcz4ssaRDzHTykZ6YopGHp',
+    id: 768,
+    name: 'Broxie #768',
     attributes: [
       {
         trait_type: 'back',
@@ -35372,10 +39980,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT2kGq7tYBWarNLWWyaFXwjWcz4ssaRDzHTykZ6YopGHp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfTEJghEmE5smMELYo3zssjNb6pwyse8gzWPP1YisCCAX',
+    address:
+      '0:af29d00283f08f59524074ae9a5d82d364df185463ce3fc7a3302e9b8d1de68f',
   },
   {
-    previewUrl: 'QmXqmUepWKXpWmUufJrE6YoVgb3gpqQiQphhJdCJArNpj2',
-    ipfsUrl: 'QmWnQzw46hBdhkTAQg8TGVP8B53Hv11iJ9yV9N7hjhWsiA',
+    id: 769,
+    name: 'Broxie #769',
     attributes: [
       {
         trait_type: 'back',
@@ -35418,10 +40032,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWnQzw46hBdhkTAQg8TGVP8B53Hv11iJ9yV9N7hjhWsiA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXqmUepWKXpWmUufJrE6YoVgb3gpqQiQphhJdCJArNpj2',
+    address:
+      '0:23649ebf6e6ba3d5b5beb21f690b31f55b53eca0d5048a9585ffbcfc0e8850df',
   },
   {
-    previewUrl: 'QmNv43z9fj5S5JWYjhAxQ6XUPvAYu9npuMsNA8VAB5xXPA',
-    ipfsUrl: 'QmVWADcPLTotxbSKK5nrdWVEV9jnWd7uAL3JW9aJ8ETJAS',
+    id: 770,
+    name: 'Broxie #770',
     attributes: [
       {
         trait_type: 'back',
@@ -35464,10 +40084,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVWADcPLTotxbSKK5nrdWVEV9jnWd7uAL3JW9aJ8ETJAS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNv43z9fj5S5JWYjhAxQ6XUPvAYu9npuMsNA8VAB5xXPA',
+    address:
+      '0:5ca96b97d064f0f3aea454c2b8f51043f2636b467dccc5c5e4048d2fb1f6bdfa',
   },
   {
-    previewUrl: 'QmbbTwaBBa8xrhhKZ6t9NqUEy6b2VT74dWntCsRsW9W1gV',
-    ipfsUrl: 'QmbfgDYq6G7RwLEJ1JNCaR4DBS73hpaLJsh4fD37D93VsD',
+    id: 771,
+    name: 'Broxie #771',
     attributes: [
       {
         trait_type: 'back',
@@ -35510,10 +40136,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbfgDYq6G7RwLEJ1JNCaR4DBS73hpaLJsh4fD37D93VsD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbbTwaBBa8xrhhKZ6t9NqUEy6b2VT74dWntCsRsW9W1gV',
+    address:
+      '0:39c31ff613a48f0291102d8f72998db9ed40d6673cc69cd33e999ae480be6e6b',
   },
   {
-    previewUrl: 'QmQ5jrmdRFAgr4hUpFwdgZ1RGogViuVLtNebWQNnaMZnDe',
-    ipfsUrl: 'QmSGYAUPU5ZxcbUCLCW8Ntehr4Jw91uj2Kzdh7sqddSXpU',
+    id: 772,
+    name: 'Broxie #772',
     attributes: [
       {
         trait_type: 'back',
@@ -35556,10 +40188,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSGYAUPU5ZxcbUCLCW8Ntehr4Jw91uj2Kzdh7sqddSXpU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ5jrmdRFAgr4hUpFwdgZ1RGogViuVLtNebWQNnaMZnDe',
+    address:
+      '0:3918b36e1459db6956ea225465eb4518fac475f449a794be7d027a9e3127b085',
   },
   {
-    previewUrl: 'QmULtyrRnc3Wittvbm7kKXwq5oSapSuPwfGRoDk9eoZkva',
-    ipfsUrl: 'QmUTskdnWr7R6EK3ShTm2qFZ8aZ1ic58ypUD27THTrWdDP',
+    id: 773,
+    name: 'Broxie #773',
     attributes: [
       {
         trait_type: 'back',
@@ -35602,10 +40240,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUTskdnWr7R6EK3ShTm2qFZ8aZ1ic58ypUD27THTrWdDP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmULtyrRnc3Wittvbm7kKXwq5oSapSuPwfGRoDk9eoZkva',
+    address:
+      '0:0d958c017353d41442ef4213e2755214b28438e52ceca8d8367bb0fd17ab8e86',
   },
   {
-    previewUrl: 'Qmb2JDXCevDmVjJLuPfVFcLbRtnebhpqKxKbNj3XS1uT1Q',
-    ipfsUrl: 'QmRMnmkyU6vxXp6Jj8ppsYJbdUa9EAL8nDKXK1PmcLrXse',
+    id: 774,
+    name: 'Broxie #774',
     attributes: [
       {
         trait_type: 'back',
@@ -35648,10 +40292,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRMnmkyU6vxXp6Jj8ppsYJbdUa9EAL8nDKXK1PmcLrXse',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb2JDXCevDmVjJLuPfVFcLbRtnebhpqKxKbNj3XS1uT1Q',
+    address:
+      '0:9788523fb2944bc81f57cd14e6fa512ffa3e066c2644e22351d10380426db0be',
   },
   {
-    previewUrl: 'Qmaty5ScDCoFFFGyZQEfaMmNTVs7noRwXvRZX3SUBSjrQN',
-    ipfsUrl: 'QmcFvD4UddCQV3bMSmSmrjndp8uTooKJME5mWA8Cjk8D4w',
+    id: 775,
+    name: 'Broxie #775',
     attributes: [
       {
         trait_type: 'back',
@@ -35694,10 +40344,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcFvD4UddCQV3bMSmSmrjndp8uTooKJME5mWA8Cjk8D4w',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmaty5ScDCoFFFGyZQEfaMmNTVs7noRwXvRZX3SUBSjrQN',
+    address:
+      '0:b95d6b17893ffc030d46664cf841f791ca6f0c3d0a16dd454916b80cf4d13349',
   },
   {
-    previewUrl: 'QmQGykEsoXsPnpQ4Qa7dfyXVdALRn9UwEX4vdjPtuVydvC',
-    ipfsUrl: 'QmWf93KDLf5V8dLQU8kUeD7PELZ65ztLWYVuwsjZyYMdaX',
+    id: 776,
+    name: 'Broxie #776',
     attributes: [
       {
         trait_type: 'back',
@@ -35740,10 +40396,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWf93KDLf5V8dLQU8kUeD7PELZ65ztLWYVuwsjZyYMdaX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQGykEsoXsPnpQ4Qa7dfyXVdALRn9UwEX4vdjPtuVydvC',
+    address:
+      '0:197379c23ca8b860b9fc22f9443fc5e63964e1c7cc75d7628ef8c4fcd9dbe466',
   },
   {
-    previewUrl: 'QmcvTWknAEVpMHvbVCpPXT9hgTKDBKLKxXpRtiYr5jJada',
-    ipfsUrl: 'Qmdf3wS5TM7XRVmct3SMnoEySSSpzMqPLHF7TFcDjJ1hBr',
+    id: 777,
+    name: 'Broxie #777',
     attributes: [
       {
         trait_type: 'back',
@@ -35786,10 +40448,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdf3wS5TM7XRVmct3SMnoEySSSpzMqPLHF7TFcDjJ1hBr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcvTWknAEVpMHvbVCpPXT9hgTKDBKLKxXpRtiYr5jJada',
+    address:
+      '0:9e12914a479fc9cca46f0f68a88a8af377fcdf5e497ff0060bbcfd8c84a480ab',
   },
   {
-    previewUrl: 'QmZJiCwUmoEnbyyUdikohv3FPa7P4Zst4TnxD2UqwvyY4D',
-    ipfsUrl: 'QmdZHGFp64KVjwubHuFk4LDLW5HJvhWveyW59XGQixXF7z',
+    id: 778,
+    name: 'Broxie #778',
     attributes: [
       {
         trait_type: 'back',
@@ -35832,10 +40500,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdZHGFp64KVjwubHuFk4LDLW5HJvhWveyW59XGQixXF7z',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZJiCwUmoEnbyyUdikohv3FPa7P4Zst4TnxD2UqwvyY4D',
+    address:
+      '0:3b8818b082b8d09465a986e24b3756511594e665f53b57722cf44d776c320794',
   },
   {
-    previewUrl: 'QmZ4c9RYJBQiHMtvcV2T3CgyB2v2WTvXRs4dBqUBtbquy4',
-    ipfsUrl: 'QmPQfECBrFW2N5FqWuh92pWz9YBoQ3LgtW1bYAN2MWU8os',
+    id: 779,
+    name: 'Broxie #779',
     attributes: [
       {
         trait_type: 'back',
@@ -35878,10 +40552,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPQfECBrFW2N5FqWuh92pWz9YBoQ3LgtW1bYAN2MWU8os',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ4c9RYJBQiHMtvcV2T3CgyB2v2WTvXRs4dBqUBtbquy4',
+    address:
+      '0:9496d49defc04a915202fcff95840487132f47d5d53c82a32f199e72273f9827',
   },
   {
-    previewUrl: 'QmWyq9oyrEfNQWKEtThgNa3Z8Sd9xKfGSoU3yYNmnBpp28',
-    ipfsUrl: 'QmWHFJ7rdFTEXSqH5tbuAuG5iJMN5FCr6Wx55RCS4UdKRa',
+    id: 780,
+    name: 'Broxie #780',
     attributes: [
       {
         trait_type: 'back',
@@ -35924,10 +40604,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWHFJ7rdFTEXSqH5tbuAuG5iJMN5FCr6Wx55RCS4UdKRa',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWyq9oyrEfNQWKEtThgNa3Z8Sd9xKfGSoU3yYNmnBpp28',
+    address:
+      '0:2685963cd02d4933170f77edbb1c790094f9d315c50ce61898754746e6140366',
   },
   {
-    previewUrl: 'Qmba3DPSuBP8dMKWvVUYXgAiksM8osEfv6RjS2uiuya7u3',
-    ipfsUrl: 'QmeV7KazefZfUr9nH6edTr9aGRk9Q39cu767e5rA6V9wUs',
+    id: 781,
+    name: 'Broxie #781',
     attributes: [
       {
         trait_type: 'back',
@@ -35970,10 +40656,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeV7KazefZfUr9nH6edTr9aGRk9Q39cu767e5rA6V9wUs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmba3DPSuBP8dMKWvVUYXgAiksM8osEfv6RjS2uiuya7u3',
+    address:
+      '0:3cd553c85c2ec999da3a3f1370c40c7040c20547dda29b99339c2612eec03974',
   },
   {
-    previewUrl: 'Qmc4oXS5qCJymsUVH7YhPKfXgFq8TU5R1MgYW2redyBtgu',
-    ipfsUrl: 'Qmatd4Hq3FV2tau6R1qb7RmqfLnV4VVYvpcGi9Qo7mtbC1',
+    id: 782,
+    name: 'Broxie #782',
     attributes: [
       {
         trait_type: 'back',
@@ -36016,10 +40708,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmatd4Hq3FV2tau6R1qb7RmqfLnV4VVYvpcGi9Qo7mtbC1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc4oXS5qCJymsUVH7YhPKfXgFq8TU5R1MgYW2redyBtgu',
+    address:
+      '0:a52e6c796d1d02bd102fee2803e9cf43dfcfb8d2371e3dbf34850029c7a526cc',
   },
   {
-    previewUrl: 'QmXPfwn1ePUhA6H7G15VJ1kziypFbDhHFQirH3dsxLG8de',
-    ipfsUrl: 'QmQHrcUwtDVxkES21MUTNFv37SUFzNVCJhnfVAiNcKME6Y',
+    id: 783,
+    name: 'Broxie #783',
     attributes: [
       {
         trait_type: 'back',
@@ -36062,10 +40760,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQHrcUwtDVxkES21MUTNFv37SUFzNVCJhnfVAiNcKME6Y',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXPfwn1ePUhA6H7G15VJ1kziypFbDhHFQirH3dsxLG8de',
+    address:
+      '0:d6ed9f7fdf466039733b3781457657235e9f5098612fa757065bdadbf39a42ba',
   },
   {
-    previewUrl: 'QmdgnTC17LhYH64nrTzj3CDFjqtUm4abH9e4YPErodEbj7',
-    ipfsUrl: 'QmXJBcP98zhzHx3oHCE5xGJKHiVChBhzY3Sr3dpCv9uhE3',
+    id: 784,
+    name: 'Broxie #784',
     attributes: [
       {
         trait_type: 'back',
@@ -36108,10 +40812,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXJBcP98zhzHx3oHCE5xGJKHiVChBhzY3Sr3dpCv9uhE3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdgnTC17LhYH64nrTzj3CDFjqtUm4abH9e4YPErodEbj7',
+    address:
+      '0:1413a38b28ff6e7b0a1aa2fb854ec855a389ae077955ba37188f59cb3b7c6e9b',
   },
   {
-    previewUrl: 'QmR5kPrfwXXKArwiSwb9ZToKyiAh85a3gnwq25yWwDsxfD',
-    ipfsUrl: 'QmXRUKhrJ2F5RKGYMZ87JRzZyereZLtmonxikYXMYJUXXM',
+    id: 785,
+    name: 'Broxie #785',
     attributes: [
       {
         trait_type: 'back',
@@ -36154,10 +40864,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXRUKhrJ2F5RKGYMZ87JRzZyereZLtmonxikYXMYJUXXM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR5kPrfwXXKArwiSwb9ZToKyiAh85a3gnwq25yWwDsxfD',
+    address:
+      '0:56d2052b5113657de9a698ec1f58877c74a8eeb350558a5582e5f4311f6d0388',
   },
   {
-    previewUrl: 'QmasHd5uzb7wiF44SwuV7o3EPGqEddHT2rRZAngrmUcvzc',
-    ipfsUrl: 'QmfSUjX8mmSM52KWUQUm3wa7TWF3xXHKGho5pcdpLKk567',
+    id: 786,
+    name: 'Broxie #786',
     attributes: [
       {
         trait_type: 'back',
@@ -36200,10 +40916,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfSUjX8mmSM52KWUQUm3wa7TWF3xXHKGho5pcdpLKk567',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmasHd5uzb7wiF44SwuV7o3EPGqEddHT2rRZAngrmUcvzc',
+    address:
+      '0:aee03d63723581f800c8e266dd9165eb78f489f5d176cd3092c8d3904e8f9231',
   },
   {
-    previewUrl: 'QmVB96mvj5958r7JGGwM6D16tZMfNDNgshsNdXr5J5XoAh',
-    ipfsUrl: 'QmUYCjfUvJjAmvJCmmJVzQUFfRBfGq2TPkY84jtYzaVbMM',
+    id: 787,
+    name: 'Broxie #787',
     attributes: [
       {
         trait_type: 'back',
@@ -36246,10 +40968,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUYCjfUvJjAmvJCmmJVzQUFfRBfGq2TPkY84jtYzaVbMM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVB96mvj5958r7JGGwM6D16tZMfNDNgshsNdXr5J5XoAh',
+    address:
+      '0:24b558cf24f703647356a17d6546b4c6c55d449ccaecc1281feb00e430fc21a0',
   },
   {
-    previewUrl: 'QmTKBWx3GDmoJfgZnsC76FYpWSdxZbdsZg21uMd86QTc8T',
-    ipfsUrl: 'QmQNXD4refTyYvBxUksECa2LC2vKeVbsL9RbQePVBgCt3p',
+    id: 788,
+    name: 'Broxie #788',
     attributes: [
       {
         trait_type: 'back',
@@ -36292,10 +41020,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQNXD4refTyYvBxUksECa2LC2vKeVbsL9RbQePVBgCt3p',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTKBWx3GDmoJfgZnsC76FYpWSdxZbdsZg21uMd86QTc8T',
+    address:
+      '0:16c2378f2fdc4f3aed8d0d932256d3bb50d9676ae2a80a61b781a0dfbc811f4b',
   },
   {
-    previewUrl: 'QmRzpHJ7GPcrv78iY9n2jWSDShVsUYe7kPPSiPoxt5jj3N',
-    ipfsUrl: 'QmeMppXeL83hyEgDqj74MpkhguFYjJdbGaTNGCD8xpXqaE',
+    id: 789,
+    name: 'Broxie #789',
     attributes: [
       {
         trait_type: 'back',
@@ -36338,10 +41072,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeMppXeL83hyEgDqj74MpkhguFYjJdbGaTNGCD8xpXqaE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRzpHJ7GPcrv78iY9n2jWSDShVsUYe7kPPSiPoxt5jj3N',
+    address:
+      '0:8402f83f4da54e141ad1b5483285ef513f7367c4ef49aad41a5d8a84f19ee813',
   },
   {
-    previewUrl: 'QmRUgFS1cmB63P8deKm3qNBLABTJHp411Zfdprmy12tVSf',
-    ipfsUrl: 'QmYnTshA3HSWj6ntLgCAX5riEtaPZdEMYvtCEAgGQYL43q',
+    id: 790,
+    name: 'Broxie #790',
     attributes: [
       {
         trait_type: 'back',
@@ -36384,10 +41124,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYnTshA3HSWj6ntLgCAX5riEtaPZdEMYvtCEAgGQYL43q',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRUgFS1cmB63P8deKm3qNBLABTJHp411Zfdprmy12tVSf',
+    address:
+      '0:33cd658f45e9fef69767511e996a898f3754614698730b399dcd1f89e6e97537',
   },
   {
-    previewUrl: 'QmVNRV3f1FDDsEgLG4GMfxehY5TRczXKHruPhzWUd476kZ',
-    ipfsUrl: 'QmSefkixSjGfBn8dMyg2Eyvk3XW6aaM444jFgjeWsVVBjG',
+    id: 791,
+    name: 'Broxie #791',
     attributes: [
       {
         trait_type: 'back',
@@ -36430,10 +41176,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSefkixSjGfBn8dMyg2Eyvk3XW6aaM444jFgjeWsVVBjG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVNRV3f1FDDsEgLG4GMfxehY5TRczXKHruPhzWUd476kZ',
+    address:
+      '0:b834f12c1fa294de00d29f030f372267cac4ecc645d9861f155328c92ce2bfa6',
   },
   {
-    previewUrl: 'QmRFRUoh5UscsNswqvb9FPKnJkgRCXvdYYsogvyjYebkpp',
-    ipfsUrl: 'QmTX5Y8sLNLWYjgnB23qMUNr8GboCDDqjXx6wJxTQ8R5Sd',
+    id: 792,
+    name: 'Broxie #792',
     attributes: [
       {
         trait_type: 'back',
@@ -36476,10 +41228,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTX5Y8sLNLWYjgnB23qMUNr8GboCDDqjXx6wJxTQ8R5Sd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRFRUoh5UscsNswqvb9FPKnJkgRCXvdYYsogvyjYebkpp',
+    address:
+      '0:da533f91646afecfc7781faa26ef8473d8161318938ce45680d76f11758f69ca',
   },
   {
-    previewUrl: 'QmNukcEhNSUhETGBS4BB7TKj1YPdCjDMv5nQZV8zYc2SYg',
-    ipfsUrl: 'QmTcFq9TuQ7rAZjnJPP3oq2vWXrhhGv7pffdTtMWQtTjGG',
+    id: 793,
+    name: 'Broxie #793',
     attributes: [
       {
         trait_type: 'back',
@@ -36522,10 +41280,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTcFq9TuQ7rAZjnJPP3oq2vWXrhhGv7pffdTtMWQtTjGG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNukcEhNSUhETGBS4BB7TKj1YPdCjDMv5nQZV8zYc2SYg',
+    address:
+      '0:44d9864e2635dcf131b403e41291a04587e6908e0e8cd378a6fceec1b744d24e',
   },
   {
-    previewUrl: 'QmPfCjbKakMbPyZ1ddEURZjWvPtYABM5pVYnxL9VLjgdkH',
-    ipfsUrl: 'QmSvvaw1KxSWnwyw85PbfY7mEf1NkhnrADEdnD92Db7nsA',
+    id: 794,
+    name: 'Broxie #794',
     attributes: [
       {
         trait_type: 'back',
@@ -36568,10 +41332,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSvvaw1KxSWnwyw85PbfY7mEf1NkhnrADEdnD92Db7nsA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPfCjbKakMbPyZ1ddEURZjWvPtYABM5pVYnxL9VLjgdkH',
+    address:
+      '0:c13b04d237eed18d31251a3bdfcf07d8003aaee8dbc5f22f033382c414da6797',
   },
   {
-    previewUrl: 'QmYkvLfFC1CJruZSWWK2jUWR13UpDUriXG2JrxQR9A2rG9',
-    ipfsUrl: 'QmSVfUqfbXsXpjkDRM7hwxawLUdPn3rvnpWUsqHRHGhUCm',
+    id: 795,
+    name: 'Broxie #795',
     attributes: [
       {
         trait_type: 'back',
@@ -36614,10 +41384,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSVfUqfbXsXpjkDRM7hwxawLUdPn3rvnpWUsqHRHGhUCm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYkvLfFC1CJruZSWWK2jUWR13UpDUriXG2JrxQR9A2rG9',
+    address:
+      '0:0651b6225cf92e58d8819511fc1ab8f4fca33dc0762b61bf313598318c8e65be',
   },
   {
-    previewUrl: 'QmSJQzrCgE8TE8ZdhYHaP5e7N7Qw4i2JnVwJHQQoFVoZAq',
-    ipfsUrl: 'QmaoAs8hYQcNMNF6EENokSf5FuAKkdUe5cBL8emzB6ixPJ',
+    id: 796,
+    name: 'Broxie #796',
     attributes: [
       {
         trait_type: 'back',
@@ -36660,10 +41436,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaoAs8hYQcNMNF6EENokSf5FuAKkdUe5cBL8emzB6ixPJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSJQzrCgE8TE8ZdhYHaP5e7N7Qw4i2JnVwJHQQoFVoZAq',
+    address:
+      '0:f4b32eb32582ded8feeb0fe994a7d95f463050f953d348579fbb469e2c3f0d42',
   },
   {
-    previewUrl: 'QmU6DNVvoyN7gBKCLQjdh4fuQbfLioRuU7bCF63WbMSrms',
-    ipfsUrl: 'QmPtpxaDb5dRcoTicdAhKrexaKwgAH5dUDMGrXdTkoyeEN',
+    id: 797,
+    name: 'Broxie #797',
     attributes: [
       {
         trait_type: 'back',
@@ -36706,10 +41488,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPtpxaDb5dRcoTicdAhKrexaKwgAH5dUDMGrXdTkoyeEN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU6DNVvoyN7gBKCLQjdh4fuQbfLioRuU7bCF63WbMSrms',
+    address:
+      '0:63e1c6306e6e6be72815436c27ea3f4b6b9f442053c476be0f9fe2e9c9adcc82',
   },
   {
-    previewUrl: 'QmXZ7pd9AtF1TF8nzFW7yquhdDb9b8GHP9XkK9s3kjiThL',
-    ipfsUrl: 'QmVLWpw5b36bA2dpnT1bWGqK2HGbSgvqYz1D8gF1MwtSny',
+    id: 798,
+    name: 'Broxie #798',
     attributes: [
       {
         trait_type: 'back',
@@ -36752,10 +41540,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVLWpw5b36bA2dpnT1bWGqK2HGbSgvqYz1D8gF1MwtSny',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXZ7pd9AtF1TF8nzFW7yquhdDb9b8GHP9XkK9s3kjiThL',
+    address:
+      '0:c8ca19439e5f2be0903bb7ea0d2296b1eeee03401cce579aa75a6a4a503a741d',
   },
   {
-    previewUrl: 'QmdTW2kESqQPmyCnNuZ2eabtK7CywNkwn5cswWEjB8RMDc',
-    ipfsUrl: 'QmaZNdPWNBjGK3iWazPF2m9ANzjfcvokistQV2a62e313n',
+    id: 799,
+    name: 'Broxie #799',
     attributes: [
       {
         trait_type: 'back',
@@ -36798,10 +41592,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaZNdPWNBjGK3iWazPF2m9ANzjfcvokistQV2a62e313n',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdTW2kESqQPmyCnNuZ2eabtK7CywNkwn5cswWEjB8RMDc',
+    address:
+      '0:dc658ad68a204ff3cffa597b4aa0dc0a5d62a5ae601caceab155502b2e08d5d9',
   },
   {
-    previewUrl: 'QmWEnNnFyWAPam9J7egBkBAvcnsmzvhQXy39rMJcdjP7ee',
-    ipfsUrl: 'QmYNcSh85W5vTnJUhhToz9HN1x1bhbtPSTYDEUGpgkBfzy',
+    id: 800,
+    name: 'Broxie #800',
     attributes: [
       {
         trait_type: 'back',
@@ -36844,10 +41644,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYNcSh85W5vTnJUhhToz9HN1x1bhbtPSTYDEUGpgkBfzy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWEnNnFyWAPam9J7egBkBAvcnsmzvhQXy39rMJcdjP7ee',
+    address:
+      '0:aa2cceffe4538e54c4abcd146ef98f7a876067e964e253868b0875fd6af34314',
   },
   {
-    previewUrl: 'QmTEkJauaByXd87JtVEuhYmSrY6ELy9KrMnkkqhm3yj41D',
-    ipfsUrl: 'QmVsBNHSEFa91gnV39QmF9izmsLUdb2qF1PenUAtRm4Nee',
+    id: 801,
+    name: 'Broxie #801',
     attributes: [
       {
         trait_type: 'back',
@@ -36890,10 +41696,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVsBNHSEFa91gnV39QmF9izmsLUdb2qF1PenUAtRm4Nee',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTEkJauaByXd87JtVEuhYmSrY6ELy9KrMnkkqhm3yj41D',
+    address:
+      '0:007d902e6f223a50344d99f65bc24ce80ebfac898a2099389cb68610d9f99e50',
   },
   {
-    previewUrl: 'QmQzq9qdM6qk7wruEcrfQmSjmC3L9rYRcAkuV4TFpjevA6',
-    ipfsUrl: 'QmVXaycfqUF1oic3f3CpuVyad8eZktTi7V96sVC6v9Hgsa',
+    id: 802,
+    name: 'Broxie #802',
     attributes: [
       {
         trait_type: 'back',
@@ -36936,10 +41748,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVXaycfqUF1oic3f3CpuVyad8eZktTi7V96sVC6v9Hgsa',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQzq9qdM6qk7wruEcrfQmSjmC3L9rYRcAkuV4TFpjevA6',
+    address:
+      '0:bcf6f2d51c364695a2ce1dfeee682637edc0bacb874ee5576906617aa23c9e42',
   },
   {
-    previewUrl: 'QmdEmu8o1vJm5wLBYU35FNGkCDPrFT22qbQ8ZauezMa1kn',
-    ipfsUrl: 'QmfTDCUKNzJDfmn6kYnfnABddEuFPNkceZKS5C7Y4r5KVd',
+    id: 803,
+    name: 'Broxie #803',
     attributes: [
       {
         trait_type: 'back',
@@ -36982,10 +41800,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfTDCUKNzJDfmn6kYnfnABddEuFPNkceZKS5C7Y4r5KVd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdEmu8o1vJm5wLBYU35FNGkCDPrFT22qbQ8ZauezMa1kn',
+    address:
+      '0:e86132355267c80d7d5e299c4abaa0cdfa12ebe2cba25b2c671ab0cb10f9acf4',
   },
   {
-    previewUrl: 'QmVSXTHVe7x4pRJDbdSJgi3rVBYH3hD5uUzNRsmf8VUu31',
-    ipfsUrl: 'QmUHh4vqY6gYwNmCJvkA7b7fFr5GYJhk8rTuHBhTsDKSK8',
+    id: 804,
+    name: 'Broxie #804',
     attributes: [
       {
         trait_type: 'back',
@@ -37028,10 +41852,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUHh4vqY6gYwNmCJvkA7b7fFr5GYJhk8rTuHBhTsDKSK8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVSXTHVe7x4pRJDbdSJgi3rVBYH3hD5uUzNRsmf8VUu31',
+    address:
+      '0:d5ae60da7556544a62642788a1371661e4d87facba997703d362e74cbfae9134',
   },
   {
-    previewUrl: 'QmeyVAfv6Da9khLiBtZA7X5ie2EUaEX7nFA2mLMaSRX3HN',
-    ipfsUrl: 'QmPQQNsoxXYVizZq48TvxvDECDDBHXCFoeZM4KpmHkmApt',
+    id: 805,
+    name: 'Broxie #805',
     attributes: [
       {
         trait_type: 'back',
@@ -37074,10 +41904,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPQQNsoxXYVizZq48TvxvDECDDBHXCFoeZM4KpmHkmApt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeyVAfv6Da9khLiBtZA7X5ie2EUaEX7nFA2mLMaSRX3HN',
+    address:
+      '0:b89f6727d1fd09f3cbfbe2995ab68c8c3e174f5b9ca119cf34426d81280d1e79',
   },
   {
-    previewUrl: 'Qma7kG4DLtV39tJKxq9MKQSb5gfHXwXVgqaRYXa49dVDD2',
-    ipfsUrl: 'QmYLydEuCMBNtX152hTu5CPwWeN8nCAkPA3eB5rsjaL5Vn',
+    id: 806,
+    name: 'Broxie #806',
     attributes: [
       {
         trait_type: 'back',
@@ -37120,10 +41956,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYLydEuCMBNtX152hTu5CPwWeN8nCAkPA3eB5rsjaL5Vn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma7kG4DLtV39tJKxq9MKQSb5gfHXwXVgqaRYXa49dVDD2',
+    address:
+      '0:aa29db2c682a8521c37cd80a590b0559a951ee88e6bd40d281d45d0a21077727',
   },
   {
-    previewUrl: 'QmPAHjP8skuKpiN7rkz1uD6V9TSyPFV2RBrbmJBQjjADLy',
-    ipfsUrl: 'QmVeU9orQe3iXZ29i9b7ycaZXz1Qmdpz9k3MbgzKgz8rXy',
+    id: 807,
+    name: 'Broxie #807',
     attributes: [
       {
         trait_type: 'back',
@@ -37166,10 +42008,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVeU9orQe3iXZ29i9b7ycaZXz1Qmdpz9k3MbgzKgz8rXy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPAHjP8skuKpiN7rkz1uD6V9TSyPFV2RBrbmJBQjjADLy',
+    address:
+      '0:16f5897df9de3c5742cc662f60f250ef24d9545bf84c1273bffa30e33afc9326',
   },
   {
-    previewUrl: 'QmQcN42qXdRbDyR6nHkEUbzb9VHf2Xx7pYzqEvkXMXRBBz',
-    ipfsUrl: 'Qmf9TQuqvvq4jJEs4VkXXFu3MV5mJ8h7iMih874jN4PGao',
+    id: 808,
+    name: 'Broxie #808',
     attributes: [
       {
         trait_type: 'back',
@@ -37212,10 +42060,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf9TQuqvvq4jJEs4VkXXFu3MV5mJ8h7iMih874jN4PGao',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQcN42qXdRbDyR6nHkEUbzb9VHf2Xx7pYzqEvkXMXRBBz',
+    address:
+      '0:99ceb8caf4efae007cf6d1d9e9939fe0b1dbc76042008f3caddc866d3dc60e33',
   },
   {
-    previewUrl: 'QmZx21NqRBYpAZCnRV6HeC2orzj1MSDjF7dYi5wb2PAyhN',
-    ipfsUrl: 'QmVm1KDbggF3yYC8fx8E41eJSGM85MxrwXiCmT4ADPM3yN',
+    id: 809,
+    name: 'Broxie #809',
     attributes: [
       {
         trait_type: 'back',
@@ -37258,10 +42112,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVm1KDbggF3yYC8fx8E41eJSGM85MxrwXiCmT4ADPM3yN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZx21NqRBYpAZCnRV6HeC2orzj1MSDjF7dYi5wb2PAyhN',
+    address:
+      '0:fefb862b7924e050380238b1c6ad77da3024b633530ca54b08ea145ef9f42611',
   },
   {
-    previewUrl: 'QmQF84joQV249YWFHW3StJ7fXNrGyQnMiALMrDzCKjpGMd',
-    ipfsUrl: 'QmPYWJ13kYeDF8MqNM2gsY2zL1ERGmQ9RbLsuEXUr2cixy',
+    id: 810,
+    name: 'Broxie #810',
     attributes: [
       {
         trait_type: 'back',
@@ -37304,10 +42164,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPYWJ13kYeDF8MqNM2gsY2zL1ERGmQ9RbLsuEXUr2cixy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQF84joQV249YWFHW3StJ7fXNrGyQnMiALMrDzCKjpGMd',
+    address:
+      '0:79dd18aa82b9c6df69cef76c737d6d55d56ddceceb9b5ff17d61fa578eb510fe',
   },
   {
-    previewUrl: 'QmRiHrkZyVxeievCkSUrYMsx9hUcCbrTThD5BrfaYQEuk6',
-    ipfsUrl: 'QmbN8JGo6guwaFLV3YNFSyxo5av2fDmA8e18KbkpRwxin7',
+    id: 811,
+    name: 'Broxie #811',
     attributes: [
       {
         trait_type: 'back',
@@ -37350,10 +42216,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbN8JGo6guwaFLV3YNFSyxo5av2fDmA8e18KbkpRwxin7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRiHrkZyVxeievCkSUrYMsx9hUcCbrTThD5BrfaYQEuk6',
+    address:
+      '0:a2c6bfd3b1f965c37030c578c13883179c3ef85d2a689b94d675ad6414ef0b7b',
   },
   {
-    previewUrl: 'Qmf91jWr3DQjtm8RUsCpohcL5jhXZx1ZaPk1EcJVUvPov2',
-    ipfsUrl: 'QmVUA1KDsveqNM9dhwccynRsiAfrEcq6uj6Bbdn71uoRag',
+    id: 812,
+    name: 'Broxie #812',
     attributes: [
       {
         trait_type: 'back',
@@ -37396,10 +42268,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVUA1KDsveqNM9dhwccynRsiAfrEcq6uj6Bbdn71uoRag',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf91jWr3DQjtm8RUsCpohcL5jhXZx1ZaPk1EcJVUvPov2',
+    address:
+      '0:609be76016c3b22dcab211458e38bca0f40a6fc488fb8fa2d49ef0edf8a604d8',
   },
   {
-    previewUrl: 'Qme3AZkqcUgm65MEmc2r6WC7WozGCds4EyDZkVWdGfDsh9',
-    ipfsUrl: 'QmU8JRG3qxSoCNAZkDFiY6xwLmAMJjzFvc1vmD2jcxKjzf',
+    id: 813,
+    name: 'Broxie #813',
     attributes: [
       {
         trait_type: 'back',
@@ -37442,10 +42320,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU8JRG3qxSoCNAZkDFiY6xwLmAMJjzFvc1vmD2jcxKjzf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme3AZkqcUgm65MEmc2r6WC7WozGCds4EyDZkVWdGfDsh9',
+    address:
+      '0:c77be4b05a2df20692090cda5afa6678f62f249baea2e8dc531da6ab7cf8b19b',
   },
   {
-    previewUrl: 'QmSWY1RhrgLg4RaWUE5hnYKpTFSEToyFW7jVqZ5NRyUQJp',
-    ipfsUrl: 'QmVmeknKcuNzpUmJ4LeZB7K4LoMoHr23LGECHbyaqv824m',
+    id: 814,
+    name: 'Broxie #814',
     attributes: [
       {
         trait_type: 'back',
@@ -37488,10 +42372,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVmeknKcuNzpUmJ4LeZB7K4LoMoHr23LGECHbyaqv824m',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSWY1RhrgLg4RaWUE5hnYKpTFSEToyFW7jVqZ5NRyUQJp',
+    address:
+      '0:2b942e2cec171070c53bb552253dc60cc09cae366a42c730607f6150d88f24e6',
   },
   {
-    previewUrl: 'QmSpgptHR5g6JoCGpYoMPAx27uPSEZFprH6BNJ85VRg2gZ',
-    ipfsUrl: 'QmcJTcuLtJhnyNpdLrv96fwqz1uNi7ZqYCRTG33y2WArXm',
+    id: 815,
+    name: 'Broxie #815',
     attributes: [
       {
         trait_type: 'back',
@@ -37534,10 +42424,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcJTcuLtJhnyNpdLrv96fwqz1uNi7ZqYCRTG33y2WArXm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSpgptHR5g6JoCGpYoMPAx27uPSEZFprH6BNJ85VRg2gZ',
+    address:
+      '0:d6bd43ea82b8064fb1fd3e4cc2e5f6cb3ee604d104652fbbb0d936a792c2a6ee',
   },
   {
-    previewUrl: 'QmfWR93YkffCvQiCdtNCDCvFQZaUcFNm7Z5ntHS8bZYLyL',
-    ipfsUrl: 'QmeerU9fAhERf4X3qX3JCAX4yoWpwjd2NAivct2cbhGAXY',
+    id: 816,
+    name: 'Broxie #816',
     attributes: [
       {
         trait_type: 'back',
@@ -37580,10 +42476,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeerU9fAhERf4X3qX3JCAX4yoWpwjd2NAivct2cbhGAXY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfWR93YkffCvQiCdtNCDCvFQZaUcFNm7Z5ntHS8bZYLyL',
+    address:
+      '0:2ed5f234f2da601f82f7a0c9fd6197ec60b2763d2b6d8742205b603f5d259d13',
   },
   {
-    previewUrl: 'QmZTqx2erJVBMHymLd84CN63GkW5LkTRxEbCfjFpLfksbi',
-    ipfsUrl: 'QmXuxd1cUpBB4tC6QdE7f7cwZjUYMqN8uMp5jv8Mw9eUzJ',
+    id: 817,
+    name: 'Broxie #817',
     attributes: [
       {
         trait_type: 'back',
@@ -37626,10 +42528,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXuxd1cUpBB4tC6QdE7f7cwZjUYMqN8uMp5jv8Mw9eUzJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZTqx2erJVBMHymLd84CN63GkW5LkTRxEbCfjFpLfksbi',
+    address:
+      '0:8ade12671cd0d6dd1d2a3d94caccc49e4da549139e459cb3bccd53c08ca578d0',
   },
   {
-    previewUrl: 'QmfSKnVkJhXgcCKD2KGLAq5wTLJXg42RLM1Uw4hfXthekc',
-    ipfsUrl: 'QmQx7ftTuaqstQXtdjw2eu8DZE53JEQejyGM1FjUpUuh6D',
+    id: 818,
+    name: 'Broxie #818',
     attributes: [
       {
         trait_type: 'back',
@@ -37672,10 +42580,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQx7ftTuaqstQXtdjw2eu8DZE53JEQejyGM1FjUpUuh6D',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfSKnVkJhXgcCKD2KGLAq5wTLJXg42RLM1Uw4hfXthekc',
+    address:
+      '0:33c29b0e97bbe269f34570ce8f26e936c45e692a6469739a5d9df8dec576a163',
   },
   {
-    previewUrl: 'QmRsG7uKyWmAw4MhgWwF6yAMmt3FKCaVcbKwLgE7NTq3MJ',
-    ipfsUrl: 'QmSsYNPYC4fRYhY7BoJYHcSqyo1q23FDufawki5g263bdz',
+    id: 819,
+    name: 'Broxie #819',
     attributes: [
       {
         trait_type: 'back',
@@ -37718,10 +42632,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSsYNPYC4fRYhY7BoJYHcSqyo1q23FDufawki5g263bdz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRsG7uKyWmAw4MhgWwF6yAMmt3FKCaVcbKwLgE7NTq3MJ',
+    address:
+      '0:47768ce9f309996cf4d3c1b39c7a2e7a4368ba46a1e8745b19c346723b407a9b',
   },
   {
-    previewUrl: 'QmejRyzJbtv1JFvBLTpXrxtZRERSqGjQYNJFkVeRadrKt9',
-    ipfsUrl: 'QmbN7XU8Q5r7RGCnpYTnnnkEsbM9EhiRViT9pm9eeQzk1n',
+    id: 820,
+    name: 'Broxie #820',
     attributes: [
       {
         trait_type: 'back',
@@ -37764,10 +42684,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbN7XU8Q5r7RGCnpYTnnnkEsbM9EhiRViT9pm9eeQzk1n',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmejRyzJbtv1JFvBLTpXrxtZRERSqGjQYNJFkVeRadrKt9',
+    address:
+      '0:e73bd8ef149733405bd3be964fc7ed12485213a2dd58bbe43b4cdb901c2775d0',
   },
   {
-    previewUrl: 'QmWnbmKvCiEN7i7s1FGjDvvUvoGE52HnLECzWdXibcSA6R',
-    ipfsUrl: 'QmepzSYRgdRZpvdcZq5a7rCe4LKtQnxjVFFnNZHMzrRFyS',
+    id: 821,
+    name: 'Broxie #821',
     attributes: [
       {
         trait_type: 'back',
@@ -37810,10 +42736,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmepzSYRgdRZpvdcZq5a7rCe4LKtQnxjVFFnNZHMzrRFyS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWnbmKvCiEN7i7s1FGjDvvUvoGE52HnLECzWdXibcSA6R',
+    address:
+      '0:d5d770b13c27a21e7ac0749ebb296f8bf1633f849901dbdb2961341c545bd8b2',
   },
   {
-    previewUrl: 'QmTcxUbQWem3aY2NmHVaTQPkprc1HD3L3BLsyaYWMEsCqy',
-    ipfsUrl: 'QmNctGuMe2edHdNRyUBcrQzDeYhqBXb4Jg8H4kBBvzEWBb',
+    id: 822,
+    name: 'Broxie #822',
     attributes: [
       {
         trait_type: 'back',
@@ -37856,10 +42788,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNctGuMe2edHdNRyUBcrQzDeYhqBXb4Jg8H4kBBvzEWBb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTcxUbQWem3aY2NmHVaTQPkprc1HD3L3BLsyaYWMEsCqy',
+    address:
+      '0:6b2168556ab2531b915d360d1ee00234bf4e22c28002f5890ffbe534e467f420',
   },
   {
-    previewUrl: 'QmcWmRodje3eCdow2x4yt1Sr9QiLs5VVpgvbc6Fi9NFsui',
-    ipfsUrl: 'QmQueJVPZuBsY5pqx8jYmKbhgJDx3JzbxS8tdG5BzC6ix1',
+    id: 823,
+    name: 'Broxie #823',
     attributes: [
       {
         trait_type: 'back',
@@ -37902,10 +42840,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQueJVPZuBsY5pqx8jYmKbhgJDx3JzbxS8tdG5BzC6ix1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcWmRodje3eCdow2x4yt1Sr9QiLs5VVpgvbc6Fi9NFsui',
+    address:
+      '0:f113832f4af111bdce1636526d457927b54059bdf264a7c60e82cb0d1edd3318',
   },
   {
-    previewUrl: 'QmSxMe22rg4jk2KioR29tSS2CxeTkXzh1SX2jTtxUXYtzH',
-    ipfsUrl: 'Qmc88oj5P9oRfLDioeNV9sNnz8HhFt5uPZiEHnaAgpUjrE',
+    id: 824,
+    name: 'Broxie #824',
     attributes: [
       {
         trait_type: 'back',
@@ -37948,10 +42892,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc88oj5P9oRfLDioeNV9sNnz8HhFt5uPZiEHnaAgpUjrE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSxMe22rg4jk2KioR29tSS2CxeTkXzh1SX2jTtxUXYtzH',
+    address:
+      '0:93ba82c40c7beb0d9d83014af2b6b7504ec30a2b67df6b3347812005296d5eba',
   },
   {
-    previewUrl: 'QmZ9mRRDmse28xP5Cc5mUhGUUMe7CSRdkavUgsPntaWcFn',
-    ipfsUrl: 'QmdpmKJCMBj9NH1QHSsXVsb1s7Z7mHYuWs8jhTJq35uBi1',
+    id: 825,
+    name: 'Broxie #825',
     attributes: [
       {
         trait_type: 'back',
@@ -37994,10 +42944,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdpmKJCMBj9NH1QHSsXVsb1s7Z7mHYuWs8jhTJq35uBi1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ9mRRDmse28xP5Cc5mUhGUUMe7CSRdkavUgsPntaWcFn',
+    address:
+      '0:55cce588c471d757cb3424da16cc38173b3b607c2336e0483e785d49d8385d53',
   },
   {
-    previewUrl: 'QmQZ4mnZFZmV8aLWf2rFSnvhDekrySWa3vaWoHpq6yGmYh',
-    ipfsUrl: 'QmcGEnQVQQKxtMhSCMz34Zf2juk8X6yVYv9onig9vx2jki',
+    id: 826,
+    name: 'Broxie #826',
     attributes: [
       {
         trait_type: 'back',
@@ -38040,10 +42996,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcGEnQVQQKxtMhSCMz34Zf2juk8X6yVYv9onig9vx2jki',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQZ4mnZFZmV8aLWf2rFSnvhDekrySWa3vaWoHpq6yGmYh',
+    address:
+      '0:9251987c5ca493baf199917508c17edb2dac31edfbd7928c7ce780686f02df4d',
   },
   {
-    previewUrl: 'QmVpVnnwTPBGt8MJPXPaFy3bVtoUxaXue8A2qeWGXwWHfm',
-    ipfsUrl: 'QmSxBYsxpEm5hjzBwAnzEL66ssVpFQMxr34GrRtri1eXXp',
+    id: 827,
+    name: 'Broxie #827',
     attributes: [
       {
         trait_type: 'back',
@@ -38086,10 +43048,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSxBYsxpEm5hjzBwAnzEL66ssVpFQMxr34GrRtri1eXXp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVpVnnwTPBGt8MJPXPaFy3bVtoUxaXue8A2qeWGXwWHfm',
+    address:
+      '0:3171a0489bcc650d855de8349dfb7f8e00517a3769659795db9962d63995e518',
   },
   {
-    previewUrl: 'QmXbV7oAWz6Uw3YvcEER6p6QUPHLdQNcZZNE7KwETeFGdA',
-    ipfsUrl: 'QmQ3rccNoWB2pv4ZorXpSKZAMwEBf7guqZQBw6x1ZZ5jyu',
+    id: 828,
+    name: 'Broxie #828',
     attributes: [
       {
         trait_type: 'back',
@@ -38132,10 +43100,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ3rccNoWB2pv4ZorXpSKZAMwEBf7guqZQBw6x1ZZ5jyu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXbV7oAWz6Uw3YvcEER6p6QUPHLdQNcZZNE7KwETeFGdA',
+    address:
+      '0:11f6a3a70f846d9dd4bba32630fe5283573c15d478d280972915965a39c1a944',
   },
   {
-    previewUrl: 'QmdhHY71UNjQAkxbGZcWy5EUiKdjfrpsiHWq1EgjMoYRwC',
-    ipfsUrl: 'QmSGwgVwy7wvHEurqeQQpmSGQQFaynTwdFUsHG37ytJvs2',
+    id: 829,
+    name: 'Broxie #829',
     attributes: [
       {
         trait_type: 'back',
@@ -38178,10 +43152,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSGwgVwy7wvHEurqeQQpmSGQQFaynTwdFUsHG37ytJvs2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdhHY71UNjQAkxbGZcWy5EUiKdjfrpsiHWq1EgjMoYRwC',
+    address:
+      '0:25a4c628f98f7a1707d13178832352228b3683197e6ad0dfad712f5fb0c8d02a',
   },
   {
-    previewUrl: 'QmPfYruoHfqcPiuK8bUGoDx9N83ZuR6Tj9ocTpwKkHXkrw',
-    ipfsUrl: 'QmQvQ36j2m87imckbchfeRHfqG8GuGp4PA39EWgPHwweKB',
+    id: 830,
+    name: 'Broxie #830',
     attributes: [
       {
         trait_type: 'back',
@@ -38224,10 +43204,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQvQ36j2m87imckbchfeRHfqG8GuGp4PA39EWgPHwweKB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPfYruoHfqcPiuK8bUGoDx9N83ZuR6Tj9ocTpwKkHXkrw',
+    address:
+      '0:0bbd934cc1e8caa792f06166068aaba9ee17fc4f5bd4cbc31dd7d1ea5867af8b',
   },
   {
-    previewUrl: 'QmQnaTKiqQAcPaHH5A3bgME5YSN8CohLKm6wSdJ9X8Akox',
-    ipfsUrl: 'QmcNuUKDhEf3WdARujVvFdstgxGHmRfLr48NfvPSim42Ko',
+    id: 831,
+    name: 'Broxie #831',
     attributes: [
       {
         trait_type: 'back',
@@ -38270,10 +43256,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcNuUKDhEf3WdARujVvFdstgxGHmRfLr48NfvPSim42Ko',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQnaTKiqQAcPaHH5A3bgME5YSN8CohLKm6wSdJ9X8Akox',
+    address:
+      '0:3ebd077dd998f50f1d074b993b8faccbdda8c84b3b7e1acc7bdc0de4f8582b40',
   },
   {
-    previewUrl: 'QmVB8GU1fqnvaxYXKcq1W6ff9wYFCbmuqpPNd9mLr8HDFb',
-    ipfsUrl: 'QmPDVwQML8YoVSxHKzpFfx2HJat1aVsS6k7qzM9ERHMXUv',
+    id: 832,
+    name: 'Broxie #832',
     attributes: [
       {
         trait_type: 'back',
@@ -38316,10 +43308,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPDVwQML8YoVSxHKzpFfx2HJat1aVsS6k7qzM9ERHMXUv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVB8GU1fqnvaxYXKcq1W6ff9wYFCbmuqpPNd9mLr8HDFb',
+    address:
+      '0:053c7bab0030f919f68d36be5671c47272fdfbdbe578bf8dd2a72dbbb323a5c4',
   },
   {
-    previewUrl: 'QmXBuDHYy11ziDByHJZcx44AGe9fbFA7TcCV1j5qxQqwRi',
-    ipfsUrl: 'QmVJnFtk2X1Y1o2ZeJAtYXC1XPo1qKpbYyNtpbLg4uappY',
+    id: 833,
+    name: 'Broxie #833',
     attributes: [
       {
         trait_type: 'back',
@@ -38362,10 +43360,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVJnFtk2X1Y1o2ZeJAtYXC1XPo1qKpbYyNtpbLg4uappY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXBuDHYy11ziDByHJZcx44AGe9fbFA7TcCV1j5qxQqwRi',
+    address:
+      '0:165ba4cac2c27f8626b9f050677551fa9960a7e5e9a21f9c177dcd2cc662f501',
   },
   {
-    previewUrl: 'QmaDr6qWsKd18J7xf2TykAoFWG5sawk6dvn9wfJWbqCCsN',
-    ipfsUrl: 'QmYE2N5ERFnRCTxpwPjLL376t4PB9jPcyoC3Kd3fqVpyA7',
+    id: 834,
+    name: 'Broxie #834',
     attributes: [
       {
         trait_type: 'back',
@@ -38408,10 +43412,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYE2N5ERFnRCTxpwPjLL376t4PB9jPcyoC3Kd3fqVpyA7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaDr6qWsKd18J7xf2TykAoFWG5sawk6dvn9wfJWbqCCsN',
+    address:
+      '0:721a45c83dd6ca5f77042c14c06ca056370bb4767620e4e3cf994fbef5891036',
   },
   {
-    previewUrl: 'QmRZxZF6xUBHciwKmDDZHPDfdekdbztzapNqvWj1d7sPL4',
-    ipfsUrl: 'QmWzhKaXzjwFobCRfTCfrn37nLgnmJfUmJFi9HXUUc1nR5',
+    id: 835,
+    name: 'Broxie #835',
     attributes: [
       {
         trait_type: 'back',
@@ -38454,10 +43464,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWzhKaXzjwFobCRfTCfrn37nLgnmJfUmJFi9HXUUc1nR5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRZxZF6xUBHciwKmDDZHPDfdekdbztzapNqvWj1d7sPL4',
+    address:
+      '0:1960e55d852e204a1a13352c18ca0bf9f9cceacb634fc33e63eae05b793dd353',
   },
   {
-    previewUrl: 'QmQkUsbqfZ93keRPtggbCyeu5EHnynh5Y4PXcVC4sWXfjZ',
-    ipfsUrl: 'QmUXZ5ePT4q9JWTxfy4zS9v7zPzVwm3PdsbYoZgJaLk5fo',
+    id: 836,
+    name: 'Broxie #836',
     attributes: [
       {
         trait_type: 'back',
@@ -38500,10 +43516,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUXZ5ePT4q9JWTxfy4zS9v7zPzVwm3PdsbYoZgJaLk5fo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQkUsbqfZ93keRPtggbCyeu5EHnynh5Y4PXcVC4sWXfjZ',
+    address:
+      '0:6d3f2fdebcd418bfe97f714010223a4e8c98e1959e4212702e4881f0c8bad65d',
   },
   {
-    previewUrl: 'QmcrJ8muT5WATjMY7qFauxJKJpQPJUKQTNkrroYY95APD1',
-    ipfsUrl: 'QmYZw5qaL4nv5uofS4n9nUV3m55h948CwqZyupY8UPHudT',
+    id: 837,
+    name: 'Broxie #837',
     attributes: [
       {
         trait_type: 'back',
@@ -38546,10 +43568,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYZw5qaL4nv5uofS4n9nUV3m55h948CwqZyupY8UPHudT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcrJ8muT5WATjMY7qFauxJKJpQPJUKQTNkrroYY95APD1',
+    address:
+      '0:b002ff7da3e9046a7ac6874e45c1f63377fa26332d03f235946bbdc176e5a938',
   },
   {
-    previewUrl: 'QmSJ4MCxqCXkGYtAMXfgksP9EXjuG9XHU9CvRiL25suuHG',
-    ipfsUrl: 'QmZoNAxMBnfBESwS6BzNAZmCzTeaMgXU6gPsi8WdmKp6Dw',
+    id: 838,
+    name: 'Broxie #838',
     attributes: [
       {
         trait_type: 'back',
@@ -38592,10 +43620,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZoNAxMBnfBESwS6BzNAZmCzTeaMgXU6gPsi8WdmKp6Dw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSJ4MCxqCXkGYtAMXfgksP9EXjuG9XHU9CvRiL25suuHG',
+    address:
+      '0:bae04308ae092f64de3a9fc87004de7c5befa4c3f27b8ff2c77d15c29e08a9b3',
   },
   {
-    previewUrl: 'QmaYQ8xbS6TNQcfbdTruhb4pZ9r8GWX11vuNR34ec4tKNG',
-    ipfsUrl: 'QmS4T6Z4991BddMLwcsvsg5f3npfdhaqE5EuF2RheQ5Y5B',
+    id: 839,
+    name: 'Broxie #839',
     attributes: [
       {
         trait_type: 'back',
@@ -38638,10 +43672,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmS4T6Z4991BddMLwcsvsg5f3npfdhaqE5EuF2RheQ5Y5B',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaYQ8xbS6TNQcfbdTruhb4pZ9r8GWX11vuNR34ec4tKNG',
+    address:
+      '0:0fd9ccde77b1679245cefdb261a7aea68e4e055b2410ded5b21ebe3c7e61a757',
   },
   {
-    previewUrl: 'QmTXiceq8qy4NXL1dBQUxoaseZCBSi1odqskBxWnBSeHbQ',
-    ipfsUrl: 'QmQedPhjSYaN1X8A54C2PQ83WNuV6DWTBy4hBhCnr9s39z',
+    id: 840,
+    name: 'Broxie #840',
     attributes: [
       {
         trait_type: 'back',
@@ -38684,10 +43724,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQedPhjSYaN1X8A54C2PQ83WNuV6DWTBy4hBhCnr9s39z',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTXiceq8qy4NXL1dBQUxoaseZCBSi1odqskBxWnBSeHbQ',
+    address:
+      '0:7f695f409f29cc3e935f3a322cef6949afd860d8bfffe6146454d0fa5726c967',
   },
   {
-    previewUrl: 'QmZZoPHmGWWLyHiLLKdrrbs99EAubUbnnGikEA3A8PoJ5o',
-    ipfsUrl: 'QmYpQGAtRssYygaZVoxNQciCrmzmZvb6nXSvMXpfDinxFh',
+    id: 841,
+    name: 'Broxie #841',
     attributes: [
       {
         trait_type: 'back',
@@ -38730,10 +43776,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYpQGAtRssYygaZVoxNQciCrmzmZvb6nXSvMXpfDinxFh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZZoPHmGWWLyHiLLKdrrbs99EAubUbnnGikEA3A8PoJ5o',
+    address:
+      '0:593eade1ac88536c4580c6b996d74df82709c10820990299abf225b06029fa2a',
   },
   {
-    previewUrl: 'QmRU1CYfitt9K9B8XbYtfwMDnsJUEdvbqAEEnvaNY1jCQC',
-    ipfsUrl: 'QmVxeKzHLf2Gz79z9xPumxxJCarpFBkHiHjCPGhQAEB1PA',
+    id: 842,
+    name: 'Broxie #842',
     attributes: [
       {
         trait_type: 'back',
@@ -38776,10 +43828,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVxeKzHLf2Gz79z9xPumxxJCarpFBkHiHjCPGhQAEB1PA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRU1CYfitt9K9B8XbYtfwMDnsJUEdvbqAEEnvaNY1jCQC',
+    address:
+      '0:86e7e2adb5ed5388f895fcfe2ff625fd87182901c022af9492ce621d816452f3',
   },
   {
-    previewUrl: 'QmRvDpLsKZeb2FpHw6PdxoHaWeSUWQFU7YCHTM7Mwb9umY',
-    ipfsUrl: 'Qmc7ogBGfyJwTBvTzaZWA2iTFFBqUzbCPqZ34FxKfHzDJA',
+    id: 843,
+    name: 'Broxie #843',
     attributes: [
       {
         trait_type: 'back',
@@ -38822,10 +43880,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc7ogBGfyJwTBvTzaZWA2iTFFBqUzbCPqZ34FxKfHzDJA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRvDpLsKZeb2FpHw6PdxoHaWeSUWQFU7YCHTM7Mwb9umY',
+    address:
+      '0:2ea11d4ebad88d853359e5aa30d705be9dae903570c81751f4118ac8e178fffc',
   },
   {
-    previewUrl: 'QmS5aiBmEKRof4jxG1KFHeVvf1j2tHW5r2JawBCVqDB1qk',
-    ipfsUrl: 'QmRJDnP3zp7DkH8oCPG7gAaMP6kExkjrj1DDzooiDM8RKT',
+    id: 844,
+    name: 'Broxie #844',
     attributes: [
       {
         trait_type: 'back',
@@ -38868,10 +43932,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRJDnP3zp7DkH8oCPG7gAaMP6kExkjrj1DDzooiDM8RKT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS5aiBmEKRof4jxG1KFHeVvf1j2tHW5r2JawBCVqDB1qk',
+    address:
+      '0:f7469855099f111a19c3dbc1fb7745494da54b94fb5f777c53de2c5c5b5bdf8c',
   },
   {
-    previewUrl: 'Qmbd4b2XYmwM7uTfjvcKyTLM6MWKwyUDNpMN9vhzJxd2Bz',
-    ipfsUrl: 'QmXxU74sbRU5oCBGas79Xxg7s1WJsjhmjcAQV5MDuiWhgn',
+    id: 845,
+    name: 'Broxie #845',
     attributes: [
       {
         trait_type: 'back',
@@ -38914,10 +43984,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXxU74sbRU5oCBGas79Xxg7s1WJsjhmjcAQV5MDuiWhgn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbd4b2XYmwM7uTfjvcKyTLM6MWKwyUDNpMN9vhzJxd2Bz',
+    address:
+      '0:cc889fcb0b0ee49af17d7976008d25d4f320bbbcd5daba3b450e501cc944b31d',
   },
   {
-    previewUrl: 'QmRncWdt1d43HYVBcVSsY1VHDgnATAF9hAwJg3iww5WcUY',
-    ipfsUrl: 'QmUFKHTZAZsqpgsCWfAYiqzZQKXa95NnbJJe81qH542Ftc',
+    id: 846,
+    name: 'Broxie #846',
     attributes: [
       {
         trait_type: 'back',
@@ -38960,10 +44036,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUFKHTZAZsqpgsCWfAYiqzZQKXa95NnbJJe81qH542Ftc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRncWdt1d43HYVBcVSsY1VHDgnATAF9hAwJg3iww5WcUY',
+    address:
+      '0:20e8b41981cb860d60d08f685866b145da3e9616528a392b18acaa47ad32c2c5',
   },
   {
-    previewUrl: 'QmR1i74BfmfcWV6CxPMdbX1WrFwrE3Je5aiHSynQy9dBvc',
-    ipfsUrl: 'QmcUgiLVETDyC45WCP2Dgynxj7FuppY1VyJswtjS8PcERW',
+    id: 847,
+    name: 'Broxie #847',
     attributes: [
       {
         trait_type: 'back',
@@ -39006,10 +44088,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcUgiLVETDyC45WCP2Dgynxj7FuppY1VyJswtjS8PcERW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR1i74BfmfcWV6CxPMdbX1WrFwrE3Je5aiHSynQy9dBvc',
+    address:
+      '0:fe87727c90a0e856c9599fa9c7d213a75daf440498ac8f83e79545d3bed997cf',
   },
   {
-    previewUrl: 'Qmb6mLTUHRqg9dxhkkkwKpyKiC73zhcEo4FE46uooNUtMR',
-    ipfsUrl: 'QmbGkQVoAhLsPZbtLMiQ4jpRiLLKVjmV5LacGGhTKn7drd',
+    id: 848,
+    name: 'Broxie #848',
     attributes: [
       {
         trait_type: 'back',
@@ -39052,10 +44140,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbGkQVoAhLsPZbtLMiQ4jpRiLLKVjmV5LacGGhTKn7drd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb6mLTUHRqg9dxhkkkwKpyKiC73zhcEo4FE46uooNUtMR',
+    address:
+      '0:1dd62058b6f243a2b002a7390cd67f6bc124e4f87725b2a90faa89d21cf51e75',
   },
   {
-    previewUrl: 'QmZuC5wa5pSULsGXCMro5GuSmo4AQZkrxtK8UjjYkJ3wxY',
-    ipfsUrl: 'QmUyKdZj42zmVrSwrhohuzDJ1YDszEkcGy15h51we84p5y',
+    id: 849,
+    name: 'Broxie #849',
     attributes: [
       {
         trait_type: 'back',
@@ -39098,10 +44192,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUyKdZj42zmVrSwrhohuzDJ1YDszEkcGy15h51we84p5y',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZuC5wa5pSULsGXCMro5GuSmo4AQZkrxtK8UjjYkJ3wxY',
+    address:
+      '0:1d8c2c92b4346896691271eed9247b521f57be1399105a163ceb07faf52f4849',
   },
   {
-    previewUrl: 'QmRwiczWQ4fy1sAJEEyRoUzbjfTt3gCx3PdKvNKRqVxDYZ',
-    ipfsUrl: 'QmQNxpNfd4hYNFVFNDbcRMpAFQhBR8CmWZub1Rf4EEx8S3',
+    id: 850,
+    name: 'Broxie #850',
     attributes: [
       {
         trait_type: 'back',
@@ -39144,10 +44244,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQNxpNfd4hYNFVFNDbcRMpAFQhBR8CmWZub1Rf4EEx8S3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRwiczWQ4fy1sAJEEyRoUzbjfTt3gCx3PdKvNKRqVxDYZ',
+    address:
+      '0:4a626ca35a75d463136208a37f3aa2d1669c4bbeadaa5bc652ea7e77e300c94c',
   },
   {
-    previewUrl: 'QmdFVsbx2CrztxWvaA618EBuLYEwcAYxXdXeej2rdsrrhs',
-    ipfsUrl: 'QmeG4MEoDDzhDh9gBwFTLazDvVkA4Kq9WQrJg2HY9xdiDg',
+    id: 851,
+    name: 'Broxie #851',
     attributes: [
       {
         trait_type: 'back',
@@ -39190,10 +44296,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeG4MEoDDzhDh9gBwFTLazDvVkA4Kq9WQrJg2HY9xdiDg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdFVsbx2CrztxWvaA618EBuLYEwcAYxXdXeej2rdsrrhs',
+    address:
+      '0:466330d04ed3e03db777c6bac51d55995e6603ebb7abb4e96b13680c1a344695',
   },
   {
-    previewUrl: 'Qmabs4W5KwEJVTSofHvKxXp7XiC5h49BzwqJfTqgbc86Dj',
-    ipfsUrl: 'QmQLuW3PEiw2inpqhQP543CURNTEdvLj4kApbqSb4JMceV',
+    id: 852,
+    name: 'Broxie #852',
     attributes: [
       {
         trait_type: 'back',
@@ -39236,10 +44348,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQLuW3PEiw2inpqhQP543CURNTEdvLj4kApbqSb4JMceV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmabs4W5KwEJVTSofHvKxXp7XiC5h49BzwqJfTqgbc86Dj',
+    address:
+      '0:5fe119003cadd0592a5db37a8cef6d3bf324e3d6c09b7ec6199f588cb38f59b1',
   },
   {
-    previewUrl: 'Qmc3sYsm2ySqTC5Ttb8caReCCUhJcMfz4xqX2WoTe4p6J4',
-    ipfsUrl: 'QmU5PhSP485cA3Y1EoP1m9eaXiTAWHRdpNckwNL4Qz4bbB',
+    id: 853,
+    name: 'Broxie #853',
     attributes: [
       {
         trait_type: 'back',
@@ -39282,10 +44400,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU5PhSP485cA3Y1EoP1m9eaXiTAWHRdpNckwNL4Qz4bbB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc3sYsm2ySqTC5Ttb8caReCCUhJcMfz4xqX2WoTe4p6J4',
+    address:
+      '0:cb6eab4b0c3f1c3e122f767e622801489ec8f83cd26048840ac21cfca1d6c11d',
   },
   {
-    previewUrl: 'QmYQpMZDHKTVibasC4DH2NJGs7WQD9SPE2f3SkYXvrLQR4',
-    ipfsUrl: 'QmP2rzjTdYMuGG4F3MiJH4ziB4o4vU1iUdgDHhBRxFffHk',
+    id: 854,
+    name: 'Broxie #854',
     attributes: [
       {
         trait_type: 'back',
@@ -39328,10 +44452,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmP2rzjTdYMuGG4F3MiJH4ziB4o4vU1iUdgDHhBRxFffHk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYQpMZDHKTVibasC4DH2NJGs7WQD9SPE2f3SkYXvrLQR4',
+    address:
+      '0:6bd3733df279a2839280ede85e54162673088e75943ee9d3822b1ab0bc729605',
   },
   {
-    previewUrl: 'QmPFExQbQ72vcJFwA1uzYcqqgCWHF9juGQBtZFCGqbPxTW',
-    ipfsUrl: 'QmcTnaLF6XB5QUK5MiNPSRwKtj3F3yjHFyNfQBuLmMRYFX',
+    id: 855,
+    name: 'Broxie #855',
     attributes: [
       {
         trait_type: 'back',
@@ -39374,10 +44504,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcTnaLF6XB5QUK5MiNPSRwKtj3F3yjHFyNfQBuLmMRYFX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPFExQbQ72vcJFwA1uzYcqqgCWHF9juGQBtZFCGqbPxTW',
+    address:
+      '0:8302cdad38dda6429ba105794036babf4ec7b42add7fe24191f83816b255cb4f',
   },
   {
-    previewUrl: 'QmRt75wF5PvctjLzdojKMbscVer5YbBgntBwHxxnQqv4mz',
-    ipfsUrl: 'QmeiGfUnBSHguYdgXnFZSUK3eafq8wkPHfKqT1jGULzKc6',
+    id: 856,
+    name: 'Broxie #856',
     attributes: [
       {
         trait_type: 'back',
@@ -39420,10 +44556,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeiGfUnBSHguYdgXnFZSUK3eafq8wkPHfKqT1jGULzKc6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRt75wF5PvctjLzdojKMbscVer5YbBgntBwHxxnQqv4mz',
+    address:
+      '0:393aebd7d5043e86ad444811090dddd147d5c65eee778706b7aeccb29c83a6ae',
   },
   {
-    previewUrl: 'QmcAERv6hTh8Xjhhmy3m5zYKPiDB4mn1e1V1Jdg5AStSmA',
-    ipfsUrl: 'QmTAHtxkwyFQvSfy5n16MTaRH8uMnJLHirqizj5SfeFePr',
+    id: 857,
+    name: 'Broxie #857',
     attributes: [
       {
         trait_type: 'back',
@@ -39466,10 +44608,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTAHtxkwyFQvSfy5n16MTaRH8uMnJLHirqizj5SfeFePr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcAERv6hTh8Xjhhmy3m5zYKPiDB4mn1e1V1Jdg5AStSmA',
+    address:
+      '0:3dbd9f666ef15a785e6fe661988b7eb921ee172b1d8acb2d1ad05e4f1ba35dd8',
   },
   {
-    previewUrl: 'QmcLaKFqJ4DL9Qth5DWbeYCQsDLjyDCXU98ha8tvqxfQCF',
-    ipfsUrl: 'Qma2ngq9SDD1jYPGH3MqpARSdvTCeF5KkHJgZ2CwS6R17s',
+    id: 858,
+    name: 'Broxie #858',
     attributes: [
       {
         trait_type: 'back',
@@ -39512,10 +44660,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qma2ngq9SDD1jYPGH3MqpARSdvTCeF5KkHJgZ2CwS6R17s',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcLaKFqJ4DL9Qth5DWbeYCQsDLjyDCXU98ha8tvqxfQCF',
+    address:
+      '0:da9d8d9ee1a21844d482b0e2e4183001fbceca75fc65982c65886a7acddc4c15',
   },
   {
-    previewUrl: 'QmXEvGjMF8w9pRrcdjYpJhMHx3s4Bhve4wKGfh46chsB6G',
-    ipfsUrl: 'QmUG4o1Wi3mE7tvTtjUhimmDScScyZubDEgBzfWaT5QtRP',
+    id: 859,
+    name: 'Broxie #859',
     attributes: [
       {
         trait_type: 'back',
@@ -39558,10 +44712,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUG4o1Wi3mE7tvTtjUhimmDScScyZubDEgBzfWaT5QtRP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXEvGjMF8w9pRrcdjYpJhMHx3s4Bhve4wKGfh46chsB6G',
+    address:
+      '0:2d433e026e742c67e5ce0092b30ad58278603b56173296b7edd6272cf4753fc6',
   },
   {
-    previewUrl: 'QmVfbiicwnPPegj31XG74MsR1JR9EnmA5NWS1Cr14W8q8F',
-    ipfsUrl: 'QmNaPKCPnAQM8zvshtD1phynhkhfS72ddZVvxUYdWSroen',
+    id: 860,
+    name: 'Broxie #860',
     attributes: [
       {
         trait_type: 'back',
@@ -39604,10 +44764,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNaPKCPnAQM8zvshtD1phynhkhfS72ddZVvxUYdWSroen',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVfbiicwnPPegj31XG74MsR1JR9EnmA5NWS1Cr14W8q8F',
+    address:
+      '0:c9a94001269d7721815fee5837d9b0b8a1f90ec63fac52214067b2e1c67ba711',
   },
   {
-    previewUrl: 'QmR7XppEvuW6U6HUqD2ksJ6zp76dUPX4wiuoUY26ZJG7Zs',
-    ipfsUrl: 'QmYm3qowp8oPkkEsD9acck1McUCGHGLAbdAP2kFtz3gxeq',
+    id: 861,
+    name: 'Broxie #861',
     attributes: [
       {
         trait_type: 'back',
@@ -39650,10 +44816,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYm3qowp8oPkkEsD9acck1McUCGHGLAbdAP2kFtz3gxeq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR7XppEvuW6U6HUqD2ksJ6zp76dUPX4wiuoUY26ZJG7Zs',
+    address:
+      '0:e3b168c288a1e039316f4e94f2904ec2a05d553946022c86c14ffdfa9e55f86f',
   },
   {
-    previewUrl: 'QmZwdkJP9qqkKELuGEWTUSATg6FhtpCjUgtNnukGkPNCay',
-    ipfsUrl: 'QmVWse2aL9NFXxhrCtivPpMb3p4JTxTs3XdikT8L9j9aQ5',
+    id: 862,
+    name: 'Broxie #862',
     attributes: [
       {
         trait_type: 'back',
@@ -39696,10 +44868,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVWse2aL9NFXxhrCtivPpMb3p4JTxTs3XdikT8L9j9aQ5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZwdkJP9qqkKELuGEWTUSATg6FhtpCjUgtNnukGkPNCay',
+    address:
+      '0:7c932059485855d65a6f7c45a59967e5d1a6c127101bd72ca2b188f420f80793',
   },
   {
-    previewUrl: 'QmRyynQo9evJ3FHWqQo6sNWJ7GyBtF6EjDN64RRQL8tCuN',
-    ipfsUrl: 'QmZiX154F2tpFxggnqQ3oankspQG9t1xJAnXvFwFKHRcJy',
+    id: 863,
+    name: 'Broxie #863',
     attributes: [
       {
         trait_type: 'back',
@@ -39742,10 +44920,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZiX154F2tpFxggnqQ3oankspQG9t1xJAnXvFwFKHRcJy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRyynQo9evJ3FHWqQo6sNWJ7GyBtF6EjDN64RRQL8tCuN',
+    address:
+      '0:1ae55c887ac205e58bfdc8f598eb92c0df15ce64f2f623d2119cc48dcecb0547',
   },
   {
-    previewUrl: 'QmXrfHLLjgkAqhS5gq1duKo7RAQYp2XMGxbrdHMeAsGZYU',
-    ipfsUrl: 'QmeWSpuhGRdLyKf81myJC3m8cp1NHQENXCCkN6xFoCheag',
+    id: 864,
+    name: 'Broxie #864',
     attributes: [
       {
         trait_type: 'back',
@@ -39788,10 +44972,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeWSpuhGRdLyKf81myJC3m8cp1NHQENXCCkN6xFoCheag',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXrfHLLjgkAqhS5gq1duKo7RAQYp2XMGxbrdHMeAsGZYU',
+    address:
+      '0:d73636ca0048871d22849a0f9fc12f372072f503cdb592502a6ed9960f8da02b',
   },
   {
-    previewUrl: 'QmQNFruKYMqef4PXN5yuv3Q9NTcVE9mytV7ZDy1dGJg1y8',
-    ipfsUrl: 'QmScmpQ6WopJYhoQA2opnazWC9hHFG2XJnWh22DkEsvtLd',
+    id: 865,
+    name: 'Broxie #865',
     attributes: [
       {
         trait_type: 'back',
@@ -39834,10 +45024,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmScmpQ6WopJYhoQA2opnazWC9hHFG2XJnWh22DkEsvtLd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQNFruKYMqef4PXN5yuv3Q9NTcVE9mytV7ZDy1dGJg1y8',
+    address:
+      '0:9d5f4059ef384deef726748d5c9c349aa2fc77064b6aae787371ac55da05eb17',
   },
   {
-    previewUrl: 'QmZ8rg3dXFyUMAXwHgaEB5RefA1rrdfqqmRVtp4NWQ8GFD',
-    ipfsUrl: 'QmSDHPHNGSDq2wZBMAgoh8qtqLnRqMjtgueaBBGv4P5Av6',
+    id: 866,
+    name: 'Broxie #866',
     attributes: [
       {
         trait_type: 'back',
@@ -39880,10 +45076,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSDHPHNGSDq2wZBMAgoh8qtqLnRqMjtgueaBBGv4P5Av6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ8rg3dXFyUMAXwHgaEB5RefA1rrdfqqmRVtp4NWQ8GFD',
+    address:
+      '0:5047a167b8f04cca1443a711bb939835f17a24f12fdf0bcb63b92419d8ef204e',
   },
   {
-    previewUrl: 'QmdAKHEusPBN1QD2VBGzFtpEsgkTeKrBRrW28J5H489TPc',
-    ipfsUrl: 'Qmep6gpJKTodD4fkXyawPs7TmDXX9UabcB7Auuxh7Hq5Q8',
+    id: 867,
+    name: 'Broxie #867',
     attributes: [
       {
         trait_type: 'back',
@@ -39926,10 +45128,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmep6gpJKTodD4fkXyawPs7TmDXX9UabcB7Auuxh7Hq5Q8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdAKHEusPBN1QD2VBGzFtpEsgkTeKrBRrW28J5H489TPc',
+    address:
+      '0:fd15e5a0310365b59fcbb703d2b96084cc926c7792dbc56cb9fc13ca26f1bd34',
   },
   {
-    previewUrl: 'Qmcher2T9nFWCu3im26RC5BDU5PVd8yqfPwCeZ1RmvPnp5',
-    ipfsUrl: 'QmavBM91pEXKoUGwogokvDPwDo9FpgLJWUmGMMfwCJ2UWv',
+    id: 868,
+    name: 'Broxie #868',
     attributes: [
       {
         trait_type: 'back',
@@ -39972,10 +45180,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmavBM91pEXKoUGwogokvDPwDo9FpgLJWUmGMMfwCJ2UWv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcher2T9nFWCu3im26RC5BDU5PVd8yqfPwCeZ1RmvPnp5',
+    address:
+      '0:5e8352508aa9c065d582785c6d4eed4e81116dec690114ef1e773bb6b3541970',
   },
   {
-    previewUrl: 'QmSmKXfN23AA2oszZLd8cmgb2T46X86QzHUttRkTky4hxS',
-    ipfsUrl: 'QmY5uS1WNMLQwyXkUKaVk2QadESDAKBfQwAzPjKvtDPs3J',
+    id: 869,
+    name: 'Broxie #869',
     attributes: [
       {
         trait_type: 'back',
@@ -40018,10 +45232,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY5uS1WNMLQwyXkUKaVk2QadESDAKBfQwAzPjKvtDPs3J',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSmKXfN23AA2oszZLd8cmgb2T46X86QzHUttRkTky4hxS',
+    address:
+      '0:30bda53df3045650ed79f87293a627e375509f65a0e5a1fd1b53fafe892cceee',
   },
   {
-    previewUrl: 'Qmcts66CE6pKKubQYhas5qoDbeBw6oDQ636iV6qxwTUY5L',
-    ipfsUrl: 'QmWdvksXAhTyywSNg21uZAt3fYQNunTKCgyQ26QU6fDKqu',
+    id: 870,
+    name: 'Broxie #870',
     attributes: [
       {
         trait_type: 'back',
@@ -40064,10 +45284,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWdvksXAhTyywSNg21uZAt3fYQNunTKCgyQ26QU6fDKqu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcts66CE6pKKubQYhas5qoDbeBw6oDQ636iV6qxwTUY5L',
+    address:
+      '0:9d5ad400dbaf0cc8eebb8b9faf8e2dbb28f0c6573b425ffc0063a69f058ce84d',
   },
   {
-    previewUrl: 'QmPMV69crAXXe6Hy4tkDVbDjp4LL28HWUcBv3J2BG6LZBC',
-    ipfsUrl: 'QmNfu3XqetHtzerZWDiPC8BsTeK7aA9c7wzB7JbMPizAKF',
+    id: 871,
+    name: 'Broxie #871',
     attributes: [
       {
         trait_type: 'back',
@@ -40110,10 +45336,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNfu3XqetHtzerZWDiPC8BsTeK7aA9c7wzB7JbMPizAKF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPMV69crAXXe6Hy4tkDVbDjp4LL28HWUcBv3J2BG6LZBC',
+    address:
+      '0:c8b3f4f24804216b84764d85fd8e2a85122c40f1ebfa0cb0f247cff7bbe2336c',
   },
   {
-    previewUrl: 'QmWPr3A4jnnWY3Mn5n9RmMLcJ9wqQVUCFNUmA3ZsqjhaZm',
-    ipfsUrl: 'QmNnYgzphDXgmP38YFqAnk9hCXaABkYmNS5tW8VHsgD2nN',
+    id: 872,
+    name: 'Broxie #872',
     attributes: [
       {
         trait_type: 'back',
@@ -40156,10 +45388,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNnYgzphDXgmP38YFqAnk9hCXaABkYmNS5tW8VHsgD2nN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWPr3A4jnnWY3Mn5n9RmMLcJ9wqQVUCFNUmA3ZsqjhaZm',
+    address:
+      '0:425d1065eaf881381c8da46a2b9c78ce81307660d0038f62181a4b9dd519fc58',
   },
   {
-    previewUrl: 'QmXLzNTMd3aaEhaFPy2cMwpKTG7B5E6wrSaBGLtwKNg2hq',
-    ipfsUrl: 'QmW4bNghxpJAWUi8mCpaGWvNnB3s8QinmsDPPTE6U6pKhS',
+    id: 873,
+    name: 'Broxie #873',
     attributes: [
       {
         trait_type: 'back',
@@ -40202,10 +45440,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW4bNghxpJAWUi8mCpaGWvNnB3s8QinmsDPPTE6U6pKhS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXLzNTMd3aaEhaFPy2cMwpKTG7B5E6wrSaBGLtwKNg2hq',
+    address:
+      '0:2bcf0bdc09b6a5bf7704700da9a3a0f10f7015cab8f9afc5157ab8cbe570e717',
   },
   {
-    previewUrl: 'QmS9kLzqbTJNEetAtz2RGvwwdxBJABLwnt69P1yPcZN3Uc',
-    ipfsUrl: 'QmYk2wGDcrmB5QmYaEGM17mG6ZT4QCBxqzZSfGdm9zZwEf',
+    id: 874,
+    name: 'Broxie #874',
     attributes: [
       {
         trait_type: 'back',
@@ -40248,10 +45492,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYk2wGDcrmB5QmYaEGM17mG6ZT4QCBxqzZSfGdm9zZwEf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS9kLzqbTJNEetAtz2RGvwwdxBJABLwnt69P1yPcZN3Uc',
+    address:
+      '0:d30c7fb5c5b491e45a26c0ed4d94448c7aa614a0979f805727f8cc54bffaee6d',
   },
   {
-    previewUrl: 'QmUSzAcSjBSkmyLa6AwycaaMGLuP6BP48uA1EMekd3MRHj',
-    ipfsUrl: 'QmRExR9zHxS92rD3oj2MiRyVVH3RFUXBJsntp9ySxnbdpA',
+    id: 875,
+    name: 'Broxie #875',
     attributes: [
       {
         trait_type: 'back',
@@ -40294,10 +45544,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRExR9zHxS92rD3oj2MiRyVVH3RFUXBJsntp9ySxnbdpA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUSzAcSjBSkmyLa6AwycaaMGLuP6BP48uA1EMekd3MRHj',
+    address:
+      '0:5a91a97f7115241758b29fabd3b60609f05c0a5dbd14fb7ba8e3e82d4a3c8e28',
   },
   {
-    previewUrl: 'QmTtNQcdA42v6pgn4f7VFjBEihQwxrRa1FJniEm5tnJXyP',
-    ipfsUrl: 'QmaP3mFTVPhGzCbA2Uj1a9pZxw7Lb7PHnkQqr86Guk4bAe',
+    id: 876,
+    name: 'Broxie #876',
     attributes: [
       {
         trait_type: 'back',
@@ -40340,10 +45596,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaP3mFTVPhGzCbA2Uj1a9pZxw7Lb7PHnkQqr86Guk4bAe',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTtNQcdA42v6pgn4f7VFjBEihQwxrRa1FJniEm5tnJXyP',
+    address:
+      '0:8e9f6356ad089be81a12305eb792d92eb49a3ddc1daddc2d1030a86beb4e37df',
   },
   {
-    previewUrl: 'QmXbbWNAx3zLKYEV8NkKTnq4SJW8JfiHSHMrZVVeN84Vvm',
-    ipfsUrl: 'QmPgdQtXsiupZ3F4hVWBgomQPeHukiscHRmhHd6FtMKGyh',
+    id: 877,
+    name: 'Broxie #877',
     attributes: [
       {
         trait_type: 'back',
@@ -40386,10 +45648,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPgdQtXsiupZ3F4hVWBgomQPeHukiscHRmhHd6FtMKGyh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXbbWNAx3zLKYEV8NkKTnq4SJW8JfiHSHMrZVVeN84Vvm',
+    address:
+      '0:e6e799abeae9efeecdedd38cc31744ca577cfe57f6a5ddd9c7f3d327dbc78677',
   },
   {
-    previewUrl: 'QmbDzxUXkWU7nbK2eryepncbwAq5CfAszCNdp4ZeDukaXa',
-    ipfsUrl: 'QmaLQUHx4hBmBnEsoVHXoz7GTcNUuQR8rNTP71wg6dZEe1',
+    id: 878,
+    name: 'Broxie #878',
     attributes: [
       {
         trait_type: 'back',
@@ -40432,10 +45700,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaLQUHx4hBmBnEsoVHXoz7GTcNUuQR8rNTP71wg6dZEe1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbDzxUXkWU7nbK2eryepncbwAq5CfAszCNdp4ZeDukaXa',
+    address:
+      '0:0fa9fb9a24ae42899a60987cd4285c6f6a8b8199f954abf96a925833c5f0f1ad',
   },
   {
-    previewUrl: 'QmYWe1C5gWTiNyLNaEvCxyYeJT1ucwCUDHFKQ8hG75S7zL',
-    ipfsUrl: 'QmXsx9FeohXotehDKGeci51m8kCPbZve5UkMQgwC4cNfJT',
+    id: 879,
+    name: 'Broxie #879',
     attributes: [
       {
         trait_type: 'back',
@@ -40478,10 +45752,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXsx9FeohXotehDKGeci51m8kCPbZve5UkMQgwC4cNfJT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYWe1C5gWTiNyLNaEvCxyYeJT1ucwCUDHFKQ8hG75S7zL',
+    address:
+      '0:c5dac8570b94a7e48c399a275673abaa7eda481ada010862d851539657444765',
   },
   {
-    previewUrl: 'QmTUcmVhaAESLhXmkqXLPfc8aW4MrYnn6hRstySytZ3M4a',
-    ipfsUrl: 'QmTbYhXhHuSa8JYNxHFJh4oxpHfo8YPf5oxqi2S2xQUDsj',
+    id: 880,
+    name: 'Broxie #880',
     attributes: [
       {
         trait_type: 'back',
@@ -40524,10 +45804,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTbYhXhHuSa8JYNxHFJh4oxpHfo8YPf5oxqi2S2xQUDsj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTUcmVhaAESLhXmkqXLPfc8aW4MrYnn6hRstySytZ3M4a',
+    address:
+      '0:f624630fbdc79c940991a705a794324edcf5cf3f5ddeb2587557eb33ef53ba99',
   },
   {
-    previewUrl: 'QmU3WMomJBzsn8LW2vEiR6GEhrJ3oxEYgvvn7raJruTYi4',
-    ipfsUrl: 'QmUvm2GAgs76J8yUDShsBq1jW2UAQTWoktub1tfFRHn3q7',
+    id: 881,
+    name: 'Broxie #881',
     attributes: [
       {
         trait_type: 'back',
@@ -40570,10 +45856,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUvm2GAgs76J8yUDShsBq1jW2UAQTWoktub1tfFRHn3q7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU3WMomJBzsn8LW2vEiR6GEhrJ3oxEYgvvn7raJruTYi4',
+    address:
+      '0:83fa7bc7685cd263408ffa4b6f001b2d2402c1c587ae328dbd4639537d49ec45',
   },
   {
-    previewUrl: 'QmRM6wZzpNCZe12nmGe66ErHsHZ47yUJJh3h5oytVdRE4a',
-    ipfsUrl: 'QmehrD8FKRtEbfam6sfSgKmthbeaLsry8hw58DynJYCuZv',
+    id: 882,
+    name: 'Broxie #882',
     attributes: [
       {
         trait_type: 'back',
@@ -40616,10 +45908,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmehrD8FKRtEbfam6sfSgKmthbeaLsry8hw58DynJYCuZv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRM6wZzpNCZe12nmGe66ErHsHZ47yUJJh3h5oytVdRE4a',
+    address:
+      '0:724afc7ff3bdedccfb5bc2de039643528cf018255c5926d4780c08af14b6b6e3',
   },
   {
-    previewUrl: 'QmNREN5GyUmhz2C8HZowhKX3AiuHtqH1ncps1aTtvqTwU8',
-    ipfsUrl: 'QmRn8i1hbQ89Sg1YoSX2bX356KiYrZGi9mW3ibV6yW1rcs',
+    id: 883,
+    name: 'Broxie #883',
     attributes: [
       {
         trait_type: 'back',
@@ -40662,10 +45960,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRn8i1hbQ89Sg1YoSX2bX356KiYrZGi9mW3ibV6yW1rcs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNREN5GyUmhz2C8HZowhKX3AiuHtqH1ncps1aTtvqTwU8',
+    address:
+      '0:b8a987ee1762d1d522b59fd7f02bfa3527ef20c7df6bade456df85563b82cebe',
   },
   {
-    previewUrl: 'QmW4kM5eH4SYoWSo9EzzGNTbVWnwDFyvhR48Wm482mNnSt',
-    ipfsUrl: 'QmWFaWkA1vZK4TbjS1baGxdCpFwRiRc9U59DUpQ7RBWM8S',
+    id: 884,
+    name: 'Broxie #884',
     attributes: [
       {
         trait_type: 'back',
@@ -40708,10 +46012,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWFaWkA1vZK4TbjS1baGxdCpFwRiRc9U59DUpQ7RBWM8S',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW4kM5eH4SYoWSo9EzzGNTbVWnwDFyvhR48Wm482mNnSt',
+    address:
+      '0:2ba5a4fcb2cacb4c5a3b4b995ae93213433bfa2b56cd264ec13c8f40d96a2de5',
   },
   {
-    previewUrl: 'QmSPkUkTpp4TrccJZk3anKKtw8mhXx3Rn2fV7P4sQpy9JC',
-    ipfsUrl: 'QmTty2f4PyVQTvLdrGceFekuM6FhHuZ8vturq7b5NhPhmm',
+    id: 885,
+    name: 'Broxie #885',
     attributes: [
       {
         trait_type: 'back',
@@ -40754,10 +46064,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTty2f4PyVQTvLdrGceFekuM6FhHuZ8vturq7b5NhPhmm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSPkUkTpp4TrccJZk3anKKtw8mhXx3Rn2fV7P4sQpy9JC',
+    address:
+      '0:294da2cc65fb7f883294dcf398f672747e887ed5e806a7175245247bed614c21',
   },
   {
-    previewUrl: 'QmTrWPM8eWv6Xz4cNxjdoQCLvv6M6CFYF4gephThrKBF6H',
-    ipfsUrl: 'QmSC7XZT52gHwMK6kKj75UjrZ65gAKEF7Ghipm3yad2aXs',
+    id: 886,
+    name: 'Broxie #886',
     attributes: [
       {
         trait_type: 'back',
@@ -40800,10 +46116,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSC7XZT52gHwMK6kKj75UjrZ65gAKEF7Ghipm3yad2aXs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTrWPM8eWv6Xz4cNxjdoQCLvv6M6CFYF4gephThrKBF6H',
+    address:
+      '0:770bc2b82d02462f79de78f2b2c24c3d678b0cec711f65ee5c9909b2ac54b28a',
   },
   {
-    previewUrl: 'Qme3w9wuCedASP1spSJgJmZuQWugVSXCvTbqHdYG6X34Bs',
-    ipfsUrl: 'QmPK49yuBs5kZkdFCtacHp8wSgHehzn8frTVcDyAUeopCt',
+    id: 887,
+    name: 'Broxie #887',
     attributes: [
       {
         trait_type: 'back',
@@ -40846,10 +46168,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPK49yuBs5kZkdFCtacHp8wSgHehzn8frTVcDyAUeopCt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme3w9wuCedASP1spSJgJmZuQWugVSXCvTbqHdYG6X34Bs',
+    address:
+      '0:189077649b37e11cab1785f5971b8d49a2e1dfbce2c937b3df348bb41a915ea7',
   },
   {
-    previewUrl: 'QmeWftvwYbgKMN9CQrJqwGAVJHKZVvNXtzw1PmnahwfinW',
-    ipfsUrl: 'QmUfM7BphK4x3Pg2WfdPMvPNDeE5vc6NdT5kNs6CeAN2XR',
+    id: 888,
+    name: 'Broxie #888',
     attributes: [
       {
         trait_type: 'back',
@@ -40892,10 +46220,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUfM7BphK4x3Pg2WfdPMvPNDeE5vc6NdT5kNs6CeAN2XR',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeWftvwYbgKMN9CQrJqwGAVJHKZVvNXtzw1PmnahwfinW',
+    address:
+      '0:3dd7cc330bcaf6a11088a8106481df76628fd6bd44d5c9b8e1701a81925016f5',
   },
   {
-    previewUrl: 'QmWWH6mMB87zgkMWHNXqVU6uDBjo3vcrfkTA6D5kEXswAM',
-    ipfsUrl: 'QmeU3w48VWPBhc6P2zCzJFWL9xurS3Nuow3cKxEPKBrryg',
+    id: 889,
+    name: 'Broxie #889',
     attributes: [
       {
         trait_type: 'back',
@@ -40938,10 +46272,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeU3w48VWPBhc6P2zCzJFWL9xurS3Nuow3cKxEPKBrryg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWWH6mMB87zgkMWHNXqVU6uDBjo3vcrfkTA6D5kEXswAM',
+    address:
+      '0:94cfc1c6d5d1aa386936aa424ccefed3c9dbce561a8a79b9a304e45c97715582',
   },
   {
-    previewUrl: 'QmVPACq6r3Hg426WZSmx6oMEMrRir6sqw1RdgPubJCRJag',
-    ipfsUrl: 'QmNUcnzc6D2cQHLJ1FMwx9YsJDejzToPz4g3pu6c9DWzNd',
+    id: 890,
+    name: 'Broxie #890',
     attributes: [
       {
         trait_type: 'back',
@@ -40984,10 +46324,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNUcnzc6D2cQHLJ1FMwx9YsJDejzToPz4g3pu6c9DWzNd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVPACq6r3Hg426WZSmx6oMEMrRir6sqw1RdgPubJCRJag',
+    address:
+      '0:fec4b86e4876d1998a822121c088700d1cc75a5bd98e0852de4b821ef6e971b5',
   },
   {
-    previewUrl: 'QmYJacBrCGU8KhH78YekBdf4EBfG16Tku13yAYspPo7jvo',
-    ipfsUrl: 'QmeecXpp32dvoTdJ1GLCo4axnwz7P95jQQqowFPghBchhG',
+    id: 891,
+    name: 'Broxie #891',
     attributes: [
       {
         trait_type: 'back',
@@ -41030,10 +46376,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeecXpp32dvoTdJ1GLCo4axnwz7P95jQQqowFPghBchhG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYJacBrCGU8KhH78YekBdf4EBfG16Tku13yAYspPo7jvo',
+    address:
+      '0:d7f727a66cb380edb1d339305d5c1c30ec5a741a00e9f99b2ed370dfcfe4b124',
   },
   {
-    previewUrl: 'QmNVy3VCFu9qXAkaVaFsD6e2kNmqzqJ1TMfu4jFXcaMU3X',
-    ipfsUrl: 'QmYBNYPzpdtbxSiESm6gpV69dMQoGGfNaHL8H91fjb2sMB',
+    id: 892,
+    name: 'Broxie #892',
     attributes: [
       {
         trait_type: 'back',
@@ -41076,10 +46428,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYBNYPzpdtbxSiESm6gpV69dMQoGGfNaHL8H91fjb2sMB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNVy3VCFu9qXAkaVaFsD6e2kNmqzqJ1TMfu4jFXcaMU3X',
+    address:
+      '0:be9bcacda0f57e6a0057d64720d9ab04ee0f4affd713cd257a9b3b77d6dabc39',
   },
   {
-    previewUrl: 'Qmas9wacj8BB1muhn3bd94447d5mmuAkHcKr1qPm1MzkjX',
-    ipfsUrl: 'QmTMRh9g8xhciAaSf6jTVNKja6diH5V8NXNz7bbNXx4f2H',
+    id: 893,
+    name: 'Broxie #893',
     attributes: [
       {
         trait_type: 'back',
@@ -41122,10 +46480,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTMRh9g8xhciAaSf6jTVNKja6diH5V8NXNz7bbNXx4f2H',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmas9wacj8BB1muhn3bd94447d5mmuAkHcKr1qPm1MzkjX',
+    address:
+      '0:8fa78dd6f9a4a9d84f960be46c93db660c82c96f0d9e19ce859cedcc36304359',
   },
   {
-    previewUrl: 'QmPTCBnCB4fQT2pXkktegZjM4FkaTy7AEPc63wq8jsPS2F',
-    ipfsUrl: 'QmUCa69MQP9NdM7dNXQJWSmTx79rUqybobM1DZLLfN6ksi',
+    id: 894,
+    name: 'Broxie #894',
     attributes: [
       {
         trait_type: 'back',
@@ -41168,10 +46532,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUCa69MQP9NdM7dNXQJWSmTx79rUqybobM1DZLLfN6ksi',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPTCBnCB4fQT2pXkktegZjM4FkaTy7AEPc63wq8jsPS2F',
+    address:
+      '0:b2c6f6805ee687f5403cfc561313d916fe215da047dd77cf26d48c4e23c965a2',
   },
   {
-    previewUrl: 'QmZ6YSPdef2TfR8Q1DpwHcvbinkqWBJRUtAQ5wxGEP7pAQ',
-    ipfsUrl: 'QmcfUS5n7uU6uBdcK1LtGzQUPbbT5M56jhLDE3iDu6nQXw',
+    id: 895,
+    name: 'Broxie #895',
     attributes: [
       {
         trait_type: 'back',
@@ -41214,10 +46584,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcfUS5n7uU6uBdcK1LtGzQUPbbT5M56jhLDE3iDu6nQXw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ6YSPdef2TfR8Q1DpwHcvbinkqWBJRUtAQ5wxGEP7pAQ',
+    address:
+      '0:8e2c3cf3cfe68294247a7793c1b659a5bb89091790911ec5ba2874c8e8baaf8c',
   },
   {
-    previewUrl: 'QmRnTa9FbGLiB1xYAUuzfQMomKhuDQT6psC73zFHaUjC9v',
-    ipfsUrl: 'QmXmnkv7eAezJivVHFodeBoJZyKFCwqDKvZ9VuYohULBGK',
+    id: 896,
+    name: 'Broxie #896',
     attributes: [
       {
         trait_type: 'back',
@@ -41260,10 +46636,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXmnkv7eAezJivVHFodeBoJZyKFCwqDKvZ9VuYohULBGK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRnTa9FbGLiB1xYAUuzfQMomKhuDQT6psC73zFHaUjC9v',
+    address:
+      '0:71ef6fe01c42f032f072af75c6e70fb8e4169bea1e36fb5a95882c1b7c233ab8',
   },
   {
-    previewUrl: 'QmQ5oaSfFNAURqk72kYtxUB2CuczhUQ8j3evKQ9XA1Gg3a',
-    ipfsUrl: 'Qmd81AzbqpxfQZwV5gRpjaH84tvwTz9RZwytmHBVjDcbYN',
+    id: 897,
+    name: 'Broxie #897',
     attributes: [
       {
         trait_type: 'back',
@@ -41306,10 +46688,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd81AzbqpxfQZwV5gRpjaH84tvwTz9RZwytmHBVjDcbYN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ5oaSfFNAURqk72kYtxUB2CuczhUQ8j3evKQ9XA1Gg3a',
+    address:
+      '0:5f66be5bff750bf676d5b218be31199bfcf2adb4b29f5ac4d31687de38014b5b',
   },
   {
-    previewUrl: 'QmXKFuJNiut11WTP9YY3JUsRKfjgBWQZT9AFHQ3tK8JTNc',
-    ipfsUrl: 'QmWgDivGez8zRSBp8TxdibGDkSiT74YPD3c8ND8Zg4beEx',
+    id: 898,
+    name: 'Broxie #898',
     attributes: [
       {
         trait_type: 'back',
@@ -41352,10 +46740,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWgDivGez8zRSBp8TxdibGDkSiT74YPD3c8ND8Zg4beEx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXKFuJNiut11WTP9YY3JUsRKfjgBWQZT9AFHQ3tK8JTNc',
+    address:
+      '0:3578e5688db884c8c59db7e18171c88ee640d3b33947bfc5257c631525a2d050',
   },
   {
-    previewUrl: 'Qmdp51BzumaUoZkScyBwVbMwWcoX5JPHNicF28iiP5yv5s',
-    ipfsUrl: 'Qmbs1Gbt9mEwWM6qxJJYLXuh8xwfcXz7WdUn5NLYpxi17S',
+    id: 899,
+    name: 'Broxie #899',
     attributes: [
       {
         trait_type: 'back',
@@ -41398,10 +46792,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbs1Gbt9mEwWM6qxJJYLXuh8xwfcXz7WdUn5NLYpxi17S',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdp51BzumaUoZkScyBwVbMwWcoX5JPHNicF28iiP5yv5s',
+    address:
+      '0:070d013a1d1a8391f2492b4088bdfe930209af7fece46ef273c00c6c1d2a0a26',
   },
   {
-    previewUrl: 'QmVzyp8EEpQpQEHGWpVuyZNM5RbxZciUbXf3sBhX4xmubo',
-    ipfsUrl: 'Qmcem9AX8cmMysm3d3LBNv4cjPVAhiccXSbJSX4GRN2ASf',
+    id: 900,
+    name: 'Broxie #900',
     attributes: [
       {
         trait_type: 'back',
@@ -41444,10 +46844,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcem9AX8cmMysm3d3LBNv4cjPVAhiccXSbJSX4GRN2ASf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVzyp8EEpQpQEHGWpVuyZNM5RbxZciUbXf3sBhX4xmubo',
+    address:
+      '0:1726fff07e1ec706f9e589dda269b7eca78bc6a7fd2514d5c87ac32e93e99c71',
   },
   {
-    previewUrl: 'QmWaZKtTSdwVTDL1NYt7XqE3yhxS6dRYQnA9gNtej1tVUP',
-    ipfsUrl: 'QmW4dg1nqWf1jUKiAXMB4qsTunCbLgjjtXNM2USM5JH25y',
+    id: 901,
+    name: 'Broxie #901',
     attributes: [
       {
         trait_type: 'back',
@@ -41490,10 +46896,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmW4dg1nqWf1jUKiAXMB4qsTunCbLgjjtXNM2USM5JH25y',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWaZKtTSdwVTDL1NYt7XqE3yhxS6dRYQnA9gNtej1tVUP',
+    address:
+      '0:d5301564a7f58d8f3db1c69d1f71894c629b649432947d4bca523e29a102af86',
   },
   {
-    previewUrl: 'QmP5hj9QevWt9u6grr9Sr6HhV7oc47E5yicLRtANNxjNJu',
-    ipfsUrl: 'QmTR3647LrKwMEyGGxzxeRhgunYXF1N831FpbJmADT6Rho',
+    id: 902,
+    name: 'Broxie #902',
     attributes: [
       {
         trait_type: 'back',
@@ -41536,10 +46948,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTR3647LrKwMEyGGxzxeRhgunYXF1N831FpbJmADT6Rho',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmP5hj9QevWt9u6grr9Sr6HhV7oc47E5yicLRtANNxjNJu',
+    address:
+      '0:37b99cbebea7ebd43032a1e42675632ad96a69357e059d09ba77f21d6ca9eea9',
   },
   {
-    previewUrl: 'QmQ9G2eMQQXorT97goS1kmHwnMd7HvVUwR4JcdEDZHs9Xu',
-    ipfsUrl: 'QmX2MkMxPH6XRLPdhgPGNrKT1j6bWuTPM4NQqf2cCvfTAQ',
+    id: 903,
+    name: 'Broxie #903',
     attributes: [
       {
         trait_type: 'back',
@@ -41582,10 +47000,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX2MkMxPH6XRLPdhgPGNrKT1j6bWuTPM4NQqf2cCvfTAQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ9G2eMQQXorT97goS1kmHwnMd7HvVUwR4JcdEDZHs9Xu',
+    address:
+      '0:b8f2be28e869b6bf48069ad76743435a114c41696039fda3f7ffd370f5c86ee6',
   },
   {
-    previewUrl: 'QmahhohEE6UKhHY7LstytdJvg8WDHAGNWUaspns9R7so5C',
-    ipfsUrl: 'QmQtF4jN7t6VxVZBCxKhpX2EQx1NxDsxJ111Qn5zwYkSXg',
+    id: 904,
+    name: 'Broxie #904',
     attributes: [
       {
         trait_type: 'back',
@@ -41628,10 +47052,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQtF4jN7t6VxVZBCxKhpX2EQx1NxDsxJ111Qn5zwYkSXg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmahhohEE6UKhHY7LstytdJvg8WDHAGNWUaspns9R7so5C',
+    address:
+      '0:8d5cca0afc121e4f0be98d3da3c6a2b7d4d5d947e4eaec6c62a722e2fd3f6029',
   },
   {
-    previewUrl: 'QmXnaTudQrkpLKxxrSrvs7YxTXTAqsqy2E5pso6Ead6Gyt',
-    ipfsUrl: 'Qmah2s8vgAuxNbfH8vjUhvb7sSHtafTwYY6UdCCYrfVnST',
+    id: 905,
+    name: 'Broxie #905',
     attributes: [
       {
         trait_type: 'back',
@@ -41674,10 +47104,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmah2s8vgAuxNbfH8vjUhvb7sSHtafTwYY6UdCCYrfVnST',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXnaTudQrkpLKxxrSrvs7YxTXTAqsqy2E5pso6Ead6Gyt',
+    address:
+      '0:b6e307027c2ba0fc99244e5385a1720752963fb2aabdbc1f530fc61891586b9f',
   },
   {
-    previewUrl: 'QmYA5fvyxqDTVeLXfkmAt4qmYkJbLXKzyxzjnbDfahjZSZ',
-    ipfsUrl: 'QmRoLjMWEb2ZbU6J1e2sYMTCTcSALDpEmpxikLPxV2a2q2',
+    id: 906,
+    name: 'Broxie #906',
     attributes: [
       {
         trait_type: 'back',
@@ -41720,10 +47156,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRoLjMWEb2ZbU6J1e2sYMTCTcSALDpEmpxikLPxV2a2q2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYA5fvyxqDTVeLXfkmAt4qmYkJbLXKzyxzjnbDfahjZSZ',
+    address:
+      '0:e7af6f67718953a887d6a574f08eb20e96878c27176eb1ac147b1bdc2011701f',
   },
   {
-    previewUrl: 'QmZ5CwbCrQhtxYiVeR7cmVbG8B6Fmu9sXcNCtfjCBG8G49',
-    ipfsUrl: 'QmYKEAN1LYENtysfWdfiftdMCpoXbufkrdQGo25cULcE6d',
+    id: 907,
+    name: 'Broxie #907',
     attributes: [
       {
         trait_type: 'back',
@@ -41766,10 +47208,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYKEAN1LYENtysfWdfiftdMCpoXbufkrdQGo25cULcE6d',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ5CwbCrQhtxYiVeR7cmVbG8B6Fmu9sXcNCtfjCBG8G49',
+    address:
+      '0:76c7f977e02dcacd6e1b3021e9e60c650ada81f1ff6450956ec7416071acadea',
   },
   {
-    previewUrl: 'QmTEjJJjyzr7htpFuDqmg785uSNznP7J6hLmFLxPuoNzgY',
-    ipfsUrl: 'QmTMnN214SNjwtXMqEM8UDCMVg1uyhH2UD4mF1jEyUJEB6',
+    id: 908,
+    name: 'Broxie #908',
     attributes: [
       {
         trait_type: 'back',
@@ -41812,10 +47260,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTMnN214SNjwtXMqEM8UDCMVg1uyhH2UD4mF1jEyUJEB6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTEjJJjyzr7htpFuDqmg785uSNznP7J6hLmFLxPuoNzgY',
+    address:
+      '0:922870707486f28d4510ffd726e81e1828d9d055f85f4b7262ef26d56e02c520',
   },
   {
-    previewUrl: 'QmPGpi1pyLfZhr7MCbg1okyFtscXuRURs5hEvirC8d5hmq',
-    ipfsUrl: 'QmeFnFnEyZk7gqDRw9K2AwAQjKj4JRiF9Exvt9VntF7pq8',
+    id: 909,
+    name: 'Broxie #909',
     attributes: [
       {
         trait_type: 'back',
@@ -41858,10 +47312,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeFnFnEyZk7gqDRw9K2AwAQjKj4JRiF9Exvt9VntF7pq8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPGpi1pyLfZhr7MCbg1okyFtscXuRURs5hEvirC8d5hmq',
+    address:
+      '0:f78a3f650759e0b2b4adb27ad498b9586f2d90d7e87b2117eeca02e20fda9b99',
   },
   {
-    previewUrl: 'QmU18ro2yiqRvyVANLS5PfWAah3QaWyx8yjd1KKUGUCWKr',
-    ipfsUrl: 'QmbszGAQkujrmWmaNyMRrmh51t4dHVUjRxNihmxN8VzvWe',
+    id: 910,
+    name: 'Broxie #910',
     attributes: [
       {
         trait_type: 'back',
@@ -41904,10 +47364,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbszGAQkujrmWmaNyMRrmh51t4dHVUjRxNihmxN8VzvWe',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU18ro2yiqRvyVANLS5PfWAah3QaWyx8yjd1KKUGUCWKr',
+    address:
+      '0:b2274228617aedf38c53bec0339bec75aaa9634368b2d96ac5f7c43c2b870a11',
   },
   {
-    previewUrl: 'QmNnwkEN2EJduf1vxivUWNYhkYwNTpg9GFPpWxBrsC8Emz',
-    ipfsUrl: 'QmXyLpXumThfpZPLG57ViBcHsMPG3VvSyuB61CRwPy5Nfb',
+    id: 911,
+    name: 'Broxie #911',
     attributes: [
       {
         trait_type: 'back',
@@ -41950,10 +47416,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXyLpXumThfpZPLG57ViBcHsMPG3VvSyuB61CRwPy5Nfb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNnwkEN2EJduf1vxivUWNYhkYwNTpg9GFPpWxBrsC8Emz',
+    address:
+      '0:f2a4c01646445d2af21631043b47bdc5f88be8d5a96a84501e5c5f42cc96829b',
   },
   {
-    previewUrl: 'QmbrM68agJaMCwxM92Hqmt328JFCd6B8HQBRhASU4v49K1',
-    ipfsUrl: 'QmXGHJakTeo6bAXQm7dqi5jk6YACfdoLUDAUjikFnQzWnC',
+    id: 912,
+    name: 'Broxie #912',
     attributes: [
       {
         trait_type: 'back',
@@ -41996,10 +47468,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXGHJakTeo6bAXQm7dqi5jk6YACfdoLUDAUjikFnQzWnC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbrM68agJaMCwxM92Hqmt328JFCd6B8HQBRhASU4v49K1',
+    address:
+      '0:239b9434fca1c5e7397f28148d0b0e81868688524498862046725e8a2f0a4ac1',
   },
   {
-    previewUrl: 'QmdmdAfPe5tm7cwDFuQDR6QttpzWrrkvDbUNCUUGk617QY',
-    ipfsUrl: 'QmUoyoMtY9QvjvThs4W3gGy39YeWmuKDNEatXUH5JjgHaW',
+    id: 913,
+    name: 'Broxie #913',
     attributes: [
       {
         trait_type: 'back',
@@ -42042,10 +47520,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUoyoMtY9QvjvThs4W3gGy39YeWmuKDNEatXUH5JjgHaW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdmdAfPe5tm7cwDFuQDR6QttpzWrrkvDbUNCUUGk617QY',
+    address:
+      '0:e26ef81d164785c7d4d2677dd0bfae0458c51691600a269ddd446f786f3e1dce',
   },
   {
-    previewUrl: 'QmSfd44UoUeSi5McfZTtnFSKiWw4CFdNoEyhUdnXjDoxkH',
-    ipfsUrl: 'QmaMMZT9bNknD6Un5JsevhpYa5UCXRbqRJfbWRszAXKLze',
+    id: 914,
+    name: 'Broxie #914',
     attributes: [
       {
         trait_type: 'back',
@@ -42088,10 +47572,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaMMZT9bNknD6Un5JsevhpYa5UCXRbqRJfbWRszAXKLze',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSfd44UoUeSi5McfZTtnFSKiWw4CFdNoEyhUdnXjDoxkH',
+    address:
+      '0:d433654a577a7daed58b0d2645172732d3862e3c7c385dc46f7894141b37e3c4',
   },
   {
-    previewUrl: 'QmeMfh29HKTWgkFresixNkrkrhawsYg4BL3mF6x8E3nLyq',
-    ipfsUrl: 'QmeHosWpU5LSf6ZtcVpmWLa3vHPaWZy5kq8ahz4cWb8EQA',
+    id: 915,
+    name: 'Broxie #915',
     attributes: [
       {
         trait_type: 'back',
@@ -42134,10 +47624,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeHosWpU5LSf6ZtcVpmWLa3vHPaWZy5kq8ahz4cWb8EQA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeMfh29HKTWgkFresixNkrkrhawsYg4BL3mF6x8E3nLyq',
+    address:
+      '0:90e607bdfff74a84b8498544e5bd1b518f3c02be225ae5da6548cbdbb522b805',
   },
   {
-    previewUrl: 'QmbbsHaHBgj9pBbr7nL8bwvoRjvkj6Djfg5qGhPfmzRmHa',
-    ipfsUrl: 'QmToBtaoLbP1Xfjy3cXU5uMnwUFyxwirEcGaNFVXkTH9Qy',
+    id: 916,
+    name: 'Broxie #916',
     attributes: [
       {
         trait_type: 'back',
@@ -42180,10 +47676,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmToBtaoLbP1Xfjy3cXU5uMnwUFyxwirEcGaNFVXkTH9Qy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbbsHaHBgj9pBbr7nL8bwvoRjvkj6Djfg5qGhPfmzRmHa',
+    address:
+      '0:07b8cd51fb5e2f5d9d59cf0418c2ac6e30918a64cd457677886baceca7ba8348',
   },
   {
-    previewUrl: 'QmUn7bqDWoVqL4jZBn5wRkuGPDqboFg5ZvE5RciTqLPwyc',
-    ipfsUrl: 'QmYWZKnCfLkXFQCoWGbsTv5n1gNLDF2gn4n82v4DDCT5iF',
+    id: 917,
+    name: 'Broxie #917',
     attributes: [
       {
         trait_type: 'back',
@@ -42226,10 +47728,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYWZKnCfLkXFQCoWGbsTv5n1gNLDF2gn4n82v4DDCT5iF',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUn7bqDWoVqL4jZBn5wRkuGPDqboFg5ZvE5RciTqLPwyc',
+    address:
+      '0:8b055b6959e4bf19a9edcfc0636046dbf07a816cfc200d0b6d98ff58219acd53',
   },
   {
-    previewUrl: 'QmdqSpYVk7KJVXvNrRmPQA7n3fpJGPTRXosvwg48F8GJZw',
-    ipfsUrl: 'Qmeg7fahNdTJ5tSKtPVuGU85S2RktWPs4oC2GwPzNfTxFK',
+    id: 918,
+    name: 'Broxie #918',
     attributes: [
       {
         trait_type: 'back',
@@ -42272,10 +47780,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmeg7fahNdTJ5tSKtPVuGU85S2RktWPs4oC2GwPzNfTxFK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdqSpYVk7KJVXvNrRmPQA7n3fpJGPTRXosvwg48F8GJZw',
+    address:
+      '0:7f59a0558cb46ff84ec1485e1ea1e26784f8b575f489eb0fe92a62ecbdb22129',
   },
   {
-    previewUrl: 'QmamsGdR3RoJbovjCedf6SCgNRqBpzoyiWW4Qd2WemsrdH',
-    ipfsUrl: 'QmUxhJaWCiWioAZd5hjtukqYbUdDEyDEsJy9Qj43aG5WEK',
+    id: 919,
+    name: 'Broxie #919',
     attributes: [
       {
         trait_type: 'back',
@@ -42318,10 +47832,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUxhJaWCiWioAZd5hjtukqYbUdDEyDEsJy9Qj43aG5WEK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmamsGdR3RoJbovjCedf6SCgNRqBpzoyiWW4Qd2WemsrdH',
+    address:
+      '0:63d25d75d1e8ce44ce8996500adc91facde30049339e60f770ecf54acd5819f6',
   },
   {
-    previewUrl: 'QmbRqZVTQbFTBDiaqCXvj39QsXGAQR4a6VJBGd6Nc4jzGA',
-    ipfsUrl: 'QmTicTaHjTJ6SYcfAKodUsN6hMXFebtNQLuovTudczj7MC',
+    id: 920,
+    name: 'Broxie #920',
     attributes: [
       {
         trait_type: 'back',
@@ -42364,10 +47884,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTicTaHjTJ6SYcfAKodUsN6hMXFebtNQLuovTudczj7MC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbRqZVTQbFTBDiaqCXvj39QsXGAQR4a6VJBGd6Nc4jzGA',
+    address:
+      '0:69342d1abc5b462948047c1da2bd5e092d9932c4de82b2beb4db109b4544db75',
   },
   {
-    previewUrl: 'QmP8anXaptjFeTRbCn9NhtnHJjZyUdNT35GNXMq57dGFhr',
-    ipfsUrl: 'QmWYDqV61NhhLr6cBzuHyHEyBHAEGkinLmMFjLhe94nvbA',
+    id: 921,
+    name: 'Broxie #921',
     attributes: [
       {
         trait_type: 'back',
@@ -42410,10 +47936,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWYDqV61NhhLr6cBzuHyHEyBHAEGkinLmMFjLhe94nvbA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmP8anXaptjFeTRbCn9NhtnHJjZyUdNT35GNXMq57dGFhr',
+    address:
+      '0:c126ef79c1cbcdac84f861d88eeb3fd69c2a7a2c445986afe4077c1432fada65',
   },
   {
-    previewUrl: 'Qmf9WX29RQR9BjDjjq9Mvz7YWZSV6sVSDX2QKvLRDB98nq',
-    ipfsUrl: 'QmfHuGN9K5b1eVyZEeYS8RZbSd9vBYznp57mnH2kK9UDZM',
+    id: 922,
+    name: 'Broxie #922',
     attributes: [
       {
         trait_type: 'back',
@@ -42456,10 +47988,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfHuGN9K5b1eVyZEeYS8RZbSd9vBYznp57mnH2kK9UDZM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf9WX29RQR9BjDjjq9Mvz7YWZSV6sVSDX2QKvLRDB98nq',
+    address:
+      '0:e15c5f29da7553a00ed8b4b80c1ae41f71e0b271a686cfed68cc7967b55c303d',
   },
   {
-    previewUrl: 'QmbLg5N2JaadzhobJX2sDHzkzZqyL6WhUMHPYCNmpyeGmd',
-    ipfsUrl: 'QmaTwambe8TpDBRoMrgGEeSkZGFyFJzCqJj1weQo4JDfiC',
+    id: 923,
+    name: 'Broxie #923',
     attributes: [
       {
         trait_type: 'back',
@@ -42502,10 +48040,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaTwambe8TpDBRoMrgGEeSkZGFyFJzCqJj1weQo4JDfiC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbLg5N2JaadzhobJX2sDHzkzZqyL6WhUMHPYCNmpyeGmd',
+    address:
+      '0:41b36ed7e3d823fc9af7b273da991a274362f94d885ee77740355f9dfc4f1e29',
   },
   {
-    previewUrl: 'QmdCPCjPmQmM1nAt1m1sGdeyiEi85Brm9VRHuNDZhoVo1t',
-    ipfsUrl: 'QmSJw7iAyimgpTohHUcBa8fGpwN5uUoaKmAMPZHMU3o9Yg',
+    id: 924,
+    name: 'Broxie #924',
     attributes: [
       {
         trait_type: 'back',
@@ -42548,10 +48092,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSJw7iAyimgpTohHUcBa8fGpwN5uUoaKmAMPZHMU3o9Yg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdCPCjPmQmM1nAt1m1sGdeyiEi85Brm9VRHuNDZhoVo1t',
+    address:
+      '0:c9087c478f7a3f60f72987b467f75c2c7de9e120ee11b23c1f5cfd5c73511814',
   },
   {
-    previewUrl: 'QmY5wGt4JgBg55NixUmC37pf6SVvxqG8uEjiyBxNTWJn98',
-    ipfsUrl: 'QmWh3WNFCDoZXN4ivcMcTqKFX4KVccbHYo5X37YNkcHjwQ',
+    id: 925,
+    name: 'Broxie #925',
     attributes: [
       {
         trait_type: 'back',
@@ -42594,10 +48144,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWh3WNFCDoZXN4ivcMcTqKFX4KVccbHYo5X37YNkcHjwQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmY5wGt4JgBg55NixUmC37pf6SVvxqG8uEjiyBxNTWJn98',
+    address:
+      '0:953b91a33635a1ad7bc48c60cc9207d725c1ba3c126fe777470d4f19a4df7bc0',
   },
   {
-    previewUrl: 'QmSopgzRfqrPpQXfg7osJrq8qTRbTb8nHsbMcT93MVt3No',
-    ipfsUrl: 'QmWxBfd3nXsk66iMi3Hg2aKA529ghFApYMh3aHzBXcV4VA',
+    id: 926,
+    name: 'Broxie #926',
     attributes: [
       {
         trait_type: 'back',
@@ -42640,10 +48196,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWxBfd3nXsk66iMi3Hg2aKA529ghFApYMh3aHzBXcV4VA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSopgzRfqrPpQXfg7osJrq8qTRbTb8nHsbMcT93MVt3No',
+    address:
+      '0:7b06f9bb04dc7ce47f61a95672b7ef9b0d59fdd8dbffee5353067af0f35f96e7',
   },
   {
-    previewUrl: 'Qma1AnmTvidMDJniHXg1kYNSxJB85bM5FNWjYod2r6usCM',
-    ipfsUrl: 'QmYwde9fRJGLBwUpste7rtT1f23pR9ghYoEYgK2fuyvRdJ',
+    id: 927,
+    name: 'Broxie #927',
     attributes: [
       {
         trait_type: 'back',
@@ -42686,10 +48248,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYwde9fRJGLBwUpste7rtT1f23pR9ghYoEYgK2fuyvRdJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma1AnmTvidMDJniHXg1kYNSxJB85bM5FNWjYod2r6usCM',
+    address:
+      '0:9237b8274c18b0956c01308d66144196e9157c345627596c77e95524180afb34',
   },
   {
-    previewUrl: 'QmajVG1ELt4r3HBrZE3hi6YsWoS41C2k3QjuN6svARf2BQ',
-    ipfsUrl: 'Qmcz4Jin9kXn3yxF6zXzqZ8zejjESWB7WdR63CcuRgMtrm',
+    id: 928,
+    name: 'Broxie #928',
     attributes: [
       {
         trait_type: 'back',
@@ -42732,10 +48300,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcz4Jin9kXn3yxF6zXzqZ8zejjESWB7WdR63CcuRgMtrm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmajVG1ELt4r3HBrZE3hi6YsWoS41C2k3QjuN6svARf2BQ',
+    address:
+      '0:4ca5c840504081a797ff95fd77fe48174b05b71643c6a21822c6daa00d076f42',
   },
   {
-    previewUrl: 'QmTPJV9qoXfjQBCgBsHmRs4Ug6ecmMgqBxqbfuiL5UXYHf',
-    ipfsUrl: 'QmcHwZXvEiJZ5zAxNxu76rMmZ3EEW8h7HJBXyNGT7hFNtU',
+    id: 929,
+    name: 'Broxie #929',
     attributes: [
       {
         trait_type: 'back',
@@ -42778,10 +48352,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcHwZXvEiJZ5zAxNxu76rMmZ3EEW8h7HJBXyNGT7hFNtU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTPJV9qoXfjQBCgBsHmRs4Ug6ecmMgqBxqbfuiL5UXYHf',
+    address:
+      '0:07eac14659741e40e9e2ffdeb3f21fda21c2bda51e9f4aeb69e538d685e9111c',
   },
   {
-    previewUrl: 'QmaDCjm29bqR4ZoWGxTXbB9hFqiUvmNSzCKfyRyUBFFK3A',
-    ipfsUrl: 'QmQgRAicVsAgGt97k6ihQVGzEx17oF8JdR7vhkU1yrLag6',
+    id: 930,
+    name: 'Broxie #930',
     attributes: [
       {
         trait_type: 'back',
@@ -42824,10 +48404,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQgRAicVsAgGt97k6ihQVGzEx17oF8JdR7vhkU1yrLag6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaDCjm29bqR4ZoWGxTXbB9hFqiUvmNSzCKfyRyUBFFK3A',
+    address:
+      '0:095d895d8e5bd24aec33faecd9b7149f8853bb346929b7e8d1ec877a51403d48',
   },
   {
-    previewUrl: 'QmVHp54Ax8jyuU6dkRwYU7YCKrNsxpqaxwraixTs6b4JfP',
-    ipfsUrl: 'QmQFFPMePxoSXkWQN3ojJqpmebm4LhiEpvDeLDBwiaLQH1',
+    id: 931,
+    name: 'Broxie #931',
     attributes: [
       {
         trait_type: 'back',
@@ -42870,10 +48456,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQFFPMePxoSXkWQN3ojJqpmebm4LhiEpvDeLDBwiaLQH1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVHp54Ax8jyuU6dkRwYU7YCKrNsxpqaxwraixTs6b4JfP',
+    address:
+      '0:083c6b11cd1bfcaa50b834638c1a3d7d8823eacb82ca63b15db607ae92e25e9c',
   },
   {
-    previewUrl: 'QmNVJdtmGvircwf7Avb3ueaKGPp5Y2S2DXmUXkN79HtroL',
-    ipfsUrl: 'QmaoRo5qC7b1p2jm2qZYXgfR5RswwMpmvRHPqJ2jvG4KSL',
+    id: 932,
+    name: 'Broxie #932',
     attributes: [
       {
         trait_type: 'back',
@@ -42916,10 +48508,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaoRo5qC7b1p2jm2qZYXgfR5RswwMpmvRHPqJ2jvG4KSL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNVJdtmGvircwf7Avb3ueaKGPp5Y2S2DXmUXkN79HtroL',
+    address:
+      '0:dd9447cd94399c3dd484e94270c98e7cad7d4b46b35c28a7daf9ee77bf725ddf',
   },
   {
-    previewUrl: 'Qmdu3iJ2ZEw2QJ98drVMJm3xULXb19hJ9vq2gie4Cf3EdU',
-    ipfsUrl: 'QmQ36iieEmwKnYxxB6qEookvAWTqTub5Nx241W9ZfWhSpV',
+    id: 933,
+    name: 'Broxie #933',
     attributes: [
       {
         trait_type: 'back',
@@ -42962,10 +48560,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ36iieEmwKnYxxB6qEookvAWTqTub5Nx241W9ZfWhSpV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdu3iJ2ZEw2QJ98drVMJm3xULXb19hJ9vq2gie4Cf3EdU',
+    address:
+      '0:7b78295e1eb1026e6122ac9c05c63eed146a289ea4d249a751417003e3b72e5a',
   },
   {
-    previewUrl: 'Qmam5x99Jxy52ENEpcfmHkPGNLkVpVQYWgXvPKYTnjjrzP',
-    ipfsUrl: 'QmfDv1GkmCGocevjDGxubWJj4y5dWKQSAV74ASviszPTc9',
+    id: 934,
+    name: 'Broxie #934',
     attributes: [
       {
         trait_type: 'back',
@@ -43008,10 +48612,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfDv1GkmCGocevjDGxubWJj4y5dWKQSAV74ASviszPTc9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmam5x99Jxy52ENEpcfmHkPGNLkVpVQYWgXvPKYTnjjrzP',
+    address:
+      '0:eaa88788b1d213d71f1a709a69d2c65c049942f41575f68ad4b4431da365cd64',
   },
   {
-    previewUrl: 'Qmf3EGVPWqKeVmrhrDWuDFXSotyikf5FhqMaWAL6z8qtym',
-    ipfsUrl: 'QmRHzFv1L5AePwNwD6aQ6cXjHtt3ziy8K8VP7VCBZxppWz',
+    id: 935,
+    name: 'Broxie #935',
     attributes: [
       {
         trait_type: 'back',
@@ -43054,10 +48664,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRHzFv1L5AePwNwD6aQ6cXjHtt3ziy8K8VP7VCBZxppWz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf3EGVPWqKeVmrhrDWuDFXSotyikf5FhqMaWAL6z8qtym',
+    address:
+      '0:d42a72b64e0e1f1e9ba0a684fb73b93844a0c5cbafb37312a71db65766a4b928',
   },
   {
-    previewUrl: 'QmeifWBPsttS54YyMGoxzTawoGyN5VuAwrBtLrVb1iKTuM',
-    ipfsUrl: 'Qmcp3ELirhLsMoAnnikmXNcMtmYZ8ay96puxrUdqnrbCT9',
+    id: 936,
+    name: 'Broxie #936',
     attributes: [
       {
         trait_type: 'back',
@@ -43100,10 +48716,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcp3ELirhLsMoAnnikmXNcMtmYZ8ay96puxrUdqnrbCT9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeifWBPsttS54YyMGoxzTawoGyN5VuAwrBtLrVb1iKTuM',
+    address:
+      '0:7cd805c1e13845ec9798ab23aabb3bf1ce5b2c15820b7517e013f1bf814afdde',
   },
   {
-    previewUrl: 'QmS1zRrB7LWAJuGcZgYasua6Gf7a98kTjkr4XSrj6wYMuv',
-    ipfsUrl: 'QmSxqXpV3M7h9yC7422t2QB8TEsVxDEWUNM89uryZzyraR',
+    id: 937,
+    name: 'Broxie #937',
     attributes: [
       {
         trait_type: 'back',
@@ -43146,10 +48768,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSxqXpV3M7h9yC7422t2QB8TEsVxDEWUNM89uryZzyraR',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS1zRrB7LWAJuGcZgYasua6Gf7a98kTjkr4XSrj6wYMuv',
+    address:
+      '0:022ad9af199f5d4a881b2c52f1879ec250f5aa00e651d3e920f05facaf4ae994',
   },
   {
-    previewUrl: 'QmQ3VBeAp4xo3DhA1nGDNDBwgg21FS4QgYrzAsa1WBojH1',
-    ipfsUrl: 'QmfPo3Wg1P2mZCNcfhZaCbWzJMHXCGTjYvDfyQ8xo4bszK',
+    id: 938,
+    name: 'Broxie #938',
     attributes: [
       {
         trait_type: 'back',
@@ -43192,10 +48820,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfPo3Wg1P2mZCNcfhZaCbWzJMHXCGTjYvDfyQ8xo4bszK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ3VBeAp4xo3DhA1nGDNDBwgg21FS4QgYrzAsa1WBojH1',
+    address:
+      '0:0e5b07cc49c9845407c4e62469960e616cf36431350768eabbdb8fbc2d11bd89',
   },
   {
-    previewUrl: 'QmfYDKjU4LXoaydW26DEKJpvr6QT2it8mfazUq11xGxSFY',
-    ipfsUrl: 'QmTfB6Q3qZUAFFc4JnSUmPxbAhPqTLVG4n358D7BUAmYLA',
+    id: 939,
+    name: 'Broxie #939',
     attributes: [
       {
         trait_type: 'back',
@@ -43238,10 +48872,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTfB6Q3qZUAFFc4JnSUmPxbAhPqTLVG4n358D7BUAmYLA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfYDKjU4LXoaydW26DEKJpvr6QT2it8mfazUq11xGxSFY',
+    address:
+      '0:7c3a3c77cfc0f5c6b3fce9ca8836b9c86151fdf36d17662a9cbd7af9dd13d9e6',
   },
   {
-    previewUrl: 'QmZtarmpnEFZyn1PHgJCx6HX3HWDPgMVW8rCbCq9BdnDHY',
-    ipfsUrl: 'QmTfB6Q3qZUAFFc4JnSUmPxbAhPqTLVG4n358D7BUAmYLA',
+    id: 940,
+    name: 'Broxie #940',
     attributes: [
       {
         trait_type: 'back',
@@ -43284,10 +48924,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTfB6Q3qZUAFFc4JnSUmPxbAhPqTLVG4n358D7BUAmYLA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZtarmpnEFZyn1PHgJCx6HX3HWDPgMVW8rCbCq9BdnDHY',
+    address:
+      '0:b56621804553ef04ed414b32a2af3e6ad71e216531b1e5f15bca6ac634f6ff25',
   },
   {
-    previewUrl: 'QmVBpt1gd6CxHad67bA7eUzrmiAW5Q47hRRHf1FWKs4jsZ',
-    ipfsUrl: 'QmcR6EXJYjmbNNp4hwHWWyHY18Ab53QC7dMFvwtRCj6RjT',
+    id: 941,
+    name: 'Broxie #941',
     attributes: [
       {
         trait_type: 'back',
@@ -43330,10 +48976,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcR6EXJYjmbNNp4hwHWWyHY18Ab53QC7dMFvwtRCj6RjT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVBpt1gd6CxHad67bA7eUzrmiAW5Q47hRRHf1FWKs4jsZ',
+    address:
+      '0:dabf117db305b771e97ceccd52889bf5db740d65fd39a5f650f3a52712bcb26a',
   },
   {
-    previewUrl: 'QmaUU1VFfKESEGD2E3gRr6ombKAu8r6mBZQ7c4F26RBgUL',
-    ipfsUrl: 'QmPNTxVPHjSmf8wDD1vFk6CTcckZWwtKt1aGT5kdkMU9ac',
+    id: 942,
+    name: 'Broxie #942',
     attributes: [
       {
         trait_type: 'back',
@@ -43376,10 +49028,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPNTxVPHjSmf8wDD1vFk6CTcckZWwtKt1aGT5kdkMU9ac',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaUU1VFfKESEGD2E3gRr6ombKAu8r6mBZQ7c4F26RBgUL',
+    address:
+      '0:21fc801d624708b42a80db43e0581a447e9e81576367534329369260beb1a035',
   },
   {
-    previewUrl: 'QmRWAoLZa69oYjadaz6riNENvUnCzng3VxQFTXzSpTdntb',
-    ipfsUrl: 'QmbMGvpbUncfCVLQGwkySH5AfEHvL5FreFV7YCH3eenDZv',
+    id: 943,
+    name: 'Broxie #943',
     attributes: [
       {
         trait_type: 'back',
@@ -43422,10 +49080,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbMGvpbUncfCVLQGwkySH5AfEHvL5FreFV7YCH3eenDZv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRWAoLZa69oYjadaz6riNENvUnCzng3VxQFTXzSpTdntb',
+    address:
+      '0:3606e4ce9884711d19017f52fa42a7b547e5b2ff8777b2b4a7182f7a58ee0b52',
   },
   {
-    previewUrl: 'QmUEQkbmQWpdZSuA6bS4xVWhRaicWgwcZjrvmvm2eW3s2Z',
-    ipfsUrl: 'QmTvGULU7XcF41YmF3eZgCGi7r3CwoqKjRvEH3BNpqWv5m',
+    id: 944,
+    name: 'Broxie #944',
     attributes: [
       {
         trait_type: 'back',
@@ -43468,10 +49132,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTvGULU7XcF41YmF3eZgCGi7r3CwoqKjRvEH3BNpqWv5m',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUEQkbmQWpdZSuA6bS4xVWhRaicWgwcZjrvmvm2eW3s2Z',
+    address:
+      '0:3e25fd0ce4b0c57457349c59a3367980ab5993843eb652f75fea5860058a04da',
   },
   {
-    previewUrl: 'QmbVTPhDzLWbMsUDBucV4xc9UXQFjP1Ara7ukbSNLsmWVH',
-    ipfsUrl: 'QmdFYFZyxWirx1uYL4mTt2BMeeBJidxXcUCWGQTY1wzFdU',
+    id: 945,
+    name: 'Broxie #945',
     attributes: [
       {
         trait_type: 'back',
@@ -43514,10 +49184,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdFYFZyxWirx1uYL4mTt2BMeeBJidxXcUCWGQTY1wzFdU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbVTPhDzLWbMsUDBucV4xc9UXQFjP1Ara7ukbSNLsmWVH',
+    address:
+      '0:5e02e660d23603c68152037c4f62ce7cfa62e64805338277a2281837da79c1bb',
   },
   {
-    previewUrl: 'QmRexiWzMA115A1Mb1VakyKARcSSbv2oqNTY9ePPYR7jbs',
-    ipfsUrl: 'QmR4mkiQrgEFjMfWhM9CBoY2Z1MAU5zNNjDh9VJR5r7tGz',
+    id: 946,
+    name: 'Broxie #946',
     attributes: [
       {
         trait_type: 'back',
@@ -43560,10 +49236,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR4mkiQrgEFjMfWhM9CBoY2Z1MAU5zNNjDh9VJR5r7tGz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRexiWzMA115A1Mb1VakyKARcSSbv2oqNTY9ePPYR7jbs',
+    address:
+      '0:b07fe9ab6dcafae9242310bd7d9f3e815adb1a089551b0f40000c93de185a3c1',
   },
   {
-    previewUrl: 'QmYUuMsysteWuB8w6gaDQstHLVX3TvpSB3qLTTCm2vmS9W',
-    ipfsUrl: 'Qmc15FZ2fT9561XZXjEeGMscqKE1PYxS53EVRs1UFMTVU8',
+    id: 947,
+    name: 'Broxie #947',
     attributes: [
       {
         trait_type: 'back',
@@ -43606,10 +49288,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc15FZ2fT9561XZXjEeGMscqKE1PYxS53EVRs1UFMTVU8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYUuMsysteWuB8w6gaDQstHLVX3TvpSB3qLTTCm2vmS9W',
+    address:
+      '0:3375a7f31d448bcf410eaf9c1f3e882904bab0cac92a86072a25aadb296c3b8b',
   },
   {
-    previewUrl: 'QmULjpysY4D5hPPZTiTYD4M6bmyhEoaiFq4G6Po1qGsxg3',
-    ipfsUrl: 'QmaShFgoVy9rZ2XqeviNLHiduGjoiSLK1KX2mfx83kKPY9',
+    id: 948,
+    name: 'Broxie #948',
     attributes: [
       {
         trait_type: 'back',
@@ -43652,10 +49340,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaShFgoVy9rZ2XqeviNLHiduGjoiSLK1KX2mfx83kKPY9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmULjpysY4D5hPPZTiTYD4M6bmyhEoaiFq4G6Po1qGsxg3',
+    address:
+      '0:c86a7f8c73b58628ec23808997b7df9027cfa155692dcd459be019b68effcdb0',
   },
   {
-    previewUrl: 'QmbCnueeNBKdkq7JUqAMd7Zxjwfwz3W472HPfyGDpyZVAH',
-    ipfsUrl: 'QmUJbMBfCBjU7xn3RkLDGxB331amTRm6Vo6Mxj4Y7agd3v',
+    id: 949,
+    name: 'Broxie #949',
     attributes: [
       {
         trait_type: 'back',
@@ -43698,10 +49392,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUJbMBfCBjU7xn3RkLDGxB331amTRm6Vo6Mxj4Y7agd3v',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbCnueeNBKdkq7JUqAMd7Zxjwfwz3W472HPfyGDpyZVAH',
+    address:
+      '0:e0d18626bfcd97171897c66ed222553b0593c3a6cb76ed58adc5e57a6a346bba',
   },
   {
-    previewUrl: 'Qmdh1eNzga1GoAA7CTqjkwuvxZoS7Z7pEsHruLgKgATuA8',
-    ipfsUrl: 'QmT1K8unpYNrHR3eeSGdtPmD9qHV19BoZv86yFboF1zJXy',
+    id: 950,
+    name: 'Broxie #950',
     attributes: [
       {
         trait_type: 'back',
@@ -43744,10 +49444,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT1K8unpYNrHR3eeSGdtPmD9qHV19BoZv86yFboF1zJXy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdh1eNzga1GoAA7CTqjkwuvxZoS7Z7pEsHruLgKgATuA8',
+    address:
+      '0:2bf1a29f7152487d164d92e0390238ca9e01aae64e74fefb4ff8f6f24aa406c1',
   },
   {
-    previewUrl: 'QmSdfZfFL5sBb7tpnPsEcpJmZBnnJFwUsFCua312MsqjgL',
-    ipfsUrl: 'QmRrvM3NQXp887r4juinE7iT7EPZSpBXirJLjX22Ber71k',
+    id: 951,
+    name: 'Broxie #951',
     attributes: [
       {
         trait_type: 'back',
@@ -43790,10 +49496,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRrvM3NQXp887r4juinE7iT7EPZSpBXirJLjX22Ber71k',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSdfZfFL5sBb7tpnPsEcpJmZBnnJFwUsFCua312MsqjgL',
+    address:
+      '0:b6881d7e03315b5036f11a65d0c25933c64ae7e8a09cb88aa2d940c2e27c1109',
   },
   {
-    previewUrl: 'QmYCnoDYfYPR1cWYRY4HiyshQ9WxjWBapHVRMeewPWXRhb',
-    ipfsUrl: 'QmRum8b4Vi49rwDQsrRKBy8XKgtiLxExYDmE4rwKNb2Ja3',
+    id: 952,
+    name: 'Broxie #952',
     attributes: [
       {
         trait_type: 'back',
@@ -43836,10 +49548,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRum8b4Vi49rwDQsrRKBy8XKgtiLxExYDmE4rwKNb2Ja3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYCnoDYfYPR1cWYRY4HiyshQ9WxjWBapHVRMeewPWXRhb',
+    address:
+      '0:03c9be062f4ebbe0023872ce99819f7dd29b57a3683c059aab18988cf83de8bc',
   },
   {
-    previewUrl: 'QmRuDXWHxSh7mYFGSiWizmyVnEaNhCxbZxuxxn3psD3VF7',
-    ipfsUrl: 'QmXBCQsjMS2jkVmwjUhbGRa2kG4TSy9CmMyW4EkU1K7pZ3',
+    id: 953,
+    name: 'Broxie #953',
     attributes: [
       {
         trait_type: 'back',
@@ -43882,10 +49600,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXBCQsjMS2jkVmwjUhbGRa2kG4TSy9CmMyW4EkU1K7pZ3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRuDXWHxSh7mYFGSiWizmyVnEaNhCxbZxuxxn3psD3VF7',
+    address:
+      '0:f1eb7964c2516760010d1acfe1d751d22a434c141676da241b75ceab34d39c49',
   },
   {
-    previewUrl: 'QmeytH9a5oECTHJVKYKVNYLDQup8q7penQjJjZKbSA22Uw',
-    ipfsUrl: 'QmSzQSfTpfAJxtPjB3FHC1npmEzNaaRmjtgV5fFbHdDSSV',
+    id: 954,
+    name: 'Broxie #954',
     attributes: [
       {
         trait_type: 'back',
@@ -43928,10 +49652,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSzQSfTpfAJxtPjB3FHC1npmEzNaaRmjtgV5fFbHdDSSV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeytH9a5oECTHJVKYKVNYLDQup8q7penQjJjZKbSA22Uw',
+    address:
+      '0:f2debe199154a4df231cc8edc8280d5ec856be85a991d3f21c70cc6fe30b347b',
   },
   {
-    previewUrl: 'QmarrFQRYbaJepC7Wz7Hnjow6oStZM7xgHMoup75LptRPu',
-    ipfsUrl: 'QmVu4fxBJh458WTdespsFwqBxUJ2SMPyKfbpHf6PhsPJT7',
+    id: 955,
+    name: 'Broxie #955',
     attributes: [
       {
         trait_type: 'back',
@@ -43974,10 +49704,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVu4fxBJh458WTdespsFwqBxUJ2SMPyKfbpHf6PhsPJT7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmarrFQRYbaJepC7Wz7Hnjow6oStZM7xgHMoup75LptRPu',
+    address:
+      '0:258c641eeb1c9aac3cbc65f27a43ed50191e02e0f4d4a7b9cd38bbcd25c5b4fc',
   },
   {
-    previewUrl: 'QmenCZGcWP5pm4w5XYj7RCh3KZxdfHjNBD3zUcQDMwvsyM',
-    ipfsUrl: 'QmVDKYDeY1U2nv9MEKdMmtTWVVnWp7np7ALZFGApzGDiMG',
+    id: 956,
+    name: 'Broxie #956',
     attributes: [
       {
         trait_type: 'back',
@@ -44020,10 +49756,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVDKYDeY1U2nv9MEKdMmtTWVVnWp7np7ALZFGApzGDiMG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmenCZGcWP5pm4w5XYj7RCh3KZxdfHjNBD3zUcQDMwvsyM',
+    address:
+      '0:45f7568b1cdc04b9322347d4874bab7960a1302259a6aa9db6825ef3f0bc5abb',
   },
   {
-    previewUrl: 'QmVG1d9BuNAAwz94wrPrQSyVKbSikffbp1voBmeZVviyGv',
-    ipfsUrl: 'QmU4faHmV8dLq9Jw8Dac8i1LSUeW6R3KSjehyvCcEP8Gbn',
+    id: 957,
+    name: 'Broxie #957',
     attributes: [
       {
         trait_type: 'back',
@@ -44066,10 +49808,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU4faHmV8dLq9Jw8Dac8i1LSUeW6R3KSjehyvCcEP8Gbn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVG1d9BuNAAwz94wrPrQSyVKbSikffbp1voBmeZVviyGv',
+    address:
+      '0:6ee81f7d86cc99eb7271fd57f6d513604e12aa0261ae19e4094bcd9a4088596c',
   },
   {
-    previewUrl: 'QmQ2JT941f7eEzLUhoi6GbzDgjbd6DD5jjGAqK2ZBWVWrx',
-    ipfsUrl: 'QmQxp4yjmQm2eerGu51gKeJP2dWcNbP2KpDMCXu4e4UN9L',
+    id: 958,
+    name: 'Broxie #958',
     attributes: [
       {
         trait_type: 'back',
@@ -44112,10 +49860,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQxp4yjmQm2eerGu51gKeJP2dWcNbP2KpDMCXu4e4UN9L',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ2JT941f7eEzLUhoi6GbzDgjbd6DD5jjGAqK2ZBWVWrx',
+    address:
+      '0:38c2efee94f5c218d1d2632570c2e7695018cf4a0e06d7571f845bcbd332d6a5',
   },
   {
-    previewUrl: 'QmR3b4ua68WEX4TYqgwk3ieVcm6wLUMpWTWR7nmNSWvjxK',
-    ipfsUrl: 'QmTyVpjM6vc7aGusfq576kw79aY4hsJYnFBZWRYDGS5jhB',
+    id: 959,
+    name: 'Broxie #959',
     attributes: [
       {
         trait_type: 'back',
@@ -44158,10 +49912,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTyVpjM6vc7aGusfq576kw79aY4hsJYnFBZWRYDGS5jhB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR3b4ua68WEX4TYqgwk3ieVcm6wLUMpWTWR7nmNSWvjxK',
+    address:
+      '0:7204da8c1aef29c30dd7bb5a69c9dbf5b64d809aac7c2be2375702d48b671dfd',
   },
   {
-    previewUrl: 'QmX1F7vkHMSSVNJMZ5QjFVVDFL6vfgjtZrdu14MJdCS4zQ',
-    ipfsUrl: 'QmVje5AoA4TkQrDvmYzLnmrvhTUCG7Ms1vZBsm7JxWhQCz',
+    id: 960,
+    name: 'Broxie #960',
     attributes: [
       {
         trait_type: 'back',
@@ -44204,10 +49964,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVje5AoA4TkQrDvmYzLnmrvhTUCG7Ms1vZBsm7JxWhQCz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmX1F7vkHMSSVNJMZ5QjFVVDFL6vfgjtZrdu14MJdCS4zQ',
+    address:
+      '0:08bf0708c04bde828f16976bc433dceba1a3a004fe04d8d08552194539e45b53',
   },
   {
-    previewUrl: 'QmXyNKzUnWiWDysk1iCW44raCV3LVmxHwCnx5uxqZV31Ly',
-    ipfsUrl: 'QmVwC5K9v1pqWi2eP84kDxDWZ3cgmprB4kV1Cnt5Nfjcp9',
+    id: 961,
+    name: 'Broxie #961',
     attributes: [
       {
         trait_type: 'back',
@@ -44250,10 +50016,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVwC5K9v1pqWi2eP84kDxDWZ3cgmprB4kV1Cnt5Nfjcp9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXyNKzUnWiWDysk1iCW44raCV3LVmxHwCnx5uxqZV31Ly',
+    address:
+      '0:6b0f568cab6594103601bd245c572f95b8be23013eb3856427ec8a819812e821',
   },
   {
-    previewUrl: 'QmYApxk871jM1zwZecZ7n5fHgx8N6NitW6nMwPWQFanhCk',
-    ipfsUrl: 'QmR5GGFXuikXf3SbTMB4S9pceNs8XE5A2Bo6GbgZGUDYtz',
+    id: 962,
+    name: 'Broxie #962',
     attributes: [
       {
         trait_type: 'back',
@@ -44296,10 +50068,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR5GGFXuikXf3SbTMB4S9pceNs8XE5A2Bo6GbgZGUDYtz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYApxk871jM1zwZecZ7n5fHgx8N6NitW6nMwPWQFanhCk',
+    address:
+      '0:2083de28770fb6c904c1e9fb5e98abc18f5484c5348a33102b144bc84c33e92f',
   },
   {
-    previewUrl: 'QmPeiCw89QrniFQryMqeErALApHo8uqyQhT63Wk19Nyjj7',
-    ipfsUrl: 'QmcziX9RYeSFRDuxTRa6UH4SSLQYq8jfBJwuxbrvA4t22F',
+    id: 963,
+    name: 'Broxie #963',
     attributes: [
       {
         trait_type: 'back',
@@ -44342,10 +50120,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcziX9RYeSFRDuxTRa6UH4SSLQYq8jfBJwuxbrvA4t22F',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPeiCw89QrniFQryMqeErALApHo8uqyQhT63Wk19Nyjj7',
+    address:
+      '0:75207216ebb371c9044a396acefe768290f39e3cd9574d8d4a3004dd7603c1a1',
   },
   {
-    previewUrl: 'QmTMnwZbgrTTVLE9fjCE895kvBxCNQ4fW84sS2H3YWPo6b',
-    ipfsUrl: 'QmU5oHHzNfD4FUsEkN4Tdh7tFCb6smo6ke7Ecw2NbyCrBW',
+    id: 964,
+    name: 'Broxie #964',
     attributes: [
       {
         trait_type: 'back',
@@ -44388,10 +50172,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU5oHHzNfD4FUsEkN4Tdh7tFCb6smo6ke7Ecw2NbyCrBW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTMnwZbgrTTVLE9fjCE895kvBxCNQ4fW84sS2H3YWPo6b',
+    address:
+      '0:5b20389b59c7e86d99dfe4edb25fe7159f1d5027f9492f3727871c7efae282d0',
   },
   {
-    previewUrl: 'Qmd9Z41dSNm8Nx7Wx6462yHd3cNVwvUMua9hc3iYjGdojU',
-    ipfsUrl: 'QmSDB7MAtQY3ZZHCnU1AeBG87bPm3zz5hVbZESnGdSri4m',
+    id: 965,
+    name: 'Broxie #965',
     attributes: [
       {
         trait_type: 'back',
@@ -44434,10 +50224,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSDB7MAtQY3ZZHCnU1AeBG87bPm3zz5hVbZESnGdSri4m',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd9Z41dSNm8Nx7Wx6462yHd3cNVwvUMua9hc3iYjGdojU',
+    address:
+      '0:ff205cfa1837fbe26bb7636cf8e6fe2a766cad8caed769be7f8e83cfae03adc2',
   },
   {
-    previewUrl: 'QmQJZh8bAfSDfrCqzgnwQ6FrWQFvzuAtL8G8oSpviq2m36',
-    ipfsUrl: 'QmWWFD8MMbpq2EHzrdzewS9EWzDnrCsHWrmZ61g9JbnQNM',
+    id: 966,
+    name: 'Broxie #966',
     attributes: [
       {
         trait_type: 'back',
@@ -44480,10 +50276,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWWFD8MMbpq2EHzrdzewS9EWzDnrCsHWrmZ61g9JbnQNM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQJZh8bAfSDfrCqzgnwQ6FrWQFvzuAtL8G8oSpviq2m36',
+    address:
+      '0:72b32d771bb3efe9d870e0fe55c34d7bd562d5c9c1410281260d5fb1ad1964f5',
   },
   {
-    previewUrl: 'QmRiE2DGZS1HeVkYGzV1ZsPVqqDWo1RSkFEFSpKTKS9Y2h',
-    ipfsUrl: 'QmehYnz3dGNsxp8PLrm98pcaFbuo4sERv3NN4JopVCAf2g',
+    id: 967,
+    name: 'Broxie #967',
     attributes: [
       {
         trait_type: 'back',
@@ -44526,10 +50328,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmehYnz3dGNsxp8PLrm98pcaFbuo4sERv3NN4JopVCAf2g',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRiE2DGZS1HeVkYGzV1ZsPVqqDWo1RSkFEFSpKTKS9Y2h',
+    address:
+      '0:1caa1af16dcb11cd6bcbf684ae47952bd99ddaaa122a7b2f666de7ec03fff0ce',
   },
   {
-    previewUrl: 'QmbqDxpky51hxDgdsUvd31PawyP7k2yafAmJEjHKwCmjDD',
-    ipfsUrl: 'QmRta9GqR4eym1SuRamhaRMJjVXSpYAB6sq4ehBfjWG1tZ',
+    id: 968,
+    name: 'Broxie #968',
     attributes: [
       {
         trait_type: 'back',
@@ -44572,10 +50380,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRta9GqR4eym1SuRamhaRMJjVXSpYAB6sq4ehBfjWG1tZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbqDxpky51hxDgdsUvd31PawyP7k2yafAmJEjHKwCmjDD',
+    address:
+      '0:c0cd490826b3f36a71f8573d5d6e653933da32aa697edf7044f5e3746f3f4298',
   },
   {
-    previewUrl: 'QmTsGYyyHbFemUyDM2FiexD69Zdf2h7d7vh1HEBzEhArdC',
-    ipfsUrl: 'QmS6qiwRNAcw1YMB3Q5i914BUmKABUzfNjuHF2MJf1Swec',
+    id: 969,
+    name: 'Broxie #969',
     attributes: [
       {
         trait_type: 'back',
@@ -44618,10 +50432,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmS6qiwRNAcw1YMB3Q5i914BUmKABUzfNjuHF2MJf1Swec',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTsGYyyHbFemUyDM2FiexD69Zdf2h7d7vh1HEBzEhArdC',
+    address:
+      '0:c0d2902cfe2817cb458d9f82bb051807b86070c6cec13e123c68f24137923a18',
   },
   {
-    previewUrl: 'QmZ9Cxt7RyEmZoifYbeGEwngZhVwBiXFGUErr7Bbbhm26V',
-    ipfsUrl: 'QmVmtxh5JjK98KPZbk8XBxJNxwHGbgRAgXLSsFiHFx6pg9',
+    id: 970,
+    name: 'Broxie #970',
     attributes: [
       {
         trait_type: 'back',
@@ -44664,10 +50484,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVmtxh5JjK98KPZbk8XBxJNxwHGbgRAgXLSsFiHFx6pg9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ9Cxt7RyEmZoifYbeGEwngZhVwBiXFGUErr7Bbbhm26V',
+    address:
+      '0:df0eb452dccf2a3a248eddb02596f0dcfa9a0465f7522aa9dc9c8f13292c1b0e',
   },
   {
-    previewUrl: 'QmSA8d3fpdnh5SDG6bxGV2EhcbSSECoaQ5pSwtczoTEpn4',
-    ipfsUrl: 'QmdAfHfd2CgRYXDD2naw7pRu7F8xgFWDVU4wweR7BVBqP3',
+    id: 971,
+    name: 'Broxie #971',
     attributes: [
       {
         trait_type: 'back',
@@ -44710,10 +50536,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdAfHfd2CgRYXDD2naw7pRu7F8xgFWDVU4wweR7BVBqP3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSA8d3fpdnh5SDG6bxGV2EhcbSSECoaQ5pSwtczoTEpn4',
+    address:
+      '0:540d78228ee22c6069e90342b754cfa7d66ddd8baa5b7099ba9f4f45150f570f',
   },
   {
-    previewUrl: 'Qme4g6H1nv7HvhsnWA2f3e8WBuocyWvvkbDQWRXDtndhTd',
-    ipfsUrl: 'QmduwfKeLStDniVppST2qmmFjYnmRJizGUbt9RspCvoA8P',
+    id: 972,
+    name: 'Broxie #972',
     attributes: [
       {
         trait_type: 'back',
@@ -44756,10 +50588,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmduwfKeLStDniVppST2qmmFjYnmRJizGUbt9RspCvoA8P',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme4g6H1nv7HvhsnWA2f3e8WBuocyWvvkbDQWRXDtndhTd',
+    address:
+      '0:ab4402682f484204ae0686aa988e824c8f43d503d70619a238fe6b387766a83d',
   },
   {
-    previewUrl: 'QmSiCgqRuGcgpSswHW6vx1svWAVg2jRy3RixdzNMFQ5Kd1',
-    ipfsUrl: 'Qmbrguqm3FzEZJtxzzNioQbM4HFQySK3J6jjVSCXo6s39c',
+    id: 973,
+    name: 'Broxie #973',
     attributes: [
       {
         trait_type: 'back',
@@ -44802,10 +50640,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbrguqm3FzEZJtxzzNioQbM4HFQySK3J6jjVSCXo6s39c',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSiCgqRuGcgpSswHW6vx1svWAVg2jRy3RixdzNMFQ5Kd1',
+    address:
+      '0:c5c46fd6b4eb9e77c5e771214793778537a53410b20e19ae5562ffe02edc1997',
   },
   {
-    previewUrl: 'QmVum6sG1zbbn2riuxzhunk2mJiYuf5z8XanyDTehysxae',
-    ipfsUrl: 'QmZ94LwLHkzhY3r2mXanMGdCG9Mjd8S5MmuwAiiDudyztJ',
+    id: 974,
+    name: 'Broxie #974',
     attributes: [
       {
         trait_type: 'back',
@@ -44848,10 +50692,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ94LwLHkzhY3r2mXanMGdCG9Mjd8S5MmuwAiiDudyztJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVum6sG1zbbn2riuxzhunk2mJiYuf5z8XanyDTehysxae',
+    address:
+      '0:a23a75a99ce12e3b3e9a56d7ea883612a82c35446cea9fd1b2e88f3bc3c1ae41',
   },
   {
-    previewUrl: 'QmaefrC8GbZqmqvMgSdqK6db9C1Q7vsVrcH6R2Wjzy4nZK',
-    ipfsUrl: 'QmPHirkvuqUVzFfCoTQ6KgkB9KRn71W4T4GRCSZvBNeyJ5',
+    id: 975,
+    name: 'Broxie #975',
     attributes: [
       {
         trait_type: 'back',
@@ -44894,10 +50744,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPHirkvuqUVzFfCoTQ6KgkB9KRn71W4T4GRCSZvBNeyJ5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaefrC8GbZqmqvMgSdqK6db9C1Q7vsVrcH6R2Wjzy4nZK',
+    address:
+      '0:d549409f8fddbe8c94a307a9dca60d5a064c97f95d8e45ab1d5ea82294322207',
   },
   {
-    previewUrl: 'QmZY9bMwhLS48PK6XCmmTPzs5pA5Sbi5U1KUqyC91Upr9r',
-    ipfsUrl: 'QmVi4pBFhiMxLQSC6i9Pjj8ybEfgfWU8wVEdS4YiJXSTtZ',
+    id: 976,
+    name: 'Broxie #976',
     attributes: [
       {
         trait_type: 'back',
@@ -44940,10 +50796,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVi4pBFhiMxLQSC6i9Pjj8ybEfgfWU8wVEdS4YiJXSTtZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZY9bMwhLS48PK6XCmmTPzs5pA5Sbi5U1KUqyC91Upr9r',
+    address:
+      '0:519e5395106b7bbdb624ee3444edaf2472cfd733133644076ef233ee093fad25',
   },
   {
-    previewUrl: 'Qmc6jCEMBcSX7WoCutFBh5emcEWgsNhfYQrFaH9VdzG5gU',
-    ipfsUrl: 'QmetAtqLY3GgJKfN98qBsKTRFtp1bJojRSWxxL4dCzoQux',
+    id: 977,
+    name: 'Broxie #977',
     attributes: [
       {
         trait_type: 'back',
@@ -44986,10 +50848,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmetAtqLY3GgJKfN98qBsKTRFtp1bJojRSWxxL4dCzoQux',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc6jCEMBcSX7WoCutFBh5emcEWgsNhfYQrFaH9VdzG5gU',
+    address:
+      '0:4b7ba002983d90d95f20215463aa57d6ac1d01a7bb9e50d2a79fe8858d233876',
   },
   {
-    previewUrl: 'QmXdx4cDo6eUz3vWnepwbQiJAdAhdx7E7Vbcv6bckAQt2x',
-    ipfsUrl: 'QmZiqYkMjtfzbTQLDpLE9QUqjyuejEdp6uhPQAUBhfBwYD',
+    id: 978,
+    name: 'Broxie #978',
     attributes: [
       {
         trait_type: 'back',
@@ -45032,10 +50900,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZiqYkMjtfzbTQLDpLE9QUqjyuejEdp6uhPQAUBhfBwYD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXdx4cDo6eUz3vWnepwbQiJAdAhdx7E7Vbcv6bckAQt2x',
+    address:
+      '0:0230081967158d3bba9ce630fcb446e4727dc360297f5852e802766aff9f7991',
   },
   {
-    previewUrl: 'QmaDgZpYRBx2YM8qx4LwA98vCLe3WWjMCjoHXG4gah2QnX',
-    ipfsUrl: 'QmPpskQDA4jcvikyPqvNosEJ1SQB5rP2kbsSLNJo4D8Dsm',
+    id: 979,
+    name: 'Broxie #979',
     attributes: [
       {
         trait_type: 'back',
@@ -45078,10 +50952,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPpskQDA4jcvikyPqvNosEJ1SQB5rP2kbsSLNJo4D8Dsm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaDgZpYRBx2YM8qx4LwA98vCLe3WWjMCjoHXG4gah2QnX',
+    address:
+      '0:a2b1f7edfea3a6da90ebd4f4bcd0ea2aa2c446aa948a40b0eea452cfb60c31fb',
   },
   {
-    previewUrl: 'QmTCxKWaJ5KKChhj9DzvLtbQc9JBv35tWdMkpphrrheLgZ',
-    ipfsUrl: 'QmNgAFCTqVDPBCA3M3WtNGTMKfNF3dTHnN3UbWYzTNi4Zh',
+    id: 980,
+    name: 'Broxie #980',
     attributes: [
       {
         trait_type: 'back',
@@ -45124,10 +51004,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNgAFCTqVDPBCA3M3WtNGTMKfNF3dTHnN3UbWYzTNi4Zh',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTCxKWaJ5KKChhj9DzvLtbQc9JBv35tWdMkpphrrheLgZ',
+    address:
+      '0:98366e51cbbcf0b4b0faae1e71fdda8436a39f71a2448b07235ae3979808e03e',
   },
   {
-    previewUrl: 'Qmdb7usUCKqCtu5i5Wsu6n3E4zLA8Lj9UjP1vSRkvoZpx2',
-    ipfsUrl: 'QmP2rzjTdYMuGG4F3MiJH4ziB4o4vU1iUdgDHhBRxFffHk',
+    id: 981,
+    name: 'Broxie #981',
     attributes: [
       {
         trait_type: 'back',
@@ -45170,10 +51056,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmP2rzjTdYMuGG4F3MiJH4ziB4o4vU1iUdgDHhBRxFffHk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdb7usUCKqCtu5i5Wsu6n3E4zLA8Lj9UjP1vSRkvoZpx2',
+    address:
+      '0:151fefbc6b89a058c06fbe0e30efe64dd91c3b438bf3c546bd36593d8577906b',
   },
   {
-    previewUrl: 'QmQJ71hFiGfeUdpQDf1qUBvsBpDwwWYaz6eseEAubWiNDS',
-    ipfsUrl: 'QmWKStDEhUdQk3MxdW7TCWiY3Y6JZf4PwCcmbK2tggfmw5',
+    id: 982,
+    name: 'Broxie #982',
     attributes: [
       {
         trait_type: 'back',
@@ -45216,10 +51108,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWKStDEhUdQk3MxdW7TCWiY3Y6JZf4PwCcmbK2tggfmw5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQJ71hFiGfeUdpQDf1qUBvsBpDwwWYaz6eseEAubWiNDS',
+    address:
+      '0:1975f3d7a3aefd77fb0c6f3d41fa55bd936d8b8cb28666cba63ae85799f74cc2',
   },
   {
-    previewUrl: 'QmTjCgyCCaJDMpc5f91fHBGAMCp4e5vrifQRr39WCC8gV2',
-    ipfsUrl: 'QmPHvAc4Kjj1Z8HphGgyn5hm67SRBYjdj1wcHYvEsNtzz8',
+    id: 983,
+    name: 'Broxie #983',
     attributes: [
       {
         trait_type: 'back',
@@ -45262,10 +51160,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPHvAc4Kjj1Z8HphGgyn5hm67SRBYjdj1wcHYvEsNtzz8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTjCgyCCaJDMpc5f91fHBGAMCp4e5vrifQRr39WCC8gV2',
+    address:
+      '0:2b79e2b3534c4c89d9f774a5de0615c38bc4be06ce94867925b3db1f4f0bb681',
   },
   {
-    previewUrl: 'Qme1d5kYLSstFk8YVJJPzNHJ4VFhLdb2EFXAUhzqKpebQP',
-    ipfsUrl: 'QmPAttMs6EBk3nnjuFcbL5StxKVPiLvyLy5aWkZdQfCYup',
+    id: 984,
+    name: 'Broxie #984',
     attributes: [
       {
         trait_type: 'back',
@@ -45308,10 +51212,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPAttMs6EBk3nnjuFcbL5StxKVPiLvyLy5aWkZdQfCYup',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qme1d5kYLSstFk8YVJJPzNHJ4VFhLdb2EFXAUhzqKpebQP',
+    address:
+      '0:353dc0a79270ab44658d1475adaef96d5dd3899e89d5b7d2166b725d72bd07c0',
   },
   {
-    previewUrl: 'QmdNfQsvkiBEtUfrQP7hbwvearGo3ZK7Nf6JbNGDiuiHrn',
-    ipfsUrl: 'QmVTqU8kt14QyK5DxHb5dhqNH9gGUyka4WZQ6NMxu1nBhG',
+    id: 985,
+    name: 'Broxie #985',
     attributes: [
       {
         trait_type: 'back',
@@ -45354,10 +51264,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVTqU8kt14QyK5DxHb5dhqNH9gGUyka4WZQ6NMxu1nBhG',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdNfQsvkiBEtUfrQP7hbwvearGo3ZK7Nf6JbNGDiuiHrn',
+    address:
+      '0:5b653d44f9f485d94829d5f1a8f58ac61de4dcc89b67c4c36d286cd97e6a950e',
   },
   {
-    previewUrl: 'QmSq8ZxQKDtV2V7YrjkB7o9BGitCvYc2dpGt4P5jef2kRU',
-    ipfsUrl: 'QmS5JadUpHLQqmoYudBcTD76QGVa3ZEu6qzCnoeDkLdBBQ',
+    id: 986,
+    name: 'Broxie #986',
     attributes: [
       {
         trait_type: 'back',
@@ -45400,10 +51316,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmS5JadUpHLQqmoYudBcTD76QGVa3ZEu6qzCnoeDkLdBBQ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSq8ZxQKDtV2V7YrjkB7o9BGitCvYc2dpGt4P5jef2kRU',
+    address:
+      '0:fbfd5c24d8f27ae646c546af71e4d43f16c1293993206e6f28c64e947d690ab9',
   },
   {
-    previewUrl: 'QmNz7zR2C9vWAokNrYcghCSzWYcAaHhovXvuwwgLYC4bAS',
-    ipfsUrl: 'QmTEZZFB2973Sq5jsuRbahs1JanMjkbtc7sGfu2ARmAW7i',
+    id: 987,
+    name: 'Broxie #987',
     attributes: [
       {
         trait_type: 'back',
@@ -45446,10 +51368,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTEZZFB2973Sq5jsuRbahs1JanMjkbtc7sGfu2ARmAW7i',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNz7zR2C9vWAokNrYcghCSzWYcAaHhovXvuwwgLYC4bAS',
+    address:
+      '0:49e6856453952ed5a01de493eb5895b11b9ea671a452b383cefccbdba0cbd8d7',
   },
   {
-    previewUrl: 'QmNV9gUdxYQH6XwNbX2d7LBFoca9ZGwx9McPf45YfSXFvL',
-    ipfsUrl: 'QmdwsYTLHuCNG7CVJs296mLxrGvxtJMJfVEVqph43EFp9a',
+    id: 988,
+    name: 'Broxie #988',
     attributes: [
       {
         trait_type: 'back',
@@ -45492,10 +51420,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdwsYTLHuCNG7CVJs296mLxrGvxtJMJfVEVqph43EFp9a',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNV9gUdxYQH6XwNbX2d7LBFoca9ZGwx9McPf45YfSXFvL',
+    address:
+      '0:2ded1f0aaf7724fbf87f30bf37daefad1f14234b179487e3ec6ecf9b7dea4357',
   },
   {
-    previewUrl: 'QmbGHeHpW5Fv2x7q42mHWJFpD6veX5AvPLQngM9oyRqPQc',
-    ipfsUrl: 'QmagJf6PrhxNhTgFmrAyfg3VvEYoeH6yPaCvX7FpRioJR3',
+    id: 989,
+    name: 'Broxie #989',
     attributes: [
       {
         trait_type: 'back',
@@ -45538,10 +51472,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmagJf6PrhxNhTgFmrAyfg3VvEYoeH6yPaCvX7FpRioJR3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbGHeHpW5Fv2x7q42mHWJFpD6veX5AvPLQngM9oyRqPQc',
+    address:
+      '0:5550e98e08c51984cf3ee07670e84e7fc3c9d0a463c053f9d4c4beb8ec201295',
   },
   {
-    previewUrl: 'QmSHUWTvzb8UKRJ2SFpKKjXgAixe3P66GbWv1puwH8RP7R',
-    ipfsUrl: 'QmSaALoCRXjqdx791GZEDop4dSgtVCAfVUKgKqWBFHvE8i',
+    id: 990,
+    name: 'Broxie #990',
     attributes: [
       {
         trait_type: 'back',
@@ -45584,10 +51524,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSaALoCRXjqdx791GZEDop4dSgtVCAfVUKgKqWBFHvE8i',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSHUWTvzb8UKRJ2SFpKKjXgAixe3P66GbWv1puwH8RP7R',
+    address:
+      '0:a3d0ca014b25b3111a88752c84d46c9455411820f5d175ab0bfe667f4da4d8f9',
   },
   {
-    previewUrl: 'QmYbUkZd7ChLqgbGnNgivSxaV5QZunA2XqN1VvywcxwMgQ',
-    ipfsUrl: 'QmVcNhpSLtPSHHbL7Qm2WVUYRBynomZ3SPLyoCXVMv229H',
+    id: 991,
+    name: 'Broxie #991',
     attributes: [
       {
         trait_type: 'back',
@@ -45630,10 +51576,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVcNhpSLtPSHHbL7Qm2WVUYRBynomZ3SPLyoCXVMv229H',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYbUkZd7ChLqgbGnNgivSxaV5QZunA2XqN1VvywcxwMgQ',
+    address:
+      '0:d3b17dd2ddefd6f1050626bb507666e04380f06c719a6c81e0ed8b6eef1ffa20',
   },
   {
-    previewUrl: 'QmVuKeRAoUn38j8dGVbCRPwgdn1PGLLtJSDm4EkMAYo6n8',
-    ipfsUrl: 'QmQaa9aPemaL5GsSDpYVTx9z5AmrB4cstMjZaiGJ4koein',
+    id: 992,
+    name: 'Broxie #992',
     attributes: [
       {
         trait_type: 'back',
@@ -45676,10 +51628,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQaa9aPemaL5GsSDpYVTx9z5AmrB4cstMjZaiGJ4koein',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVuKeRAoUn38j8dGVbCRPwgdn1PGLLtJSDm4EkMAYo6n8',
+    address:
+      '0:d2ceec7473812e1e198c24b4aa31e73019e732f62dfa28a6fcaa56150ee3b3e2',
   },
   {
-    previewUrl: 'QmYwJkxj9y6AvMaS3muwfaazi4SPxc2zLiZshBqF8S6uaT',
-    ipfsUrl: 'QmYvRi1UM5WHFS2sJjG1BYhkqzvSrFiR3ysJPdL7ZP2pFd',
+    id: 993,
+    name: 'Broxie #993',
     attributes: [
       {
         trait_type: 'back',
@@ -45722,10 +51680,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYvRi1UM5WHFS2sJjG1BYhkqzvSrFiR3ysJPdL7ZP2pFd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYwJkxj9y6AvMaS3muwfaazi4SPxc2zLiZshBqF8S6uaT',
+    address:
+      '0:40dd2e155faf0d2fe615ccd29f9a6d0da95ab4914e36007e5298dfc6befa5350',
   },
   {
-    previewUrl: 'Qmf4N6uHGnxP5Koib2hYFifRG5nNuTBrgPB2m7PeqRQLgU',
-    ipfsUrl: 'QmUh9o8vq7MCJG2fuP8fkCymDjy9hqXXqUqQrwWJ2rPPmt',
+    id: 994,
+    name: 'Broxie #994',
     attributes: [
       {
         trait_type: 'back',
@@ -45768,10 +51732,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUh9o8vq7MCJG2fuP8fkCymDjy9hqXXqUqQrwWJ2rPPmt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf4N6uHGnxP5Koib2hYFifRG5nNuTBrgPB2m7PeqRQLgU',
+    address:
+      '0:8275f46257111e9e98eb926fbcf7c5374c2e5703702c9ecff5abaec1306d65d5',
   },
   {
-    previewUrl: 'QmNxQdmBdAATKvEaZ3Tr3EXi57SebJ2LDYmm7v2Wnoca95',
-    ipfsUrl: 'QmayHYtLi6tDuBF4HZAfoiNQXhoPbi1pM8XbjEdwcRicTs',
+    id: 995,
+    name: 'Broxie #995',
     attributes: [
       {
         trait_type: 'back',
@@ -45814,10 +51784,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmayHYtLi6tDuBF4HZAfoiNQXhoPbi1pM8XbjEdwcRicTs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNxQdmBdAATKvEaZ3Tr3EXi57SebJ2LDYmm7v2Wnoca95',
+    address:
+      '0:d445b5ea35e1a148bc937a92cdbd1c4cbeb18da76ea9cb57163ab79891abd4ee',
   },
   {
-    previewUrl: 'QmP74vCg6WpRKwJMYc2Y4LmQNaoiEt8Jq116DF62yEqnGM',
-    ipfsUrl: 'QmP3GekKxuyFYi9hEACsJwxBWPaw7ywFWvUVQVVvSVCS9K',
+    id: 996,
+    name: 'Broxie #996',
     attributes: [
       {
         trait_type: 'back',
@@ -45860,10 +51836,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmP3GekKxuyFYi9hEACsJwxBWPaw7ywFWvUVQVVvSVCS9K',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmP74vCg6WpRKwJMYc2Y4LmQNaoiEt8Jq116DF62yEqnGM',
+    address:
+      '0:450b73ba8849b4361c7435aa9d7fd1927243d997f406682bcce94101577597c4',
   },
   {
-    previewUrl: 'QmayrWW6hiRAQCakeKUqMGP4bw6qUGAo1Y8q2Ps56J6M66',
-    ipfsUrl: 'QmTBuzPuANPrE1oHHcAEiiZpjvJZZpUCU4wduxdYqzbsAs',
+    id: 997,
+    name: 'Broxie #997',
     attributes: [
       {
         trait_type: 'back',
@@ -45906,10 +51888,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTBuzPuANPrE1oHHcAEiiZpjvJZZpUCU4wduxdYqzbsAs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmayrWW6hiRAQCakeKUqMGP4bw6qUGAo1Y8q2Ps56J6M66',
+    address:
+      '0:98f1502b5bcba953051c80f2539052f79d1493b901bf684b71badf64095531ab',
   },
   {
-    previewUrl: 'QmV6baRnkpVwvVABJJzAn7cJSz4DHEN9Rbw4exKXafWLoL',
-    ipfsUrl: 'QmQjKfKHCRF6DJbdxYdug6FDVL8v5dxv1QHss8YfLaQ7dM',
+    id: 998,
+    name: 'Broxie #998',
     attributes: [
       {
         trait_type: 'back',
@@ -45952,10 +51940,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQjKfKHCRF6DJbdxYdug6FDVL8v5dxv1QHss8YfLaQ7dM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV6baRnkpVwvVABJJzAn7cJSz4DHEN9Rbw4exKXafWLoL',
+    address:
+      '0:1c6fceda52fc31aa478a4ce5af8d11eee0e4897f59eaf6e3d1240ffe0cb240b3',
   },
   {
-    previewUrl: 'Qmf6javhhc6vomyB7tckFKrdwdwXSfFw7Y1QwV5xuiYyYk',
-    ipfsUrl: 'QmTr3wQxgDxHdZKAy1rmUtaTbiryLT847FJRuJFzUMDkLo',
+    id: 999,
+    name: 'Broxie #999',
     attributes: [
       {
         trait_type: 'back',
@@ -45998,10 +51992,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTr3wQxgDxHdZKAy1rmUtaTbiryLT847FJRuJFzUMDkLo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf6javhhc6vomyB7tckFKrdwdwXSfFw7Y1QwV5xuiYyYk',
+    address:
+      '0:53016b8d8c15448756bf87e30646f797bf8f97db599ee93dcc97f3c6d05641f7',
   },
   {
-    previewUrl: 'QmRLq8yT19NNAmRhjmfAJzcXTcfDvEtp7ziKztp5AFiW4v',
-    ipfsUrl: 'Qmc2xvpgJGpJvNjioo8UeAJnPL1eMrwL1nesNqQ7hxaox2',
+    id: 1000,
+    name: 'Broxie #1000',
     attributes: [
       {
         trait_type: 'back',
@@ -46044,10 +52044,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc2xvpgJGpJvNjioo8UeAJnPL1eMrwL1nesNqQ7hxaox2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRLq8yT19NNAmRhjmfAJzcXTcfDvEtp7ziKztp5AFiW4v',
+    address:
+      '0:1c7605d0cde577c9b100b09995e59a123518ddf1fa48424cb3cfcc4558cf9715',
   },
   {
-    previewUrl: 'Qma98A4rhq91WjFyPbENfrQr3vePQem5nYt6N7CxuC7kJU',
-    ipfsUrl: 'Qmc9q4XWRQ1rxMVj2dC1V9b1qt1zii1U3yhKAYv6n1vLdy',
+    id: 1001,
+    name: 'Broxie #1001',
     attributes: [
       {
         trait_type: 'back',
@@ -46090,10 +52096,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc9q4XWRQ1rxMVj2dC1V9b1qt1zii1U3yhKAYv6n1vLdy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma98A4rhq91WjFyPbENfrQr3vePQem5nYt6N7CxuC7kJU',
+    address:
+      '0:72e1f3717b771ba089dfdb489bd6f6e5bed078002a08dbecf1ddc4d320290ddb',
   },
   {
-    previewUrl: 'QmU5KhHhWHtEdfKexSJp9u8EU9A3wmoVNvJyEqk5odyM6x',
-    ipfsUrl: 'QmRxZou9kWjpnc4bnV6ZQmCS1GuhR4B72NmEEpZhbhPiRA',
+    id: 1002,
+    name: 'Broxie #1002',
     attributes: [
       {
         trait_type: 'back',
@@ -46136,10 +52148,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRxZou9kWjpnc4bnV6ZQmCS1GuhR4B72NmEEpZhbhPiRA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU5KhHhWHtEdfKexSJp9u8EU9A3wmoVNvJyEqk5odyM6x',
+    address:
+      '0:185fa761b75d241fe8ec39abbec2f2222f3cd41eb6144657f9cf41e11ba0fedd',
   },
   {
-    previewUrl: 'QmPW3iZx3qSnpuq7qnzczrZ51SbhCjASEzdpWUvZwEuZ9C',
-    ipfsUrl: 'QmP17DV61URLcnK1vQs39z3nCd89kQw6j3waBpeLfKuiQT',
+    id: 1003,
+    name: 'Broxie #1003',
     attributes: [
       {
         trait_type: 'back',
@@ -46182,10 +52200,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmP17DV61URLcnK1vQs39z3nCd89kQw6j3waBpeLfKuiQT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPW3iZx3qSnpuq7qnzczrZ51SbhCjASEzdpWUvZwEuZ9C',
+    address:
+      '0:335872a34aeb080b9db3a1a25434905864f1dd374f96c40d04173a23f62da61e',
   },
   {
-    previewUrl: 'QmT38L8fbmFNuCYhbUKBiGJUQ2uq5CSSu9rzARjWr42dCQ',
-    ipfsUrl: 'QmRqCBqF91aNu4M6mPbJDmyaZRm9MrDmEzuDABXih4Yjai',
+    id: 1004,
+    name: 'Broxie #1004',
     attributes: [
       {
         trait_type: 'back',
@@ -46228,10 +52252,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRqCBqF91aNu4M6mPbJDmyaZRm9MrDmEzuDABXih4Yjai',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmT38L8fbmFNuCYhbUKBiGJUQ2uq5CSSu9rzARjWr42dCQ',
+    address:
+      '0:668661b8ebc2528340d9b77bcc05f7e0ae3763c74647d07ef05540907b4a1e37',
   },
   {
-    previewUrl: 'QmNQvai9YKH3ACzh4P53FMs6RRg2UBh493Sz3jjjhiMgm7',
-    ipfsUrl: 'Qme1HA3cTHsUmk2PwmiJid4d1SK4hd7qq8UHa2oKqew5uy',
+    id: 1005,
+    name: 'Broxie #1005',
     attributes: [
       {
         trait_type: 'back',
@@ -46274,10 +52304,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qme1HA3cTHsUmk2PwmiJid4d1SK4hd7qq8UHa2oKqew5uy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNQvai9YKH3ACzh4P53FMs6RRg2UBh493Sz3jjjhiMgm7',
+    address:
+      '0:f6284fbdf7876ea389b8d8d35da5f8beded1fa3d8f636361addd3b20e7fa1415',
   },
   {
-    previewUrl: 'QmXBfKddfnZSq3pxigEBFsPGpwu6SZdaLseA4E4WGHLdu9',
-    ipfsUrl: 'QmSEufAeDgpKuUaWre6h6ntv55LcUx2z9DWDvjBXawqCC8',
+    id: 1006,
+    name: 'Broxie #1006',
     attributes: [
       {
         trait_type: 'back',
@@ -46320,10 +52356,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSEufAeDgpKuUaWre6h6ntv55LcUx2z9DWDvjBXawqCC8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXBfKddfnZSq3pxigEBFsPGpwu6SZdaLseA4E4WGHLdu9',
+    address:
+      '0:657bd844e33243122d0153b082fe22b0ea6055f08fac115edc7080f0ecb5d171',
   },
   {
-    previewUrl: 'QmcU2ckR8Cy4Uio6G32TWsSfuBtCuhxwCitLw76BAe1ewC',
-    ipfsUrl: 'QmaeTLyx59jkvkhEJ4wnkhcLSpgwd2vFRT1zQThqFgh3V7',
+    id: 1007,
+    name: 'Broxie #1007',
     attributes: [
       {
         trait_type: 'back',
@@ -46366,10 +52408,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaeTLyx59jkvkhEJ4wnkhcLSpgwd2vFRT1zQThqFgh3V7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcU2ckR8Cy4Uio6G32TWsSfuBtCuhxwCitLw76BAe1ewC',
+    address:
+      '0:786b9c4ecea5124a12396a4db6cf277372b38728d36284ab294a1a794bf61e99',
   },
   {
-    previewUrl: 'QmdirKGF1dnYgbS5QbhR3MRVEfQAZ5bpk9FStzMDTzX65m',
-    ipfsUrl: 'QmWSGEhffTgY2hqx1kzNkXa5sH94WP2v4RJezGupjWN1Tu',
+    id: 1008,
+    name: 'Broxie #1008',
     attributes: [
       {
         trait_type: 'back',
@@ -46412,10 +52460,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWSGEhffTgY2hqx1kzNkXa5sH94WP2v4RJezGupjWN1Tu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdirKGF1dnYgbS5QbhR3MRVEfQAZ5bpk9FStzMDTzX65m',
+    address:
+      '0:c5f542e39bd28ab0493522247b2d1904d93cf3ee9c234f9c0cbb13d5046f7e58',
   },
   {
-    previewUrl: 'Qmc35Myz7MUfsdboyq5u3SAFrN1cFjPb3kWEBEX96HJLyv',
-    ipfsUrl: 'QmRHyZmvSfsXmk2N8AmxPL2FoHKgXjn41qopdbAwAhdjNe',
+    id: 1009,
+    name: 'Broxie #1009',
     attributes: [
       {
         trait_type: 'back',
@@ -46458,10 +52512,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRHyZmvSfsXmk2N8AmxPL2FoHKgXjn41qopdbAwAhdjNe',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc35Myz7MUfsdboyq5u3SAFrN1cFjPb3kWEBEX96HJLyv',
+    address:
+      '0:a8c80c3851df5530197776bf144f67eea2670bc554b31a22322893cbc1372ce1',
   },
   {
-    previewUrl: 'Qmd9vJVAFvZcjdAfgBKdnz7cAozLpfxn4mqH6CGu4oZzez',
-    ipfsUrl: 'QmRCDVf6Kjx5VdtHuSM8Dp49m2w2bWtCp1mKmP38pzEZXk',
+    id: 1010,
+    name: 'Broxie #1010',
     attributes: [
       {
         trait_type: 'back',
@@ -46504,10 +52564,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRCDVf6Kjx5VdtHuSM8Dp49m2w2bWtCp1mKmP38pzEZXk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd9vJVAFvZcjdAfgBKdnz7cAozLpfxn4mqH6CGu4oZzez',
+    address:
+      '0:1b65d824ac8c0af96d63b54307aa0f5a957786f206e94ec8d5db6accfc70a68f',
   },
   {
-    previewUrl: 'QmaBTr6ZSsbPhb4NNWnQaPrNMqtPmAFenFvgCLWTdMGV4U',
-    ipfsUrl: 'QmdJhLF1rUWipf98UNngKv2AJSAD5d5Y8U1WQau9QZdeyv',
+    id: 1011,
+    name: 'Broxie #1011',
     attributes: [
       {
         trait_type: 'back',
@@ -46550,10 +52616,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdJhLF1rUWipf98UNngKv2AJSAD5d5Y8U1WQau9QZdeyv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaBTr6ZSsbPhb4NNWnQaPrNMqtPmAFenFvgCLWTdMGV4U',
+    address:
+      '0:3d5448a0291b2f670025fa31647c722affa7f42e8c1c69427b45ffc3ce698eef',
   },
   {
-    previewUrl: 'QmU6yuU32kWTtYPowPYXyWBMJm3JBxwTUTwTUEz7WaXSNF',
-    ipfsUrl: 'Qma5qfUDgn247Qvzu3QuJKWf5cftuKbRYSqbtyR1NMhxMf',
+    id: 1012,
+    name: 'Broxie #1012',
     attributes: [
       {
         trait_type: 'back',
@@ -46596,10 +52668,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qma5qfUDgn247Qvzu3QuJKWf5cftuKbRYSqbtyR1NMhxMf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU6yuU32kWTtYPowPYXyWBMJm3JBxwTUTwTUEz7WaXSNF',
+    address:
+      '0:d712d23948251a25dbda91f227e8059d889908c47b9875b53b1a974ec25feaaa',
   },
   {
-    previewUrl: 'QmdTYDH22KKENF2NaSEWqpgrfAcmq3Kk79YJ6g1sfjj1ez',
-    ipfsUrl: 'QmQ6S3osvnNb5CGgZrkTK386ZguDm7piGsszz3byUF3mHs',
+    id: 1013,
+    name: 'Broxie #1013',
     attributes: [
       {
         trait_type: 'back',
@@ -46642,10 +52720,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ6S3osvnNb5CGgZrkTK386ZguDm7piGsszz3byUF3mHs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdTYDH22KKENF2NaSEWqpgrfAcmq3Kk79YJ6g1sfjj1ez',
+    address:
+      '0:d30a342991cdd659f9231aeb2035d319ef13a8c38d80da520a10b063740e37b7',
   },
   {
-    previewUrl: 'QmWPcrEnsTZG1jtpxBf17SSSFkickkKGoHy9krHh8m95ST',
-    ipfsUrl: 'QmPRt9XGUuFpz6rVFTg7TM39WfB6xPS3jhy1n24PCFywFS',
+    id: 1014,
+    name: 'Broxie #1014',
     attributes: [
       {
         trait_type: 'back',
@@ -46688,10 +52772,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPRt9XGUuFpz6rVFTg7TM39WfB6xPS3jhy1n24PCFywFS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWPcrEnsTZG1jtpxBf17SSSFkickkKGoHy9krHh8m95ST',
+    address:
+      '0:491280923b776bac955cde5f4267ea958387e95ba0f9cc90500d347b4fe1a322',
   },
   {
-    previewUrl: 'QmVMDveCDnWrkXsKjqz2DTZ9uh8qThD1Y6zwg1z8pwHPcf',
-    ipfsUrl: 'QmcMdujYvBwyPi8AnZFBNfNcUjHWBqjNV9xaH59Xd4FHSX',
+    id: 1015,
+    name: 'Broxie #1015',
     attributes: [
       {
         trait_type: 'back',
@@ -46734,10 +52824,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcMdujYvBwyPi8AnZFBNfNcUjHWBqjNV9xaH59Xd4FHSX',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVMDveCDnWrkXsKjqz2DTZ9uh8qThD1Y6zwg1z8pwHPcf',
+    address:
+      '0:2299e99e81ae8ee46351b3690ff996ac0c53ba7fc1da25e0ccc6e3138618083b',
   },
   {
-    previewUrl: 'QmVayysCcJiBoSHMjLwvSHBsZF6SVAfGiZya3aakgrx5Sw',
-    ipfsUrl: 'QmWfrazaMsAm74J3VcSPM18PuiV8AGDdPogzphHrU6pFqK',
+    id: 1016,
+    name: 'Broxie #1016',
     attributes: [
       {
         trait_type: 'back',
@@ -46780,10 +52876,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWfrazaMsAm74J3VcSPM18PuiV8AGDdPogzphHrU6pFqK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVayysCcJiBoSHMjLwvSHBsZF6SVAfGiZya3aakgrx5Sw',
+    address:
+      '0:908327519917279ca17a59f0ffce458fdb8a4d4db41a037538b87a6c7d5fdc75',
   },
   {
-    previewUrl: 'Qmb9WGcMin7CVqQb9uXEsRtnjdCZQWvjBxPwCFsWniwV8e',
-    ipfsUrl: 'QmQoo6snrG3yedLQhDVmbhP9bmun2qN8c8Lsq2JY9Lmgh2',
+    id: 1017,
+    name: 'Broxie #1017',
     attributes: [
       {
         trait_type: 'back',
@@ -46826,10 +52928,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQoo6snrG3yedLQhDVmbhP9bmun2qN8c8Lsq2JY9Lmgh2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb9WGcMin7CVqQb9uXEsRtnjdCZQWvjBxPwCFsWniwV8e',
+    address:
+      '0:3ab909b1426c46c84e46c74ca120b3b8beb545590403045635e961f2f19354d6',
   },
   {
-    previewUrl: 'QmUYNPZSHMtk6MjeCjHgSmQWYXzzCmVMHSUD1GtQ5Rxpf1',
-    ipfsUrl: 'QmRutfq6gCYrGu2N9yBWfW8Q8ocx3t39kQpNbGskmqUhov',
+    id: 1018,
+    name: 'Broxie #1018',
     attributes: [
       {
         trait_type: 'back',
@@ -46872,10 +52980,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRutfq6gCYrGu2N9yBWfW8Q8ocx3t39kQpNbGskmqUhov',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUYNPZSHMtk6MjeCjHgSmQWYXzzCmVMHSUD1GtQ5Rxpf1',
+    address:
+      '0:3c855aab9a70812e5f9f026c8b21c56995d92c6fce7c4ab91d7f0bbb4ca3ddd2',
   },
   {
-    previewUrl: 'QmbqnZHkKf7vCrzB6wLsezjKPgz8s82mZ8mabUCdcNdM6S',
-    ipfsUrl: 'QmZRzPeQijfVYsykZGaGg4mAT3Y7zozbdt7ZrEGCcAdVFK',
+    id: 1019,
+    name: 'Broxie #1019',
     attributes: [
       {
         trait_type: 'back',
@@ -46918,10 +53032,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZRzPeQijfVYsykZGaGg4mAT3Y7zozbdt7ZrEGCcAdVFK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbqnZHkKf7vCrzB6wLsezjKPgz8s82mZ8mabUCdcNdM6S',
+    address:
+      '0:51301b6fcd045978181250b81c741faeb00d01de1d37c6d0349daf9314f0eb25',
   },
   {
-    previewUrl: 'QmWS5H88tKWgv9DKQnUWGTzgzmHgLnijcYUVHfGXpU8SDH',
-    ipfsUrl: 'QmQtkvfn13fe93zNYyv61Bif3Lyuk8pPffvixGWBdPsEmo',
+    id: 1020,
+    name: 'Broxie #1020',
     attributes: [
       {
         trait_type: 'back',
@@ -46964,10 +53084,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQtkvfn13fe93zNYyv61Bif3Lyuk8pPffvixGWBdPsEmo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWS5H88tKWgv9DKQnUWGTzgzmHgLnijcYUVHfGXpU8SDH',
+    address:
+      '0:a3d14e80ab6b815a302ad30c04bcb4bbdf681371c355d2a276a2edca5e4c91b5',
   },
   {
-    previewUrl: 'QmZp5837B4ExQrQhpqvHEprr1JWTh1shn56uwieqSKWfNp',
-    ipfsUrl: 'QmNxq9JkuWR3pQ3YCs6bdDMqqYeE9nrxNaU98bsqT5ef8x',
+    id: 1021,
+    name: 'Broxie #1021',
     attributes: [
       {
         trait_type: 'back',
@@ -47010,10 +53136,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNxq9JkuWR3pQ3YCs6bdDMqqYeE9nrxNaU98bsqT5ef8x',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZp5837B4ExQrQhpqvHEprr1JWTh1shn56uwieqSKWfNp',
+    address:
+      '0:da55c94390989884ef3d5dc8e5342593dec5edb68f83fd03039fd01a4682dd7d',
   },
   {
-    previewUrl: 'QmRh1Z7Gd7PADGvkNgp7ZJVWW3ccwZNkFg789U1p2N3CCX',
-    ipfsUrl: 'QmNT7GRwRGtn4fh2vC9GDQEA7ER6FavYGYACKT5zwoat4n',
+    id: 1022,
+    name: 'Broxie #1022',
     attributes: [
       {
         trait_type: 'back',
@@ -47056,10 +53188,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNT7GRwRGtn4fh2vC9GDQEA7ER6FavYGYACKT5zwoat4n',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRh1Z7Gd7PADGvkNgp7ZJVWW3ccwZNkFg789U1p2N3CCX',
+    address:
+      '0:9debcfb7542af66afb813ee46fc749ccbfcce67ff2a5e729b1612bb25d96104e',
   },
   {
-    previewUrl: 'QmdXo8VzYopqa2q9KYZ7arsgUL3nJTaMMNYQR67HVyhJsV',
-    ipfsUrl: 'QmeY2svKbhmZuqVSvedxcggqHSb6ngDqGGmJa41pyhwSNs',
+    id: 1023,
+    name: 'Broxie #1023',
     attributes: [
       {
         trait_type: 'back',
@@ -47102,10 +53240,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeY2svKbhmZuqVSvedxcggqHSb6ngDqGGmJa41pyhwSNs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdXo8VzYopqa2q9KYZ7arsgUL3nJTaMMNYQR67HVyhJsV',
+    address:
+      '0:4d5b82147f328ce51cc27a2204fd78b601a0c4192b6e8213c3386ea1d8e0cab4',
   },
   {
-    previewUrl: 'QmUGuHS8JGFsqsnV3M9TGk5iw2Js4yZouSQLsd3i8mkJwd',
-    ipfsUrl: 'QmamrXobDdrBeSLAbM7tr3kAUFT75cLnSWVtKDPD78yFHj',
+    id: 1024,
+    name: 'Broxie #1024',
     attributes: [
       {
         trait_type: 'back',
@@ -47148,10 +53292,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmamrXobDdrBeSLAbM7tr3kAUFT75cLnSWVtKDPD78yFHj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUGuHS8JGFsqsnV3M9TGk5iw2Js4yZouSQLsd3i8mkJwd',
+    address:
+      '0:faf7d87e8a9025090de611bf435403fd98ae544b49a904a66c48dddb0b8119cc',
   },
   {
-    previewUrl: 'QmNNUdaDffZFR7YVrQZJsrCDi5zzobFMzb3fFYshnbnKMa',
-    ipfsUrl: 'QmSckyf5j9wzW58Esb7SR6oKzAb9uvgLpHxWv7rkjfs3LT',
+    id: 1025,
+    name: 'Broxie #1025',
     attributes: [
       {
         trait_type: 'back',
@@ -47194,10 +53344,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSckyf5j9wzW58Esb7SR6oKzAb9uvgLpHxWv7rkjfs3LT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNNUdaDffZFR7YVrQZJsrCDi5zzobFMzb3fFYshnbnKMa',
+    address:
+      '0:554c950590fb7e56a09ef889c4472cb6aaefb014f07973aeedb50e55271009b6',
   },
   {
-    previewUrl: 'QmcXYk4U3fr3dyQgzDK44jnLHDTeKCbBqRUo2an9BknKgd',
-    ipfsUrl: 'QmcjbrxNJdEcWje42hy76ap5BkkEBxEDYDkxDxGYVvecFy',
+    id: 1026,
+    name: 'Broxie #1026',
     attributes: [
       {
         trait_type: 'back',
@@ -47240,10 +53396,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcjbrxNJdEcWje42hy76ap5BkkEBxEDYDkxDxGYVvecFy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcXYk4U3fr3dyQgzDK44jnLHDTeKCbBqRUo2an9BknKgd',
+    address:
+      '0:33ae40967f62d3f17a8c2eaf977abae3fba2fa000cd9285c3cbcf5fe7205c7d1',
   },
   {
-    previewUrl: 'QmWXkzo4Rc4cKdxfGEtuURCtpbdt2SQTUtBP6ep7URCn1A',
-    ipfsUrl: 'QmYHJ6ukc6kCPjMVLCCB3yLs4AjXDaJ9VCjyQqPfv3Qydr',
+    id: 1027,
+    name: 'Broxie #1027',
     attributes: [
       {
         trait_type: 'back',
@@ -47286,10 +53448,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYHJ6ukc6kCPjMVLCCB3yLs4AjXDaJ9VCjyQqPfv3Qydr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWXkzo4Rc4cKdxfGEtuURCtpbdt2SQTUtBP6ep7URCn1A',
+    address:
+      '0:9a2690722b6f0404f0ff36aee5edbae26b058d9ad2c4098868fd194e75ce515c',
   },
   {
-    previewUrl: 'QmUFRm4SBzUvvBaDkdQfn5NUx5rsXLauJgfAB4mDVHJ2ep',
-    ipfsUrl: 'QmXzsGxYPebkL5ieQvQ8wmMYM9FBXSc1N2fhb66rTXnik2',
+    id: 1028,
+    name: 'Broxie #1028',
     attributes: [
       {
         trait_type: 'back',
@@ -47332,10 +53500,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXzsGxYPebkL5ieQvQ8wmMYM9FBXSc1N2fhb66rTXnik2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUFRm4SBzUvvBaDkdQfn5NUx5rsXLauJgfAB4mDVHJ2ep',
+    address:
+      '0:a68bbff7de1b3f9ee6dbfa94dd3eaeb2abf364a311ed3a8a75be854233c01dbe',
   },
   {
-    previewUrl: 'QmPVd6AisjXNTGowXVZQfHy2i3hku5Tij3wi9jLWQcrCHC',
-    ipfsUrl: 'QmePQhbyBkeRyUAgcDy35Un2PvAyFi8ATBkxLrLPvpq1jy',
+    id: 1029,
+    name: 'Broxie #1029',
     attributes: [
       {
         trait_type: 'back',
@@ -47378,10 +53552,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmePQhbyBkeRyUAgcDy35Un2PvAyFi8ATBkxLrLPvpq1jy',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPVd6AisjXNTGowXVZQfHy2i3hku5Tij3wi9jLWQcrCHC',
+    address:
+      '0:ce3ded4806aff366a24c2a7f8ba5397fd69cad437367a5e05d94982a06f78d5b',
   },
   {
-    previewUrl: 'QmStBYr2vEUGqE41CsSbZA2Ey4BxuxWWbF6daeiQR8WsgW',
-    ipfsUrl: 'QmUDCwDtNi8AYcwMWgh4ycUXudGrShYcuL8VRphTg8LpQ5',
+    id: 1030,
+    name: 'Broxie #1030',
     attributes: [
       {
         trait_type: 'back',
@@ -47424,10 +53604,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUDCwDtNi8AYcwMWgh4ycUXudGrShYcuL8VRphTg8LpQ5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmStBYr2vEUGqE41CsSbZA2Ey4BxuxWWbF6daeiQR8WsgW',
+    address:
+      '0:4db72a949ba3f753a779f661e7f737768585657d8407aa89d0e6f22f2512ad70',
   },
   {
-    previewUrl: 'QmRhgmWg9NJdM3THX5PTSiPzybpWXPqV9imrhucgwKduaN',
-    ipfsUrl: 'QmSxksKZmymuujAHSvL4M2Wk4dt6DmqgCbPLdfYLy8vqSM',
+    id: 1031,
+    name: 'Broxie #1031',
     attributes: [
       {
         trait_type: 'back',
@@ -47470,10 +53656,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSxksKZmymuujAHSvL4M2Wk4dt6DmqgCbPLdfYLy8vqSM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRhgmWg9NJdM3THX5PTSiPzybpWXPqV9imrhucgwKduaN',
+    address:
+      '0:030421cfafd2518a6245618feeaadaa343d33120e331cb6b12c72f3702e38db3',
   },
   {
-    previewUrl: 'Qmf4dqUYmjL6f5ztSGufbVHjb48hWtiqxVGLDKkp4UWQDF',
-    ipfsUrl: 'QmQQJmYkA1S4bX78PY3eDUgVT5mBENs1nooMDN8M76YBJc',
+    id: 1032,
+    name: 'Broxie #1032',
     attributes: [
       {
         trait_type: 'back',
@@ -47516,10 +53708,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQQJmYkA1S4bX78PY3eDUgVT5mBENs1nooMDN8M76YBJc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf4dqUYmjL6f5ztSGufbVHjb48hWtiqxVGLDKkp4UWQDF',
+    address:
+      '0:b3d9e533f20aadd3588ae7135d03d5ce41984fddecb7f198a6f942010a50b24f',
   },
   {
-    previewUrl: 'QmNmfyh9HQmk5tLGsByf6Gk1TVqMMGB8Zo65np1xBgQ5Qg',
-    ipfsUrl: 'Qmea8KcWL2EkqAQXTbWN6QWWVrEzew743GiGz8oHdNSLLA',
+    id: 1033,
+    name: 'Broxie #1033',
     attributes: [
       {
         trait_type: 'back',
@@ -47562,10 +53760,16 @@ export const broxieCollection = [
         value: 'Dumb',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmea8KcWL2EkqAQXTbWN6QWWVrEzew743GiGz8oHdNSLLA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNmfyh9HQmk5tLGsByf6Gk1TVqMMGB8Zo65np1xBgQ5Qg',
+    address:
+      '0:4d6089b7d4b60a1b32f322061b8a23e184942a7e7334ca93a6f4c17324836afc',
   },
   {
-    previewUrl: 'QmeYHQxewwwkKL2HskX5DNkyMb6fNMhCSau9LT277U3AfL',
-    ipfsUrl: 'QmTvu3qu424jebParGvaxip7jUBfmk8LWFK7daA9XPQkN1',
+    id: 1034,
+    name: 'Broxie #1034',
     attributes: [
       {
         trait_type: 'back',
@@ -47608,10 +53812,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTvu3qu424jebParGvaxip7jUBfmk8LWFK7daA9XPQkN1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeYHQxewwwkKL2HskX5DNkyMb6fNMhCSau9LT277U3AfL',
+    address:
+      '0:1b36156ac3af91e89038a8c7799a80ea8304ca7ba0c61a48b46469d54f7b52cf',
   },
   {
-    previewUrl: 'QmckWpzefz9kr1EbVpc1UAQZRCNYhoZNpa9mvWRnb4Vv2v',
-    ipfsUrl: 'QmexZx7iseLqUubT9ARnwacKmXGxtKpuj1bbN6ZYQ6oTK5',
+    id: 1035,
+    name: 'Broxie #1035',
     attributes: [
       {
         trait_type: 'back',
@@ -47654,10 +53864,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmexZx7iseLqUubT9ARnwacKmXGxtKpuj1bbN6ZYQ6oTK5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmckWpzefz9kr1EbVpc1UAQZRCNYhoZNpa9mvWRnb4Vv2v',
+    address:
+      '0:c03b80baadc171cff32c4784f946e406612a39a67f57a1b4e91137875aa4564a',
   },
   {
-    previewUrl: 'QmWF3UcHZBJCQhcvUz162C3cjEeK9ZjyZceD69tszvryMF',
-    ipfsUrl: 'QmRLBsTUptxuWsgkNkfoY7TT9xCsVwGfi9CKpp3cvfRgd3',
+    id: 1036,
+    name: 'Broxie #1036',
     attributes: [
       {
         trait_type: 'back',
@@ -47700,10 +53916,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRLBsTUptxuWsgkNkfoY7TT9xCsVwGfi9CKpp3cvfRgd3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWF3UcHZBJCQhcvUz162C3cjEeK9ZjyZceD69tszvryMF',
+    address:
+      '0:8559b678498a177a318302b1ce6cf2a45d4b7fd03fc6865428f02b1078542e50',
   },
   {
-    previewUrl: 'QmYmcy4En8c4PcEPDvp2Q5Q9piw4Za6KZ6oZoYy1fsCTMn',
-    ipfsUrl: 'Qmb6AGfwGyViqYqQ3TAnUndLGJMFNWRaQAJaHN7dfCQ6zs',
+    id: 1037,
+    name: 'Broxie #1037',
     attributes: [
       {
         trait_type: 'back',
@@ -47746,10 +53968,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb6AGfwGyViqYqQ3TAnUndLGJMFNWRaQAJaHN7dfCQ6zs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYmcy4En8c4PcEPDvp2Q5Q9piw4Za6KZ6oZoYy1fsCTMn',
+    address:
+      '0:a737b1e0b6c0861877276708fd06ac34d47330b778a899f2e007658ad5f5f2eb',
   },
   {
-    previewUrl: 'Qmb6UjmJrYH72W9ECuNmuKSRbzczTYj3y5zicSGaTj34AW',
-    ipfsUrl: 'QmRTeSFV5Stxe5pZEmNNKEtGfsB52UintJXhhPtEjKeAS6',
+    id: 1038,
+    name: 'Broxie #1038',
     attributes: [
       {
         trait_type: 'back',
@@ -47792,10 +54020,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRTeSFV5Stxe5pZEmNNKEtGfsB52UintJXhhPtEjKeAS6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb6UjmJrYH72W9ECuNmuKSRbzczTYj3y5zicSGaTj34AW',
+    address:
+      '0:f2b5d55cc0866c16e27cd1b950dfe5d4ee56bc69d98b671d638e37e3ca2fd793',
   },
   {
-    previewUrl: 'QmaNFVM8ihUdGgagYGBE3yE5ZUEG7aGRqCVAHyqiJRNnAP',
-    ipfsUrl: 'QmR1RkKVR31QykuafYMQwrcNchT2TGgoRXFS2eY5XHhFtC',
+    id: 1039,
+    name: 'Broxie #1039',
     attributes: [
       {
         trait_type: 'back',
@@ -47838,10 +54072,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR1RkKVR31QykuafYMQwrcNchT2TGgoRXFS2eY5XHhFtC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaNFVM8ihUdGgagYGBE3yE5ZUEG7aGRqCVAHyqiJRNnAP',
+    address:
+      '0:311369a17ab48b5e5918467abd53b624f997f4a67e7f6753e34c2e0c8afe052b',
   },
   {
-    previewUrl: 'QmdHgGpJA3paTF8nohSkpUTyuQgmYnTRf2pas52SH5Q37r',
-    ipfsUrl: 'QmR4dzkCQtUSjrMD639hFCbDRqevnRUs4V69vV6vJaCRc2',
+    id: 1040,
+    name: 'Broxie #1040',
     attributes: [
       {
         trait_type: 'back',
@@ -47884,10 +54124,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR4dzkCQtUSjrMD639hFCbDRqevnRUs4V69vV6vJaCRc2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdHgGpJA3paTF8nohSkpUTyuQgmYnTRf2pas52SH5Q37r',
+    address:
+      '0:c3f3320cd94cc5302d5b686efce22c118d4d4a6c573968ef55cc61872414ca48',
   },
   {
-    previewUrl: 'QmU3pLmp9itx7rW1fJ52Po7yGmMKuoGXD2QkaNRPdnFSJT',
-    ipfsUrl: 'QmdLW8NA5JNFSRC9SrwCtVfYfBHQ3mrY9PSurp7LHbz7Ya',
+    id: 1041,
+    name: 'Broxie #1041',
     attributes: [
       {
         trait_type: 'back',
@@ -47930,10 +54176,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdLW8NA5JNFSRC9SrwCtVfYfBHQ3mrY9PSurp7LHbz7Ya',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmU3pLmp9itx7rW1fJ52Po7yGmMKuoGXD2QkaNRPdnFSJT',
+    address:
+      '0:0bbd467f851c525fcf35aacc4c9fb9f03ec38b3e0450edf974405967b76c0aa9',
   },
   {
-    previewUrl: 'QmNdwteFzxQsxcyHVsbuvsZc173iyLiqcsAameggaj7q1P',
-    ipfsUrl: 'QmTewU927WPC5ER74awWnLdzoQM2HaedxW4FdnUnoHhtRb',
+    id: 1042,
+    name: 'Broxie #1042',
     attributes: [
       {
         trait_type: 'back',
@@ -47976,10 +54228,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTewU927WPC5ER74awWnLdzoQM2HaedxW4FdnUnoHhtRb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNdwteFzxQsxcyHVsbuvsZc173iyLiqcsAameggaj7q1P',
+    address:
+      '0:86891b9ebe894e60d5d7e063cf54ddedcc81bf14e8e21c8ebd50369d7510048e',
   },
   {
-    previewUrl: 'QmQJHFJYDpnngXKfVsNHYDv4U86mdaM2oTfQ8XVZiDeqXT',
-    ipfsUrl: 'QmPzBAPfkJqjNkKmGHTKvGH3eucZnxcZsktsoeugmffmAH',
+    id: 1043,
+    name: 'Broxie #1043',
     attributes: [
       {
         trait_type: 'back',
@@ -48022,10 +54280,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPzBAPfkJqjNkKmGHTKvGH3eucZnxcZsktsoeugmffmAH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQJHFJYDpnngXKfVsNHYDv4U86mdaM2oTfQ8XVZiDeqXT',
+    address:
+      '0:22d60f201b213fec13a16aa9183c16ebc0efe3270716de6b22695b10d42ee18d',
   },
   {
-    previewUrl: 'QmeioAkMfJqKLdFpohbAW2avWFpRssTJJYQdtxRrNmStf1',
-    ipfsUrl: 'QmdsmjDxGaNvdoWqoMZwDX5WgbuNeyNJYNiKK3E1RzTT2X',
+    id: 1044,
+    name: 'Broxie #1044',
     attributes: [
       {
         trait_type: 'back',
@@ -48068,10 +54332,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdsmjDxGaNvdoWqoMZwDX5WgbuNeyNJYNiKK3E1RzTT2X',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeioAkMfJqKLdFpohbAW2avWFpRssTJJYQdtxRrNmStf1',
+    address:
+      '0:0bbe0a92de089734480c710c1b356775be73b778c6a02ebd32f6d36bb87a16c1',
   },
   {
-    previewUrl: 'QmUc3hD98jX5q1hmH3ReSjU2vFikVdkkhp3gtm2dqDxDdq',
-    ipfsUrl: 'QmWxihVSAPmY4juSd1zBD2kgMRSgaYNqsqymQi1PVnjAYU',
+    id: 1045,
+    name: 'Broxie #1045',
     attributes: [
       {
         trait_type: 'back',
@@ -48114,10 +54384,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWxihVSAPmY4juSd1zBD2kgMRSgaYNqsqymQi1PVnjAYU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUc3hD98jX5q1hmH3ReSjU2vFikVdkkhp3gtm2dqDxDdq',
+    address:
+      '0:ef0c7817ba8a0f856dcc5bfd38e89d3bb0040e7913208a9960d0882532c95801',
   },
   {
-    previewUrl: 'QmVZRkg5PLcuj6XvLkZMZJdPfSMWsuMUGGM99cPrPqKKx7',
-    ipfsUrl: 'QmY7YC9oh5z2wnivqC9nU6XYwrE8wrq324PkFTKHgoBJG4',
+    id: 1046,
+    name: 'Broxie #1046',
     attributes: [
       {
         trait_type: 'back',
@@ -48160,10 +54436,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY7YC9oh5z2wnivqC9nU6XYwrE8wrq324PkFTKHgoBJG4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVZRkg5PLcuj6XvLkZMZJdPfSMWsuMUGGM99cPrPqKKx7',
+    address:
+      '0:61fd41979f9468e7a5ccc9e41e9d37139f54792272b559c8a06ae077d7946505',
   },
   {
-    previewUrl: 'QmSQ29VJar9N3kXCvKvug2gLvqKn358yGN615XTrLHnXvb',
-    ipfsUrl: 'QmdRZoaNbiKvf6aKQwavC3edirPCdJYQjAgjHXwMAfetYw',
+    id: 1047,
+    name: 'Broxie #1047',
     attributes: [
       {
         trait_type: 'back',
@@ -48206,10 +54488,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdRZoaNbiKvf6aKQwavC3edirPCdJYQjAgjHXwMAfetYw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSQ29VJar9N3kXCvKvug2gLvqKn358yGN615XTrLHnXvb',
+    address:
+      '0:60686d22c94ded69d8ac98644439568fd0c855154c262af61aebe032b16c2aed',
   },
   {
-    previewUrl: 'QmTUSXgz9zkVnaFK7ge2CjNXGTiLn4EZYYUhh9nWD97uZS',
-    ipfsUrl: 'QmaRCNoTVrHWwFezJi6uwRNM32sqQbZ5NT2GMe3BfZgEHt',
+    id: 1048,
+    name: 'Broxie #1048',
     attributes: [
       {
         trait_type: 'back',
@@ -48252,10 +54540,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaRCNoTVrHWwFezJi6uwRNM32sqQbZ5NT2GMe3BfZgEHt',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTUSXgz9zkVnaFK7ge2CjNXGTiLn4EZYYUhh9nWD97uZS',
+    address:
+      '0:7b00e07d95b2fb92f5c06a71f9dbfe17619ec531a4c41645060af7ab156abb99',
   },
   {
-    previewUrl: 'QmbNSb5Ux8WQ8uWLmPojrx8JKb7xAHVWqEQtmNvZ7EWFfs',
-    ipfsUrl: 'QmWpgitWe5VDiRjp1SfYHphKdHyJdwTbjNgdtKWJAQ2a8m',
+    id: 1049,
+    name: 'Broxie #1049',
     attributes: [
       {
         trait_type: 'back',
@@ -48298,10 +54592,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWpgitWe5VDiRjp1SfYHphKdHyJdwTbjNgdtKWJAQ2a8m',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbNSb5Ux8WQ8uWLmPojrx8JKb7xAHVWqEQtmNvZ7EWFfs',
+    address:
+      '0:7c3a3abe969afe6a801cc6df286db0432abdb0de554dc20ca5904ee66c81a728',
   },
   {
-    previewUrl: 'QmT52giiA3N9W9yfDaK9vfoxX6maZQV5SxoqiVxDc7UpWM',
-    ipfsUrl: 'QmecGZofc6ui7KGkrbeaXof1o1CPNdmBMqYpVXTU7MSsgW',
+    id: 1050,
+    name: 'Broxie #1050',
     attributes: [
       {
         trait_type: 'back',
@@ -48344,10 +54644,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmecGZofc6ui7KGkrbeaXof1o1CPNdmBMqYpVXTU7MSsgW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmT52giiA3N9W9yfDaK9vfoxX6maZQV5SxoqiVxDc7UpWM',
+    address:
+      '0:7a5e7a6212cd33e02378550f5a5595b2a9789edf740ede45f439f83becc63631',
   },
   {
-    previewUrl: 'QmRsQCUUpEFF3ieRZiGySxgc8tbkhL4TTGPdJ4DQwBauTH',
-    ipfsUrl: 'QmV49jdoSHu1L9hwRBn2hXUNiTazHz31mv1kpRqTERVKuZ',
+    id: 1051,
+    name: 'Broxie #1051',
     attributes: [
       {
         trait_type: 'back',
@@ -48390,10 +54696,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV49jdoSHu1L9hwRBn2hXUNiTazHz31mv1kpRqTERVKuZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRsQCUUpEFF3ieRZiGySxgc8tbkhL4TTGPdJ4DQwBauTH',
+    address:
+      '0:6f19fb2e14431b9185def7a1f489b2824491a7cb78b74808fda3fa5936ef10f1',
   },
   {
-    previewUrl: 'QmPNDEGdpf94eJigWyeioRbG2jHK9V67huEMxLBzqpJuiF',
-    ipfsUrl: 'QmS9x7z3QrsERNbbtbM8zbDkjN1Xa5UBZYeJkdBHoaGziE',
+    id: 1052,
+    name: 'Broxie #1052',
     attributes: [
       {
         trait_type: 'back',
@@ -48436,10 +54748,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmS9x7z3QrsERNbbtbM8zbDkjN1Xa5UBZYeJkdBHoaGziE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPNDEGdpf94eJigWyeioRbG2jHK9V67huEMxLBzqpJuiF',
+    address:
+      '0:c009799fd4920de50fa84f6cd8bf377539b3095f23455ccbe489934b0d26ca6e',
   },
   {
-    previewUrl: 'QmVnpWDb4r1U3fm3G5RzkmF4mwDHd7isKtkgBdvW4jS8AP',
-    ipfsUrl: 'QmXuBazpa7xk72HL9aTqmHRhkcuUCXnVfLmvSevcZHf9vk',
+    id: 1053,
+    name: 'Broxie #1053',
     attributes: [
       {
         trait_type: 'back',
@@ -48482,10 +54800,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXuBazpa7xk72HL9aTqmHRhkcuUCXnVfLmvSevcZHf9vk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVnpWDb4r1U3fm3G5RzkmF4mwDHd7isKtkgBdvW4jS8AP',
+    address:
+      '0:b23265667ea60daf4d363320a5e4968e8cd14de22e8a6dc8e53794fcc7ced92d',
   },
   {
-    previewUrl: 'QmQ4KjUAuoKd4WxCNGYYBFLasYFCJqgjgJ3FjrWUFyUzjY',
-    ipfsUrl: 'QmV1XjYEq48ChjMAspSWjjSnRgx6dnZbqgukotJZ8m5UBk',
+    id: 1054,
+    name: 'Broxie #1054',
     attributes: [
       {
         trait_type: 'back',
@@ -48528,10 +54852,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV1XjYEq48ChjMAspSWjjSnRgx6dnZbqgukotJZ8m5UBk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ4KjUAuoKd4WxCNGYYBFLasYFCJqgjgJ3FjrWUFyUzjY',
+    address:
+      '0:066b2a54489e5decfd3a943f02909bd390ebedb2024e84e7e92107f4801389ee',
   },
   {
-    previewUrl: 'QmNXVtubZY28PVYNCmGZpW3JGShseFGKWqGNHToEuG4EYm',
-    ipfsUrl: 'QmPXJdNDApsZWYX2aGfpnCgvB3w73jKDQFLEXdd5K6VSb9',
+    id: 1055,
+    name: 'Broxie #1055',
     attributes: [
       {
         trait_type: 'back',
@@ -48574,10 +54904,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPXJdNDApsZWYX2aGfpnCgvB3w73jKDQFLEXdd5K6VSb9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNXVtubZY28PVYNCmGZpW3JGShseFGKWqGNHToEuG4EYm',
+    address:
+      '0:bcbd47d8ac05d9d4eef31c9fc2eabf4464f91d62585638feb6cfb54c28540ed5',
   },
   {
-    previewUrl: 'QmW3r9BvEwJEmQxV2uTWiyEcoFgkEgbddofd3xigD357fz',
-    ipfsUrl: 'QmfKvDUk8AHxVrTdQiKavE5AxyhzR2FBYv3NTHfmqEjSvn',
+    id: 1056,
+    name: 'Broxie #1056',
     attributes: [
       {
         trait_type: 'back',
@@ -48620,10 +54956,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfKvDUk8AHxVrTdQiKavE5AxyhzR2FBYv3NTHfmqEjSvn',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW3r9BvEwJEmQxV2uTWiyEcoFgkEgbddofd3xigD357fz',
+    address:
+      '0:f50018c4a099dbcf0a7e65f1ed8200f048716b45cd8ff290d9dd8fbf6718e99f',
   },
   {
-    previewUrl: 'QmaJYr3HHA6MLh4ZhVd6KtzY55HzzmsP1oGze7kw1dhej5',
-    ipfsUrl: 'QmNeKtbd1v5EbCR5L9KZnrRog3zUFXmxtHtQKySdaQoC8i',
+    id: 1057,
+    name: 'Broxie #1057',
     attributes: [
       {
         trait_type: 'back',
@@ -48666,10 +55008,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNeKtbd1v5EbCR5L9KZnrRog3zUFXmxtHtQKySdaQoC8i',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaJYr3HHA6MLh4ZhVd6KtzY55HzzmsP1oGze7kw1dhej5',
+    address:
+      '0:09c0754dc3712d8d4d3f2fa124afb33444c18196d30990fd1cb5d6513872de7d',
   },
   {
-    previewUrl: 'QmQJKW9SFYzj4prntfaRdgjtjwabJ3rvZTNXwB7Gyg3Ep1',
-    ipfsUrl: 'QmZusMMyuh1tEwxdpQiufQfHag9rP4ETaeZu5KCvHcoCAV',
+    id: 1058,
+    name: 'Broxie #1058',
     attributes: [
       {
         trait_type: 'back',
@@ -48712,10 +55060,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZusMMyuh1tEwxdpQiufQfHag9rP4ETaeZu5KCvHcoCAV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQJKW9SFYzj4prntfaRdgjtjwabJ3rvZTNXwB7Gyg3Ep1',
+    address:
+      '0:370a1b7bb860cab16874e3ae2dbc6f9d36bdb49465ef15cf859ba7992c5dc3ad',
   },
   {
-    previewUrl: 'QmdGUxtTEXrZvWh1ojAiMoQ7xrkwkH5Hw93eUUxrjcCb9E',
-    ipfsUrl: 'QmQpW1mdH3MUbaX5zRCqZojFFz8DRQRpkC49QqKdgr4Vx8',
+    id: 1059,
+    name: 'Broxie #1059',
     attributes: [
       {
         trait_type: 'back',
@@ -48758,10 +55112,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQpW1mdH3MUbaX5zRCqZojFFz8DRQRpkC49QqKdgr4Vx8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdGUxtTEXrZvWh1ojAiMoQ7xrkwkH5Hw93eUUxrjcCb9E',
+    address:
+      '0:8679cff5ea3b1e0bca0c394422e91e8f6c09feadc645baaef642219c84279cda',
   },
   {
-    previewUrl: 'QmYwE84nHWhXwb6CDSdkXCFrCH3Eso2WeREPcNmAPP4epo',
-    ipfsUrl: 'QmVBFqj6bvQ4UNWpAu9Sq6NHNkV7KpRdALnCmS2zHTcnpj',
+    id: 1060,
+    name: 'Broxie #1060',
     attributes: [
       {
         trait_type: 'back',
@@ -48804,10 +55164,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVBFqj6bvQ4UNWpAu9Sq6NHNkV7KpRdALnCmS2zHTcnpj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYwE84nHWhXwb6CDSdkXCFrCH3Eso2WeREPcNmAPP4epo',
+    address:
+      '0:8bc0866f71dbb49a27334474ed75ab4a6f6ac4a068338266cbe08ee83ce1bc2f',
   },
   {
-    previewUrl: 'QmeGihYJVGWZGofzqZZgEhREKAY7sYUGkE4TvNNC19k8bo',
-    ipfsUrl: 'QmPMVKvUcQJ7kyrv1WDvJLigXvK9pWRKpjrpjVJtM6H7yp',
+    id: 1061,
+    name: 'Broxie #1061',
     attributes: [
       {
         trait_type: 'back',
@@ -48850,10 +55216,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPMVKvUcQJ7kyrv1WDvJLigXvK9pWRKpjrpjVJtM6H7yp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeGihYJVGWZGofzqZZgEhREKAY7sYUGkE4TvNNC19k8bo',
+    address:
+      '0:c39b8a117e24210ddd71410881a21b1d8d4aee1278ba5bfe11c0a6a6f1528b58',
   },
   {
-    previewUrl: 'QmZLJyv81QPKvs9Pp4jKf7LJB5Xee4oSdwopvSDP9qxYhw',
-    ipfsUrl: 'QmdEGmjJgfxJKKUqcEQzdPfijL2odnUKfU8HiaRDwcYgzu',
+    id: 1062,
+    name: 'Broxie #1062',
     attributes: [
       {
         trait_type: 'back',
@@ -48896,10 +55268,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdEGmjJgfxJKKUqcEQzdPfijL2odnUKfU8HiaRDwcYgzu',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZLJyv81QPKvs9Pp4jKf7LJB5Xee4oSdwopvSDP9qxYhw',
+    address:
+      '0:933170acec36ea5a020718acfb23e93b8dbd6f43c69360189f05bdf28917e71c',
   },
   {
-    previewUrl: 'QmbZppKiwWwCNykHMSyEwvyTM2Sbsn8A7LhgikVMDKKhyY',
-    ipfsUrl: 'QmVxa3KX4SJaYczYkXQJVWzSELruHLw9w1P5gw5q7XvdJM',
+    id: 1063,
+    name: 'Broxie #1063',
     attributes: [
       {
         trait_type: 'back',
@@ -48942,10 +55320,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVxa3KX4SJaYczYkXQJVWzSELruHLw9w1P5gw5q7XvdJM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbZppKiwWwCNykHMSyEwvyTM2Sbsn8A7LhgikVMDKKhyY',
+    address:
+      '0:fc54c4fe2d0a62c8890ebca9cdc07f9c116af08526d8e5dc604352c895c77769',
   },
   {
-    previewUrl: 'QmekpspMdTbQ1aup6gC5swpyFgiFLTyMy7M3AYSLyj7fpz',
-    ipfsUrl: 'QmQqSo2jcqK95crL1b8MNQkk1y2JaB1QJsc7rqbssEGSAN',
+    id: 1064,
+    name: 'Broxie #1064',
     attributes: [
       {
         trait_type: 'back',
@@ -48988,10 +55372,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQqSo2jcqK95crL1b8MNQkk1y2JaB1QJsc7rqbssEGSAN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmekpspMdTbQ1aup6gC5swpyFgiFLTyMy7M3AYSLyj7fpz',
+    address:
+      '0:657dba0fdff86e29f640eeed339f65af0a47c709089f4ae9b313b9e3d7d67f70',
   },
   {
-    previewUrl: 'QmQMbDVxaPxr5csHNhWB8ThfG56mMf7GP1A3g6DbcWqSjZ',
-    ipfsUrl: 'Qmc1cpiBdubpHrmhwUtAj41JzvnHhWRCUcDjoaxi6sdtri',
+    id: 1065,
+    name: 'Broxie #1065',
     attributes: [
       {
         trait_type: 'back',
@@ -49034,10 +55424,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc1cpiBdubpHrmhwUtAj41JzvnHhWRCUcDjoaxi6sdtri',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQMbDVxaPxr5csHNhWB8ThfG56mMf7GP1A3g6DbcWqSjZ',
+    address:
+      '0:07532987aee9c5f4acba23394dd165b8f54dc41cfab486b56a6f6b4807a9cfe9',
   },
   {
-    previewUrl: 'QmaaHpZakc8JtD2ziR8Ykz5QBG5SWRjCJdvnxvvvgNPQX8',
-    ipfsUrl: 'QmYKAxnkiGrittmwxbYUs9fkJKY7wknkP3GZzVXkwsek8m',
+    id: 1066,
+    name: 'Broxie #1066',
     attributes: [
       {
         trait_type: 'back',
@@ -49080,10 +55476,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYKAxnkiGrittmwxbYUs9fkJKY7wknkP3GZzVXkwsek8m',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaaHpZakc8JtD2ziR8Ykz5QBG5SWRjCJdvnxvvvgNPQX8',
+    address:
+      '0:e3ca61c9e93c8ee0173dec19c61395dd50183940a7c2baf342c7d4b295ddce1e',
   },
   {
-    previewUrl: 'QmNv7efEThpUwWEARYygjwmpHspVmXn7RFkRSGjUaHzL7L',
-    ipfsUrl: 'QmfJ4hHmjCwDeL7EWun1epYD5tTfiZ1b9dmMbZybQogo4L',
+    id: 1067,
+    name: 'Broxie #1067',
     attributes: [
       {
         trait_type: 'back',
@@ -49126,10 +55528,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfJ4hHmjCwDeL7EWun1epYD5tTfiZ1b9dmMbZybQogo4L',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNv7efEThpUwWEARYygjwmpHspVmXn7RFkRSGjUaHzL7L',
+    address:
+      '0:9267db42aa17b5a5405fbd5a0096d13e74aa6ed02c0c735c19bdba5346d2cf7a',
   },
   {
-    previewUrl: 'QmPwdXS4dq4Yu3qxFUAjwByks9x7LnNU5EUBinLxL7tgm2',
-    ipfsUrl: 'QmUz88za9zLSnLWJxeBSJv8TN7zGByUURW3d44jr5T72bM',
+    id: 1068,
+    name: 'Broxie #1068',
     attributes: [
       {
         trait_type: 'back',
@@ -49172,10 +55580,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUz88za9zLSnLWJxeBSJv8TN7zGByUURW3d44jr5T72bM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPwdXS4dq4Yu3qxFUAjwByks9x7LnNU5EUBinLxL7tgm2',
+    address:
+      '0:3164e127419e6f3d63ced1278ed532b03af1e593d56d3be488756bf4c4f2ef5a',
   },
   {
-    previewUrl: 'QmPdLtW3TweAAqc6UUWMCAVTsFHBqriJXiVBdaW9CFDbS6',
-    ipfsUrl: 'QmWx44QJ9h7X9LU4oocVbiHZ33SEaZPWuh8e1gdBNMS3sC',
+    id: 1069,
+    name: 'Broxie #1069',
     attributes: [
       {
         trait_type: 'back',
@@ -49218,10 +55632,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWx44QJ9h7X9LU4oocVbiHZ33SEaZPWuh8e1gdBNMS3sC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPdLtW3TweAAqc6UUWMCAVTsFHBqriJXiVBdaW9CFDbS6',
+    address:
+      '0:4999803a6e37a1148fcbab91ca80691f8eb17aefac4256c788188a989dd9931a',
   },
   {
-    previewUrl: 'QmZypo5KSjRRUGgaeurSSbCLVmWWabYuduR1v7tXoesWJq',
-    ipfsUrl: 'Qmbus8fyahv2yqkA64UgSmQCbqDdeUQxFBeJGejAZo151e',
+    id: 1070,
+    name: 'Broxie #1070',
     attributes: [
       {
         trait_type: 'back',
@@ -49264,10 +55684,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmbus8fyahv2yqkA64UgSmQCbqDdeUQxFBeJGejAZo151e',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZypo5KSjRRUGgaeurSSbCLVmWWabYuduR1v7tXoesWJq',
+    address:
+      '0:6ce7459f19dc57976780ca507d296e345ef228ccff07376995e84033294b1b7c',
   },
   {
-    previewUrl: 'QmaqLbLPtKNxXCSyNAEs4m3XpQD7JwHS4spbn1MNsgWZAB',
-    ipfsUrl: 'QmYSk7QQYNZnq6QqNHcUV8bDWBQbnAxxT6bJF3pC6Typ5A',
+    id: 1071,
+    name: 'Broxie #1071',
     attributes: [
       {
         trait_type: 'back',
@@ -49310,10 +55736,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYSk7QQYNZnq6QqNHcUV8bDWBQbnAxxT6bJF3pC6Typ5A',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaqLbLPtKNxXCSyNAEs4m3XpQD7JwHS4spbn1MNsgWZAB',
+    address:
+      '0:a365424bd7a826920e1a8c67f051ecd8f5f41920747785d5c01bcb41e8b3dfde',
   },
   {
-    previewUrl: 'Qmcbm4uaYBeb1SwaNtexmSd381aVt8294W4B5bngcfGmiT',
-    ipfsUrl: 'QmXXbcmZuNFc95h9DkgAZAi2EwrhM2PNVkjWqpXC2468fo',
+    id: 1072,
+    name: 'Broxie #1072',
     attributes: [
       {
         trait_type: 'back',
@@ -49356,10 +55788,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXXbcmZuNFc95h9DkgAZAi2EwrhM2PNVkjWqpXC2468fo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcbm4uaYBeb1SwaNtexmSd381aVt8294W4B5bngcfGmiT',
+    address:
+      '0:4cb54adb561a4bf340daa4c97ea171945e331ac92dfa282334255b17aead97fb',
   },
   {
-    previewUrl: 'QmNjjEPtYMPfiKKxTfVtSS5ECJYu7xeq29pxKMAgWwWkbE',
-    ipfsUrl: 'QmTEBATVFhdxT2f6Di3YrZL4b7KV7YU5bgYZqy9ywqrNaA',
+    id: 1073,
+    name: 'Broxie #1073',
     attributes: [
       {
         trait_type: 'back',
@@ -49402,10 +55840,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTEBATVFhdxT2f6Di3YrZL4b7KV7YU5bgYZqy9ywqrNaA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNjjEPtYMPfiKKxTfVtSS5ECJYu7xeq29pxKMAgWwWkbE',
+    address:
+      '0:10f879b9224331e91882b82b0aa9b7af3258024978abd5b67b452d44cbb8e09a',
   },
   {
-    previewUrl: 'QmW7GkWxahwfuCdDKpKcRa2V2ywhMbmZmJVrboRmh4KVRf',
-    ipfsUrl: 'QmYApycnXkmesEjL2qr5aHUqBy128D3E8Y2kbpPDYNZFyc',
+    id: 1074,
+    name: 'Broxie #1074',
     attributes: [
       {
         trait_type: 'back',
@@ -49448,10 +55892,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYApycnXkmesEjL2qr5aHUqBy128D3E8Y2kbpPDYNZFyc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW7GkWxahwfuCdDKpKcRa2V2ywhMbmZmJVrboRmh4KVRf',
+    address:
+      '0:3f1e637a2c26ba0efd61b52192216310ea1b1adde6af32177302577653580e7e',
   },
   {
-    previewUrl: 'QmfZEHC9aLYyYMwH3ZWmpdVDJUVDvVcTVjL2zNKvLpoAn5',
-    ipfsUrl: 'QmWvh6y3mV6tVZbYRh6nWSNrYPZj13D3PrvYUkG1L14UwU',
+    id: 1075,
+    name: 'Broxie #1075',
     attributes: [
       {
         trait_type: 'back',
@@ -49494,10 +55944,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWvh6y3mV6tVZbYRh6nWSNrYPZj13D3PrvYUkG1L14UwU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfZEHC9aLYyYMwH3ZWmpdVDJUVDvVcTVjL2zNKvLpoAn5',
+    address:
+      '0:c53153e6c7118e46e12aeaac2771540e86ac7bcd00f874e65c02ac08b75adc0e',
   },
   {
-    previewUrl: 'QmavCCQSWndiAL9gfJ4dgg3tDqRgAstor8VMVPBCXMpPvE',
-    ipfsUrl: 'QmUPcjdSFLDrTWa4s9ub7aEMLccLX9ZhosSGu6cgAFkX7L',
+    id: 1076,
+    name: 'Broxie #1076',
     attributes: [
       {
         trait_type: 'back',
@@ -49540,10 +55996,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUPcjdSFLDrTWa4s9ub7aEMLccLX9ZhosSGu6cgAFkX7L',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmavCCQSWndiAL9gfJ4dgg3tDqRgAstor8VMVPBCXMpPvE',
+    address:
+      '0:dd1538244566986a5dba8dbc21f672902d9647a128ea403bad52822c9242cf4d',
   },
   {
-    previewUrl: 'QmYuPGFKfMrrUkbSjGwmDavWVbAvo6uS1kB9n9S9PUezbr',
-    ipfsUrl: 'QmVmaVxVuAzxDQcymZHKpnc7TWeEqpyoyJuMsQDkrQMNSb',
+    id: 1077,
+    name: 'Broxie #1077',
     attributes: [
       {
         trait_type: 'back',
@@ -49586,10 +56048,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVmaVxVuAzxDQcymZHKpnc7TWeEqpyoyJuMsQDkrQMNSb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYuPGFKfMrrUkbSjGwmDavWVbAvo6uS1kB9n9S9PUezbr',
+    address:
+      '0:795e19c313502ce7434b0444f632288def38bdc4502d248fbe0a7004c864b92a',
   },
   {
-    previewUrl: 'QmTbRhgm7MWkYVMFnMXxoydPbbtg383fKtTgJV1QvMyX3r',
-    ipfsUrl: 'QmdTRx55Q1E9KrPY8xepNc5mDMnHjzdazmsXGKfXohKnwp',
+    id: 1078,
+    name: 'Broxie #1078',
     attributes: [
       {
         trait_type: 'back',
@@ -49632,10 +56100,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdTRx55Q1E9KrPY8xepNc5mDMnHjzdazmsXGKfXohKnwp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTbRhgm7MWkYVMFnMXxoydPbbtg383fKtTgJV1QvMyX3r',
+    address:
+      '0:c6f788bf82d6f02479c17cd0f9feef3755347749f6841c2ba15ec0de9bbd5899',
   },
   {
-    previewUrl: 'QmRniukdD17HFKf4tkfXdj74Zx1nfkh2ndpEnibbVcpSbn',
-    ipfsUrl: 'QmTBesHi7yDdy88AcaBPBudvVmbgy1CzPjMaBNVuUYdyf1',
+    id: 1079,
+    name: 'Broxie #1079',
     attributes: [
       {
         trait_type: 'back',
@@ -49678,10 +56152,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTBesHi7yDdy88AcaBPBudvVmbgy1CzPjMaBNVuUYdyf1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRniukdD17HFKf4tkfXdj74Zx1nfkh2ndpEnibbVcpSbn',
+    address:
+      '0:9489a3d001731f9a0211ea6d5ef52c003798eb7bd6d45f3bd9ead727e2e26700',
   },
   {
-    previewUrl: 'QmYzt6jQREfywnuQUXiMZZN3LaPs7xHyiuAPXB2GUpghQK',
-    ipfsUrl: 'QmPHTigj6ypVNpTrpt9RzYaUknzSys5y8Qiq8vBmuEyQE5',
+    id: 1080,
+    name: 'Broxie #1080',
     attributes: [
       {
         trait_type: 'back',
@@ -49724,10 +56204,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPHTigj6ypVNpTrpt9RzYaUknzSys5y8Qiq8vBmuEyQE5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYzt6jQREfywnuQUXiMZZN3LaPs7xHyiuAPXB2GUpghQK',
+    address:
+      '0:c1ac247ba767fd782b39ca1ab36e732305ac1a353c983ef44619f4d8c64a0c0d',
   },
   {
-    previewUrl: 'QmYpyZfcqA6VMgzgAi5WXx12xBWRVKQYHo9sCnwZD2hEUh',
-    ipfsUrl: 'QmWGmFnxKiasrF81jpLZC6htb134LKJ6zbNW1jsRBeEBaY',
+    id: 1081,
+    name: 'Broxie #1081',
     attributes: [
       {
         trait_type: 'back',
@@ -49770,10 +56256,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWGmFnxKiasrF81jpLZC6htb134LKJ6zbNW1jsRBeEBaY',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYpyZfcqA6VMgzgAi5WXx12xBWRVKQYHo9sCnwZD2hEUh',
+    address:
+      '0:f40dd86ec7a1432d0621a9d72c492bda48b328c7aadd3ce70566c72c137071f7',
   },
   {
-    previewUrl: 'Qmf8D8FsAUn8EMuN5qUfFaHDjky9NGM67MDFXP8BeeKiEY',
-    ipfsUrl: 'QmYD8DxkgJAZFtaEFBWR2yT1dhvrbRN5ML3BL1dsNLMrLV',
+    id: 1082,
+    name: 'Broxie #1082',
     attributes: [
       {
         trait_type: 'back',
@@ -49816,10 +56308,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYD8DxkgJAZFtaEFBWR2yT1dhvrbRN5ML3BL1dsNLMrLV',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf8D8FsAUn8EMuN5qUfFaHDjky9NGM67MDFXP8BeeKiEY',
+    address:
+      '0:219a82507885ec190f25bd496414eca7c2abbadd009a3fa4faee06f03cb216ac',
   },
   {
-    previewUrl: 'Qmb8CejNZuMyCmNNFqzDNbicTkW52We9Afy5HiHEbiSgFT',
-    ipfsUrl: 'QmUdDT2JbRu7QgqBXT7FvRbyScqJT1dmtvmfvFBty1Qtrv',
+    id: 1083,
+    name: 'Broxie #1083',
     attributes: [
       {
         trait_type: 'back',
@@ -49862,10 +56360,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUdDT2JbRu7QgqBXT7FvRbyScqJT1dmtvmfvFBty1Qtrv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb8CejNZuMyCmNNFqzDNbicTkW52We9Afy5HiHEbiSgFT',
+    address:
+      '0:617f22556c8fd7e6acf45ccd5c13fdc8423e1117b03db864a57b400a9f1e6f7a',
   },
   {
-    previewUrl: 'QmSMbYfkwWcYpBtvzjtNVYFbDHoHqSgbH8Rvwo3iWyZGWn',
-    ipfsUrl: 'QmReeAjQwCc4ojEqqMhHdo1qbW9EmawL1mJ7atJnbmMxUS',
+    id: 1084,
+    name: 'Broxie #1084',
     attributes: [
       {
         trait_type: 'back',
@@ -49908,10 +56412,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmReeAjQwCc4ojEqqMhHdo1qbW9EmawL1mJ7atJnbmMxUS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSMbYfkwWcYpBtvzjtNVYFbDHoHqSgbH8Rvwo3iWyZGWn',
+    address:
+      '0:eae7c0b465119c88efc1b9198c099f2f8af9588b380b2b0eba992de3f581c54d',
   },
   {
-    previewUrl: 'QmaMP9ArhrBhSRhPRay6Ro7pGPjJmZe1MLpK9x3R91cmsj',
-    ipfsUrl: 'QmcKdS5jwaPgTGnDD4GwWhWJKPy56r5zmoe7SkMebjYUB6',
+    id: 1085,
+    name: 'Broxie #1085',
     attributes: [
       {
         trait_type: 'back',
@@ -49954,10 +56464,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcKdS5jwaPgTGnDD4GwWhWJKPy56r5zmoe7SkMebjYUB6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaMP9ArhrBhSRhPRay6Ro7pGPjJmZe1MLpK9x3R91cmsj',
+    address:
+      '0:5f473f2e1ad510f6c38f07ab939d006ac23bbb57f87f55d26004941a1c37351e',
   },
   {
-    previewUrl: 'QmbsCwBkm3HFgwFFqo4CXmXAhSLqAJqhtEXwEAgTkL5hzZ',
-    ipfsUrl: 'QmXT6ciBkEw1TUSD8dHzKnvMSX3nvbaYSFajb7yRP2r1sC',
+    id: 1086,
+    name: 'Broxie #1086',
     attributes: [
       {
         trait_type: 'back',
@@ -50000,10 +56516,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXT6ciBkEw1TUSD8dHzKnvMSX3nvbaYSFajb7yRP2r1sC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbsCwBkm3HFgwFFqo4CXmXAhSLqAJqhtEXwEAgTkL5hzZ',
+    address:
+      '0:652244c4a8abb0aaf23a13e5a59cb7197f394eb7126da686c22bd2d67705517d',
   },
   {
-    previewUrl: 'QmfF5KsAUXDngZLxhLAdTEr8KYq9BVJmqcMrptdL27rNJL',
-    ipfsUrl: 'QmQsczVjV6PtzquRgm4dZrF2UenkHyTpsjtUkhrN2rULut',
+    id: 1087,
+    name: 'Broxie #1087',
     attributes: [
       {
         trait_type: 'back',
@@ -50046,10 +56568,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQsczVjV6PtzquRgm4dZrF2UenkHyTpsjtUkhrN2rULut',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfF5KsAUXDngZLxhLAdTEr8KYq9BVJmqcMrptdL27rNJL',
+    address:
+      '0:0df75b2b646f5d8528641ccfb04cc2aff2d10553371d4cbfb3c647bc5a5d5ca9',
   },
   {
-    previewUrl: 'Qmdci3pun3UwoMLeutorqysKCyvyiQjnf6bLdkrpAy8hEm',
-    ipfsUrl: 'QmSW4qv1qh4Jq5hsS5vkqVhJuzGecCMXkiRHTMWqoJMfXJ',
+    id: 1088,
+    name: 'Broxie #1088',
     attributes: [
       {
         trait_type: 'back',
@@ -50092,10 +56620,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSW4qv1qh4Jq5hsS5vkqVhJuzGecCMXkiRHTMWqoJMfXJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdci3pun3UwoMLeutorqysKCyvyiQjnf6bLdkrpAy8hEm',
+    address:
+      '0:4b003f4b08bd7388493611b332c503133aa6357c89697c3d6d0ddb0975a7db44',
   },
   {
-    previewUrl: 'QmZnehRcGh2WhzS3d3RYGJwPT7pUeKV8ZfSLR6Fo3KgCqB',
-    ipfsUrl: 'QmRaV8FSgUKZiABEwGyB4n8KGbUBsdXBTcCehM4H8LdTCW',
+    id: 1089,
+    name: 'Broxie #1089',
     attributes: [
       {
         trait_type: 'back',
@@ -50138,10 +56672,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRaV8FSgUKZiABEwGyB4n8KGbUBsdXBTcCehM4H8LdTCW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZnehRcGh2WhzS3d3RYGJwPT7pUeKV8ZfSLR6Fo3KgCqB',
+    address:
+      '0:3c6cc0134294609076b100a2377a69f40ea5be08495759844208827233fe7204',
   },
   {
-    previewUrl: 'QmQWn5Xzxg42pkq8ELQEPBQ9mnpRStbQvAkR46qtE9PGA8',
-    ipfsUrl: 'QmWT3T6yoFSUqXTUQZkJUwqQ7p7GCZ73G9pCBoS1Fzu4cC',
+    id: 1090,
+    name: 'Broxie #1090',
     attributes: [
       {
         trait_type: 'back',
@@ -50184,10 +56724,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWT3T6yoFSUqXTUQZkJUwqQ7p7GCZ73G9pCBoS1Fzu4cC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQWn5Xzxg42pkq8ELQEPBQ9mnpRStbQvAkR46qtE9PGA8',
+    address:
+      '0:8ca4c850b83f397080d38cf1c5e81b8e3a0295f7c428b90f31888bdab16bf50a',
   },
   {
-    previewUrl: 'QmQTa9tFe6KtTwwVC8N7jgUJaJcoJ1dvz6raM3rnyNUsMM',
-    ipfsUrl: 'QmeZUPKxx7zaFzFA2iNoHiLuphk7NchXDtDmGGsFW7LMDE',
+    id: 1091,
+    name: 'Broxie #1091',
     attributes: [
       {
         trait_type: 'back',
@@ -50230,10 +56776,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeZUPKxx7zaFzFA2iNoHiLuphk7NchXDtDmGGsFW7LMDE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQTa9tFe6KtTwwVC8N7jgUJaJcoJ1dvz6raM3rnyNUsMM',
+    address:
+      '0:dc2eaa0679e30cd2804d2cacf278598277c8caef1c4fbe04d33425c9007eccfa',
   },
   {
-    previewUrl: 'QmS8FiSN23tNrQXcUHMnoHNwT8c818QpVjU5BQUmq6Vsmp',
-    ipfsUrl: 'QmXkAwjZqxeS2ECJErrxGnFbqCMfCBshjE6CXuibx8YoCT',
+    id: 1092,
+    name: 'Broxie #1092',
     attributes: [
       {
         trait_type: 'back',
@@ -50276,10 +56828,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXkAwjZqxeS2ECJErrxGnFbqCMfCBshjE6CXuibx8YoCT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS8FiSN23tNrQXcUHMnoHNwT8c818QpVjU5BQUmq6Vsmp',
+    address:
+      '0:30f483386934b65295b487dbc9cc923c404e0f1347c2a3ec84383f8b0c60ac7a',
   },
   {
-    previewUrl: 'QmRQFRhN6Fpj3PVGNE4QWwxEsdaMEPxgq6gnEaPz9vhNE6',
-    ipfsUrl: 'QmZUCZyFg7qcbVmB2ri59yS7XHv69PhtC9vtZUo1CoidCW',
+    id: 1093,
+    name: 'Broxie #1093',
     attributes: [
       {
         trait_type: 'back',
@@ -50322,10 +56880,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZUCZyFg7qcbVmB2ri59yS7XHv69PhtC9vtZUo1CoidCW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRQFRhN6Fpj3PVGNE4QWwxEsdaMEPxgq6gnEaPz9vhNE6',
+    address:
+      '0:5976033b11761c90e9aa1669a82c04e777a8ae138c7a6b189b956dd5b65ee0d3',
   },
   {
-    previewUrl: 'QmSZcM1dn83CQqKvurgAia86zcpwKTTf95qEsXWeaF2EQ1',
-    ipfsUrl: 'Qmdwd6cw1328omMgTMcvuqazW93tTznp4vpQBvPsw7Tsjz',
+    id: 1094,
+    name: 'Broxie #1094',
     attributes: [
       {
         trait_type: 'back',
@@ -50368,10 +56932,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmdwd6cw1328omMgTMcvuqazW93tTznp4vpQBvPsw7Tsjz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSZcM1dn83CQqKvurgAia86zcpwKTTf95qEsXWeaF2EQ1',
+    address:
+      '0:50f33b102ab34a382f9083e0a28d0dedf8d65a660e79befd46873987472030a6',
   },
   {
-    previewUrl: 'QmaQZooPkzjzbEbq7gvZZe5FATjTs4kwELxfvef8Pq4JQQ',
-    ipfsUrl: 'QmSuMdeSbbJJex8PvDER6SPQ92aVJricbfD12ki5KVkBzv',
+    id: 1095,
+    name: 'Broxie #1095',
     attributes: [
       {
         trait_type: 'back',
@@ -50414,10 +56984,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSuMdeSbbJJex8PvDER6SPQ92aVJricbfD12ki5KVkBzv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaQZooPkzjzbEbq7gvZZe5FATjTs4kwELxfvef8Pq4JQQ',
+    address:
+      '0:6f35fda6fcd05734dfce29d316225d1c4a3c58645a607b66c8c864ed4dbdc007',
   },
   {
-    previewUrl: 'QmYmbvrgGH19hZxzkrsqti1HWu5XuiM47EHmM7dKcqRU1v',
-    ipfsUrl: 'QmemJizD1XA1AG8FPUx4guCUuZSs1NFUpwjEEKvuikbtwj',
+    id: 1096,
+    name: 'Broxie #1096',
     attributes: [
       {
         trait_type: 'back',
@@ -50460,10 +57036,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmemJizD1XA1AG8FPUx4guCUuZSs1NFUpwjEEKvuikbtwj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYmbvrgGH19hZxzkrsqti1HWu5XuiM47EHmM7dKcqRU1v',
+    address:
+      '0:f02fa81eec0d8d2b5c9572b586172ad6c169be3ad07926c792d0fadd7218d58a',
   },
   {
-    previewUrl: 'QmPfAWhfBkQxrYWvaRgYYHXM2aTbqiffAm3z8BkuVvZuAQ',
-    ipfsUrl: 'QmX6TGnwEGcZRvJrViqBWzAbVtrtLkPLPwiTNoVPx3MJjx',
+    id: 1097,
+    name: 'Broxie #1097',
     attributes: [
       {
         trait_type: 'back',
@@ -50506,10 +57088,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX6TGnwEGcZRvJrViqBWzAbVtrtLkPLPwiTNoVPx3MJjx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPfAWhfBkQxrYWvaRgYYHXM2aTbqiffAm3z8BkuVvZuAQ',
+    address:
+      '0:5042f7f9b223fe5bb0adddff2d10e3b95ea9b7e389c995b58823dd9a74b3b406',
   },
   {
-    previewUrl: 'QmWLg2yJvhdhaSj1DeTmaN958TXGyDAsHJw2FKDEgzkow9',
-    ipfsUrl: 'Qmf8hr952rfb2Wnsghbw4uU2n7ugN2C8Gu7RVs3L3FYEzv',
+    id: 1098,
+    name: 'Broxie #1098',
     attributes: [
       {
         trait_type: 'back',
@@ -50552,10 +57140,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf8hr952rfb2Wnsghbw4uU2n7ugN2C8Gu7RVs3L3FYEzv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWLg2yJvhdhaSj1DeTmaN958TXGyDAsHJw2FKDEgzkow9',
+    address:
+      '0:bb2d44f50275790d44da59c1eeefbcd90f7ac5bf0cba565a25f62ab955c529ba',
   },
   {
-    previewUrl: 'QmPVYKY4w9piFBsKLz56AVfjxyxNBAn8zADkdHJ18r2rYh',
-    ipfsUrl: 'QmR1QBhnTUSdXfu9jU8i7BZtCYmVLtdSRy5K1qkNpaej51',
+    id: 1099,
+    name: 'Broxie #1099',
     attributes: [
       {
         trait_type: 'back',
@@ -50598,10 +57192,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR1QBhnTUSdXfu9jU8i7BZtCYmVLtdSRy5K1qkNpaej51',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPVYKY4w9piFBsKLz56AVfjxyxNBAn8zADkdHJ18r2rYh',
+    address:
+      '0:24a104d9f4f4ab0c3f7088c25304d53bf02cbf44a8e207cadbf0d1f7649693d8',
   },
   {
-    previewUrl: 'QmVRsQczxqYAtmp3yrvJWJfoiLw19cuCoY23cch649f7hU',
-    ipfsUrl: 'QmeFEYEg7p4BiL147gSbUrt7sSFQCrzxcNA6m9f4VPiSvZ',
+    id: 1100,
+    name: 'Broxie #1100',
     attributes: [
       {
         trait_type: 'back',
@@ -50644,10 +57244,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeFEYEg7p4BiL147gSbUrt7sSFQCrzxcNA6m9f4VPiSvZ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVRsQczxqYAtmp3yrvJWJfoiLw19cuCoY23cch649f7hU',
+    address:
+      '0:1ed6c4c0adb5f853c504c9a7e96af3d094470d0d19b36e7b63836782ba2d10b1',
   },
   {
-    previewUrl: 'Qmb1K2oTUT2uxUM51WNW6uVA95KKqexkteKUggYdFN36mD',
-    ipfsUrl: 'QmNqeMZJ8yDhxUhmPKdyPfGwLYf5wMpSh8d2fAA3yWx2DB',
+    id: 1101,
+    name: 'Broxie #1101',
     attributes: [
       {
         trait_type: 'back',
@@ -50690,10 +57296,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNqeMZJ8yDhxUhmPKdyPfGwLYf5wMpSh8d2fAA3yWx2DB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb1K2oTUT2uxUM51WNW6uVA95KKqexkteKUggYdFN36mD',
+    address:
+      '0:1bd8d751fbd629daf2e2d31e067ab7b6a7045f6e44b72df275a256455be2f398',
   },
   {
-    previewUrl: 'Qma9PtGW9dcRHeu6RQHth7TJVocv2rc1B9EA4P5pZCywYx',
-    ipfsUrl: 'QmTzy5HNHwzJzBTuU738NsAX584QjMgB8EQ5ZhM1HdQfCa',
+    id: 1102,
+    name: 'Broxie #1102',
     attributes: [
       {
         trait_type: 'back',
@@ -50736,10 +57348,16 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTzy5HNHwzJzBTuU738NsAX584QjMgB8EQ5ZhM1HdQfCa',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma9PtGW9dcRHeu6RQHth7TJVocv2rc1B9EA4P5pZCywYx',
+    address:
+      '0:fed3104616e119987ccaa8cc1c025dc9b14d305de46ccec1adb5ecb5339c4a1f',
   },
   {
-    previewUrl: 'QmedfVd5rDkbXCooEg72NEvjesD2XMu8PVFLyV5ayU7TeG',
-    ipfsUrl: 'QmdNiexCC2xji44PSKcYsCZ2Bt8pWgi3Qy5kTjs9nfYaLJ',
+    id: 1103,
+    name: 'Broxie #1103',
     attributes: [
       {
         trait_type: 'back',
@@ -50782,10 +57400,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdNiexCC2xji44PSKcYsCZ2Bt8pWgi3Qy5kTjs9nfYaLJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmedfVd5rDkbXCooEg72NEvjesD2XMu8PVFLyV5ayU7TeG',
+    address:
+      '0:d198eac399e8e8eef1cc4a236d91e1018566792e996bdf5e31195eb07757e775',
   },
   {
-    previewUrl: 'Qmar8FDLxEvZ51o1EAwbntBCzrYXadetmevGK6VS1CaeJu',
-    ipfsUrl: 'QmbH1zSkJUuh8YGD7WvFH168SqKLauBgQT9eUb2JnGFcpb',
+    id: 1104,
+    name: 'Broxie #1104',
     attributes: [
       {
         trait_type: 'back',
@@ -50828,10 +57452,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbH1zSkJUuh8YGD7WvFH168SqKLauBgQT9eUb2JnGFcpb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmar8FDLxEvZ51o1EAwbntBCzrYXadetmevGK6VS1CaeJu',
+    address:
+      '0:807521e04b29e7d020d9dc52750358b31b11896da027b43df899a7c4a491a6c4',
   },
   {
-    previewUrl: 'QmcfWR6gaCSLr5KzK4dbJERbtYfeQb7cgEUZW81cFx9iBg',
-    ipfsUrl: 'QmT5kmnzBQA5K6bBbmgCrFnfWUDjqzgmAqXWB664XQ3FB9',
+    id: 1105,
+    name: 'Broxie #1105',
     attributes: [
       {
         trait_type: 'back',
@@ -50874,10 +57504,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT5kmnzBQA5K6bBbmgCrFnfWUDjqzgmAqXWB664XQ3FB9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcfWR6gaCSLr5KzK4dbJERbtYfeQb7cgEUZW81cFx9iBg',
+    address:
+      '0:416fc217d26a4779e29256f93c6a8ddfd205ab466a0d06871d216891fdb7070a',
   },
   {
-    previewUrl: 'QmeH9ziWhbG7YScy75JURL5e9DfyLS2h4B1HuWnBchRVy2',
-    ipfsUrl: 'QmbZptFJuTVzz5bKZadvHF485RV9gAL17SmA7Xpk6dnSfc',
+    id: 1106,
+    name: 'Broxie #1106',
     attributes: [
       {
         trait_type: 'back',
@@ -50920,10 +57556,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbZptFJuTVzz5bKZadvHF485RV9gAL17SmA7Xpk6dnSfc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeH9ziWhbG7YScy75JURL5e9DfyLS2h4B1HuWnBchRVy2',
+    address:
+      '0:98f19242513fec1b2fa7a47f4a52c4be9bd5a4af0a01a0cc69371a420d17d4ea',
   },
   {
-    previewUrl: 'QmVffcFzFCkJhiUtLe6V876om82B8ABSByWYNaninDCGRe',
-    ipfsUrl: 'QmbU2tqxALpdKa7BcevaBrMjMDtPZ2TwDfXcgxxCzctzge',
+    id: 1107,
+    name: 'Broxie #1107',
     attributes: [
       {
         trait_type: 'back',
@@ -50966,10 +57608,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbU2tqxALpdKa7BcevaBrMjMDtPZ2TwDfXcgxxCzctzge',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVffcFzFCkJhiUtLe6V876om82B8ABSByWYNaninDCGRe',
+    address:
+      '0:e7609e93ccebe880ab7dd39277f8f4480df6c2dc200591290afd0c2086f1a72d',
   },
   {
-    previewUrl: 'QmbFCTPUnoUJHv9VCVSc6BRx4J8H46bC8pHSMKLuQuP6jm',
-    ipfsUrl: 'QmQV5jxrMBuvHDC2goXYoZPm1phrJZbTCtPawx8wUit4K8',
+    id: 1108,
+    name: 'Broxie #1108',
     attributes: [
       {
         trait_type: 'back',
@@ -51012,10 +57660,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQV5jxrMBuvHDC2goXYoZPm1phrJZbTCtPawx8wUit4K8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbFCTPUnoUJHv9VCVSc6BRx4J8H46bC8pHSMKLuQuP6jm',
+    address:
+      '0:82276b4bae744f9cb6ddee79242d8923aac4beeae2ebfe0922a80bb32385f5c5',
   },
   {
-    previewUrl: 'QmeVCC3qoxT8DNQPTGEbUhiehtEqAJc3w3EUZ6Ca8fno5c',
-    ipfsUrl: 'QmQCo2X7EY77NUw1LuB2nGPJbPoAaiXCerv9DDY4tp9xwb',
+    id: 1109,
+    name: 'Broxie #1109',
     attributes: [
       {
         trait_type: 'back',
@@ -51058,10 +57712,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQCo2X7EY77NUw1LuB2nGPJbPoAaiXCerv9DDY4tp9xwb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeVCC3qoxT8DNQPTGEbUhiehtEqAJc3w3EUZ6Ca8fno5c',
+    address:
+      '0:eaf6d566a997fa0df636133364661e9c060d0b16a6022331c30d88f3517eb49f',
   },
   {
-    previewUrl: 'QmNNDZYLjHVW5Kp86NZw8CfCzvq2bj6WiyQuqHRY4dGrpL',
-    ipfsUrl: 'QmNc1tkx3SV3u8ggn9uatFVGQ1sS36c36dUYSQ6HED4Joi',
+    id: 1110,
+    name: 'Broxie #1110',
     attributes: [
       {
         trait_type: 'back',
@@ -51104,10 +57764,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNc1tkx3SV3u8ggn9uatFVGQ1sS36c36dUYSQ6HED4Joi',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNNDZYLjHVW5Kp86NZw8CfCzvq2bj6WiyQuqHRY4dGrpL',
+    address:
+      '0:667bf287a258fb428ee39c4a75f79ab116b6191622255708a5413ceef95a1568',
   },
   {
-    previewUrl: 'QmbAnP3nCwYr98YsViSsogyyoJ4YFp8ybzDL5kWjHNs7Uh',
-    ipfsUrl: 'QmcsjVVMKiGXTwHUaJ3S5639s7UeNEkxrWUYfX3RwiGuem',
+    id: 1111,
+    name: 'Broxie #1111',
     attributes: [
       {
         trait_type: 'back',
@@ -51150,10 +57816,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcsjVVMKiGXTwHUaJ3S5639s7UeNEkxrWUYfX3RwiGuem',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbAnP3nCwYr98YsViSsogyyoJ4YFp8ybzDL5kWjHNs7Uh',
+    address:
+      '0:96848716c72a86eac264b3cc5c1dfe1d159393a15fc40d161e8169b1b58c4bb0',
   },
   {
-    previewUrl: 'QmdGjxvqYACVdvATXkuDv53V6V9NwhodYSBTZR2PgFZQXb',
-    ipfsUrl: 'QmXmnPvRBCynitRdaEdrqjidaABm5xaCAPk9Z2y1oicjQN',
+    id: 1112,
+    name: 'Broxie #1112',
     attributes: [
       {
         trait_type: 'back',
@@ -51196,10 +57868,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXmnPvRBCynitRdaEdrqjidaABm5xaCAPk9Z2y1oicjQN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdGjxvqYACVdvATXkuDv53V6V9NwhodYSBTZR2PgFZQXb',
+    address:
+      '0:b821f04dd8f5d3e2eebc45583b83e8e1ac26743faaaebe8c3f58cfeb91526409',
   },
   {
-    previewUrl: 'QmWbJnmDkupwu35zf8jxFbqV2iPXuCeKVXKso8yZwnEFD5',
-    ipfsUrl: 'QmcF5mp3Fgk1rwX3zE2Gnd1ZVk5frgmW34ForDoam97Ldk',
+    id: 1113,
+    name: 'Broxie #1113',
     attributes: [
       {
         trait_type: 'back',
@@ -51242,10 +57920,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcF5mp3Fgk1rwX3zE2Gnd1ZVk5frgmW34ForDoam97Ldk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWbJnmDkupwu35zf8jxFbqV2iPXuCeKVXKso8yZwnEFD5',
+    address:
+      '0:d6672f2625c37c96dd56f912d61c43561d20759a4b32a40a185726b5c199d338',
   },
   {
-    previewUrl: 'QmVgfXVhwB5sQ2iSRbLGN7vbQxD4N6bJShBmAwaMed7grh',
-    ipfsUrl: 'QmPoTxEKqyNtnmqPXR9mfVRJtFnUsTg547Q7aKWjanLkTS',
+    id: 1114,
+    name: 'Broxie #1114',
     attributes: [
       {
         trait_type: 'back',
@@ -51288,10 +57972,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPoTxEKqyNtnmqPXR9mfVRJtFnUsTg547Q7aKWjanLkTS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVgfXVhwB5sQ2iSRbLGN7vbQxD4N6bJShBmAwaMed7grh',
+    address:
+      '0:8cf411dbc293ad36ecdc1b76efabd2705d6c2d5001e7dba367a24b1874d38c4d',
   },
   {
-    previewUrl: 'Qmf4A3qP2gMDUejaruj9ZEbdqKMsx8sUwc7gZhVzLJUJzW',
-    ipfsUrl: 'QmV1dbuwvMN6rsLTA6C1WwfU16GDr7PujShtFyWGkEivkz',
+    id: 1115,
+    name: 'Broxie #1115',
     attributes: [
       {
         trait_type: 'back',
@@ -51334,10 +58024,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV1dbuwvMN6rsLTA6C1WwfU16GDr7PujShtFyWGkEivkz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmf4A3qP2gMDUejaruj9ZEbdqKMsx8sUwc7gZhVzLJUJzW',
+    address:
+      '0:c084cc9b191ca6c273cf406191622c5167bbfd8bab49bb284207601ef789323c',
   },
   {
-    previewUrl: 'QmRfDVqySyoBmukuhewJFf2Nfdw7TAMmA1UEHkZ3GY9PNk',
-    ipfsUrl: 'Qmb1NJTMUtwssapY7tiFt7K9kVGvxE9n456rRceYUJGXkw',
+    id: 1116,
+    name: 'Broxie #1116',
     attributes: [
       {
         trait_type: 'back',
@@ -51380,10 +58076,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb1NJTMUtwssapY7tiFt7K9kVGvxE9n456rRceYUJGXkw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRfDVqySyoBmukuhewJFf2Nfdw7TAMmA1UEHkZ3GY9PNk',
+    address:
+      '0:83c351c339e287b2449acd21f5d639cc07fee06e049220e1fda8a58879c6a3a1',
   },
   {
-    previewUrl: 'QmNzeV52K3KavhJKrzUJJhrs5ZNK4GGe42oGnHTUvnBwmU',
-    ipfsUrl: 'QmXFQimHoSteCraCaLDhfinFis6aup53TWhpmFBjKz41xJ',
+    id: 1117,
+    name: 'Broxie #1117',
     attributes: [
       {
         trait_type: 'back',
@@ -51426,10 +58128,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXFQimHoSteCraCaLDhfinFis6aup53TWhpmFBjKz41xJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNzeV52K3KavhJKrzUJJhrs5ZNK4GGe42oGnHTUvnBwmU',
+    address:
+      '0:300eae2e1d0b53c99eec7c12578fe038eecf98ef52f88d04ca465b3b4adc3e76',
   },
   {
-    previewUrl: 'QmZzWCoHk8sdaVqB1nLxYD9zvHLmdiKzubKut85dpCF4Xs',
-    ipfsUrl: 'QmUuEsnCXtbtzyA3QeTh3pftSkaKCz8e55EZzEHeweqfve',
+    id: 1118,
+    name: 'Broxie #1118',
     attributes: [
       {
         trait_type: 'back',
@@ -51472,10 +58180,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUuEsnCXtbtzyA3QeTh3pftSkaKCz8e55EZzEHeweqfve',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZzWCoHk8sdaVqB1nLxYD9zvHLmdiKzubKut85dpCF4Xs',
+    address:
+      '0:0fa8e5f874d251512dc2af8ef6a33b7bb680d3be54085b4002c9c36ad50aa85f',
   },
   {
-    previewUrl: 'QmWhuYarALenNj6vy7DqomBc8jgc3M2Aob8txunz2PNjVE',
-    ipfsUrl: 'QmTVx52YQbgm1C89SucnytmCAf1z91JRnAikvLPAMg2LBg',
+    id: 1119,
+    name: 'Broxie #1119',
     attributes: [
       {
         trait_type: 'back',
@@ -51518,10 +58232,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTVx52YQbgm1C89SucnytmCAf1z91JRnAikvLPAMg2LBg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWhuYarALenNj6vy7DqomBc8jgc3M2Aob8txunz2PNjVE',
+    address:
+      '0:d86f544858fce72a9718fb81158e7e33bc5eb4ef0b12f0ed129a708151e6338c',
   },
   {
-    previewUrl: 'Qmaw74dpwLz2FFJDKtmjTJSAXe57ZfryxhHdRCnDnU2UvG',
-    ipfsUrl: 'QmNnpfmFYPHwNe7CAuHSrd5HFnF48nXsZeneWNzR3VNwKk',
+    id: 1120,
+    name: 'Broxie #1120',
     attributes: [
       {
         trait_type: 'back',
@@ -51564,10 +58284,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNnpfmFYPHwNe7CAuHSrd5HFnF48nXsZeneWNzR3VNwKk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmaw74dpwLz2FFJDKtmjTJSAXe57ZfryxhHdRCnDnU2UvG',
+    address:
+      '0:7b306272521a96b1041f69b2e5ef3edcbb245417d3502dd2ca998f601c45a206',
   },
   {
-    previewUrl: 'Qmb69Kbe2od2pShkbW7Ps1hepDQCgtvXdBytUFiLLyFzug',
-    ipfsUrl: 'QmUFkpYcxqzjQgNvBVgkuCCuSYimK2pBfKfBeERKU3yGrq',
+    id: 1121,
+    name: 'Broxie #1121',
     attributes: [
       {
         trait_type: 'back',
@@ -51610,10 +58336,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUFkpYcxqzjQgNvBVgkuCCuSYimK2pBfKfBeERKU3yGrq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb69Kbe2od2pShkbW7Ps1hepDQCgtvXdBytUFiLLyFzug',
+    address:
+      '0:dbdf4247d7f6b230744d39ecb4146ad43c81bf30ca2ab2bab0d44a33d56c1769',
   },
   {
-    previewUrl: 'QmcwBKBCBk1Sb7aaKCrFSD6MkSu498iP724qGp7ut89bQa',
-    ipfsUrl: 'QmT4fN7fxwZruoRaPxnXKyFUgyJ5LQmARDUmpH8FYkgKLU',
+    id: 1122,
+    name: 'Broxie #1122',
     attributes: [
       {
         trait_type: 'back',
@@ -51656,10 +58388,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT4fN7fxwZruoRaPxnXKyFUgyJ5LQmARDUmpH8FYkgKLU',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcwBKBCBk1Sb7aaKCrFSD6MkSu498iP724qGp7ut89bQa',
+    address:
+      '0:0e47be11d6d84fd752b47044700c15d5e72169c7e7b62d7b85dbe380b6be5561',
   },
   {
-    previewUrl: 'QmS5fsdtNZSn83UNG7xhTRpWdxmWBMVaXzUzAZQWuxCAVZ',
-    ipfsUrl: 'QmeawDLUZhh4UGCEgK4A7epeLLqwtKpUWSSrJmQVvo4x95',
+    id: 1123,
+    name: 'Broxie #1123',
     attributes: [
       {
         trait_type: 'back',
@@ -51702,10 +58440,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeawDLUZhh4UGCEgK4A7epeLLqwtKpUWSSrJmQVvo4x95',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS5fsdtNZSn83UNG7xhTRpWdxmWBMVaXzUzAZQWuxCAVZ',
+    address:
+      '0:a6a510dba7b2bbc6bd27904dcf7389f1837e3ca4f5d21458aa087bad62304126',
   },
   {
-    previewUrl: 'QmY128xXfpfSw2vasm7dRYpHTDtLk8kcdKiFXaWu8t5fwR',
-    ipfsUrl: 'QmPGMg3rGVwY1L54CULzEhtN5NcdEs1RfLdAtPUXDVctYm',
+    id: 1124,
+    name: 'Broxie #1124',
     attributes: [
       {
         trait_type: 'back',
@@ -51748,10 +58492,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPGMg3rGVwY1L54CULzEhtN5NcdEs1RfLdAtPUXDVctYm',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmY128xXfpfSw2vasm7dRYpHTDtLk8kcdKiFXaWu8t5fwR',
+    address:
+      '0:5e1d7d508a4c4b984b4a1e7e5ee6d07bca3accbda98ef7f8ccf936ebccc1d7a3',
   },
   {
-    previewUrl: 'QmWkp9d2r1q5f5QtFvYiKDigBgVHiakKPEffz9BTJnYYpT',
-    ipfsUrl: 'QmYbHVVYhK2GUit2aNwZCdhzWRkhQFwHeb2TEanu2fXceJ',
+    id: 1125,
+    name: 'Broxie #1125',
     attributes: [
       {
         trait_type: 'back',
@@ -51794,10 +58544,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYbHVVYhK2GUit2aNwZCdhzWRkhQFwHeb2TEanu2fXceJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWkp9d2r1q5f5QtFvYiKDigBgVHiakKPEffz9BTJnYYpT',
+    address:
+      '0:8de2f34b0bb2f998a5784ce8d13f589066c73223155ba4f08a8b003decb93a07',
   },
   {
-    previewUrl: 'QmXieZuq3yS6E1FgsMornjDegytHr8bPqJsBZAJow6Ecxt',
-    ipfsUrl: 'QmXfkgbgthB8mmM1StcMEbMWEnXbqTn1PwQdZMKCaLMGkp',
+    id: 1126,
+    name: 'Broxie #1126',
     attributes: [
       {
         trait_type: 'back',
@@ -51840,10 +58596,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXfkgbgthB8mmM1StcMEbMWEnXbqTn1PwQdZMKCaLMGkp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXieZuq3yS6E1FgsMornjDegytHr8bPqJsBZAJow6Ecxt',
+    address:
+      '0:c7141662a39a6152dc2db902fdd49b600dc8c8c93dd99d0a8d937b9801db6d0d',
   },
   {
-    previewUrl: 'QmSUfjvasMbXZJow6WzbLXczHpM85M17qpbxteeX1hGsxc',
-    ipfsUrl: 'QmVUQwkhip9Nq3aBujv3hfwBeMb3uXtkZpeAPKht1vezsc',
+    id: 1127,
+    name: 'Broxie #1127',
     attributes: [
       {
         trait_type: 'back',
@@ -51886,10 +58648,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVUQwkhip9Nq3aBujv3hfwBeMb3uXtkZpeAPKht1vezsc',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSUfjvasMbXZJow6WzbLXczHpM85M17qpbxteeX1hGsxc',
+    address:
+      '0:a4af8ccba2b9a9b1cbd293db8239952909913f3790d709a520f64e15f67edc46',
   },
   {
-    previewUrl: 'QmeT4ZQrr6ttkpL72udyLqVJ5pMuJ1PvkkdEnSmEwVrUR7',
-    ipfsUrl: 'QmTkuL9tsJbwgP2K2c5cG6rgiE453VrcMGudUH8RWmfbd2',
+    id: 1128,
+    name: 'Broxie #1128',
     attributes: [
       {
         trait_type: 'back',
@@ -51932,10 +58700,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTkuL9tsJbwgP2K2c5cG6rgiE453VrcMGudUH8RWmfbd2',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmeT4ZQrr6ttkpL72udyLqVJ5pMuJ1PvkkdEnSmEwVrUR7',
+    address:
+      '0:f142211166aae2020c9c74996a2f7d38bb77109aaf2fee65f603d8744c81adda',
   },
   {
-    previewUrl: 'QmUE7inMtDGk92RALHrosXHv3j1Ck9C6K4npdBVxdHHVek',
-    ipfsUrl: 'QmVgKZQCdPmkyVqSEQteAb5v3jyL8wCgUge5Ku3GDMpoTP',
+    id: 1129,
+    name: 'Broxie #1129',
     attributes: [
       {
         trait_type: 'back',
@@ -51978,10 +58752,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVgKZQCdPmkyVqSEQteAb5v3jyL8wCgUge5Ku3GDMpoTP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUE7inMtDGk92RALHrosXHv3j1Ck9C6K4npdBVxdHHVek',
+    address:
+      '0:725c3c69e9a5643db037494eabb5e0d42528f283ec3482a9c5c8a809faa7e484',
   },
   {
-    previewUrl: 'QmSCjEepdcfHPZHdqGmnwhAvH57A6UTmbnXKBfXbPi1UAW',
-    ipfsUrl: 'Qma2hVfHD7QP6gBSzyveySZy9dbjCxSBkRdXvuePKVj5tv',
+    id: 1130,
+    name: 'Broxie #1130',
     attributes: [
       {
         trait_type: 'back',
@@ -52024,10 +58804,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qma2hVfHD7QP6gBSzyveySZy9dbjCxSBkRdXvuePKVj5tv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSCjEepdcfHPZHdqGmnwhAvH57A6UTmbnXKBfXbPi1UAW',
+    address:
+      '0:877358f096d09a25cd00be406965b82cf806d6abacd7af8a19ffbfbb50391080',
   },
   {
-    previewUrl: 'Qmef96cavArieLxW8treEh9pCyDLeYAvxKjgcEzJAchFYo',
-    ipfsUrl: 'QmNheJUQaUXaGJtTbcV5cPzGg5PD7TJcqZhyHfDyq3cxTa',
+    id: 1131,
+    name: 'Broxie #1131',
     attributes: [
       {
         trait_type: 'back',
@@ -52070,10 +58856,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNheJUQaUXaGJtTbcV5cPzGg5PD7TJcqZhyHfDyq3cxTa',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmef96cavArieLxW8treEh9pCyDLeYAvxKjgcEzJAchFYo',
+    address:
+      '0:b034accf7c59fc63e80d1910da34823f81b358d7fbc0cc05bbe10d0a07c05fd6',
   },
   {
-    previewUrl: 'QmYG98HKcdDLPDaHKYNASiYME2kHJ1zZd9zw1vyYAaVFkB',
-    ipfsUrl: 'QmfZqDPXMqxifp9osW696x8n6cJdyG4jig2tvXHkWgVnrA',
+    id: 1132,
+    name: 'Broxie #1132',
     attributes: [
       {
         trait_type: 'back',
@@ -52116,10 +58908,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfZqDPXMqxifp9osW696x8n6cJdyG4jig2tvXHkWgVnrA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYG98HKcdDLPDaHKYNASiYME2kHJ1zZd9zw1vyYAaVFkB',
+    address:
+      '0:8a93fac954b79ddbe726cb8406ce853d48f2e476180d53f2631cd319e005f53c',
   },
   {
-    previewUrl: 'QmbYXM3p4exFSK4KzC9ocsdiUkhXXay2BZHDDWwCBFwC8B',
-    ipfsUrl: 'QmRPShhJgHGsPADTurFCBf21gL3j68tTPwAKMMkkfsnVqp',
+    id: 1133,
+    name: 'Broxie #1133',
     attributes: [
       {
         trait_type: 'back',
@@ -52162,10 +58960,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRPShhJgHGsPADTurFCBf21gL3j68tTPwAKMMkkfsnVqp',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbYXM3p4exFSK4KzC9ocsdiUkhXXay2BZHDDWwCBFwC8B',
+    address:
+      '0:35fa766d343db2c559134802106b854b3b6628ee8b629cb18ff31c57b9443aab',
   },
   {
-    previewUrl: 'QmPvGUbnB7m3F9vFufscZGmfdmnvDZbbv2B2jxBfwGu7Ai',
-    ipfsUrl: 'QmfKxFjn1thuku1da3n61FAZfbpj117syp6EQHAgSHDqoH',
+    id: 1134,
+    name: 'Broxie #1134',
     attributes: [
       {
         trait_type: 'back',
@@ -52208,10 +59012,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfKxFjn1thuku1da3n61FAZfbpj117syp6EQHAgSHDqoH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPvGUbnB7m3F9vFufscZGmfdmnvDZbbv2B2jxBfwGu7Ai',
+    address:
+      '0:4437a86186e7c38179b69fc3a986b449ac7b80a23609a3ae497e254349f1f154',
   },
   {
-    previewUrl: 'Qmd2LwhaxHAzhmURVS2AoiYBbZWaCptRPBbXLC19svvkW8',
-    ipfsUrl: 'QmbqLsxuekpwa1A52vim5BkzkMqWAF5UcgVJPS5naLnZt9',
+    id: 1135,
+    name: 'Broxie #1135',
     attributes: [
       {
         trait_type: 'back',
@@ -52254,10 +59064,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbqLsxuekpwa1A52vim5BkzkMqWAF5UcgVJPS5naLnZt9',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd2LwhaxHAzhmURVS2AoiYBbZWaCptRPBbXLC19svvkW8',
+    address:
+      '0:81856de422a34a8bfa5bbfbf38d3c6cb4efbb5983461e5be6014143c756b6d30',
   },
   {
-    previewUrl: 'QmcY3yNJmhEQtPcgqR3jYeKMHMtb7KPWMUfp2N19DQa27k',
-    ipfsUrl: 'QmfF2oh3VF9r5Y2SJxadbrfPmDVNwkjyDCwrjxGphuh7t6',
+    id: 1136,
+    name: 'Broxie #1136',
     attributes: [
       {
         trait_type: 'back',
@@ -52300,10 +59116,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfF2oh3VF9r5Y2SJxadbrfPmDVNwkjyDCwrjxGphuh7t6',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcY3yNJmhEQtPcgqR3jYeKMHMtb7KPWMUfp2N19DQa27k',
+    address:
+      '0:de47144b9fec53f4d29df87119b875ae2a363bd47fdc1259a4ae0e01959104eb',
   },
   {
-    previewUrl: 'QmXFH97keZqFJA9nS6KrfCs25evM5sSuLDZ5dz7Y5mExed',
-    ipfsUrl: 'QmT4dAvo38nZfeDUqkGobrYaQ6XTbhJPAViEd2QNKxf1LT',
+    id: 1137,
+    name: 'Broxie #1137',
     attributes: [
       {
         trait_type: 'back',
@@ -52346,10 +59168,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT4dAvo38nZfeDUqkGobrYaQ6XTbhJPAViEd2QNKxf1LT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXFH97keZqFJA9nS6KrfCs25evM5sSuLDZ5dz7Y5mExed',
+    address:
+      '0:b6ba5faeb78fdc43aad135dbe95cfd1ac700d779758186c7f8a81797d2db7e2a',
   },
   {
-    previewUrl: 'QmNnLiHT9YjQGZFddLogbYc7umKe7YJKtfRd5wS8GFiUoT',
-    ipfsUrl: 'Qmeqmg3Z2pzpj4RTkVdr9T4tqymfAEevZh1nsYmfwWR47L',
+    id: 1138,
+    name: 'Broxie #1138',
     attributes: [
       {
         trait_type: 'back',
@@ -52392,10 +59220,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmeqmg3Z2pzpj4RTkVdr9T4tqymfAEevZh1nsYmfwWR47L',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNnLiHT9YjQGZFddLogbYc7umKe7YJKtfRd5wS8GFiUoT',
+    address:
+      '0:2860d26b1acf397c7548dbeabbcab42e140ddf92ff3c4b744e392bf8708a30a4',
   },
   {
-    previewUrl: 'QmWEn6dey7BDiwhtnpVuB18MsQmwGU8jDEy4rwbCMZgtuB',
-    ipfsUrl: 'QmP16txPz25PWkGYrsktJbDNZVJAqwx7CykP5Za4RkMTEb',
+    id: 1139,
+    name: 'Broxie #1139',
     attributes: [
       {
         trait_type: 'back',
@@ -52438,10 +59272,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmP16txPz25PWkGYrsktJbDNZVJAqwx7CykP5Za4RkMTEb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWEn6dey7BDiwhtnpVuB18MsQmwGU8jDEy4rwbCMZgtuB',
+    address:
+      '0:d0895264c63cc6a5ff0740291d848ea5b0672874901f7ef8ea3cabf09f92fed7',
   },
   {
-    previewUrl: 'QmcWCmCTqakP6btYkUsC3FcLjUWMxmcgFyQCHtgRrESYh9',
-    ipfsUrl: 'QmShvV2P5SeMzXYEDPxcjqdTdfHRLyk5HnCgXFq1EMUd4J',
+    id: 1140,
+    name: 'Broxie #1140',
     attributes: [
       {
         trait_type: 'back',
@@ -52484,10 +59324,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmShvV2P5SeMzXYEDPxcjqdTdfHRLyk5HnCgXFq1EMUd4J',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcWCmCTqakP6btYkUsC3FcLjUWMxmcgFyQCHtgRrESYh9',
+    address:
+      '0:1b37bd2be1dce2e00479d402173304812774dfdb069656a50ac2397a0a5b393a',
   },
   {
-    previewUrl: 'QmP9kp7cTeXAd1nYZxForBueKdhwZ3W1yXQBq9KSt4GJRj',
-    ipfsUrl: 'QmRF4zxonjKgsTjfQUB5BGyWvHzxHLkAqVX6bekBo5ZsEA',
+    id: 1141,
+    name: 'Broxie #1141',
     attributes: [
       {
         trait_type: 'back',
@@ -52530,10 +59376,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRF4zxonjKgsTjfQUB5BGyWvHzxHLkAqVX6bekBo5ZsEA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmP9kp7cTeXAd1nYZxForBueKdhwZ3W1yXQBq9KSt4GJRj',
+    address:
+      '0:dbb3403be8b443c925e3c29df814bd1d63d92fdb5cabaf2f6c8756d00e7d3c05',
   },
   {
-    previewUrl: 'Qmcutj4nD94UhmN32PhpnjVZBx6dbsGk1WDxVhVtfJ8voE',
-    ipfsUrl: 'QmUqjiQLWRPeXXKeMe83NK6D51qQfn1bYJNRuypyRxsu3G',
+    id: 1142,
+    name: 'Broxie #1142',
     attributes: [
       {
         trait_type: 'back',
@@ -52576,10 +59428,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUqjiQLWRPeXXKeMe83NK6D51qQfn1bYJNRuypyRxsu3G',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmcutj4nD94UhmN32PhpnjVZBx6dbsGk1WDxVhVtfJ8voE',
+    address:
+      '0:b00e0f9f9616504314785125eeddfb8c24869d4f9d5e735475c96b0924de4809',
   },
   {
-    previewUrl: 'QmdxvGqhbJxfMHq4RbMKaPtnhAz88m2zqkd2LHhXEtqVj4',
-    ipfsUrl: 'QmX1smFKNaqdEyAKAoM8V1J3wZm1fVtDowRmVsw8JJScxz',
+    id: 1143,
+    name: 'Broxie #1143',
     attributes: [
       {
         trait_type: 'back',
@@ -52622,10 +59480,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX1smFKNaqdEyAKAoM8V1J3wZm1fVtDowRmVsw8JJScxz',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdxvGqhbJxfMHq4RbMKaPtnhAz88m2zqkd2LHhXEtqVj4',
+    address:
+      '0:82f69a4164d6247711bd15b9cb75ad4327b0a2d29d2bec461ae38db5437f5408',
   },
   {
-    previewUrl: 'QmWTTSmawW4pvHUbAENDV6XvaRUpsjuv44sGJD34kmZuht',
-    ipfsUrl: 'QmVcD19KBtV32ZkncKd37NRH3oJixGVvdHkoWS12e3QW5C',
+    id: 1144,
+    name: 'Broxie #1144',
     attributes: [
       {
         trait_type: 'back',
@@ -52668,10 +59532,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVcD19KBtV32ZkncKd37NRH3oJixGVvdHkoWS12e3QW5C',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWTTSmawW4pvHUbAENDV6XvaRUpsjuv44sGJD34kmZuht',
+    address:
+      '0:92e4939845220ea29ca666383e35b8005f3db6cfd5a0a35762fd127992fbdea7',
   },
   {
-    previewUrl: 'QmZAPG2yBDwkuubYEguZGqJYK3X44yXWYQysNeYFm2wzrm',
-    ipfsUrl: 'QmZ3a7hveb9hv22dVZkiTEqsTw3SCwDzv6Az2RXSifTMgN',
+    id: 1145,
+    name: 'Broxie #1145',
     attributes: [
       {
         trait_type: 'back',
@@ -52714,10 +59584,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZ3a7hveb9hv22dVZkiTEqsTw3SCwDzv6Az2RXSifTMgN',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZAPG2yBDwkuubYEguZGqJYK3X44yXWYQysNeYFm2wzrm',
+    address:
+      '0:985adfed6beeaba8dd71323921dbe87af51c995a680ea377ba8dd01b6ee80784',
   },
   {
-    previewUrl: 'QmZe2Jqjzbz77MR8mexrwEpjLeNqEQanioDCmij1MjukWB',
-    ipfsUrl: 'QmSLiPjBD7JmSqytYuXY8rUZror3Wk7rzcjQ3MyD7AUgVT',
+    id: 1146,
+    name: 'Broxie #1146',
     attributes: [
       {
         trait_type: 'back',
@@ -52760,10 +59636,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSLiPjBD7JmSqytYuXY8rUZror3Wk7rzcjQ3MyD7AUgVT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZe2Jqjzbz77MR8mexrwEpjLeNqEQanioDCmij1MjukWB',
+    address:
+      '0:fe9d62ada20d7e618de2d7c1dac03207b48cfdfec6763da1ed1728fc666fb4c0',
   },
   {
-    previewUrl: 'QmQLrio2PJi4RqvGyc7rJnvkcw7YoDb3bNdBCnsu8uLF2Y',
-    ipfsUrl: 'QmSQz65ZNaet5CVo4r9gfhqLTa8xguBWBPofMG1Tf8xYza',
+    id: 1147,
+    name: 'Broxie #1147',
     attributes: [
       {
         trait_type: 'back',
@@ -52806,10 +59688,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmSQz65ZNaet5CVo4r9gfhqLTa8xguBWBPofMG1Tf8xYza',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQLrio2PJi4RqvGyc7rJnvkcw7YoDb3bNdBCnsu8uLF2Y',
+    address:
+      '0:287d4a7e2cde0a4cb605bc048edcdc6a070a40cc006e505c0ae4c86f79027f5d',
   },
   {
-    previewUrl: 'Qma7NGkp9yBVqvg5t6sTHbp9TPPmNQUudVVEeVscgeGWR2',
-    ipfsUrl: 'QmWsMBLGc5efnqqys81jiUH4ni6d8DZLmReJLh6tEtakjK',
+    id: 1148,
+    name: 'Broxie #1148',
     attributes: [
       {
         trait_type: 'back',
@@ -52852,10 +59740,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWsMBLGc5efnqqys81jiUH4ni6d8DZLmReJLh6tEtakjK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma7NGkp9yBVqvg5t6sTHbp9TPPmNQUudVVEeVscgeGWR2',
+    address:
+      '0:c82c05197667164cd937d43f28eef9e212cf714b49277be2d2a31143dd58a54c',
   },
   {
-    previewUrl: 'QmZnbCg6hUm7VEipfbph2qutUn9wSwJqMnF5DwfeAqJ4HV',
-    ipfsUrl: 'QmbJsyJXoYguzhNuYRpwHwbAqz42vgNJdkNSd3r8gawXZ4',
+    id: 1149,
+    name: 'Broxie #1149',
     attributes: [
       {
         trait_type: 'back',
@@ -52898,10 +59792,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbJsyJXoYguzhNuYRpwHwbAqz42vgNJdkNSd3r8gawXZ4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZnbCg6hUm7VEipfbph2qutUn9wSwJqMnF5DwfeAqJ4HV',
+    address:
+      '0:469c93b3c8949373e6ca6d263a47b129ff6d12dc5e50b523cba88a856b8ead80',
   },
   {
-    previewUrl: 'QmdNCYYmTYmoYjakSaE1s5BD6f3WHqTckK9rFCNwzf8KUT',
-    ipfsUrl: 'QmWsS6A8Jd15qUF5ftauhUmyfjKBtEdHVVdBdQrqm6paro',
+    id: 1150,
+    name: 'Broxie #1150',
     attributes: [
       {
         trait_type: 'back',
@@ -52944,10 +59844,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWsS6A8Jd15qUF5ftauhUmyfjKBtEdHVVdBdQrqm6paro',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdNCYYmTYmoYjakSaE1s5BD6f3WHqTckK9rFCNwzf8KUT',
+    address:
+      '0:f3273971a72eafd5534ee552d292519734bfe8b1ee49eedef17c9ff905986682',
   },
   {
-    previewUrl: 'QmQxeizZ6LZzk8GivbaX6E7ynwFA1VZxMog7Ko3FFN9vik',
-    ipfsUrl: 'QmafuVYA2jSZHsD1uKqja7uWuuEsRqWdJEArPAufGvsN39',
+    id: 1151,
+    name: 'Broxie #1151',
     attributes: [
       {
         trait_type: 'back',
@@ -52990,10 +59896,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmafuVYA2jSZHsD1uKqja7uWuuEsRqWdJEArPAufGvsN39',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQxeizZ6LZzk8GivbaX6E7ynwFA1VZxMog7Ko3FFN9vik',
+    address:
+      '0:585208da1bc00aac3fbbc75cf9403b2997c3334c8df43c0524a1281eae625fb7',
   },
   {
-    previewUrl: 'QmUxEwFubVPzuYfoVt8WU24h2gv4R4M5VrVJ4HCRAMZprv',
-    ipfsUrl: 'QmdvjzC5AkrcVdPwSWC9zUto6ED7jwmkhGw9c6VranaEMM',
+    id: 1152,
+    name: 'Broxie #1152',
     attributes: [
       {
         trait_type: 'back',
@@ -53036,10 +59948,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdvjzC5AkrcVdPwSWC9zUto6ED7jwmkhGw9c6VranaEMM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUxEwFubVPzuYfoVt8WU24h2gv4R4M5VrVJ4HCRAMZprv',
+    address:
+      '0:c10ad6ce50dda6056f9abe14d97e0a9603225cfd1fd1212ffce4b966fb56e2e1',
   },
   {
-    previewUrl: 'Qmavkinrkjq1eSu3PvKejC2LLiYahnfkTt1TyZX81Ee7vN',
-    ipfsUrl: 'QmWJUpdE1LS3hYewxTphHc9g8HgpKMUGxjVUqr2HW454Qv',
+    id: 1153,
+    name: 'Broxie #1153',
     attributes: [
       {
         trait_type: 'back',
@@ -53082,10 +60000,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWJUpdE1LS3hYewxTphHc9g8HgpKMUGxjVUqr2HW454Qv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmavkinrkjq1eSu3PvKejC2LLiYahnfkTt1TyZX81Ee7vN',
+    address:
+      '0:4aba5a3ec09948c41a83461f9fb74fa924dd828aaa705e8e5fae49c8e469a66c',
   },
   {
-    previewUrl: 'QmS1ucJnMrWkKYqyWMAy7kgUhSoWySnjdPXhjGpfBptESA',
-    ipfsUrl: 'QmXjkLefAf5VqBE3VPaZozuNbi5QXk8mxPLrrS1eUW3jhJ',
+    id: 1154,
+    name: 'Broxie #1154',
     attributes: [
       {
         trait_type: 'back',
@@ -53128,10 +60052,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXjkLefAf5VqBE3VPaZozuNbi5QXk8mxPLrrS1eUW3jhJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmS1ucJnMrWkKYqyWMAy7kgUhSoWySnjdPXhjGpfBptESA',
+    address:
+      '0:b22d8c7b61206e645f6cbbb64cd231abd22badb9bc1c31faa6a70167fc11e731',
   },
   {
-    previewUrl: 'QmbDoc1Y3vFnJ2vzUur7uoq2XvC28YfzUpPUawv8Ngfm2F',
-    ipfsUrl: 'QmV2XuFiGoDnTsDCpnohPdVK7q9PBcXXac6qQaNXsR1Eiw',
+    id: 1155,
+    name: 'Broxie #1155',
     attributes: [
       {
         trait_type: 'back',
@@ -53174,10 +60104,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV2XuFiGoDnTsDCpnohPdVK7q9PBcXXac6qQaNXsR1Eiw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbDoc1Y3vFnJ2vzUur7uoq2XvC28YfzUpPUawv8Ngfm2F',
+    address:
+      '0:2162ba06bced08dea08065c8d47dde4c0fef0f98fc8a5c5f4104644302cf5837',
   },
   {
-    previewUrl: 'QmdnH4CXRaYGBrCCEHhDRFdHJr48juUWmrpmk6ZZaHUYRA',
-    ipfsUrl: 'QmU8jjrCDnHndeWxafd9i3iRMA329JGVoEc7GNfywSWvd7',
+    id: 1156,
+    name: 'Broxie #1156',
     attributes: [
       {
         trait_type: 'back',
@@ -53220,10 +60156,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU8jjrCDnHndeWxafd9i3iRMA329JGVoEc7GNfywSWvd7',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdnH4CXRaYGBrCCEHhDRFdHJr48juUWmrpmk6ZZaHUYRA',
+    address:
+      '0:fdf021213ef123937e0f3abb132a4da9bb0b23efbddb17ed0290b7aca240b951',
   },
   {
-    previewUrl: 'QmR6DaRV2jk6jKZSBWKtWLqJVKKHaFumfTPJjzw4hVShga',
-    ipfsUrl: 'QmRdpXqbtsZjpJu6mmKuNYL5XMU7L1JjWsviK5WM9WWGBr',
+    id: 1157,
+    name: 'Broxie #1157',
     attributes: [
       {
         trait_type: 'back',
@@ -53266,10 +60208,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmRdpXqbtsZjpJu6mmKuNYL5XMU7L1JjWsviK5WM9WWGBr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR6DaRV2jk6jKZSBWKtWLqJVKKHaFumfTPJjzw4hVShga',
+    address:
+      '0:b0bd62bcbd5bb997014cc6562a779211f6e8a9e64bd37e7e87b4196350c42479',
   },
   {
-    previewUrl: 'QmaqWyTCX2Ts4qvzpqeGWS8S4RBZ3VQR7GjyH7iFEqxJEB',
-    ipfsUrl: 'QmQFwoYUfCAbSBYog5Ec2HJDcLdCEx13qhYbGJshg9eXmb',
+    id: 1158,
+    name: 'Broxie #1158',
     attributes: [
       {
         trait_type: 'back',
@@ -53312,10 +60260,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQFwoYUfCAbSBYog5Ec2HJDcLdCEx13qhYbGJshg9eXmb',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaqWyTCX2Ts4qvzpqeGWS8S4RBZ3VQR7GjyH7iFEqxJEB',
+    address:
+      '0:fadf7736880032826b5c2864528e5a429b37a11279be4fb5992e1b64c0254e65',
   },
   {
-    previewUrl: 'QmXTzikmKLYJi658WWPrAGEPUiRS6dejbUWUiLG29VTDHA',
-    ipfsUrl: 'QmTH8aGYcvkpgfCRk4mQNeqnw8mX15jWHGvUkvvatYyHD4',
+    id: 1159,
+    name: 'Broxie #1159',
     attributes: [
       {
         trait_type: 'back',
@@ -53358,10 +60312,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTH8aGYcvkpgfCRk4mQNeqnw8mX15jWHGvUkvvatYyHD4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXTzikmKLYJi658WWPrAGEPUiRS6dejbUWUiLG29VTDHA',
+    address:
+      '0:d9ac90adc219caa68e587197ef123a63492e8442dc92eb39ece35a707e1c7a7c',
   },
   {
-    previewUrl: 'QmRvFF6VBbAvL9uRT6QxbwwDCZeDdvDqYoqS8WcBBSG8PC',
-    ipfsUrl: 'QmXvfwiXjvFkvchi6qJNbQqyQMaHUtAQyEkJXrzJ7dfzhs',
+    id: 1160,
+    name: 'Broxie #1160',
     attributes: [
       {
         trait_type: 'back',
@@ -53404,10 +60364,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXvfwiXjvFkvchi6qJNbQqyQMaHUtAQyEkJXrzJ7dfzhs',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRvFF6VBbAvL9uRT6QxbwwDCZeDdvDqYoqS8WcBBSG8PC',
+    address:
+      '0:018ca5da1a3c69005d8af487f66f3d314849b06bfe5c5e926dca7de8b78c21a7',
   },
   {
-    previewUrl: 'QmPTAjwH5mBr5xHgp43MJ6QtXNJ6H97vncxkhsMamTSYY1',
-    ipfsUrl: 'QmY9UBosajAgtNrnzc1YcDWoFMgQrYzAuVYHan4apqTZuv',
+    id: 1161,
+    name: 'Broxie #1161',
     attributes: [
       {
         trait_type: 'back',
@@ -53450,10 +60416,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmY9UBosajAgtNrnzc1YcDWoFMgQrYzAuVYHan4apqTZuv',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPTAjwH5mBr5xHgp43MJ6QtXNJ6H97vncxkhsMamTSYY1',
+    address:
+      '0:5f23959dcf65ec952549ebd0bcb739f5864101b378f857989495ebae82e1e561',
   },
   {
-    previewUrl: 'QmQ7UP4wc3qQR7pJHaNDCy4bFjCrxtCn22hJwoD9dp9AZ4',
-    ipfsUrl: 'QmfN1uLLQWTwcHWLmD9TNp3HpusLKSsPVDz2swcHbp8Skd',
+    id: 1162,
+    name: 'Broxie #1162',
     attributes: [
       {
         trait_type: 'back',
@@ -53496,10 +60468,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfN1uLLQWTwcHWLmD9TNp3HpusLKSsPVDz2swcHbp8Skd',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQ7UP4wc3qQR7pJHaNDCy4bFjCrxtCn22hJwoD9dp9AZ4',
+    address:
+      '0:d63c6ac47e4e6496148c9ae94ede07688342eb535b2d0744713692f2a49e7cfe',
   },
   {
-    previewUrl: 'QmR2BNWv8NqxAbsrJXMm2RGu7Ejes5FhxyhVvHSurWMzMA',
-    ipfsUrl: 'QmUfDyZ4pegLqcxbpd6HQFTdxhbtQZdsNqXrJYWbHGdFEP',
+    id: 1163,
+    name: 'Broxie #1163',
     attributes: [
       {
         trait_type: 'back',
@@ -53542,10 +60520,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUfDyZ4pegLqcxbpd6HQFTdxhbtQZdsNqXrJYWbHGdFEP',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR2BNWv8NqxAbsrJXMm2RGu7Ejes5FhxyhVvHSurWMzMA',
+    address:
+      '0:89fffb8e87af5a28e7f6c8c4360a700e85d010d34059061aaf7a0a22bb9f227a',
   },
   {
-    previewUrl: 'QmbvPAHk7aSsZkGhfk2HX9Y44nZPjP2bBeqGJ1iuKsxmoM',
-    ipfsUrl: 'QmdijGueNU75SAHASNvpcSknrFv2aQoSECmNtSFTyFj1VK',
+    id: 1164,
+    name: 'Broxie #1164',
     attributes: [
       {
         trait_type: 'back',
@@ -53588,10 +60572,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmdijGueNU75SAHASNvpcSknrFv2aQoSECmNtSFTyFj1VK',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbvPAHk7aSsZkGhfk2HX9Y44nZPjP2bBeqGJ1iuKsxmoM',
+    address:
+      '0:f2e1a2c420a49db3e64eda8f0fe67607025315b71d48cf3ad434ffe175f38732',
   },
   {
-    previewUrl: 'QmUz9p4rDafbutNVri4PvB6UunZQeQbuAsdpKC4UdCziGG',
-    ipfsUrl: 'QmUDWEgvuwAVnpYf6GP1pPZZjaVyrFR8NWUHexhoLFAvTW',
+    id: 1165,
+    name: 'Broxie #1165',
     attributes: [
       {
         trait_type: 'back',
@@ -53634,10 +60624,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUDWEgvuwAVnpYf6GP1pPZZjaVyrFR8NWUHexhoLFAvTW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUz9p4rDafbutNVri4PvB6UunZQeQbuAsdpKC4UdCziGG',
+    address:
+      '0:d3378d8afbcd456105b77a7f2a676d5d9a2f379e0afe11b28379b2a7ee8fbad7',
   },
   {
-    previewUrl: 'QmSkHSsLaTvigJmHt9npckinR6UkKn8g7G3zaToehs6uAt',
-    ipfsUrl: 'Qmam9QPy6U5ThLiQbAvRLqydLeAD5V4Ez3sqJs9sXBLZiq',
+    id: 1166,
+    name: 'Broxie #1166',
     attributes: [
       {
         trait_type: 'back',
@@ -53680,10 +60676,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmam9QPy6U5ThLiQbAvRLqydLeAD5V4Ez3sqJs9sXBLZiq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSkHSsLaTvigJmHt9npckinR6UkKn8g7G3zaToehs6uAt',
+    address:
+      '0:052f58d848f1f704afafc968a64c7b443d10de2cb6872068950c49cb4841f60e',
   },
   {
-    previewUrl: 'QmRQTFeHqncV762c4D972Va18ATyk4enedPkxmndcknrZt',
-    ipfsUrl: 'QmWpsGETiPhWg4Zmm5kQZMqhYetRvFDSv8VuPJMSiqEdzo',
+    id: 1167,
+    name: 'Broxie #1167',
     attributes: [
       {
         trait_type: 'back',
@@ -53726,10 +60728,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWpsGETiPhWg4Zmm5kQZMqhYetRvFDSv8VuPJMSiqEdzo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRQTFeHqncV762c4D972Va18ATyk4enedPkxmndcknrZt',
+    address:
+      '0:aef36f343524b26a5380617768c499e1ca39a1cf5fdbfc3cac11569cac67b6fb',
   },
   {
-    previewUrl: 'QmbtbYjpYjGPV1VHTBrra5PR7PmA74JaruSz9nrPgNbayL',
-    ipfsUrl: 'QmVPMbyG2Hv3hWxFkBcuA2juzsnvemuHZYaSDs5t6N69hq',
+    id: 1168,
+    name: 'Broxie #1168',
     attributes: [
       {
         trait_type: 'back',
@@ -53772,10 +60780,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVPMbyG2Hv3hWxFkBcuA2juzsnvemuHZYaSDs5t6N69hq',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmbtbYjpYjGPV1VHTBrra5PR7PmA74JaruSz9nrPgNbayL',
+    address:
+      '0:defbd94ea9f8eb03a432a8dae0a0c66256df6325d0d29b71eb85ef094bb9a29f',
   },
   {
-    previewUrl: 'QmWH6nQVUfmFxfgA2P2ZF29XqY4kf9wrdfzXhPNegBpNqR',
-    ipfsUrl: 'QmPtnDeMNMSs75FrWb164Nq13gPLsGuBubr4fG1DPnxC3H',
+    id: 1169,
+    name: 'Broxie #1169',
     attributes: [
       {
         trait_type: 'back',
@@ -53818,10 +60832,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPtnDeMNMSs75FrWb164Nq13gPLsGuBubr4fG1DPnxC3H',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWH6nQVUfmFxfgA2P2ZF29XqY4kf9wrdfzXhPNegBpNqR',
+    address:
+      '0:1cac1b0163aedceda035c12e4a7233d960f44224b1acefb0d7f6320855298e9a',
   },
   {
-    previewUrl: 'QmQbiXLo6TUuq8VNydgm8RQnE9WvbHSzrnonDQXLooKSv5',
-    ipfsUrl: 'Qmc2Ff8gGL6Bk8wNsRwJMd2DGJpBaWA4nssBQwYU6Z88w3',
+    id: 1170,
+    name: 'Broxie #1170',
     attributes: [
       {
         trait_type: 'back',
@@ -53864,10 +60884,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmc2Ff8gGL6Bk8wNsRwJMd2DGJpBaWA4nssBQwYU6Z88w3',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQbiXLo6TUuq8VNydgm8RQnE9WvbHSzrnonDQXLooKSv5',
+    address:
+      '0:7c18c9668b95efd4d50e3e57874afe2fe525b622852485ee4ce186fe88c83e57',
   },
   {
-    previewUrl: 'QmQupe5hfxhMW4q7sPjkRv5ZHpoVW9aNnKaG4PC2KKjEAi',
-    ipfsUrl: 'QmfVwtCmTK3aUzv8F9nvAp3ohDRe8dccFPGw93w137n2sg',
+    id: 1171,
+    name: 'Broxie #1171',
     attributes: [
       {
         trait_type: 'back',
@@ -53910,10 +60936,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmfVwtCmTK3aUzv8F9nvAp3ohDRe8dccFPGw93w137n2sg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQupe5hfxhMW4q7sPjkRv5ZHpoVW9aNnKaG4PC2KKjEAi',
+    address:
+      '0:8e8bff7be3e126a2d6d4e056696ac6ad1b296b88b2d153e15d6c2bd370dacd13',
   },
   {
-    previewUrl: 'QmWDoWTLJXfYvdRTZ1qnsuP4bjaTDo5rhr4MZA5cueGjNk',
-    ipfsUrl: 'QmXrJMpMxGRNf1K1PeEKgPPWJN87wz9eDtGXGWbnPUCPZr',
+    id: 1172,
+    name: 'Broxie #1172',
     attributes: [
       {
         trait_type: 'back',
@@ -53956,10 +60988,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXrJMpMxGRNf1K1PeEKgPPWJN87wz9eDtGXGWbnPUCPZr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWDoWTLJXfYvdRTZ1qnsuP4bjaTDo5rhr4MZA5cueGjNk',
+    address:
+      '0:b0ae6cc6b37893163a192eecc3be6c74b4bf101f45fb1b57f0e1b52974f4151a',
   },
   {
-    previewUrl: 'QmfHFeBDLv5kihyyB4kom3zQNb1hnyEj5SMZr8Dwk3HmEE',
-    ipfsUrl: 'QmXhyvaD3NrcV2MMWhJrgw2PuWTVzyBa19z34SuT97tnSS',
+    id: 1173,
+    name: 'Broxie #1173',
     attributes: [
       {
         trait_type: 'back',
@@ -54002,10 +61040,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmXhyvaD3NrcV2MMWhJrgw2PuWTVzyBa19z34SuT97tnSS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfHFeBDLv5kihyyB4kom3zQNb1hnyEj5SMZr8Dwk3HmEE',
+    address:
+      '0:2871e358eaa105e971abc3ed6364acadb6e479068c7cb251f5226661293f0bcb',
   },
   {
-    previewUrl: 'QmdBTv18gcAK5dM99E7uSkK9mf2NrSkXAE8DP6CKKsMEfi',
-    ipfsUrl: 'QmWaiTqqtPBxZjGB8NW6PZKVHw3TsEaxDJ9krc4jUqoL8h',
+    id: 1174,
+    name: 'Broxie #1174',
     attributes: [
       {
         trait_type: 'back',
@@ -54048,10 +61092,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmWaiTqqtPBxZjGB8NW6PZKVHw3TsEaxDJ9krc4jUqoL8h',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdBTv18gcAK5dM99E7uSkK9mf2NrSkXAE8DP6CKKsMEfi',
+    address:
+      '0:4d05a3ac29147fab49503156de898957d8a05c4dedfcd35dc1ab4bdc551b6ddb',
   },
   {
-    previewUrl: 'QmdTiLHYr8VCnw7DCy8BUrmp316oaabdZYnZYwiTLGBRcs',
-    ipfsUrl: 'QmcAPCzsKMozpmk1zc6LdnC5UDojb5mNk3nDe1h9bzjU47',
+    id: 1175,
+    name: 'Broxie #1175',
     attributes: [
       {
         trait_type: 'back',
@@ -54094,10 +61144,16 @@ export const broxieCollection = [
         value: 'Alien',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcAPCzsKMozpmk1zc6LdnC5UDojb5mNk3nDe1h9bzjU47',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdTiLHYr8VCnw7DCy8BUrmp316oaabdZYnZYwiTLGBRcs',
+    address:
+      '0:d455605ce142159bf4b01b4d847aaf8c4846f77feb62c165d1ddce2e31f94ac3',
   },
   {
-    previewUrl: 'QmWqss9tMEodub7NTzTNBwXBzZRz7rSBfVpuciFETKhjFX',
-    ipfsUrl: 'QmaiuWUjBjDsYwGiBtCX4aryuKgm2Lky2MdZQWkqmMusYE',
+    id: 1176,
+    name: 'Broxie #1176',
     attributes: [
       {
         trait_type: 'back',
@@ -54140,10 +61196,16 @@ export const broxieCollection = [
         value: 'Puzzled',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaiuWUjBjDsYwGiBtCX4aryuKgm2Lky2MdZQWkqmMusYE',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWqss9tMEodub7NTzTNBwXBzZRz7rSBfVpuciFETKhjFX',
+    address:
+      '0:05fbe165467e2088a8a4db1f0ebdd27257445a7940ecdca11a7d47afcbac2796',
   },
   {
-    previewUrl: 'QmWZFqErvNKecPCh3F8znvqRWF7gNkbuManzGRWSpXbZgD',
-    ipfsUrl: 'QmcaQpTXaCAmo28bNMmSVutk19m75xGxPCjsQv2W454ctk',
+    id: 1177,
+    name: 'Broxie #1177',
     attributes: [
       {
         trait_type: 'back',
@@ -54186,10 +61248,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcaQpTXaCAmo28bNMmSVutk19m75xGxPCjsQv2W454ctk',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmWZFqErvNKecPCh3F8znvqRWF7gNkbuManzGRWSpXbZgD',
+    address:
+      '0:4c85dcb7909bbecf8a67010496ce9b3efca9525d8f8e22f0a7a1704859fa8bdd',
   },
   {
-    previewUrl: 'QmNrmvrzbGvQ74i9P6P7TahiMdFJpXkqTe6LhSi44f7N58',
-    ipfsUrl: 'QmcM1xXREmnBsAxUmWRdWaVBQKb7NgMaXD5U6VPA7DmLLw',
+    id: 1178,
+    name: 'Broxie #1178',
     attributes: [
       {
         trait_type: 'back',
@@ -54232,10 +61300,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcM1xXREmnBsAxUmWRdWaVBQKb7NgMaXD5U6VPA7DmLLw',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNrmvrzbGvQ74i9P6P7TahiMdFJpXkqTe6LhSi44f7N58',
+    address:
+      '0:9db0e117f4cbb7f80ff0babdec806c7c024f35a04a2f158802bd5adb6b0e5d38',
   },
   {
-    previewUrl: 'QmV177JZxqZRzNe8b3H6MZGESDX198zwRfdVnuMKe2FCFz',
-    ipfsUrl: 'QmNYbqP1EFud6vMJGX3B4BAvuNkWPF51s4rDoVmN26WtiC',
+    id: 1179,
+    name: 'Broxie #1179',
     attributes: [
       {
         trait_type: 'back',
@@ -54278,10 +61352,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNYbqP1EFud6vMJGX3B4BAvuNkWPF51s4rDoVmN26WtiC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmV177JZxqZRzNe8b3H6MZGESDX198zwRfdVnuMKe2FCFz',
+    address:
+      '0:46fbd9774c35602ff020952fea8350435fdc5cc1598695b8f028b9833bc72303',
   },
   {
-    previewUrl: 'QmTK2uDWiB5ZpZmHsDgkamFu5VUxLGcjLEcw3JFjEqFV7g',
-    ipfsUrl: 'Qmarr53xwZPty8MnhnwBaKEJBHVbpFjJbap2Er4j2jAaXB',
+    id: 1180,
+    name: 'Broxie #1180',
     attributes: [
       {
         trait_type: 'back',
@@ -54324,10 +61404,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmarr53xwZPty8MnhnwBaKEJBHVbpFjJbap2Er4j2jAaXB',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmTK2uDWiB5ZpZmHsDgkamFu5VUxLGcjLEcw3JFjEqFV7g',
+    address:
+      '0:8477143d22939e22dbb438798e382f58fd92b6c0d071e2c11e3a04d8d26378f8',
   },
   {
-    previewUrl: 'QmVA8kAV92XxHp3NQsMZMX1fU53bD7pE6WfeHSfKNWhYr1',
-    ipfsUrl: 'QmZJi4YViqJGm9pDsPMBRcuPpLu1Ups7B2YN7xaR2gUyq1',
+    id: 1181,
+    name: 'Broxie #1181',
     attributes: [
       {
         trait_type: 'back',
@@ -54370,10 +61456,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZJi4YViqJGm9pDsPMBRcuPpLu1Ups7B2YN7xaR2gUyq1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmVA8kAV92XxHp3NQsMZMX1fU53bD7pE6WfeHSfKNWhYr1',
+    address:
+      '0:dc54056d72bc2b9df7ec4772cd31da7b6681bd7b6a5d1189282ee1326385fe24',
   },
   {
-    previewUrl: 'QmXhHAAN69SyCwmz8GPdqtiBJaGwB3hqdLRPW4J7Rmvjzx',
-    ipfsUrl: 'QmZd4UcytS6mJzzLPAwJUmjb1cADdMbMiFiSfcrCWwW7gf',
+    id: 1182,
+    name: 'Broxie #1182',
     attributes: [
       {
         trait_type: 'back',
@@ -54416,10 +61508,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZd4UcytS6mJzzLPAwJUmjb1cADdMbMiFiSfcrCWwW7gf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXhHAAN69SyCwmz8GPdqtiBJaGwB3hqdLRPW4J7Rmvjzx',
+    address:
+      '0:49244c10fa99e610007d2ba1c65c89b3ae34300c1559a2c1d9c903e74c38821c',
   },
   {
-    previewUrl: 'QmcaL6BZouncWGUr5ZCnEff7LUzDotzNfo3vDazwvjdZFf',
-    ipfsUrl: 'QmTUVPsho153iTXDYkgBdj1V5awQHBmsA4NRFDrVpCnec1',
+    id: 1183,
+    name: 'Broxie #1183',
     attributes: [
       {
         trait_type: 'back',
@@ -54462,10 +61560,16 @@ export const broxieCollection = [
         value: 'In love',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTUVPsho153iTXDYkgBdj1V5awQHBmsA4NRFDrVpCnec1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcaL6BZouncWGUr5ZCnEff7LUzDotzNfo3vDazwvjdZFf',
+    address:
+      '0:5049ad45e10d88bbd53c7cf158658f145834e78e7e723b24e382372b2079fb28',
   },
   {
-    previewUrl: 'QmdRoEKpywHsfCQcR5WUxiLHrntbeKUKRjqzEkQ7JJExda',
-    ipfsUrl: 'QmNbpeAskjkmUQ9yuB3pFsVdW8AhzttNQ6uXKtXxySXtH4',
+    id: 1184,
+    name: 'Broxie #1184',
     attributes: [
       {
         trait_type: 'back',
@@ -54508,10 +61612,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNbpeAskjkmUQ9yuB3pFsVdW8AhzttNQ6uXKtXxySXtH4',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdRoEKpywHsfCQcR5WUxiLHrntbeKUKRjqzEkQ7JJExda',
+    address:
+      '0:97af15fd4a29cd159ec1ff78277533dcbea48c6d866d17cde499316418b4c573',
   },
   {
-    previewUrl: 'QmYPpvm2zJ9TUGxdhVGjVzUVfnCMTnRpovXbUyB9TXkux6',
-    ipfsUrl: 'QmQMTQqCc2ngMV4kCbqQMXaAXeYLPJ9DxewHDkrHq4bbM1',
+    id: 1185,
+    name: 'Broxie #1185',
     attributes: [
       {
         trait_type: 'back',
@@ -54554,10 +61664,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQMTQqCc2ngMV4kCbqQMXaAXeYLPJ9DxewHDkrHq4bbM1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYPpvm2zJ9TUGxdhVGjVzUVfnCMTnRpovXbUyB9TXkux6',
+    address:
+      '0:48f60630000c8af48605106a027ac0ca0bcc8e9046a072232dbcb8eed05f9cfa',
   },
   {
-    previewUrl: 'QmYUPpvkP7cQTp11TytUoqJsoyFaPWDnYS6wXq1rXC56FR',
-    ipfsUrl: 'QmU1nEA5tDJ5ELJdiCEWGML98AMEWE3WsqGhs9Bb66PvCH',
+    id: 1186,
+    name: 'Broxie #1186',
     attributes: [
       {
         trait_type: 'back',
@@ -54600,10 +61716,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmU1nEA5tDJ5ELJdiCEWGML98AMEWE3WsqGhs9Bb66PvCH',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYUPpvkP7cQTp11TytUoqJsoyFaPWDnYS6wXq1rXC56FR',
+    address:
+      '0:00ee2d9bc78045d6ac56f628d5be837559e39038db046b5ec9460cad3b37a667',
   },
   {
-    previewUrl: 'QmY6QbgZgJnRfTsXVDoh1YukNStxyfNnxnbpLysjVnzHxU',
-    ipfsUrl: 'Qma4qnMyovxm4TgJXiZrTXnG7wRay9FgF7Ae3bSabrSE6G',
+    id: 1187,
+    name: 'Broxie #1187',
     attributes: [
       {
         trait_type: 'back',
@@ -54646,10 +61768,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qma4qnMyovxm4TgJXiZrTXnG7wRay9FgF7Ae3bSabrSE6G',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmY6QbgZgJnRfTsXVDoh1YukNStxyfNnxnbpLysjVnzHxU',
+    address:
+      '0:809f08224fd053a3edf2e9258a86591132852dfe8dd3f2048827d5b49f5c136c',
   },
   {
-    previewUrl: 'QmaazHQu6GQvR4RqpT7AJTRx4x8J2VaftmxzFxgM7Zwja6',
-    ipfsUrl: 'QmbwaGue5UdmhHWFxJFWSqeFd6WFXLeewFjQnqATEnz2Dr',
+    id: 1188,
+    name: 'Broxie #1188',
     attributes: [
       {
         trait_type: 'back',
@@ -54692,10 +61820,16 @@ export const broxieCollection = [
         value: 'Rap star',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbwaGue5UdmhHWFxJFWSqeFd6WFXLeewFjQnqATEnz2Dr',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaazHQu6GQvR4RqpT7AJTRx4x8J2VaftmxzFxgM7Zwja6',
+    address:
+      '0:560d2622d39766ffc116525947575177fc22d5eb2d2d8b1c6368571c6fb136ea',
   },
   {
-    previewUrl: 'QmPxM3qKdGSKLB3PhZMCfu8rKCQHhqezZ3798VvQz3PSpG',
-    ipfsUrl: 'QmVtyyYwkP5nwfYDBJfquH6pYUkxEyQnJCjoSSLnANV4qT',
+    id: 1189,
+    name: 'Broxie #1189',
     attributes: [
       {
         trait_type: 'back',
@@ -54738,10 +61872,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmVtyyYwkP5nwfYDBJfquH6pYUkxEyQnJCjoSSLnANV4qT',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmPxM3qKdGSKLB3PhZMCfu8rKCQHhqezZ3798VvQz3PSpG',
+    address:
+      '0:339b717114272859e5dbd49f951e670a7dbffe584c6eb21bbebed3b6cef788b8',
   },
   {
-    previewUrl: 'QmUVWcVN4iYTHgWMJo7jsg5j4AtCfiFfDr1NS89MwBU7RA',
-    ipfsUrl: 'QmeFxhvu2VtYPPvTaVNxSDcwKjjHAzsPiMg1WPvjxsV8sA',
+    id: 1190,
+    name: 'Broxie #1190',
     attributes: [
       {
         trait_type: 'back',
@@ -54784,10 +61924,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeFxhvu2VtYPPvTaVNxSDcwKjjHAzsPiMg1WPvjxsV8sA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUVWcVN4iYTHgWMJo7jsg5j4AtCfiFfDr1NS89MwBU7RA',
+    address:
+      '0:3fef55e1cffd241dd6d77e080d8514f86ad2a3273096ffa6a552e2b28822b8ca',
   },
   {
-    previewUrl: 'QmdAH8rnnBWNLTRG8CkDUTKVQcb4UTu8p87cCYDATzqUDS',
-    ipfsUrl: 'Qmaw7qzES4ivgLSNL8FtrsWRaxiuom6PekdmQ84ncgz49k',
+    id: 1191,
+    name: 'Broxie #1191',
     attributes: [
       {
         trait_type: 'back',
@@ -54830,10 +61976,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmaw7qzES4ivgLSNL8FtrsWRaxiuom6PekdmQ84ncgz49k',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmdAH8rnnBWNLTRG8CkDUTKVQcb4UTu8p87cCYDATzqUDS',
+    address:
+      '0:09a726cbefc8e433e969acc9bc350837af30c18a79000a7180b149f009ab93f8',
   },
   {
-    previewUrl: 'Qmb163WCDuH9Aj6gn9NXnFHLS37BLfWNf58WjCgkitkHhc',
-    ipfsUrl: 'QmPajSLRNv95zoDAnHUMvDwyn2v1gCKRbmfAvSASs1D32A',
+    id: 1192,
+    name: 'Broxie #1192',
     attributes: [
       {
         trait_type: 'back',
@@ -54876,10 +62028,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPajSLRNv95zoDAnHUMvDwyn2v1gCKRbmfAvSASs1D32A',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmb163WCDuH9Aj6gn9NXnFHLS37BLfWNf58WjCgkitkHhc',
+    address:
+      '0:bdccd57c4a98f3b38584a703ec99ccea87eb7606c2201ba5430ddac589f6f0a6',
   },
   {
-    previewUrl: 'QmarYiEgkFfaUtg1B5iUV8TWCsQKbRK89xJMtkqqvwyJqS',
-    ipfsUrl: 'QmPAJJXoku4NQos57FBEH5F84vnHPxYesj7hmPn7zP36Hf',
+    id: 1193,
+    name: 'Broxie #1193',
     attributes: [
       {
         trait_type: 'back',
@@ -54922,10 +62080,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPAJJXoku4NQos57FBEH5F84vnHPxYesj7hmPn7zP36Hf',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmarYiEgkFfaUtg1B5iUV8TWCsQKbRK89xJMtkqqvwyJqS',
+    address:
+      '0:d38ecf225ca14bff4ae20b383c18694578fe5201ba50b455f32d0667130482af',
   },
   {
-    previewUrl: 'QmUkyxRm6DgpZW4mnFTzFPM6i6eYxvP7KunSk4Mmajj6d7',
-    ipfsUrl: 'QmTDmcpiQBBREabPh4e1UCxQ59gLxX8XACxnP8rCpGKu23',
+    id: 1194,
+    name: 'Broxie #1194',
     attributes: [
       {
         trait_type: 'back',
@@ -54968,10 +62132,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTDmcpiQBBREabPh4e1UCxQ59gLxX8XACxnP8rCpGKu23',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUkyxRm6DgpZW4mnFTzFPM6i6eYxvP7KunSk4Mmajj6d7',
+    address:
+      '0:f24f2c96196e8b89dcdfeb92c8588562a11bf29fef70f3eed4ebcbd9b7f4ab34',
   },
   {
-    previewUrl: 'QmRTaMk4iFv6ro2fVjt4UkhiR8SafeDpMvpTYiJr4XQm7Q',
-    ipfsUrl: 'QmceTcz9bPENRas6Bpu7nXwqHunEzQYRaV614srK8uhRnM',
+    id: 1195,
+    name: 'Broxie #1195',
     attributes: [
       {
         trait_type: 'back',
@@ -55014,10 +62184,16 @@ export const broxieCollection = [
         value: 'Smoking angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmceTcz9bPENRas6Bpu7nXwqHunEzQYRaV614srK8uhRnM',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRTaMk4iFv6ro2fVjt4UkhiR8SafeDpMvpTYiJr4XQm7Q',
+    address:
+      '0:7689b7e5523ade04eb4980e2478f29355f1299817aae0026e3d2dc953f8ccdc3',
   },
   {
-    previewUrl: 'QmZdJptpQHoeG1WxamsLJH4jmEoTucAeJd4kkmkPiimgY6',
-    ipfsUrl: 'QmZjMgRXPDnsP7cBKQTb61QuCT76rAjf3fEFJVypWFdsHg',
+    id: 1196,
+    name: 'Broxie #1196',
     attributes: [
       {
         trait_type: 'back',
@@ -55060,10 +62236,16 @@ export const broxieCollection = [
         value: 'Boss',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZjMgRXPDnsP7cBKQTb61QuCT76rAjf3fEFJVypWFdsHg',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZdJptpQHoeG1WxamsLJH4jmEoTucAeJd4kkmkPiimgY6',
+    address:
+      '0:bb69facbd5f3db53c63ad9f14fe8a5f8f92b5be3454b4cea906200b0d549f0f5',
   },
   {
-    previewUrl: 'QmSTrLMhqJtHh1AjVFJRau1LfXS1xK6mXnGV112xMdSC4E',
-    ipfsUrl: 'QmaZct3VY9qdRXQ6eo3ezwUF4DLPGVPPGxhMCvxe17fUiL',
+    id: 1197,
+    name: 'Broxie #1197',
     attributes: [
       {
         trait_type: 'back',
@@ -55106,10 +62288,16 @@ export const broxieCollection = [
         value: 'Aristocrat',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaZct3VY9qdRXQ6eo3ezwUF4DLPGVPPGxhMCvxe17fUiL',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSTrLMhqJtHh1AjVFJRau1LfXS1xK6mXnGV112xMdSC4E',
+    address:
+      '0:dddd0f0c26c417bffb5faef729b35318b36eb35d0cdb4875f47087497dbbd010',
   },
   {
-    previewUrl: 'QmRvEHfhq38Ry6rhGEbyz1VMCYY33SKfiLLgggSPGY1tFb',
-    ipfsUrl: 'QmavUN3Tc666r1te2wYi7qdrWcswkYPv2Ms2w7mJJTtFuS',
+    id: 1198,
+    name: 'Broxie #1198',
     attributes: [
       {
         trait_type: 'back',
@@ -55152,10 +62340,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmavUN3Tc666r1te2wYi7qdrWcswkYPv2Ms2w7mJJTtFuS',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmRvEHfhq38Ry6rhGEbyz1VMCYY33SKfiLLgggSPGY1tFb',
+    address:
+      '0:24851e7d64d24880e64aff533e9d519f1e7a3b90cb5e08a28768ca57e2570a94',
   },
   {
-    previewUrl: 'QmcnYRRW9mKQmCvFSYtHc9oyz322wwKDgagUFGay2fDxMx',
-    ipfsUrl: 'QmQkjCLUwHDav7N2939rU9kBpn6k1UUiF8X5JWcRgd8SRD',
+    id: 1199,
+    name: 'Broxie #1199',
     attributes: [
       {
         trait_type: 'back',
@@ -55198,10 +62392,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmQkjCLUwHDav7N2939rU9kBpn6k1UUiF8X5JWcRgd8SRD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmcnYRRW9mKQmCvFSYtHc9oyz322wwKDgagUFGay2fDxMx',
+    address:
+      '0:956cc1e8cdc7aacf8e3ea4afe9b17f8675d31755126a5ff89102b7872513806e',
   },
   {
-    previewUrl: 'QmYnQnC2MqxFBiFEZ7rjsMLreJ8opARTc2QooC54AtBXBg',
-    ipfsUrl: 'QmcUHQtjgXzKcZNpQGFknD1regnmjSBkAydrmtr5H4Mfca',
+    id: 1200,
+    name: 'Broxie #1200',
     attributes: [
       {
         trait_type: 'back',
@@ -55244,10 +62444,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmcUHQtjgXzKcZNpQGFknD1regnmjSBkAydrmtr5H4Mfca',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYnQnC2MqxFBiFEZ7rjsMLreJ8opARTc2QooC54AtBXBg',
+    address:
+      '0:b919d1ed7c31a73f8c9d04e06508e745eac716b7c3fbe54efc68525c28d1c29f',
   },
   {
-    previewUrl: 'QmNgPhJQoDeRZyNKPozPyH686foT25uTuuYMWnCmGcJiVc',
-    ipfsUrl: 'QmYaufVUGC7Bi4HVasr3YLBQq4ywCxfM144gdedxGeqLib',
+    id: 1201,
+    name: 'Broxie #1201',
     attributes: [
       {
         trait_type: 'back',
@@ -55290,10 +62496,16 @@ export const broxieCollection = [
         value: 'Evil clown',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmYaufVUGC7Bi4HVasr3YLBQq4ywCxfM144gdedxGeqLib',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmNgPhJQoDeRZyNKPozPyH686foT25uTuuYMWnCmGcJiVc',
+    address:
+      '0:05b67681bce1e7f85b62f9920503c12c59cb59eb54dfd68f0eea44b679c675aa',
   },
   {
-    previewUrl: 'QmUNRKWeATxqC8Wc7jydcHgDdis4S16H8NnTNGJBqxH5on',
-    ipfsUrl: 'QmScWmosSnGSNFaxC3iJWJbYaypwpFhmtWEHxmEQSMTFWo',
+    id: 1202,
+    name: 'Broxie #1202',
     attributes: [
       {
         trait_type: 'back',
@@ -55336,10 +62548,16 @@ export const broxieCollection = [
         value: 'Crying',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmScWmosSnGSNFaxC3iJWJbYaypwpFhmtWEHxmEQSMTFWo',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUNRKWeATxqC8Wc7jydcHgDdis4S16H8NnTNGJBqxH5on',
+    address:
+      '0:34e74c93ef16893f9630745e43e5db5ee9587a3386cb43c699a9e32d12e97868',
   },
   {
-    previewUrl: 'QmW5zZ5yge2gjMDQMmWNnAAFiwQa5YC51PbgGbP6Y7v4tW',
-    ipfsUrl: 'Qma9JGKCEvjBbk6BGHa8v5Mn93Gom29aTgN9NWQ6yN8m5F',
+    id: 1203,
+    name: 'Broxie #1203',
     attributes: [
       {
         trait_type: 'back',
@@ -55382,10 +62600,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qma9JGKCEvjBbk6BGHa8v5Mn93Gom29aTgN9NWQ6yN8m5F',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmW5zZ5yge2gjMDQMmWNnAAFiwQa5YC51PbgGbP6Y7v4tW',
+    address:
+      '0:3983b2c505f90866feb4ab714b51dc4ccfd635090a62f7a47dda61c6d62ec5e3',
   },
   {
-    previewUrl: 'Qmd7bn4NePWyZYdvAMkzCn2j9HKyjkKdEZnJwLzDfanvQJ',
-    ipfsUrl: 'QmStpkbrjAYok8HpTPvtuP17TEB5hwG4ZtQDaTax8Fr1rC',
+    id: 1204,
+    name: 'Broxie #1204',
     attributes: [
       {
         trait_type: 'back',
@@ -55428,10 +62652,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmStpkbrjAYok8HpTPvtuP17TEB5hwG4ZtQDaTax8Fr1rC',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmd7bn4NePWyZYdvAMkzCn2j9HKyjkKdEZnJwLzDfanvQJ',
+    address:
+      '0:efa12e6418117d200d8120b8511d567b003cc86ccb2b62bc5f14ac7502a06903',
   },
   {
-    previewUrl: 'Qma4f8HkYm8EnZvTcrTtjGMorKbdHz1kYs1C8HsTZveBX7',
-    ipfsUrl: 'QmeHGhdYSUuwFNVdDp3LR736pKn3VsPAXfAbf9AB1XU4xx',
+    id: 1205,
+    name: 'Broxie #1205',
     attributes: [
       {
         trait_type: 'back',
@@ -55474,10 +62704,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeHGhdYSUuwFNVdDp3LR736pKn3VsPAXfAbf9AB1XU4xx',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma4f8HkYm8EnZvTcrTtjGMorKbdHz1kYs1C8HsTZveBX7',
+    address:
+      '0:1d1b65a5e41c24b9bd2ad4f533f18f6d4c00f0507a19603c5fe30e099edae8a1',
   },
   {
-    previewUrl: 'QmSqYRKcLgLfxiCJtWbuhdSritah6bFVEZao3VXc8xfmbx',
-    ipfsUrl: 'QmaFt4bpzNfUMaMgkZyBtgnb9usihWopWgKN4zJQiyxY8x',
+    id: 1206,
+    name: 'Broxie #1206',
     attributes: [
       {
         trait_type: 'back',
@@ -55520,10 +62756,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmaFt4bpzNfUMaMgkZyBtgnb9usihWopWgKN4zJQiyxY8x',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmSqYRKcLgLfxiCJtWbuhdSritah6bFVEZao3VXc8xfmbx',
+    address:
+      '0:ff1900544a8faeb375fc93b890473b1f0f09b609fab33988cc8f2591dd7ae9d8',
   },
   {
-    previewUrl: 'QmQjPnXn7ggDd4s1j9SWSdYd68cpEUdUZ1yK75hsBbgCur',
-    ipfsUrl: 'QmT4cjNukZSjBDc8h77ABctJA6HPSfEEBqqm6kheSi19Q5',
+    id: 1207,
+    name: 'Broxie #1207',
     attributes: [
       {
         trait_type: 'back',
@@ -55566,10 +62808,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmT4cjNukZSjBDc8h77ABctJA6HPSfEEBqqm6kheSi19Q5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmQjPnXn7ggDd4s1j9SWSdYd68cpEUdUZ1yK75hsBbgCur',
+    address:
+      '0:ffc489a43bef06bbd17cc287e4500621fce3520c4d5e0ab923c284c8b65d1988',
   },
   {
-    previewUrl: 'QmZFksVAccyPtmhdTE3zUjA1xfWLVo6B2XzK4Hn2NtTaPc',
-    ipfsUrl: 'QmNkks8etgyMxbZJkRd9MyaANwDrDyKHSUojP2RA6DnG1K',
+    id: 1208,
+    name: 'Broxie #1208',
     attributes: [
       {
         trait_type: 'back',
@@ -55612,10 +62860,16 @@ export const broxieCollection = [
         value: 'Anime',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmNkks8etgyMxbZJkRd9MyaANwDrDyKHSUojP2RA6DnG1K',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmZFksVAccyPtmhdTE3zUjA1xfWLVo6B2XzK4Hn2NtTaPc',
+    address:
+      '0:eb0d6583bd390223094674ba8779831538a1b35c6663ec3110fe0cef658b057f',
   },
   {
-    previewUrl: 'QmfCV1KJjX9L9zFXmA5xpYU5v1oJBsWBmU6VHKKqGcb1pX',
-    ipfsUrl: 'QmUhpZjSxmJ63XhCWShMhgq2881oqzRE2MdUkXwhNBhHq5',
+    id: 1209,
+    name: 'Broxie #1209',
     attributes: [
       {
         trait_type: 'back',
@@ -55658,10 +62912,16 @@ export const broxieCollection = [
         value: 'Devil',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUhpZjSxmJ63XhCWShMhgq2881oqzRE2MdUkXwhNBhHq5',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmfCV1KJjX9L9zFXmA5xpYU5v1oJBsWBmU6VHKKqGcb1pX',
+    address:
+      '0:bf0a3a20104103821f41135f276700991ad9ef365d1afe194484f78f733ff389',
   },
   {
-    previewUrl: 'QmY2PxW8GFHpwhzwgqV1L8BGRgvMJnGix96NavQo4eXquZ',
-    ipfsUrl: 'QmZCKzkSdkg8ZBg1p1BGP6Tfi45z6uFNomZFvPk5wB35r8',
+    id: 1210,
+    name: 'Broxie #1210',
     attributes: [
       {
         trait_type: 'back',
@@ -55704,10 +62964,16 @@ export const broxieCollection = [
         value: 'Cute',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmZCKzkSdkg8ZBg1p1BGP6Tfi45z6uFNomZFvPk5wB35r8',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmY2PxW8GFHpwhzwgqV1L8BGRgvMJnGix96NavQo4eXquZ',
+    address:
+      '0:db4f97480c67f448ad4d9e1ceed3010bd3a157342a5db9b22603af6f60d89ce6',
   },
   {
-    previewUrl: 'QmUBEVBtg1qvCZx91E3nVVdhP1JjL49fYLhNVHKqt5Y9mG',
-    ipfsUrl: 'Qmae6MuUGEYo7jPTk5pusC2XthEKrktHHspj2PLs5zT2dA',
+    id: 1211,
+    name: 'Broxie #1211',
     attributes: [
       {
         trait_type: 'back',
@@ -55750,10 +63016,16 @@ export const broxieCollection = [
         value: 'Relaxed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/Qmae6MuUGEYo7jPTk5pusC2XthEKrktHHspj2PLs5zT2dA',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUBEVBtg1qvCZx91E3nVVdhP1JjL49fYLhNVHKqt5Y9mG',
+    address:
+      '0:0fe842a532257551a7983de3562ee2d88f0b50e63a0b027abcfb9cb5d3a195c0',
   },
   {
-    previewUrl: 'QmUBaheDv8rnRTtn6TnGoMkz66ak9YPjqVvSscqDnJXToG',
-    ipfsUrl: 'QmeDrGJbxUnSXDnzLLYUApPzexkuxb6z91DEsLH3djmzXJ',
+    id: 1212,
+    name: 'Broxie #1212',
     attributes: [
       {
         trait_type: 'back',
@@ -55796,10 +63068,16 @@ export const broxieCollection = [
         value: 'Angry',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmeDrGJbxUnSXDnzLLYUApPzexkuxb6z91DEsLH3djmzXJ',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmUBaheDv8rnRTtn6TnGoMkz66ak9YPjqVvSscqDnJXToG',
+    address:
+      '0:1295fdbd26fd081d56d843b33fc7a9c19ef24bbdbf4076d244d590a2cbda77fc',
   },
   {
-    previewUrl: 'QmXSLQi5qT4s1y86XhK3Uyhj1G9f1pmzFNerGnr6udAtCy',
-    ipfsUrl: 'QmX143v2yeeT9wWairSgStG3RNRqA8jTWTS3FnaEaZuXjW',
+    id: 1213,
+    name: 'Broxie #1213',
     attributes: [
       {
         trait_type: 'back',
@@ -55842,10 +63120,16 @@ export const broxieCollection = [
         value: 'That one girl',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmX143v2yeeT9wWairSgStG3RNRqA8jTWTS3FnaEaZuXjW',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmXSLQi5qT4s1y86XhK3Uyhj1G9f1pmzFNerGnr6udAtCy',
+    address:
+      '0:6f13bb3d84399a6eca5e05077aac40dc0e042c0383cbb11cbb7b75ea8a11e83d',
   },
   {
-    previewUrl: 'Qmeb9R5rHw4YFYDkLApi2F5xep9rdesU13yCEb7LEf6P8g',
-    ipfsUrl: 'QmTMx65B3VsuyXexj4H9q7CugSyR5KdbbmwMSZoyLHfTuD',
+    id: 1214,
+    name: 'Broxie #1214',
     attributes: [
       {
         trait_type: 'back',
@@ -55888,10 +63172,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmTMx65B3VsuyXexj4H9q7CugSyR5KdbbmwMSZoyLHfTuD',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmeb9R5rHw4YFYDkLApi2F5xep9rdesU13yCEb7LEf6P8g',
+    address:
+      '0:547a96abf7caa603138e5247e5181d0b65f17ca990ca44b6ca340599bb8c31f5',
   },
   {
-    previewUrl: 'Qmagdhjs5VzYbBVPGijGLJa9CEsQZbDTmDS8DyMTbjCdtc',
-    ipfsUrl: 'QmR2kFA2oq4ShtUXiiGFewxmqsW37X1ZwRJHdvwhqLbs2A',
+    id: 1215,
+    name: 'Broxie #1215',
     attributes: [
       {
         trait_type: 'back',
@@ -55934,10 +63224,16 @@ export const broxieCollection = [
         value: 'Vampire',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmR2kFA2oq4ShtUXiiGFewxmqsW37X1ZwRJHdvwhqLbs2A',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qmagdhjs5VzYbBVPGijGLJa9CEsQZbDTmDS8DyMTbjCdtc',
+    address:
+      '0:db4dbb312e518961fd92f827c36b7941b8ce7692641ac40b9b6aaf6eebc01384',
   },
   {
-    previewUrl: 'QmYwsrrdgFTSQUUxk3Y9u1vtM6QDRykp9khmZ8HimjWBdJ',
-    ipfsUrl: 'QmetyXJVGbsmRmYL2XmrHZkQmhc8cWS6aiSMYVJYZ1ESXj',
+    id: 1216,
+    name: 'Broxie #1216',
     attributes: [
       {
         trait_type: 'back',
@@ -55980,10 +63276,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmetyXJVGbsmRmYL2XmrHZkQmhc8cWS6aiSMYVJYZ1ESXj',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmYwsrrdgFTSQUUxk3Y9u1vtM6QDRykp9khmZ8HimjWBdJ',
+    address:
+      '0:5c6e272e4aeaf68b76bd2f03f8d7f10bc92de381fd23f00573bd955e57411ecb',
   },
   {
-    previewUrl: 'QmaiWk9ScqKVsYyzD4WtURNpi1XdFCiUKAakP5FwpmKewX',
-    ipfsUrl: 'QmV3qqCS4yzHdFjGQnmarPcL4ciYNnNXsTraX1y3wZfM39',
+    id: 1217,
+    name: 'Broxie #1217',
     attributes: [
       {
         trait_type: 'back',
@@ -56026,10 +63328,16 @@ export const broxieCollection = [
         value: 'Obsessed',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmV3qqCS4yzHdFjGQnmarPcL4ciYNnNXsTraX1y3wZfM39',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmaiWk9ScqKVsYyzD4WtURNpi1XdFCiUKAakP5FwpmKewX',
+    address:
+      '0:2e0a36a87ab3c06b6d886487f941f1911688eb66956668f0a5e6bfe747e95871',
   },
   {
-    previewUrl: 'Qma41v38eopkzjzwPRGBfTMvjBy3Pz63RPaF2udKyvcjrG',
-    ipfsUrl: 'QmPL387T86dCkBSTdtrGEUi9VhqGHeu7ggNbZtMpfiUb5B',
+    id: 1218,
+    name: 'Broxie #1218',
     attributes: [
       {
         trait_type: 'back',
@@ -56072,10 +63380,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmPL387T86dCkBSTdtrGEUi9VhqGHeu7ggNbZtMpfiUb5B',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/Qma41v38eopkzjzwPRGBfTMvjBy3Pz63RPaF2udKyvcjrG',
+    address:
+      '0:205af30b899b6761d9ff5b74a6f81816fe65ebd64e6fbceefe07b1fbfffb7ed3',
   },
   {
-    previewUrl: 'QmckZYasL43pEn21hW1yQYtsy1m1FgzAsjM4TRo3LXJMMM',
-    ipfsUrl: 'QmUecawKzvN5fXLuU2rvmtLaZwR3uRtsF9CsRoTQbACoJ1',
+    id: 1219,
+    name: 'Broxie #1219',
     attributes: [
       {
         trait_type: 'back',
@@ -56118,10 +63432,16 @@ export const broxieCollection = [
         value: 'Regular',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmUecawKzvN5fXLuU2rvmtLaZwR3uRtsF9CsRoTQbACoJ1',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmckZYasL43pEn21hW1yQYtsy1m1FgzAsjM4TRo3LXJMMM',
+    address:
+      '0:e14713d6321950efb6d4e6f743220428fc2f0417f6f6fadf189e1b756ead0d6d',
   },
   {
-    previewUrl: 'QmR97sMhidrnn3A4CooQTFApf6iRVtRvxoqpXZNXFt6Lea',
-    ipfsUrl: 'QmbWqboFrogJci4DNJWkT4NWJ3di9YUAp2uZeZEE2QMf5J',
+    id: 1220,
+    name: 'Broxie #1220',
     attributes: [
       {
         trait_type: 'back',
@@ -56164,5 +63484,11 @@ export const broxieCollection = [
         value: 'Fallen angel',
       },
     ],
+    ipfsUrl:
+      'https://ipfs.broxus.com/ipfs/QmbWqboFrogJci4DNJWkT4NWJ3di9YUAp2uZeZEE2QMf5J',
+    previewUrl:
+      'https://ipfs.broxus.com/ipfs/QmR97sMhidrnn3A4CooQTFApf6iRVtRvxoqpXZNXFt6Lea',
+    address:
+      '0:f29462fd133fed4f445561c25cced43b3859b310d58e0b1245b6f1f9142d279a',
   },
 ];

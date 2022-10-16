@@ -47,6 +47,7 @@ export class StaticDataStore {
         telegram: 'https://t.me/broxieNFT_chat',
         instagram: 'https://instagram.com/broxieNFT',
       },
+      ipfs: 'https://ipfs.broxus.com/ipfs',
     };
   }
 

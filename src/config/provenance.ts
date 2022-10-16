@@ -1,5 +1,4 @@
 export const provenanceConfig = {
-  ipfsUrl: 'https://ipfs.broxus.com/ipfs',
   provenanceHash:
     'd3e0ec7d91822afef47a59e03756893a44ab5d9af60bfaa679062504f59df96c',
   imgHash: [

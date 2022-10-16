@@ -21,7 +21,7 @@ const GalleryFilterItem = ({
   onChange,
 }: GalleryFilterItemProps) => {
   return (
-    <div className='flex flex-col items-start space-y-1 p-2 text-secondaryBg/80'>
+    <div className='flex flex-col items-start space-y-1 text-secondaryBg/80'>
       <span className='font-header text-2xl text-primary'>{label}</span>
 
       <SingleSelect
@@ -39,7 +39,7 @@ const GalleryFilter = observer(() => {
 
   return (
     <div className='flex flex-col space-y-4'>
-      <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4'>
+      <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-4 gap-y-2'>
         <GalleryFilterItem
           label='Items'
           options={galleryFilterOptions.items}
