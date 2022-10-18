@@ -103,7 +103,14 @@ export class GalleryStore {
     );
   }
 
-  private _collection = broxieCollection;
+  private _collection = broxieCollection.map((x) => ({
+    id: x.id,
+    name: x.name,
+    attributes: x.attributes,
+    ipfsUrl: x.ipfsUrl,
+    previewUrl: `/collection/${x.id}.jpg`,
+    address: x.address,
+  }));
 
   private get _ownedNfts(): BroxieNft[] {
     const totalNft = this.broxieStore.marketInfo.nftTotal;
@@ -112,7 +119,7 @@ export class GalleryStore {
     return this.buyBroxieStore.currentBalance.ownedNfts.map((id) => {
       const shiftedIndex = getNftShiftedIndex(id, totalNft, startIndex) ?? id;
 
-      return broxieCollection[shiftedIndex];
+      return this._collection[shiftedIndex];
     });
   }
 }
