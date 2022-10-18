@@ -27,12 +27,13 @@ const GalleryImage = React.forwardRef(
         )}
 
         <img
-          className='w-full h-auto rounded-xl'
+          className={`w-full h-auto rounded-xl ${loading ? 'opacity-0' : ''}`}
           src={broxie.previewUrl}
           alt={broxie.name}
           width={512}
           height={512}
           onLoad={() => setLoading(false)}
+          onError={() => setLoading(false)}
         />
 
         <span className='my-7 text-primary'>{broxie.name}</span>
