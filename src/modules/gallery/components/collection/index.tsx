@@ -27,7 +27,7 @@ const GalleryImage = React.forwardRef(
         )}
 
         <img
-          className='w-full h-auto rounded-xl'
+          className={`w-full h-auto rounded-xl ${loading ? 'opacity-0' : ''}`}
           src={broxie.previewUrl}
           alt={broxie.name}
           width={512}
