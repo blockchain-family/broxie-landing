@@ -33,6 +33,8 @@ const GalleryImage = React.forwardRef(
           width={512}
           height={512}
           onLoad={() => setLoading(false)}
+          onError={() => setLoading(false)}
+          loading='lazy'
         />
 
         <span className='my-7 text-primary'>{broxie.name}</span>
