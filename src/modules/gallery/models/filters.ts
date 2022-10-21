@@ -102,6 +102,10 @@ export const galleryFilterOptions: { [key: string]: SingleSelectValue[] } = {
       value: 'none',
     },
     {
+      label: 'Non-empty',
+      value: 'nonempty',
+    },
+    {
       label: 'Chain earring',
       value: 'chain_earring',
     },
@@ -139,6 +143,10 @@ export const galleryFilterOptions: { [key: string]: SingleSelectValue[] } = {
     {
       label: 'None',
       value: 'none',
+    },
+    {
+      label: 'Non-empty',
+      value: 'nonempty',
     },
     {
       label: 'Afro',
@@ -334,6 +342,10 @@ export const galleryFilterOptions: { [key: string]: SingleSelectValue[] } = {
     {
       label: 'None',
       value: 'none',
+    },
+    {
+      label: 'Non-empty',
+      value: 'nonempty',
     },
     {
       label: 'Basketball jersey',
@@ -543,6 +555,10 @@ export const galleryFilterOptions: { [key: string]: SingleSelectValue[] } = {
       value: 'none',
     },
     {
+      label: 'Non-empty',
+      value: 'nonempty',
+    },
+    {
       label: 'Clown',
       value: 'clown',
     },
@@ -572,6 +588,10 @@ export const galleryFilterOptions: { [key: string]: SingleSelectValue[] } = {
     {
       label: 'None',
       value: 'none',
+    },
+    {
+      label: 'Non-empty',
+      value: 'nonempty',
     },
     {
       label: 'Ancient necklace',
@@ -643,6 +663,10 @@ export const galleryFilterOptions: { [key: string]: SingleSelectValue[] } = {
     {
       label: 'None',
       value: 'none',
+    },
+    {
+      label: 'Non-empty',
+      value: 'nonempty',
     },
     {
       label: '3d glasses',
@@ -726,6 +750,10 @@ export const galleryFilterOptions: { [key: string]: SingleSelectValue[] } = {
     {
       label: 'None',
       value: 'none',
+    },
+    {
+      label: 'Non-empty',
+      value: 'nonempty',
     },
     {
       label: 'Angel wings',

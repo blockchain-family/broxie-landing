@@ -96,6 +96,12 @@ export class GalleryStore {
       return collection;
     }
 
+    if (value.value === 'nonempty') {
+      return collection.filter((x) =>
+        x.attributes.find((y) => y.trait_type === trait && y.value !== 'None')
+      );
+    }
+
     return collection.filter((x) =>
       x.attributes.find(
         (y) => y.trait_type === trait && y.value === value.label
