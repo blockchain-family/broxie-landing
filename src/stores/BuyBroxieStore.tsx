@@ -16,6 +16,7 @@ import {
 import { mintAsTransferAbi } from 'abi/everscale/mintAsTransfer';
 import { wrapEversToAbi } from 'abi/everscale/wrapEversTo';
 import { vaultAbi } from 'abi/everscale/vault';
+import { getOwnedNfts } from 'utils/marketplace';
 
 export enum PurchaseState {
   Start,
@@ -40,13 +41,15 @@ export type PurchaseResult = {
 };
 
 type BalanceInfo = {
-  ownedNfts: number[];
+  ownedNftsActual: number[];
+  ownedNftsMarket: number[];
   discounts: number;
   token: BigNumber;
 };
 
 const balanceInfoDefaultValue = {
-  ownedNfts: [],
+  ownedNftsActual: [],
+  ownedNftsMarket: [],
   discounts: 0,
   token: new BigNumber(0),
 };
@@ -75,7 +78,7 @@ export class BuyBroxieStore {
     return Math.min(
       this.broxieStore.availableNftCount,
       this.broxieStore.marketInfo.nftPerHand -
-        this.currentBalance.ownedNfts.length
+        this.currentBalance.ownedNftsMarket.length
     );
   }
 
@@ -226,8 +229,8 @@ export class BuyBroxieStore {
       const stateAfterPurchase = await this.getCurrentState();
 
       const nftPurchased =
-        stateAfterPurchase.ownedNfts.length -
-        stateBeforePurchase.ownedNfts.length;
+        stateAfterPurchase.ownedNftsMarket.length -
+        stateBeforePurchase.ownedNftsMarket.length;
 
       const expectedNfts =
         purchaseRequest.expectedRegularPriceNfts +
@@ -311,6 +314,7 @@ export class BuyBroxieStore {
 
     try {
       const tokenBalancePromise = this.getTokenWalletBalance();
+      const ownedNftsApiPromise = getOwnedNfts(this.everWallet.account.address);
 
       const marketRootContract = new this.everWallet.provider.Contract(
         marketAbi,
@@ -322,7 +326,7 @@ export class BuyBroxieStore {
           address: this.broxieStore.marketAddress,
         });
 
-      const { value0: ownedNfts } = await marketRootContract.methods
+      const { value0: ownedNftsMarket } = await marketRootContract.methods
         .nftsOf({ _user: this.everWallet.account.address })
         .call({ cachedState: contractState });
 
@@ -339,9 +343,11 @@ export class BuyBroxieStore {
       );
 
       const tokenBalance = await tokenBalancePromise;
+      const ownedNftsActual = await ownedNftsApiPromise;
 
       return {
-        ownedNfts: ownedNfts.map((x) => Number(x)),
+        ownedNftsActual: ownedNftsActual,
+        ownedNftsMarket: ownedNftsMarket.map((x) => Number(x)),
         discounts: Number(discount),
         token: this.broxieStore.isMarketInEver ? everBalance : tokenBalance,
       };

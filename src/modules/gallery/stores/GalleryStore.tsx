@@ -4,7 +4,6 @@ import { BroxieStore } from 'stores/BroxieStore';
 import { BuyBroxieStore } from 'stores/BuyBroxieStore';
 import { SingleSelectValue } from 'components/core/select/single-select';
 import { galleryFilterDefaultValues } from '../models/filters';
-import { getNftShiftedIndex } from 'utils/market';
 
 const itemsPerPage = 30;
 
@@ -119,13 +118,8 @@ export class GalleryStore {
   }));
 
   private get _ownedNfts(): BroxieNft[] {
-    const totalNft = this.broxieStore.marketInfo.nftTotal;
-    const startIndex = this.broxieStore.marketInfo.startIndex;
-
-    return this.buyBroxieStore.currentBalance.ownedNfts.map((id) => {
-      const shiftedIndex = getNftShiftedIndex(id, totalNft, startIndex) ?? id;
-
-      return this._collection[shiftedIndex];
-    });
+    return this.buyBroxieStore.currentBalance.ownedNftsActual.map(
+      (id) => this._collection[id]
+    );
   }
 }

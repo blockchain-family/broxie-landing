@@ -28,7 +28,7 @@ const PurchaseFormBalance = observer(() => {
           values={{
             ownedCount: (
               <span className='font-bold'>
-                {`${buyBroxieStore.currentBalance.ownedNfts.length} / ${broxieStore.marketInfo.nftPerHand}`}
+                {`${buyBroxieStore.currentBalance.ownedNftsMarket.length} / ${broxieStore.marketInfo.nftPerHand}`}
               </span>
             ),
           }}

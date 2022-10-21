@@ -61,7 +61,7 @@ const AccountState = observer(() => {
           </span>
           <span className='flex items-center space-x-1'>
             <span className='font-bold text-xl'>
-              {buyBroxieStore.currentBalance.ownedNfts.length}
+              {buyBroxieStore.currentBalance.ownedNftsActual.length}
             </span>
 
             <img
